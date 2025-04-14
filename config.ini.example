@@ -1,0 +1,5 @@
+[DATABASE]
+Host = localhost
+Username = p2000
+Password =
+Database = p2000

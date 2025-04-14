@@ -3,120 +3,208 @@ import sys
 import subprocess
 from datetime import datetime
 import mysql.connector
+import configparser
+import os
+from enum import Enum
 
-db = mysql.connector.connect(host='localhost', user='p2000', password='', database='p2000')
+class Message:
+    def __init__(self, message):
+        self.__rawMessage = message
+        self.__stringParts = message.split('|')
+        self.__isValid = True
 
-rtlfm = subprocess.Popen(['rtl_fm', '-f', '169.65M', '-M', 'fm', '-s', '22050', '-p', '83', '-g', '30'], stdout=subprocess.PIPE)
-multimon = subprocess.Popen(['multimon-ng', '-a', 'FLEX', '-t', 'raw', '/dev/stdin'], stdin=rtlfm.stdout, stdout=subprocess.PIPE)
-cursor = db.cursor()
+        if (self.__stringParts[0] != 'FLEX'):
+            self.__isValid = False
+            return
 
-for line in multimon.stdout:
-    lineStr = line.decode('utf-8')
-    stringParts = lineStr.split('|')
-    if stringParts[0] != 'FLEX':
-        continue
+        self.date = datetime.now()
+        self.capcodes = self.__stringParts[4]
+        self.capcodeList = self.capcodes.split(' ')
+        self.message = self.__stringParts[6].strip()
 
-    date = datetime.now()
-    try:
-        date = datetime.strptime(stringParts[1], '%Y-%m-%d %H:%M:%S')
-    except ValueError:
-        print('Invalid date format: ' + date)
-        continue
+        try:
+            self._date = datetime.strptime(self.__stringParts[1], '%Y-%m-%d %H:%M:%S')
+        except ValueError:
+            self.__isValid = False
+            return
 
-    capcodes = stringParts[4]
-    message = stringParts[6].strip()
+        if (
+            self.message.lower().startswith('test') or
+            self.message.strip() == ''
+        ):
+            self.__isValid = False
+            return
 
-    if (
-        message.lower().startswith('test') or
-        message.strip() == ''
-    ):
-        continue
+    def isValidMessage(self):
+        return self.__isValid
 
-    isAmbu = False
-    isBrnd = False
-    isPol = False
-    isGrip = False
+    def getEstimatedType(self, typeMapping={}):
+        type = ServiceType.UNKNOWN
+        if (len(typeMapping) > 0):
+            type = max(typeMapping, key=typeMapping.get)
+        elif (
+            self.message.startswith('A') or
+            self.message.startswith('B') or
+            ' MKA' in message.message
+        ):
+            type = ServiceType.AMBULANCE
+        elif (
+            self.message.lower().startswith('prio') or
+            self.message.startswith('P 1') or
+            self.message.startswith('P 2') or
+            self.message.startswith('P 3') or
+            self.message.startswith('P 4') or
+            self.message.startswith('P 5')
+        ):
+            type = ServiceType.FIREFIGHTER
+        elif (
+            'politie' in self.message.lower() or
+            'icnum' in self.message.lower()
+        ):
+            type = ServiceType.POLICE
 
-    capcodeList = capcodes.split(' ')
-    typeMapping = {}
-    capCodesMap = {}
-    for capcode in capcodeList:
-        capcode = capcode[-7:]
-        if int(capcode) > 2000000:
-            continue
+        if (
+            '000120901' in self.capcodeList or
+            '001420059' in self.capcodeList or
+            '000923993' in self.capcodeList
+        ):
+            type = ServiceType.HELICOPTER
 
-        capCodesMap[capcode] = ['onbekend', 'Onbekend', '']
-        cursor.execute("SELECT TYPE, DESCRIPTION, CITY FROM D_CAPCODE WHERE CAPCODE = %s", [capcode])
-        for entry in cursor:
-            if entry[0] not in typeMapping.keys():
-                typeMapping[entry[0]] = 0
+        if type == '' and 'ambu' in self.message.lower():
+            type = ServiceType.AMBULANCE
 
-            typeMapping[entry[0]] += 1
-            capCodesMap[capcode] = entry
+        return type
 
-    type = 'onbekend'
-    if (len(typeMapping) > 0):
-        type = max(typeMapping, key=typeMapping.get)
-    elif (
-               message.startswith('A') or
-        message.startswith('B') or
-        ' MKA' in message
-    ):
-        type = 'ambulance'
-    elif (
-        message.lower().startswith('prio') or
-        message.startswith('P 1') or
-        message.startswith('P 2') or
-        message.startswith('P 3') or
-        message.startswith('P 4') or
-        message.startswith('P 5')
-    ):
-        type = 'brandweer'
-    elif (
-        'politie' in message.lower() or
-        'icnum' in message.lower()
-    ):
-        type = 'politie'
+    def print(self, type, capcodes):
+        special = ''
+        if 'GRIP' in self.message:
+            special = 'grip'
 
-    if (
-        '000120901' in capcodeList or
-        '001420059' in capcodeList or
-        '000923993' in capcodeList
-    ):
-        type = 'heli'
+        startCode = self.__typeToColor(type)
 
-    if type == '' and 'ambu' in message.lower():
-        type = 'ambulance'
+        specialCode = ''
+        if special == 'grip':
+            specialCode = ';5'
 
-    special = ''
-    if 'GRIP' in message:
-        special = 'grip'
+        time = self.date.strftime('%Y-%m-%d %H:%M:%S')
+        output = f"""
+\033[{startCode}{specialCode}mWat:    {self.message}
+Tijd: {time}
+Wie:"""
+        print(output)
+        for key,entry in capcodes.items():
+            entryColor = self.__typeToColor(entry.type)
+            print (f"  \033[{entryColor}{specialCode}m{entry.capcode} ({entry.city}) {entry.description}")
+        print('\033[0m')
 
-    startCode = '0'
+    def __typeToColor(self, type):
+        color = 0
+        if type == ServiceType.HELICOPTER.value:
+            color = '35'
+        elif type == ServiceType.AMBULANCE.value:
+            color = '93'
+        elif type == ServiceType.FIREFIGHTER.value:
+            color = '31'
+        elif type == ServiceType.DARES.value:
+            color = '36'
+        elif type == ServiceType.POLICE.value:
+            color = '94'
+        elif type == ServiceType.KNRM.value or type == ServiceType.RESCUEBRIGADE.value:
+            color = '33'
+        elif type == ServiceType.CITY.value:
+            color = '32'
 
-    if type == 'heli':
-        startCode = '35'
-    elif type == 'ambulance':
-        startCode = '93'
-    elif type == 'brandweer':
-        startCode = '31'
-    elif type == 'dares':
-        startCode = '36'
-    elif type == 'politie':
-        startCode = '94'
-    elif type == 'knrm' or type == 'reddingsbrigade':
-        startCode = '33'
-    elif type == 'gemeente':
-        startCode = '32'
+        return color
 
-    if special == 'grip':
-        startCode += ';5'
+class Capcode:
+    def __init__(self, capcode, description, type, city, region):
+        self.capcode = capcode
+        self.description = description
+        self.type = type
+        self.city = city
+        self.region = region
 
-    print('\033[' + startCode + 'm\nWat:  ' + message)
-    print('Tijd: ' + date.strftime('%Y-%m-%d %H:%M:%S'))
-    print('Wie: ')
-    for capcode, entry in capCodesMap.items():
-        print ('  ' + capcode + ' (' + entry[2] + ') ' + entry[1])
+        if (self.type not in ServiceType._value2member_map_):
+            print('Invalid CAPCODE type')
 
-    print('\033[0m')
+class ServiceType(Enum):
+    UNKNOWN = 'unknown'
+    AMBULANCE = 'ambulance'
+    FIREFIGHTER = 'brandweer'
+    KNRM = 'knrm'
+    CITY = 'gemeente'
+    RESCUEBRIGADE = 'reddingsbrigade'
+    POLICE = 'politie'
+    DARES = 'dares'
+    HELICOPTER = 'helikopter'
 
+class P2000:
+    def __init__(self, config):
+        self.__config = config
+
+        databaseConf = config['DATABASE']
+        self.__db = mysql.connector.connect(
+            host=databaseConf.get('Host', 'localhost'),
+            user=databaseConf.get('Username', 'p2000'),
+            password=databaseConf.get('Password', ''),
+            database=databaseConf.get('Database', 'p2000'),
+        )
+
+        self.__dbCursor = self.__db.cursor()
+
+    def startListening(self):
+        rtlfm = subprocess.Popen(['rtl_fm', '-f', '169.65M', '-M', 'fm', '-s', '22050', '-p', '83', '-g', '30'], stdout=subprocess.PIPE)
+        multimon = subprocess.Popen(['multimon-ng', '-a', 'FLEX', '-t', 'raw', '/dev/stdin'], stdin=rtlfm.stdout, stdout=subprocess.PIPE)
+
+        for line in multimon.stdout:
+            lineStr = line.decode('utf-8')
+            message = Message(lineStr)
+
+            if message.isValidMessage() == False:
+                continue
+
+            typeMapping = {}
+            capcodes = {}
+            for capcode in message.capcodes.split(' '):
+                capcode = capcode[-7:]
+                # Capcodes larger than 2000000 are usually monitoring groups so they can be ignores
+                if int(capcode) > 2000000:
+                    continue
+
+                self.__dbCursor.execute("""
+                    SELECT
+                        c.CAPCODE,
+                        c.DESCRIPTION,
+                        c.TYPE,
+                        c.CITY,
+                        r.NAME
+                    FROM D_CAPCODE c
+                    LEFT JOIN D_REGION r ON c.FK_REGION = r.PK_REGION
+                    WHERE c.CAPCODE = %s""",
+                    [capcode]
+                )
+
+                found = False
+                columns = [col[0] for col in self.__dbCursor.description]
+                for entry in self.__dbCursor:
+                    found = True
+                    entry = dict(zip(columns, entry))
+                    capcode = Capcode(entry['CAPCODE'], entry['DESCRIPTION'], entry['TYPE'], entry['CITY'], entry['NAME'])
+                    capcodes[capcode] = capcode
+                    if capcode.type not in typeMapping.keys():
+                        typeMapping[capcode.type] = 0
+
+                    typeMapping[capcode.type] += 1
+
+                if found == False:
+                    capcodes[capcode] = Capcode(capcode, 'Onbekend', 'Onbekend', '', '')
+
+            type = message.getEstimatedType(typeMapping)
+            message.print(type, capcodes)
+
+if __name__ == '__main__':
+    config = configparser.ConfigParser()
+    config.read(os.path.dirname(os.path.realpath(__file__)) + '/config.ini')
+
+    p2000 = P2000(config);
+    p2000.startListening()

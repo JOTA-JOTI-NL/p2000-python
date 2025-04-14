@@ -32,5 +32,7 @@ blacklist rtl2832
 blacklist rtl2830  
 ```
 
-Update p2000.py to make use of your created user and start p2000.py to show the messages in a nice
-format!
+Create a `config.ini` file in the same dir as p2000.py and set the database credentials in there
+(see `config.ini.example` as a base of what fields can be set)
+
+Lastly, start p2000.py to show the messages in a nice format!
