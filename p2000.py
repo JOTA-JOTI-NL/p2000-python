@@ -50,11 +50,7 @@ class Message:
             type = ServiceType.AMBULANCE
         elif (
             self.message.lower().startswith('prio') or
-            self.message.startswith('P 1') or
-            self.message.startswith('P 2') or
-            self.message.startswith('P 3') or
-            self.message.startswith('P 4') or
-            self.message.startswith('P 5')
+            self.message.startswith('P')
         ):
             type = ServiceType.FIREFIGHTER
         elif (
@@ -63,14 +59,11 @@ class Message:
         ):
             type = ServiceType.POLICE
 
-        if (
-            '000120901' in self.capcodeList or
-            '001420059' in self.capcodeList or
-            '000923993' in self.capcodeList
-        ):
-            type = ServiceType.HELICOPTER
+        for capcode in self.capcodeList:
+            if capcode in ['0120901', '1420059', '0923993']:
+                type = ServiceType.HELICOPTER
 
-        if type == '' and 'ambu' in self.message.lower():
+        if type == ServiceType.UNKNOWN and 'ambu' in self.message.lower():
             type = ServiceType.AMBULANCE
 
         return type
@@ -87,8 +80,7 @@ class Message:
             specialCode = ';5'
 
         time = self.date.strftime('%Y-%m-%d %H:%M:%S')
-        output = f"""
-\033[{startCode}{specialCode}mWat:    {self.message}
+        output = f"""\033[{startCode}{specialCode}mWat:  {self.message}
 Tijd: {time}
 Wie:"""
         print(output)
@@ -124,8 +116,11 @@ class Capcode:
         self.city = city
         self.region = region
 
+        if capcode in ['0120901', '1420059', '0923993']:
+            self.type = ServiceType.HELICOPTER.value
+
         if (self.type not in ServiceType._value2member_map_):
-            print('Invalid CAPCODE type')
+            print('Invalid CAPCODE type: ' + self.type)
 
 class ServiceType(Enum):
     UNKNOWN = 'unknown'
@@ -197,7 +192,7 @@ class P2000:
                     typeMapping[capcode.type] += 1
 
                 if found == False:
-                    capcodes[capcode] = Capcode(capcode, 'Onbekend', 'Onbekend', '', '')
+                    capcodes[capcode] = Capcode(capcode, 'Onbekend', ServiceType.UNKNOWN.value, '', '')
 
             type = message.getEstimatedType(typeMapping)
             message.print(type, capcodes)
