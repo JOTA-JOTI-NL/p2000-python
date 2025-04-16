@@ -1,0 +1,450 @@
+capcode,discipline,locatie/divisie,beschrijving
+1002000,BRW,Baarlo,Kazernetechniek
+1002001,BRW,Baarlo,PreCom Telling TS
+1002005,BRW,Baarlo,Interregionale alarmering via MKOB 's-Hertogenbosch
+1002007,BRW,Baarlo,Bezetting TS
+1002018,BRW,Baarlo,Monitorcode
+1002019,BRW,Baarlo,Bevelvoerder van Dienst
+1002020,BRW,Belfeld,Kazernetechniek
+1002021,BRW,Belfeld,PreCom Telling TS
+1002027,BRW,Belfeld,Ploeg 1
+1002028,BRW,Belfeld,Ploeg 2
+1002038,BRW,Belfeld,Monitorcode
+1002039,BRW,Belfeld,Bevelvoerder van Dienst
+1002040,BRW,Bergen,Kazernetechniek
+1002041,BRW,Bergen,PreCom Telling TS
+1002042,BRW,Bergen,PreCom Telling HA
+1002043,BRW,Bergen,PreCom Telling OR
+1002045,BRW,Bergen,PreCom Telling HV
+1002046,BRW,Bergen,PreCom Telling Schippers
+1002047,BRW,Bergen,Ploeg 1
+1002048,BRW,Bergen,Ploeg 2
+1002049,BRW,Bergen,Ploeg 3
+1002050,BRW,Bergen,Specialistische Hulpverlenings Eenheid Ploeg 1
+1002051,BRW,Bergen,Specialistische Hulpverlenings Eenheid Ploeg 2
+1002053,BRW,Bergen,Oppervlaktewater Redteam
+1002054,BRW,Bergen,Schippers
+1002056,BRW,Bergen,PreCom Telling VKE
+1002058,BRW,Bergen,Monitorcode
+1002059,BRW,Bergen,Bevelvoerder van Dienst
+1002060,BRW,Echt,Kazernetechniek
+1002061,BRW,Echt,PreCom Telling TS
+1002063,BRW,Echt,PreCom Telling HV
+1002064,BRW,Echt,PreCom Telling VKE
+1002067,BRW,Echt,Ploeg 1
+1002068,BRW,Echt,Ploeg 2
+1002070,BRW,Echt,Specialistische Hulpverlenings Eenheid Ploeg 1
+1002071,BRW,Echt,Specialistische Hulpverlenings Eenheid Ploeg 2
+1002074,BRW,Echt-Susteren,Burgemeester
+1002078,BRW,Echt,Monitorcode
+1002079,BRW,Echt,Bevelvoerder van Dienst
+1002080,BRW,Gennep,Kazernetechniek
+1002081,BRW,Gennep,PreCom Telling TS
+1002082,BRW,Gennep,PreCom Telling WTH
+1002083,BRW,Gennep,PreCom Telling BRV
+1002085,BRW,Gennep,PreCom Telling VKE
+1002087,BRW,Gennep,Ploeg 1
+1002088,BRW,Gennep,Ploeg 2
+1002090,BRW,Gennep,Bezetting WTH Ploeg 1
+1002091,BRW,Gennep,Bezetting WTH Ploeg 2
+1002093,BRW,Gennep,Schippers
+1002098,BRW,Gennep,Monitorcode
+1002099,BRW,Gennep,Bevelvoerder van Dienst
+1002100,BRW,Heythuysen,Kazernetechniek
+1002101,BRW,Heythuysen,PreCom Telling TS
+1002102,BRW,Heythuysen,PreCom Telling HA
+1002103,BRW,Heythuysen,PreCom Telling Transportploeg COH
+1002104,BRW,Heythuysen,PreCom Telling NBH
+1002105,BRW,Heythuysen,PreCom Telling VZH
+1002106,BRW,Heythuysen,PreCom Telling VKE
+1002107,BRW,Heythuysen,Ploeg 1
+1002108,BRW,Heythuysen,Ploeg 2
+1002109,BRW,Heythuysen,Bezetting HA Ploeg 1
+1002110,BRW,Heythuysen,Bezetting HA Ploeg 2
+1002111,BRW,Heythuysen,Transportploeg COH Ploeg 1
+1002112,BRW,Heythuysen,Transportploeg COH Ploeg 2
+1002113,BRW,Heythuysen,Bezetting NBH Ploeg 1
+1002114,BRW,Heythuysen,Bezetting NBH Ploeg 2
+1002115,BRW,Heythuysen,Bezetting VZH Ploeg 1
+1002116,BRW,Heythuysen,Bezetting VZH Ploeg 2
+1002118,BRW,Heythuysen,Monitorcode
+1002119,BRW,Heythuysen,Bevelvoerder van Dienst
+1002120,BRW,Horst,Kazernetechniek
+1002121,BRW,Horst,PreCom Telling TS
+1002122,BRW,Horst,PreCom Telling COH
+1002123,BRW,Horst,PreCom Telling WTH
+1002124,BRW,Cluster Venray,PreCom Telling VZP
+1002125,BRW,Horst,PreCom Telling LAC
+1002126,BRW,Horst,PreCom Telling DB
+1002127,BRW,Horst,Ploeg 1
+1002128,BRW,Horst,Ploeg 2
+1002130,BRW,Horst,Bezetting WTH Ploeg 1
+1002131,BRW,Horst,Bezetting WTH Ploeg 2
+1002133,BRW,Horst,Plotters CoPI Noord
+1002134,BRW,Cluster Venray,Verzorgingsploeg
+1002138,BRW,Horst,Monitorcode
+1002139,BRW,Horst,Bevelvoerder van Dienst
+1002140,BRW,Ittervoort,Kazernetechniek
+1002141,BRW,Ittervoort,PreCom Telling TS
+1002142,BRW,Ittervoort,PreCom Telling Ondersteuners COH-B
+1002143,BRW,Ittervoort,PreCom Telling Ondersteuners GW
+1002144,BRW,Ittervoort,PreCom Telling HA
+1002147,BRW,Ittervoort,Bezetting TS Ploeg 1
+1002148,BRW,Ittervoort,Bezetting TS Ploeg 2
+1002150,BRW,Ittervoort,Chauffers HA Ploeg 1
+1002151,BRW,Ittervoort,Chauffers HA Ploeg 2
+1002154,BRW,Ittervoort,Ondersteuners COH-B
+1002158,BRW,Ittervoort,Monitorcode
+1002159,BRW,Ittervoort,Bevelvoerder van Dienst
+1002160,BRW,Grathem,Kazernetechniek
+1002161,BRW,Grathem,PreCom Telling TS
+1002163,BRW,Grathem,PreCom Telling Handcrew
+1002167,BRW,Grathem,Postalarm
+1002170,BRW,Grathem,Handcrew
+1002178,BRW,Grathem,Monitorcode
+1002179,BRW,Grathem,Bevelvoerder van Dienst
+1002180,BRW,Kessel,Kazernetechniek
+1002181,BRW,Kessel,PreCom Telling TS
+1002187,BRW,Kessel,Postalarm
+1002198,BRW,Kessel,Monitorcode
+1002199,BRW,Kessel,Bevelvoerder van Dienst
+1002200,BRW,Lomm,Kazernetechniek
+1002201,BRW,Lomm,PreCom Telling TS
+1002202,BRW,Lomm,PreCom Telling Verzorgingsploeg
+1002207,BRW,Lomm,Bezetting TS
+1002209,BRW,Lomm,Verzorgingsploeg
+1002218,BRW,Lomm,Monitorcode
+1002219,BRW,Lomm,Bevelvoerder van Dienst
+1002220,BRW,Lottum,Kazernetechniek
+1002221,BRW,Lottum,PreCom Telling TS
+1002222,BRW,Lottum,PreCom Telling BRV
+1002227,BRW,Lottum,Postalarm
+1002229,BRW,Lottum,Schippers
+1002238,BRW,Lottum,Monitorcode
+1002239,BRW,Lottum,Bevelvoerder van Dienst
+1002240,BRW,Maasbree,Kazernetechniek
+1002241,BRW,Maasbree,PreCom Telling TS
+1002242,BRW,Maasbree,PreCom Telling VKE
+1002247,BRW,Maasbree,Bezetting TS
+1002258,BRW,Maasbree,Monitorcode
+1002259,BRW,Maasbree,Bevelvoerder van Dienst
+1002260,BRW,Meerlo,Kazernetechniek
+1002261,BRW,Meerlo,PreCom Telling TS
+1002262,BRW,Meerlo,PreCom Telling BRV
+1002263,BRW,Meerlo,PreCom Telling VKE
+1002267,BRW,Meerlo,Bezetting TS
+1002269,BRW,Meerlo,Schippers
+1002278,BRW,Meerlo,Monitorcode
+1002279,BRW,Meerlo,Bevelvoerder van Dienst
+1002280,BRW,Meijel,Kazernetechniek
+1002281,BRW,Meijel,PreCom Telling TS
+1002282,BRW,Meijel,PreCom Telling VKE
+1002283,BRW,Meijel,PreCom Telling Team Digitale Verkenning
+1002287,BRW,Meijel,Postalarm
+1002290,BRW,Meijel,Team Digitale Verkenning
+1002298,BRW,Meijel,Monitorcode
+1002299,BRW,Meijel,Bevelvoerder van Dienst
+1002300,BRW,Montfort,Kazernetechniek
+1002301,BRW,Montfort,PreCom Telling TS
+1002307,BRW,Montfort,Postalarm
+1002318,BRW,Montfort,Monitorcode
+1002319,BRW,Montfort,Bevelvoerder van Dienst
+1002320,BRW,Mook,Kazernetechniek
+1002321,BRW,Mook,PreCom Telling TS
+1002322,BRW,Mook,PreCom Telling BRV
+1002327,BRW,Mook,Ploeg A
+1002328,BRW,Mook,Ploeg B
+1002329,BRW,Mook,Schippers
+1002338,BRW,Mook,Monitorcode
+1002339,BRW,Mook,Bevelvoerder van Dienst
+1002340,BRW,Nederweert,Kazernetechniek
+1002341,BRW,Nederweert,PreCom Telling TS
+1002342,BRW,Nederweert,PreCom Telling HV
+1002343,BRW,Nederweert,PreCom Telling VZH
+1002344,BRW,Nederweert,PreCom Telling BRV
+1002345,BRW,Nederweert,PreCom Telling VKE
+1002347,BRW,Nederweert,Ploeg 1
+1002348,BRW,Nederweert,Ploeg 2
+1002349,BRW,Nederweert,Ploeg 3
+1002350,BRW,Nederweert,Specialistische Hulpverlenings Eenheid Ploeg 1
+1002351,BRW,Nederweert,Specialistische Hulpverlenings Eenheid Ploeg 2
+1002352,BRW,Nederweert,Specialistische Hulpverlenings Eenheid Ploeg 3
+1002353,BRW,Nederweert,Verzorgingsploeg
+1002354,BRW,Nederweert,Schippers Ploeg 1
+1002355,BRW,Nederweert,Schippers Ploeg 2
+1002356,BRW,Nederweert,Schippers Ploeg 3
+1002358,BRW,Nederweert,Monitorcode
+1002359,BRW,Nederweert,Bevelvoerder van Dienst
+1002360,BRW,Panningen,Kazernetechniek
+1002361,BRW,Panningen,PreCom Telling TS
+1002363,BRW,Panningen,PreCom Telling HV
+1002364,BRW,Panningen,PreCom Telling WTH
+1002367,BRW,Panningen,Bezetting TS Ploeg 1
+1002368,BRW,Panningen,Bezetting TS Ploeg 2
+1002370,BRW,Panningen,Specialistische Hulpverlenings Eenheid Ploeg 1
+1002371,BRW,Panningen,Specialistische Hulpverlenings Eenheid Ploeg 2
+1002373,BRW,Panningen,Bezetting WTH Ploeg 1
+1002374,BRW,Panningen,Bezetting WTH Ploeg 2
+1002378,BRW,Panningen,Monitorcode
+1002379,BRW,Panningen,Bevelvoerder van Dienst
+1002380,BRW,Reuver,Kazernetechniek
+1002381,BRW,Reuver,PreCom Telling TS
+1002387,BRW,Reuver,Ploeg 1
+1002388,BRW,Reuver,Ploeg 2
+1002398,BRW,Reuver,Monitorcode
+1002399,BRW,Reuver,Bevelvoerder van Dienst
+1002400,BRW,Roermond Beroeps,Kazernetechniek
+1002401,BRW,Roermond,PreCom Telling Herbezetting
+1002402,BRW,Roermond,PreCom Telling OR
+1002403,BRW,Roermond Vrijwilligers,PreCom Telling TS
+1002405,BRW,Roermond,PreCom Telling BRV-K
+1002406,BRW,Roermond,PreCom Telling VZK
+1002408,BRW,Roermond,PreCom Telling VKE
+1002416,BRW,Roermond Beroeps,24-uursdienst
+1002417,BRW,Roermond,Herbezetting Ploeg 1
+1002418,BRW,Roermond,Herbezetting Ploeg 2
+1002419,BRW,Roermond,Herbezetting Ploeg 3
+1002420,BRW,Roermond,Herbezetting Ploeg 4
+1002421,BRW,Roermond Vrijwilligers,Ploeg 1
+1002422,BRW,Roermond Vrijwilligers,Ploeg 2
+1002423,BRW,Roermond Vrijwilligers,Ploeg 3
+1002426,BRW,Roermond,Bezetting BRV-K
+1002445,BRW,Roermond Vrijwilligers,Kazernetechniek
+1002446,BRW,Roermond Beroeps,Vrije Bevelvoerder
+1002447,BRW,Roermond Vrijwilligers,Monitorcode
+1002448,BRW,Roermond,Bevelvoerder 2
+1002449,BRW,Roermond,Bevelvoerder 1
+1002450,BRW,Roggel,Kazernetechniek
+1002451,BRW,Roggel,PreCom Telling TS
+1002457,BRW,Roggel,Ploeg 1
+1002458,BRW,Roggel,Ploeg 2
+1002468,BRW,Roggel,Monitorcode
+1002469,BRW,Roggel,Bevelvoerder van Dienst
+1002470,BRW,Sevenum,Kazernetechniek
+1002471,BRW,Sevenum,PreCom Telling TS
+1002477,BRW,Sevenum,Postalarm
+1002488,BRW,Sevenum,Monitorcode
+1002489,BRW,Sevenum,Bevelvoerder van Dienst
+1002490,BRW,Stevensweert,Kazernetechniek
+1002491,BRW,Stevensweert,PreCom Telling TS
+1002497,BRW,Stevensweert,Postalarm
+1002508,BRW,Stevensweert,Monitorcode
+1002509,BRW,Stevensweert,Bevelvoerder van Dienst
+1002510,BRW,Stramproy,Kazernetechniek
+1002511,BRW,Stramproy,PreCom Telling TS
+1002512,BRW,Stramproy,PreCom Telling VKE
+1002517,BRW,Stramproy,Postalarm
+1002528,BRW,Stramproy,Monitorcode
+1002529,BRW,Stramproy,Bevelvoerder van Dienst
+1002530,BRW,Susteren,Kazernetechniek
+1002531,BRW,Susteren,PreCom Telling TS
+1002532,BRW,Susteren,PreCom Telling WTH
+1002533,BRW,Susteren,PreCom Telling VK-GS
+1002537,BRW,Susteren,Bezetting TS Ploeg 1
+1002538,BRW,Susteren,Bezetting TS Ploeg 2
+1002540,BRW,Susteren,Bezetting HA + WTH Ploeg 1
+1002541,BRW,Susteren,Bezetting HA + WTH Ploeg 2
+1002548,BRW,Susteren,Monitorcode
+1002549,BRW,Susteren,Bevelvoerder van Dienst
+1002550,BRW,Venlo,Kazernetechniek
+1002551,BRW,Venlo,PreCom Telling Herbezetting
+1002552,BRW,Venlo,PreCom Telling BRV-K
+1002553,BRW,Venlo Vrijwilligers,PreCom Telling TS
+1002555,BRW,Venlo,Lokaal afhandelen (Telling Precom)
+1002556,BRW,Venlo,PreCom Telling HA
+1002566,BRW,Venlo Beroeps,24-uursdienst
+1002567,BRW,Venlo Beroeps,Herbezetting Ploeg 1
+1002568,BRW,Venlo Beroeps,Herbezetting Ploeg 2
+1002569,BRW,Venlo Beroeps,Herbezetting Ploeg 3
+1002570,BRW,Venlo Beroeps,Herbezetting Ploeg 4
+1002571,BRW,Venlo,Vrijwilligers
+1002596,BRW,Venlo Vrijwilligers,Kazernetechniek
+1002597,BRW,Venlo Vrijwilligers,Monitorcode
+1002598,BRW,Venlo Vrijwilligers,Bevelvoerders van dienst
+1002599,BRW,Venlo Beroeps,Bevelvoerders van dienst
+1002600,BRW,Venray,Kazernetechniek
+1002601,BRW,Venray,PreCom Telling 1e TS
+1002602,BRW,Venray,PreCom Telling 2e TS
+1002604,BRW,Venray,PreCom Telling AL
+1002605,BRW,Nederweert,PreCom Telling ON-HV
+1002606,BRW,Venray,PreCom Telling 1e HA
+1002607,BRW,Venray,PreCom Telling 2e HA
+1002609,BRW,Venray,PreCom Telling DPH
+1002618,BRW,Venray,Ploeg 1
+1002619,BRW,Venray,Ploeg 2
+1002620,BRW,Venray,Ploeg 3
+1002621,BRW,Venray,Ploeg 4
+1002622,BRW,Venray,Chauffeurs Ploeg 1
+1002623,BRW,Venray,Chauffeurs Ploeg 2
+1002624,BRW,Venray,Chauffeurs Ploeg 3
+1002625,BRW,Venray,Chauffeurs Ploeg 4
+1002633,BRW,Venray,Dagondersteuning
+1002635,BRW,Venray,Bezetting SI-DS
+1002648,BRW,Venray,Monitorcode
+1002649,BRW,Venray,Bevelvoerder van Dienst
+1002650,BRW,Weert,Kazernetechniek
+1002651,BRW,Weert,PreCom Telling 1e TS
+1002652,BRW,Weert,PreCom Telling 2e TS
+1002655,BRW,Weert,PreCom Telling AL
+1002656,BRW,Weert,PreCom Telling WO
+1002657,BRW,Weert,PreCom Telling BRV
+1002658,BRW,Weert,PreCom Telling VZP
+1002661,BRW,Weert,PreCom Telling HA
+1002666,BRW,Weert,Ploeg 1
+1002667,BRW,Weert,Ploeg 2
+1002668,BRW,Weert,Ploeg 3
+1002670,BRW,Weert,Bezetting HA+WTH Ploeg 1
+1002671,BRW,Weert,Bezetting HA+WTH Ploeg 2
+1002672,BRW,Weert,Bezetting HA+WTH Ploeg 3
+1002681,BRW,Weert,Beroeps Kazernedienst
+1002683,BRW,Weert,Duikersploeg
+1002684,BRW,Weert,Schippers
+1002685,BRW,Weert,Verzorgingsploeg
+1002686,BRW,Weert,Bezetting SI-UHD
+1002698,BRW,Weert,Monitorcode
+1002699,BRW,Weert,Bevelvoerder van Dienst
+1002700,BRW,Wessem,Kazernetechniek
+1002701,BRW,Wessem,PreCom Telling TS
+1002702,BRW,Wessem,PreCom Telling BRV
+1002707,BRW,Wessem,Postalarm
+1002709,BRW,Wessem,Schippers
+1002718,BRW,Wessem,Monitorcode
+1002719,BRW,Wessem,Bevelvoerder van Dienst
+1002721,BRW,Horst,Bezetting LAC
+1002722,BRW,Roermond,Bezetting LAC
+1002723,BRW,Venlo,Bezetting LAC
+1002725,BRW,Gennep,Bezetting LAC
+1002726,BRW,Horst,Bezetting LAC
+1002727,BRW,Roermond,Bezetting LAC
+1002728,BRW,Venlo,Bezetting LAC
+1002729,BRW,Weert,Bezetting LAC
+1002730,BRW,Cluster Roermond,OvD (Infocode)
+1002731,BRW,Cluster Venlo,OvD (Infocode)
+1002732,BRW,Cluster Venray,OvD (Infocode)
+1002733,BRW,Cluster Weert,OvD (Infocode)
+1002734,BRW,Cluster Roermond,OvD`s (Groepscode)
+1002735,BRW,Cluster Venlo,OvD`s (Groepscode)
+1002736,BRW,Cluster Venray,OvD`s (Groepscode)
+1002737,BRW,Cluster Weert,OvD`s (Groepscode)
+1002746,BRW,Cluster Roermond,OvD
+1002747,BRW,Cluster Venlo,OvD
+1002748,BRW,Cluster Venray,OvD
+1002749,BRW,Cluster Weert,OvD
+1002750,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1002751,BRW,Regionaal,CVE IBGS (Infocode)
+1002752,BRW,Regionaal,CVE IBGS (Alarmcode)
+1002753,BRW,Regionaal,Adviseur Gevaarlijke Stoffen - ROT
+1002754,BRW,Regionaal,Geo Informatie Medewerker-Meetplanorganisatie
+1002760,BRW,Bergen,Verkenningseenheid
+1002762,BRW,Gennep,Verkenningseenheid
+1002763,BRW,Heythuysen,Verkenningseenheid
+1002764,BRW,Maasbree,Verkenningseenheid
+1002765,BRW,Meerlo,Verkenningseenheid
+1002766,BRW,Meijel,Verkenningseenheid
+1002767,BRW,Nederweert,Verkenningseenheid
+1002768,BRW,Roermond,Verkenningseenheid
+1002769,BRW,Stramproy,Verkenningseenheid
+1002772,BRW,Susteren,Verkenningseenheid IBGS
+1002778,BRW,Venray,PreCom Telling Team Digitale Verkenning
+1002779,BRW,Venray,Team Digitale Verkenning
+1002780,BRW,Regionaal,HOvD Noord
+1002781,BRW,Regionaal,HOvD Midden
+1002782,BRW,Regionaal,HOvD's (Groepscode)
+1002783,BRW,Regionaal,Commandant van Dienst
+1002784,BRW,Regionaal,Team Brandonderzoek
+1002787,BRW,Regionaal,Team Collegiale Ondersteuning
+1002788,BRW,Regionaal,Bevelvoerder Specialistische Brandbestrijdingseenheid (Infocode)
+1002796,BRW,BRW Kreis Heinsberg (D),Gemeinde Selfkant - Löscheinheit Höngen-Saeffelen
+1002798,BRW,Regionaal,Regionaal Duikcoordinator
+1002799,BRW,Regionaal,Infocode/Proefalarm
+1002800,BRW,Regionaal,GRIP 1
+1002801,BRW,Regionaal,GRIP 2
+1002802,BRW,Regionaal,GRIP 3
+1002805,BRW,Regionaal,GEO Informatiemedewerker (Noord)
+1002806,BRW,Regionaal,GEO Informatiemanager CoPI (Midden)
+1002807,BRW,Regionaal,Leider CoPI (Noord)
+1002808,BRW,Regionaal,Leider CoPI (Midden)
+1002809,BRW,Regionaal,Regionaal Operationeel Leider
+1002810,BRW,Regionaal,Informatiemanager CoPI (Noord)
+1002811,BRW,Regionaal,Informatiemanager CoPI (Midden)
+1002812,BRW,Regionaal,Informatiecoordinator ROT
+1002813,BRW,Regionaal,GEO Informatiemanager ROT
+1002814,BRW,Regionaal,Informatiemanager BT
+1002815,BRW,Regionaal,Informatiemanager ROT
+1002821,BRW,Regionaal,Specialist Natuurbrandbestrijding
+1002822,BRW,Regionaal,Regionaal Militair Operationeel Adviseur
+1002825,BRW,Regionaal,Waterschap Limburg
+1002828,BRW,Regionaal,Informatiemanager CoPI (Noord)
+1002829,BRW,Regionaal,Informatiemanager CoPI (Midden)
+1002861,BRW,Regionaal,ICT
+1002862,BRW,Regionaal,Hoofd Veiligheid Grootschalig Evenement
+1002863,BRW,Regionaal,Hoofd Veiligheid Grootschalig Evenement
+1002864,BRW,Regionaal,Hoofd Veiligheid Grootschalig Evenement
+1002865,BRW,Regionaal,Hoofd Veiligheid Grootschalig Evenement
+1002866,BRW,Regionaal,Hoofd Veiligheid Grootschalig Evenement
+1002870,BRW,Regionaal,Woordvoerder Noord (Alarmcode)
+1002871,BRW,Regionaal,Woordvoerder Midden (Alarmcode)
+1002872,BRW,Cluster Roermond,OvD-Bevolkingszorg
+1002873,BRW,Cluster Venlo,OvD Bevolkingszorg
+1002874,BRW,Cluster Venray,OvD Bevolkingszorg
+1002875,BRW,Cluster Weert,OvD Bevolkingszorg
+1002876,BRW,Regionaal,Medewerker Sectie Bevolkingszorg
+1002877,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+1002878,BRW,Regionaal,Hoofd Taakorganisatie Informatiemanager
+1002879,BRW,Regionaal,Voorzitter Team Bevolkingszorg
+1002880,BRW,Regionaal,Woordvoerder Noord (Infocode
+1002881,BRW,Regionaal,Woordvoerder Midden (Infocode)
+1002886,BRW,Regionaal,Omgevingsanalist Crisiscommunicatie
+1002887,BRW,Regionaal,Medewerker Crisiscommunicatie ROT
+1002888,BRW,Regionaal,Hoofd taakorganisatie Crisiscommunicatie
+1002889,BRW,Regionaal,Adviseur Crisiscommunicatie ROT
+1002918,BRW,Regionaal,Communicatie Adviseur RBT
+1002919,BRW,Regionaal,Adviseur Bevolkingszorg RBT
+1002931,BRW,MKB Oost-Brabant,Infocode MKB Limburg
+1002932,BRW,MKB Oost-Nederland,Infocode MKB Limburg
+1020175,AMBU,AmbulanceZorg Limburg,Rapid Responder
+1020178,AMBU,GHOR Limburg-Noord,OVD-G Noord
+1020179,AMBU,GHOR Limburg-Noord,OVD-G Midden
+1020186,AMBU,AmbulanceZorg Limburg,Parate Ambulance Kelpen
+1020187,AMBU,AmbulanceZorg Limburg,Parate Ambulance Herten
+1020198,AMBU,AmbulanceZorg Limburg,Bergen 24 uurs dienst
+1020270,AMBU,GHOR Limburg-Noord,Algemeen Commandant Geneeskundige Zorg
+1020271,AMBU,MKA Limburg-Noord,HIN / HON (HAc)
+1020272,AMBU,MKA Limburg-Noord,Geneeskundig Adviseur RBT
+1020273,AMBU,MKA Limburg-Noord,Leider Kernteam PSHOR
+1020360,AMBU,NRK Limburg-Noord,Proefalarm
+1020361,AMBU,NRK Noodhulp Team,UGS Roermond
+1020362,AMBU,NRK Noodhulp Team,UGS Weert
+1020363,AMBU,NRK Noodhulp Team,UGS Venlo
+1020364,AMBU,NRK Noodhulp Team,UGS Venray
+1020365,AMBU,NRK Noodhulp Team,UGS Sevenum
+1020597,AMBU,GHOR Limburg-Noord,OvD-G Evenementen Cluster Weert
+1020598,AMBU,GHOR Limburg-Noord,OvD-G Evenementen Cluster Venlo
+1020599,AMBU,MKA Limburg,Evenementencode
+1020600,AMBU,MKA Limburg,Evenementencode
+1020999,AMBU,Regionaal,Proefalarm
+1030210,POL,Poitie Eenheid Limburg,HOvD-P
+1030211,POL,Poitie Eenheid Limburg,Staf SGBO
+1030219,POL,Poitie Eenheid Limburg,Algemeen Commandant
+1030220,POL,Poitie Eenheid Limburg,Hoofd Informatie
+1030221,POL,Poitie Eenheid Limburg,Hoofd Ondersteuning
+1030222,POL,Poitie Eenheid Limburg,Hoofd Ordehandhaving
+1030223,POL,Poitie Eenheid Limburg,Hoofd Opsporing
+1030224,POL,Poitie Eenheid Limburg,Hoofd Communicatie
+1030225,POL,Poitie Eenheid Limburg,SGBO
+1030226,POL,Poitie Eenheid Limburg,SGBO
+1030228,POL,Poitie Eenheid Limburg,Hoofd Mobiliteit
+1030231,POL,Poitie Eenheid Limburg,Hoofd interventies
+1030232,POL,Poitie Eenheid Limburg,Hoofd Handhaven Netwerken
+1030233,POL,Poitie Eenheid Limburg,OvD-Specialisme
+1030238,POL,Poitie Eenheid Limburg,Zedenpolitie Midden
+1030239,POL,Poitie Eenheid Limburg,Zedenpolitie Noord
+1030250,POL,Poitie Eenheid Limburg,Team Tactische Ondersteuning Verkeersongevallen
+1030260,POL,Poitie Eenheid Limburg,OvD Recherche Noord
+1030280,POL,Poitie Eenheid Limburg,Coördinator Regionale Informatie Organisatie
+1030303,POL,Poitie Eenheid Limburg,BHV Basisteam Venlo
+1030305,POL,Poitie Eenheid Limburg,BHV Basisteam Horst
+1030309,POL,Poitie Eenheid Limburg,BHV van Dienst Roermond
+1030313,POL,Poitie Eenheid Limburg,BHV Basisteam Westelijke Mijnstreek
+1030316,POL,Poitie Eenheid Limburg,BHV GMK Limburg (MCC)
+1030319,POL,Poitie Eenheid Limburg,BHV Basisteam Heerlen

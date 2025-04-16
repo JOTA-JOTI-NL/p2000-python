@@ -1,0 +1,181 @@
+capcode,discipline,locatie/divisie,beschrijving
+0700000,BRW,MKB,Proefalarm
+0700001,BRW,OCB Midden-Nederland,Monitorcode Flevoland/Gooi en Vechtstreek
+0700002,KNRM,KNRM Flevoland,Monitorcode
+0700011,BRW,Regionaal,OvD Noord (Alarmcode)
+0700013,BRW,Regionaal,OvD Midden (Alarmcode)
+0700014,BRW,Regionaal,HOvD / TaakCommandant (Alarmcode)
+0700017,BRW,Regionaal,RCvD (Alarmcode)
+0700021,BRW,Regionaal,Voorlichting (Piket)
+0700025,BRW,Lelystad,Logistiek (Piketgroep)
+0700026,BRW,Lelystad,Logistiek (groepscode)
+0700027,BRW,Regionaal,OvD Midden (Infocode)
+0700029,BRW,Regionaal,OvD Noord (Infocode)
+0700030,BRW,Regionaal,HOvD (Infocode)
+0700037,BRW,Regionaal,Team Brandonderzoek
+0700038,BRW,Regionaal,TCO Coordinator
+0700045,BRW,Flevoland/Gooi en Vechtstreek,Calamiteiten Coördinator (Alarmcode)
+0700054,BRW,Ens,Verkenningseenheid
+0700062,MKA,Flevoland/Gooi en Vechtstreek,Piketcentralist
+0700063,BRW,Lelystad,Bezetting COH-MU
+0700076,BRW,Urk,Duikploeg
+0700101,BRW,Almere-Poort,Postalarm
+0700102,BRW,Almere-Veluwsekant,Kazernealarm noodprocedure
+0700104,BRW,Almere-Poort,Kazernealarm noodprocedure
+0700108,BRW,Almere-Poort,Vrijwilligers
+0700109,BRW,Almere-Poort,Vrijwilligers
+0700110,BRW,Almere-Poort,Vrijwilligers
+0700112,BRW,Almere-Poort,Vrijwilligers
+0700114,BRW,Almere-Poort,Vrijwilligers
+0700140,BRW,Almere Veluwsekant,Bezetting TS
+0700141,BRW,Almere Veluwsekant,Bevelvoerder van Dienst
+0700142,BRW,Almere Veluwsekant,Bezetting BRV
+0700143,BRW,Almere Veluwsekant,Bezetting AL
+0700160,BRW,Almere-Poort,Bezetting TS/WO
+0700161,BRW,Almere-Poort,Bevelvoerder van Dienst
+0700163,BRW,Almere-Poort,Bezetting HV-KR
+0700240,BRW,Almere-Buiten,Bezetting TS
+0700241,BRW,Almere-Buiten,Bevelvoerder van dienst
+0700301,BRW,Dronten,Kazernetechniek
+0700302,BRW,Biddinghuizen,Kazernetechniek
+0700303,BRW,Swifterbant,Kazernetechniek
+0700310,BRW,Dronten,Bezetting TS Ploeg 1
+0700311,BRW,Dronten,Bevelvoerder Ploeg 1
+0700312,BRW,Dronten,Chauffeurs Ploeg 1
+0700314,BRW,Dronten,Bezetting TS Dagdienst
+0700315,BRW,Dronten,Bevelvoerder van dienst
+0700320,BRW,Dronten,Bezetting TS Ploeg 2
+0700321,BRW,Dronten,Bevelvoerder Ploeg 2
+0700322,BRW,Dronten,Chauffeurs Ploeg 2
+0700330,BRW,Dronten,Bezetting TS Ploeg 3
+0700331,BRW,Dronten,Bevelvoerder Ploeg 3
+0700332,BRW,Dronten,Chauffeurs Ploeg 3
+0700334,BRW,Dronten,Ruilcode
+0700350,BRW,Biddinghuizen,Postalarm
+0700351,BRW,Biddinghuizen,Bevelvoerder van dienst
+0700370,BRW,Swifterbant,Postalarm
+0700371,BRW,Swifterbant,Bevelvoerder van dienst
+0700540,BRW,Lelystad,Vrije Beroeps
+0700550,BRW,Lelystad,Vrijwilligers Ruilcode
+0700551,BRW,Lelystad,Bezetting HW
+0700561,BRW,Lelystad,Bevelvoerder van Dienst
+0700565,BRW,Lelystad,Kazerneploeg TS/WO
+0700570,BRW,Lelystad,Lichtkrant
+0700571,BRW,Lelystad,Vrijwilligers Ploeg A
+0700572,BRW,Lelystad,Vrijwilligers Ploeg B
+0700573,BRW,Lelystad,Vrijwilligers Ploeg C
+0700574,BRW,Lelystad,Vrijwilligers Ploeg D
+0700575,BRW,Lelystad,Chauffeurs Ploeg A
+0700576,BRW,Lelystad,Chauffeurs Ploeg B
+0700577,BRW,Lelystad,Chauffeurs Ploeg C
+0700578,BRW,Lelystad,Chauffeurs Ploeg D
+0700579,BRW,Lelystad,Vrijwilligers Chauffeurs HA + COH-MU
+0700580,BRW,Lelystad,Vrijwilligers Chauffeurs SB
+0700581,KNRM,Reddingstation Lelystad,Bemanning Reddingboot Bert & Anneke Knappe
+0700595,BRW,Lelystad,Schippers BRV
+0700600,BRW,Emmeloord,Postalarm
+0700601,BRW,Emmeloord,Bezetting AL ploeg 1
+0700602,BRW,Emmeloord,Bezetting AL ploeg 2
+0700603,BRW,Emmeloord,Bezetting AL ploeg 3
+0700613,BRW,Emmeloord,Ploeg 1
+0700614,BRW,Emmeloord,Ploeg 2
+0700616,BRW,Emmeloord,Bevelvoerder van Dienst Ploeg 1
+0700617,BRW,Emmeloord,Bevelvoerder van Dienst
+0700623,BRW,Emmeloord,Ploeg 1+2
+0700626,BRW,Emmeloord,Bevelvoerder van Dienst Ploeg 2
+0700630,BRW,Marknesse,Postalarm
+0700631,BRW,Marknesse,Bevelvoerder van Dienst
+0700640,BRW,Ens,Postalarm
+0700641,BRW,Ens,Bevelvoerder van Dienst
+0700650,BRW,Nagele,Postalarm
+0700651,BRW,Nagele,Bevelvoerder van Dienst
+0700660,BRW,Creil,Postalarm
+0700661,BRW,Creil,Bevelvoerder van Dienst
+0700670,BRW,Rutten,Postalarm
+0700671,BRW,Rutten,Bevelvoerder van Dienst
+0700700,BRW,Urk,Postalarm
+0700701,BRW,Urk,Kazernetechniek TS/WO
+0700702,BRW,Urk,Kazernetechniek HA
+0700710,BRW,Urk,Ploeg 1
+0700711,BRW,Urk,Bevelvoerder van Dienst Ploeg 1
+0700720,BRW,Urk,Ploeg 2
+0700721,BRW,Urk,Bevelvoerder van Dienst Ploeg 2
+0700730,BRW,Urk,Ploeg 3
+0700731,BRW,Urk,Bevelvoerder van Dienst Ploeg 3
+0700794,KNRM,Reddingstation Urk,Bemanning Reddingboot
+0700800,BRW,Zeewolde,Postalarm
+0700801,BRW,Zeewolde,Kazernetechniek TS
+0700802,BRW,Zeewolde,Kazernetechniek BRV
+0700803,BRW,Zeewolde,Kazernetechniek VI
+0700810,BRW,Zeewolde,Bezetting TS Ploeg 1
+0700811,BRW,Zeewolde,Bevelvoerder van Dienst Ploeg 1
+0700812,BRW,Zeewolde,Chauffeursploeg 1
+0700813,BRW,Zeewolde,Veetakelploeg 1
+0700815,BRW,Zeewolde,Schippers Ploeg 1
+0700820,BRW,Zeewolde,Bezetting TS Ploeg 2
+0700821,BRW,Zeewolde,Bevelvoerder van Dienst Ploeg 2
+0700822,BRW,Zeewolde,Chauffeursploeg 2
+0700823,BRW,Zeewolde,Veetakelploeg 2
+0700825,BRW,Zeewolde,Schippers Ploeg 2
+0700830,BRW,Zeewolde,Bezetting TS Ploeg 3
+0700831,BRW,Zeewolde,Bevelvoerder van Dienst Ploeg 3
+0700832,BRW,Zeewolde,Chauffeursploeg 3
+0700833,BRW,Zeewolde,Veetakelploeg 3
+0700835,BRW,Zeewolde,Schippers Ploeg 3
+0700911,BRW,Almere,OvD Bevolkingszorg (Alarmcode)
+0700912,BRW,Almere,OvD Bevolkingszorg (Infocode)
+0700921,BRW,Dronten,OvD Bevolkingszorg (Alarmcode)
+0700922,BRW,Dronten,OvD Bevolkingszorg (Infocode)
+0700931,BRW,Lelystad,OvD Bevolkingszorg (Alarmcode)
+0700932,BRW,Lelystad,OvD Bevolkingszorg (Infocode)
+0700941,BRW,Noordoostpolder,OvD Bevolkingszorg (Alarmcode)
+0700942,BRW,Noordoostpolder,OvD Bevolkingszorg (Infocode)
+0700951,BRW,Urk,OvD Bevolkingszorg (Alarmcode)
+0700952,BRW,Urk,OvD Bevolkingszorg (Infocode)
+0700961,BRW,Zeewolde,OvD Bevolkingszorg (Alarmcode)
+0700962,BRW,Zeewolde,OvD Bevolkingszorg (Infocode)
+0700971,BRW,Regionaal,Informatiemanager CoPI
+0700980,BRW,Regionaal,Natuurbeheer
+0701101,BRW,Almere-Poort,Lichtkrant
+0701601,BRW,Emmeloord,Kazernetechniek
+0701602,BRW,Emmeloord,Lichtkrant
+0701800,BRW,Zeewolde,Lichtkrant
+0720001,AMBU,MKA Flevoland,Proefalarm RAV - GHOR
+0720002,AMBU,GHOR Flevoland,OvD-G
+0720004,AMBU,MKA Flevoland,HS-GHOR Regionaal Operationeel Centrum
+0720011,AMBU,MKA Flevoland/Gooi en Vechtstreek,Infocode GRIP 1
+0720012,AMBU,MKA Flevoland/Gooi en Vechtstreek,GRIP 2
+0720013,AMBU,MKA Flevoland/Gooi en Vechtstreek,GRIP 3
+0720014,AMBU,MKA Flevoland/Gooi en Vechtstreek,GRIP 4
+0720070,AMBU,Nederlandse Rode Kruis,Noodhulp Team Almere
+0720072,AMBU,Nederlandse Rode Kruis,Noodhulp Team Lelystad
+0720074,AMBU,Nederlandse Rode Kruis,Noodhulp Team Urk
+0720076,AMBU,Nederlandse Rode Kruis,Noodhulp Team Zeewolde
+0720930,AMBU,Regionaal,Commandant van Dienst-Geneeskundig
+0723140,AMBU,Regionaal,Ambulance 25-111
+0723141,AMBU,Regionaal,Ambulance 25-112
+0723142,AMBU,Regionaal,Ambulance 25-113
+0723143,AMBU,Regionaal,Ambulance 25-114
+0723144,AMBU,Regionaal,Ambulance 25-115
+0723145,AMBU,Regionaal,Ambulance 25-116
+0723148,AMBU,Regionaal,Ambulance 25-119
+0723149,AMBU,Regionaal,Ambulance 25-120
+0723150,AMBU,Regionaal,Ambulance 25-121
+0723151,AMBU,Regionaal,Ambulance 25-122
+0723152,AMBU,Regionaal,Ambulance 25-123
+0723153,AMBU,Regionaal,Ambulance 25-124
+0723154,AMBU,Regionaal,Ambulance 25-125
+0723155,AMBU,Regionaal,Ambulance 25-126
+0723156,AMBU,Regionaal,Ambulance 25-127
+0723157,AMBU,Regionaal,Ambulance 25-128
+0723158,AMBU,Regionaal,Ambulance 25-129
+0723160,AMBU,Regionaal,Ambulance 25-131
+0730000,POL,Politie Eenheid Midden-Nederland,Monitor
+0730100,POL,Politie Eenheid Midden-Nederland,Mobiele Eenheid (Proefalarm)
+0730108,POL,Politie Eenheid Midden-Nederland,BCCB (Piketsectie ME)
+0730211,POL,Politie Eenheid Midden-Nederland,Team Explosieven en Veiligheid
+0730305,POL,Politie Eenheid Midden-Nederland,Persvoorlichting Flevoland
+0730307,POL,Politie Eenheid Midden-Nederland,DROC (Beheer Politie Lelystad)
+0730310,POL,Politie Eenheid Midden-Nederland,Onderhandelaar
+0730313,POL,Politie Eenheid Midden-Nederland,Flevoland (Meldkamer)
+0730316,POL,OC-P,Persinformatie

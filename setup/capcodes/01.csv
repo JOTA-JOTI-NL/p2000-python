@@ -1,0 +1,442 @@
+capcode,discipline,locatie/divisie,beschrijving
+0400001,BRW,Regionaal,Pelotonscommandant Logistiek
+0400003,BRW,Regionaal,Pelotonscommandant Logistiek/Water (Oost)
+0400004,BRW,Regionaal,Pelotonscommandant Logistiek/Water (Midden)
+0400005,BRW,Regionaal,Pelotonscommandant Logistiek (West)
+0400006,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+0400007,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (ROT)
+0400008,BRW,Regionaal,Adviseurs Gevaarlijke Stoffen (Groepscode)
+0400011,BRW,Regionaal,Algemeen Commandant
+0400014,BRW,Regionaal,Hoofd Officier van Dienst
+0400016,BRW,Regionaal,Hoofd Officieren (Groepscode)
+0400021,BRW,Regionaal,Woordvoerder van Dienst
+0400022,BRW,Regionaal,Woordvoerders (Groepscode)
+0400025,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+0400026,BRW,Regionaal,Voorlichting (Hoofd Communicatie)
+0400027,BRW,Regionaal,Hoofd taakorganisatie Publieke zorg en Omgevingszorg
+0400028,BRW,Regionaal,Hoofd Taakorganisatie Informatie & Ondersteuning
+0400029,BRW,Regionaal,Communicatie Adviseur CoPI
+0400030,BRW,Regionaal,Communicatie Adviseur ROT
+0400031,BRW,Regionaal,Communicatie Adviseur GBT
+0400032,BRW,Regionaal,Stichting Salvage (Coördinator)
+0400036,BRW,Regionaal,Coordinator TCO/COT Team
+0400040,BRW,Regionaal,OvD Bevolkingszorg (West)
+0400041,BRW,Regionaal,OvD Bevolkingszorg (Oost)
+0400043,BRW,Regionaal,Coördinator Publieke Zorg
+0400044,BRW,Regionaal,Medewerker Publieke Zorg
+0400045,BRW,Regionaal,Informatiemanagement en Automatisering - Piket
+0400046,BRW,Regionaal,Informatiemanagement en Automatisering - Groep
+0400049,BRW,Regionaal,Officier Defensie
+0400053,BRW,Regionaal,Informatiemanager CoPI
+0400056,BRW,Regionaal,Beheer
+0400057,BRW,Regionaal,Chauffeur CO-MU / GIM CoPI
+0400063,BRW,Regionaal,Beheer OOV Alert
+0400065,BRW,Regionaal,Beheer
+0400072,BRW,Duitsland,Infocode Feuerwehr Landkreis Leer Duitsland
+0400074,BRW,Duitsland,Infocode Rettungstelle Meppen Duitsland
+0400099,BRW,MKB Noord Nederland,Centralist
+0400100,BRW,MKB Noord Nederland,Beheer
+0400102,BRW,MKB Noord Nederland,?
+0400108,BRW,MKB Noord Nederland,Centralist
+0400109,BRW,MKB Noord Nederland,Beheer
+0400110,BRW,MKB Noord Nederland,Centralist
+0400111,BRW,Regionaal,OVD Midden
+0400112,BRW,Regionaal,OVD Noord
+0400113,BRW,Regionaal,OVD Oost
+0400114,BRW,Regionaal,OVD West
+0400115,BRW,Regionaal,OVD Midden (Infocode)
+0400116,BRW,Regionaal,OVD Noord (Infocode)
+0400117,BRW,Regionaal,OVD Oost (Infocode)
+0400118,BRW,Regionaal,OVD West (Infocode)
+0400131,BRW,Regionaal,OVD Midden (Groepscode)
+0400132,BRW,Regionaal,OVD Noord (Groepscode)
+0400133,BRW,Regionaal,OVD Oost (Groepscode)
+0400134,BRW,Regionaal,OVD West (Groepscode)
+0400191,BRW,Duitsland,Ruetenbrock - Duitsland (Bezetting TS)
+0400192,BRW,Duitsland,Rhede - Duitsland (Bezetting TS)
+0400199,BRW,Duitsland,Feuerwehr Landkreis Leer (Ortsfeuerwehr Bunde) (Bezetting TS)
+0400220,BRW,Bedum,Ploegchef
+0400248,BRW,Bedum,Postalarm
+0400249,BRW,Bedum,Kazernetechniek
+0400255,BRW,Regionaal,Piket Preventie Inspecteur
+0400256,BRW,Regionaal,Preventie (Groepscode)
+0400265,BRW,Groningen,Infocode Middelincident Groningen
+0400266,BRW,Groningen,Teamleider
+0400271,BRW,Groningen Sontweg/Vinkhuizen,TS 01-1832
+0400272,BRW,Groningen Sontweg/Vinkhuizen,TS 01-1831
+0400274,BRW,Groningen Sontweg/Vinkhuizen,TS 01-1833
+0400275,BRW,Groningen Sontweg,SBH 01-1860
+0400276,BRW,Groningen Sontweg/Vinkhuizen,HW 01-1850
+0400277,BRW,Groningen Sontweg/Vinkhuizen,HW 01-1851
+0400278,BRW,Groningen Sontweg,HV-KR 01-1871
+0400279,BRW,Groningen Sontweg,HV 01-1873
+0400280,BRW,Groningen Sontweg,WO 01-1810
+0400281,BRW,Groningen Sontweg,BRV 01-1812
+0400292,BRW,Winschoten,HA 01-2982
+0400293,BRW,Groningen Sontweg,HA 01-1883
+0400299,BRW,Groningen Sontweg,DA-AGS 0126
+0400301,BRW,Groningen Sontweg,BOH-DC 01-1821
+0400303,BRW,Groningen Harkstede,Bezetting DB + ABA
+0400304,BRW,Groningen Sontweg,Bezetting TK-K + ABA
+0400305,BRW,Groningen Sontweg,Poederblusaanhanger (PBA)
+0400308,BRW,Regionaal,OvD West (DB-OD 3493)
+0400309,BRW,Regionaal,OvD Noord (DB-OD 3793)
+0400310,BRW,Regionaal,OvD Midden (DB-OD 3593)
+0400311,BRW,Regionaal,OvD Oost (DB-OD 3693)
+0400360,BRW,Groningen Sontweg,Ploegchef
+0400362,BRW,Groningen Sontweg,Kazernealarm Duikploeg
+0400363,BRW,Groningen Sontweg,Kazernealarm TS
+0400364,BRW,Groningen Sontweg,Kazernealarm Chauffeurs
+0400388,BRW,Groningen Sontweg,Kazernealarm
+0400389,BRW,Groningen Sontweg,Kazernetechniek
+0400390,BRW,Groningen Vinkhuizen,Ploegchef
+0400392,BRW,Groningen Vinkhuizen,Kazernealarm
+0400400,BRW,Groningen,Brugwachter Oostersluis
+0400418,BRW,Groningen Vinkhuizen,Postalarm
+0400419,BRW,Groningen Vinkhuizen,Kazernetechniek
+0400451,BRW,Haren,Postalarm
+0400460,BRW,Haren,Bevelvoerder van Dienst
+0400461,BRW,Haren,TS 01-2031
+0400463,BRW,Haren,TS 01-2032
+0400466,BRW,Haren,BRV-K 01-2016
+0400470,BRW,Haren,Verkenningseenheid
+0400481,BRW,Haren,Ploeg A
+0400482,BRW,Haren,Ploeg B
+0400488,BRW,Haren,Postalarm
+0400489,BRW,Haren,Kazernetechniek
+0400491,BRW,Noord-Midden,Infocode Gebied Noord-Midden
+0400501,BRW,Hoogezand,TS 01-2131
+0400504,BRW,Hoogezand,HW 01-2150
+0400505,BRW,Hoogezand,TS 01-2133
+0400507,BRW,Hoogezand,HA 01-2182 + VZH 01-0197
+0400510,BRW,Hoogezand,Verkenningseenheid
+0400511,BRW,Hoogezand,Ploegchef Ploeg A
+0400512,BRW,Hoogezand,Ploegchef Ploeg B
+0400513,BRW,Hoogezand,Ploegchef Ploeg C
+0400514,BRW,Hoogezand,Ploegchef Ploeg D
+0400516,BRW,Hoogezand,Chauffeurs Ploeg A
+0400517,BRW,Hoogezand,Chauffeurs Ploeg B
+0400518,BRW,Hoogezand,Chauffeurs Ploeg C
+0400519,BRW,Hoogezand,Chauffeurs Ploeg D
+0400521,BRW,Hoogezand,Ploeg A
+0400522,BRW,Hoogezand,Ploeg B
+0400523,BRW,Hoogezand,Ploeg C
+0400524,BRW,Hoogezand,Ploeg D
+0400525,BRW,Hoogezand,Bedrijfsbrandweer Eska Graphic Board
+0400528,BRW,Hoogezand,Postalarm
+0400529,BRW,Hoogezand,Kazernetechniek
+0400531,BRW,Noord-Midden,Teamleider Noord-Midden
+0400540,BRW,Harkstede,Ploegchef
+0400541,BRW,Harkstede,TS 01-2231
+0400561,BRW,Harkstede,Postalarm
+0400568,BRW,Harkstede,Postalarm
+0400570,BRW,Siddeburen,Ploegchef
+0400571,BRW,Siddeburen,TS 01-2232
+0400591,BRW,Siddeburen,Postalarm
+0400599,BRW,Siddeburen,Kazernetechniek
+0400601,BRW,Slochteren,TS 01-2233
+0400621,BRW,Slochteren,Postalarm
+0400627,BRW,Slochteren,Ploegchef
+0400629,BRW,Slochteren,Kazernetechniek
+0400631,BRW,Noord-West,Infocode Middelincident Noord-West
+0400640,BRW,Ten Boer,Ploegchef
+0400641,BRW,Ten Boer,TS 01-1731
+0400650,BRW,Ten Boer,Verkenningseenheid
+0400661,BRW,Ten Boer,Postalarm
+0400669,BRW,Ten Boer,Kazernetechniek
+0400680,BRW,Appingedam,Ploegchef
+0400681,BRW,Appingedam,TS 01-3131
+0400701,BRW,Appingedam,Postalarm
+0400709,BRW,Appingedam,Kazernetechniek
+0400711,BRW,Noord-Midden,Infocode Middelincident Noord-Midden
+0400721,BRW,Bierum,TS 01-3031
+0400730,BRW,Bierum,Verkenningseenheid
+0400731,BRW,Bierum,Ploegchef
+0400741,BRW,Bierum,Postalarm
+0400749,BRW,Bierum,Kazernetechniek
+0400750,BRW,Delfzijl,Ploegchef van Dienst
+0400751,BRW,Delfzijl,TS 01-3032
+0400752,BRW,Delfzijl,TS 01-3033
+0400753,BRW,Delfzijl,HV-KR 01-3071
+0400754,BRW,Delfzijl,HW 01-3050
+0400755,BRW,Delfzijl,OR 01-3011
+0400756,BRW,Oosterhorn+Groningen,Gebiedscode Oosterhorn + Infocode Groningen Seaports
+0400759,BRW,Delfzijl,Chauffeurs + Bedieners HW Ploeg 1
+0400760,BRW,Delfzijl,Chauffeurs + Bedieners HW Ploeg 2
+0400761,BRW,Delfzijl,Chauffeurs HV-KR Ploeg 1
+0400762,BRW,Delfzijl,Chauffeurs HV-KR Ploeg 2
+0400763,BRW,Delfzijl,Chauffeurs HV-KR Ploeg 3
+0400765,BRW,Delfzijl,Chauffeurs + Bedieners HW Ploeg 3
+0400766,BRW,Delfzijl,Chauffeurs + Bedieners SB Ploeg 1
+0400767,BRW,Delfzijl,Chauffeurs + Bedieners SB Ploeg 2
+0400768,BRW,Delfzijl,Chauffeurs + Bedieners SB Ploeg 3
+0400771,BRW,Delfzijl,Bezetting HW
+0400772,BRW,Delfzijl,Bezetting HA/SB
+0400773,BRW,Delfzijl,Bezetting HV-KR
+0400774,BRW,Delfzijl,Oppervlaktewater Redteam
+0400775,BRW,Delfzijl,Dienstwisselcode
+0400778,BRW,Delfzijl,Postalarm
+0400779,BRW,Delfzijl,Kazernetechniek
+0400781,BRW,Wagenborgen,TS 01-3034
+0400790,BRW,Wagenborgen,Verkenningseenheid
+0400791,BRW,Wagenborgen,Ploegchef
+0400801,BRW,Wagenborgen,Postalarm
+0400809,BRW,Wagenborgen,Kazernetechniek
+0400811,BRW,Woldendorp,TS 01-3035
+0400831,BRW,Woldendorp,Bezetting TS
+0400838,BRW,Woldendorp,Postalarm
+0400839,BRW,Woldendorp,Kazernetechniek
+0400850,BRW,Uithuizen,Ploegchef
+0400851,BRW,Uithuizen,TS 01-3331
+0400852,BRW,Eemshaven,Brandveilig Ondernemen Team (BVO Team)
+0400853,BRW,Uithuizen,TS 01-3332
+0400861,BRW,Uithuizen,Ploeg A
+0400862,BRW,Uithuizen,Ploeg B
+0400868,BRW,Uithuizen,Postalarm
+0400869,BRW,Uithuizen,Kazernetechniek
+0400881,BRW,Delfzijl,Ploeg 1
+0400882,BRW,Delfzijl,Chauffeurs Ploeg 1
+0400883,BRW,Delfzijl,Ploeg 2
+0400884,BRW,Delfzijl,Chauffeurs Ploeg 2
+0400885,BRW,Delfzijl,Ploeg 3
+0400886,BRW,Delfzijl,Chauffeurs Ploeg 3
+0400900,BRW,Delfzijl Chemie Park,SPB 01-3932
+0400901,BRW,Delfzijl Chemie Park,Bezetting SPB
+0400920,BRW,Loppersum,Ploegchef
+0400921,BRW,Loppersum,TS 01-3232
+0400930,BRW,Loppersum,Verkenningseenheid
+0400941,BRW,Loppersum,Postalarm
+0400949,BRW,Loppersum,Kazernetechniek
+0400950,BRW,Middelstum,Ploegchef
+0400951,BRW,Middelstum,TS 01-3231
+0400971,BRW,Middelstum,Postalarm
+0400979,BRW,Middelstum,Kazernetechniek
+0401020,BRW,Bellingwolde,Ploegchef
+0401023,BRW,Bellingwolde,TS 01-2831
+0401048,BRW,Bellingwolde,Postalarm
+0401049,BRW,Bellingwolde,Kazernetechniek
+0401060,BRW,Zuidbroek,Ploegchef
+0401061,BRW,Zuidbroek,TS 01-2331
+0401088,BRW,Zuidbroek,Postalarm
+0401089,BRW,Zuidbroek,Kazernetechniek
+0401091,BRW,Zuid-Oost,Infocode Middelincident Gebied Zuid-Oost
+0401100,BRW,Nieuwe Pekela,Ploegchef
+0401101,BRW,Nieuwe Pekela,TS 01-2431
+0401103,BRW,Nieuwe Pekela,Bezetting HV
+0401121,BRW,Nieuwe Pekela,Postalarm
+0401127,BRW,Nieuwe Pekela,Dagdienst
+0401128,BRW,Nieuwe Pekela,Postalarm
+0401129,BRW,Nieuwe Pekela,Kazernetechniek
+0401130,BRW,Oude Pekela,Ploegchef
+0401131,BRW,Oude Pekela,TS 01-2432
+0401151,BRW,Oude Pekela,Postalarm
+0401159,BRW,Oude Pekela,Kazernetechniek
+0401167,BRW,Veendam,Ploegchef
+0401171,BRW,Veendam,TS 01-2532
+0401172,BRW,Veendam,TS 01-2531
+0401173,BRW,Nieuwe Pekela,HV-2 01-2472
+0401174,BRW,Veendam,HW 01-2550
+0401175,BRW,Veendam,HA 01-2582
+0401187,BRW,Veendam,Bezetting HA - Ploeg A
+0401188,BRW,Veendam,Bezetting HA - Ploeg B
+0401189,BRW,Veendam,Bezetting HW - Ploeg A
+0401190,BRW,Veendam,Bezetting HW - Ploeg B
+0401191,BRW,Veendam,Ploeg A
+0401192,BRW,Veendam,Ploeg B
+0401198,BRW,Veendam,Postalarm
+0401199,BRW,Veendam,Kazernetechniek
+0401205,BRW,Groningen,Infocode Incident in de Gemeente Groningen
+0401211,BRW,Finsterwolde,TS 01-2934
+0401221,BRW,Finsterwolde,Ploegchef
+0401231,BRW,Finsterwolde,Postalarm
+0401232,BRW,Finsterwolde,Oppervlaktewater Redteam
+0401238,BRW,Finsterwolde,Postalarm
+0401239,BRW,Finsterwolde,Kazernetechniek
+0401240,BRW,Bad Nieuweschans,Ploegchef
+0401241,BRW,Bad Nieuweschans,TS 01-2935
+0401251,BRW,Bad Nieuweschans,Bevelvoeder van Dienst
+0401261,BRW,Bad Nieuweschans,Bezetting TS
+0401268,BRW,Bad Nieuweschans,Postalarm
+0401269,BRW,Bad Nieuweschans,Kazernetechniek
+0401280,BRW,Scheemda,Ploegchef
+0401281,BRW,Scheemda,TS 01-2933
+0401301,BRW,Scheemda,Postalarm
+0401307,BRW,Scheemda,Dagdienst
+0401308,BRW,Scheemda,Postalarm
+0401309,BRW,Scheemda,Kazernetechniek
+0401311,BRW,Winschoten,Bezetting TS Ploeg A
+0401312,BRW,Winschoten,Jeugd Brandweer
+0401313,BRW,Winschoten,Bezetting TS Ploeg B
+0401317,BRW,Winschoten,Ploegchef Ploeg A
+0401319,BRW,Winschoten,Ploegchef Ploeg B
+0401321,BRW,Winschoten,TS 01-2931
+0401322,BRW,Winschoten,TS 01-2932
+0401324,BRW,Winschoten,HW 01-2950
+0401326,BRW,Winschoten,Bezetting HW Ploeg A
+0401328,BRW,Winschoten,Bezetting HW Ploeg B
+0401330,BRW,Winschoten,Verkenningseenheid IBGS
+0401336,BRW,Winschoten,Chauffeurs Ploeg A
+0401338,BRW,Winschoten,Chauffeurs Ploeg B
+0401347,BRW,Winschoten,BRV-K 01-2914
+0401348,BRW,Winschoten,Postalarm
+0401349,BRW,Winschoten,Kazernetechniek
+0401351,BRW,Groningen,Infocode Incident in de Provincie Groningen
+0401360,BRW,Stadskanaal,Ploegchef
+0401365,BRW,Stadskanaal,HW 01-2650
+0401368,BRW,Stadskanaal,Chauffeurs
+0401369,BRW,Stadskanaal,Dagondersteuning
+0401370,BRW,Stadskanaal,Monitorcode
+0401374,BRW,Stadskanaal,Bezetting HW Ploeg 1
+0401376,BRW,Stadskanaal,Bezetting HW Ploeg 2
+0401377,BRW,Stadskanaal,Bezetting HW Ploeg 3
+0401378,BRW,Stadskanaal,Bezetting HW Ploeg 4
+0401379,BRW,Stadskanaal,Bezetting HW Ploeg 5
+0401380,BRW,Stadskanaal,Bezetting HW Ploeg 6
+0401381,BRW,Stadskanaal,Ploeg 1
+0401382,BRW,Stadskanaal,Ploeg 2
+0401383,BRW,Stadskanaal,Ploeg 3
+0401384,BRW,Stadskanaal,Ploeg 4
+0401385,BRW,Stadskanaal,Ploeg 5
+0401386,BRW,Stadskanaal,Ploeg 6
+0401388,BRW,Stadskanaal,Postalarm
+0401389,BRW,Stadskanaal,Kazernetechniek
+0401391,BRW,Zuid-Oost,Teamleider Gebied Zuid-Oost
+0401400,BRW,Ter Apel,Ploegchef
+0401401,BRW,Ter Apel,TS 01-2732
+0401410,BRW,Ter Apel,Verkenningseenheid IBGS
+0401428,BRW,Ter Apel,Postalarm
+0401429,BRW,Ter Apel,Kazernetechniek
+0401430,BRW,Vlagtwedde,Ploegchef
+0401431,BRW,Vlagtwedde,TS 01-2731
+0401440,BRW,Vlagtwedde,Verkenningseenheid
+0401456,BRW,Vlagtwedde,Chauffeurs
+0401457,BRW,Vlagtwedde,Dagcode
+0401458,BRW,Vlagtwedde,Postalarm
+0401459,BRW,Vlagtwedde,Kazernetechniek
+0401461,BRW,Noord-West,Teamleider Gebied Noord-West
+0401470,BRW,Wehe-den Hoorn,Ploegchef
+0401498,BRW,Wehe-den Hoorn,Postalarm
+0401499,BRW,Wehe-den Hoorn,Kazernetechniek
+0401500,BRW,Zoutkamp,Ploegchef
+0401501,BRW,Zoutkamp,TS 01-1431
+0401510,BRW,Zoutkamp,Verkenningseenheid
+0401528,BRW,Zoutkamp,Postalarm
+0401529,BRW,Zoutkamp,Kazernetechniek
+0401540,BRW,Grootegast,Ploegchef
+0401541,BRW,Grootegast,TS 01-1231
+0401568,BRW,Grootegast,Postalarm
+0401569,BRW,Grootegast,Kazernetechniek
+0401571,BRW,Noord-West,Infocode Gebied Noord-West
+0401580,BRW,Leek,Ploegchef
+0401581,BRW,Leek,TS 01-1031
+0401582,BRW,Leek,TS 01-1032
+0401583,BRW,Leek,Bezetting 1e TS
+0401584,BRW,Leek,Bezetting 2e TS
+0401608,BRW,Leek,Postalarm
+0401609,BRW,Leek,Kazernetechniek
+0401620,BRW,Marum,Ploegchef
+0401621,BRW,Marum,TS 01-1131
+0401648,BRW,Marum,Postalarm
+0401649,BRW,Marum,Kazernetechniek
+0401660,BRW,Baflo,Ploegchef
+0401661,BRW,Baflo,TS 01-1531
+0401662,BRW,Baflo,Bezetting GW
+0401688,BRW,Baflo,Postalarm
+0401689,BRW,Baflo,Kazernetechniek
+0401691,BRW,Winsum,TS 01-1532
+0401693,BRW,Winsum,HV 01-1572
+0401694,BRW,Regionaal,Team Digitale Verkenning (Teamleider)
+0401695,BRW,Regionaal,Team Digitale Verkenning
+0401701,BRW,Winsum,Ploegchef
+0401718,BRW,Winsum,Postalarm
+0401719,BRW,Winsum,Kazernetechniek
+0401731,BRW,Grijpskerk,TS 01-1333
+0401740,BRW,Grijpskerk,Verkenningseenheid
+0401758,BRW,Grijpskerk,Postalarm
+0401759,BRW,Grijpskerk,Kazernetechniek
+0401760,BRW,Oldehove,Ploegchef
+0401761,BRW,Oldehove,TS 01-1332
+0401788,BRW,Oldehove,Postalarm
+0401789,BRW,Oldehove,Kazernetechniek
+0401790,BRW,Zuidhorn,Ploegchef
+0401791,BRW,Zuidhorn,TS 01-1331
+0401818,BRW,Zuidhorn,Postalarm
+0401819,BRW,Zuidhorn,Kazernetechniek
+0401998,BRW,OCB Noord-Nederland,Monitor
+0401999,BRW,OCB Noord-Nederland,Proefalarm
+0402060,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg
+0402067,AMBU,Regionaal,Arts Infectieziekten
+0402130,AMBU,Regionaal,Geneeskundig Adviseur Gevaarlijke Stoffen
+0402198,AMBU,MKANN Drachten,Monitor
+0420000,AMBU,MKA Noord-Nederland,Proefalarm Groningen
+0420300,AMBU,Regionaal,OvD-G
+0420301,AMBU,Regionaal,OVD-G Noord
+0420302,AMBU,Regionaal,OVD-G Oost
+0420506,AMBU,MKANN Drachten,Infocode GRIP (OvD-G)
+0420512,AMBU,Regionaal,Medisch Manager Ambulancezorg
+0420550,AMBU,Regionaal,OVD-G'S - Groepscode
+0420551,AMBU,Regionaal,OVD-G 1 Noord
+0420552,AMBU,Regionaal,OVD-G 2 Oost
+0421100,BRUG,Dorkwerd,Brugwachter Dorkwerdersluis
+0421101,BRUG,Dorkwerd,Brugwachter Platvoetbrug
+0421104,BRUG,Garnwerd,Brugwachter Reitdiep
+0421105,BRUG,Groningen,Duinkerkenbrug
+0421106,BRUG,Lammerburen,Brugwachter Sluis
+0421107,BRUG,Zoutkamp,Brugwachter Reitdiepbrug
+0421109,BRUG,Zoutkamp,Brugwachter Hunsingobrug
+0421110,BRUG,Lauwersoog,Centrale Brugbediening
+0421112,BRUG,Hoogkerk,Brugwachter Vierverlatenbrug
+0421118,BRUG,Delfzijl,Brug 15
+0421121,BRUG,Zuidbroek,Brugwachter Zuidbroeksterbrug
+0421122,BRUG,Zuidbroek,Zuidbroek Brug N33
+0421123,BRUG,Groningen,Brugwachter Oosterhavenbrug
+0421124,BRUG,Groningen,Brugwachter Emmabrug
+0421125,BRUG,Groningen,Brugwachter Herebrug
+0421126,BRUG,Groningen,Centrale Brugbedienpost
+0421127,BRUG,Groningen,Brugwachter Oosterhavenbrug
+0421128,BRUG,Groningen,Brugwachter Van Ketwich Verschuurbrug
+0421129,BRUG,Groningen,Brugwachter Parkbrug
+0421130,BRUG,Groningen,Brugwachter Pleiadenbrug
+0421131,BRUG,Groningen,Brugwachter A en Plansoenbrug
+0421134,BRUG,Groningen,Berlage Brug
+0421135,BRUG,Groningen,Juliana Brug
+0421137,BRUG,Groningen,Brugwachter Plataanbrug
+0421140,BRUG,Gaarkeuken,Brugwachter Wolddiepbrug
+0421141,BRUG,Zuidhorn,Brug Van Starkenborgh Kanaal
+0421142,BRUG,Aduard,Hef Brug
+0421143,BRUG,Dorkwerd,Brug
+0421145,BRUG,Haaren,Brugwachter Meerwegbrug
+0421146,BRUG,Overschild,Brugwachter Bloemhofbrug
+0421147,BRUG,Appingedam,Brugwachter Woldbrug
+0421148,BRUG,Appingedam,Brugwachter Eelwerderbrug
+0421151,BRUG,Scheemda,Brugwachter Eexterbrug
+0421152,BRUG,Winschoten,Graaf Adolfbrug
+0421153,BRUG,Zuidbroek,Brugwachter Brug N33/Winschoterdiep
+0421154,BRUG,Muntendam,Brugwachter Meedenerbrug
+0421155,BRUG,Veendam,Brugwachter Veenhuizenbrug
+0421156,BRUG,Veendam,Phoenixbrug
+0421158,BRUG,Groningen,Gerrit Krol Brug
+0421159,BRUG,Groningen,Brugwachter Driebondsbrug
+0421160,BRUG,Groningen,Brugwachter Borgbrug
+0421161,BRUG,Groningen,Lage Euvelgunnerbrug
+0421162,BRUG,Groningen,Brugwachter Hoge Euvelgunnerbrug
+0421163,BRUG,Groningen,Nieuwe lage Euvelgunnerbrug
+0421165,BRUG,Waterhuizen,Brugwachter Waterhuizerbrug
+0421166,BRUG,Westerbroek,Westerbroeksterbrug
+0421168,BRUG,Foxhol,Brugwachter Rengersbrug
+0421169,BRUG,Hoogezand,Zwedenbrug
+0421170,BRUG,Hoogezand,Brugwachter Knijpsbrug
+0421171,BRUG,Sappemeer,Slochterenbrug
+0421172,BRUG,Sappemeer,Brugwachter Noordbroeksterbrug
+0421173,BRUG,Winschoten,Brugwachter Kloosterbrug
+0421174,BRUG,Winschoten,Brugwachter Beertsterbrug
+0421175,BRUG,Winschoten,Brugwachter Renselbrug
+0421176,BRUG,Winschoten,Brugwachter Winschoterhogebrug
+0421177,BRUG,Farmsum,Bedienpost Zeesluizen
+0421180,BRUG,Groningen,Brugwachter Sontbrug
+0421181,BRUG,Groningen,Brugwachter Gideonbrug
+0421184,BRUG,Veendam,Wilhelminabrug
+0421185,BRUG,Veendam,Julianabrug
+0421186,BRUG,Groningen,Brugwachter Zaanbrug
+0430112,POL,OC-P,Persinformatie
+0431112,BRW,OC-B,Persinformatie

@@ -1,0 +1,281 @@
+capcode,discipline,locatie/divisie,beschrijving
+0603100,BRW,Hengelo-Centrum,Kazernealarm Noodprocedure
+0603102,BRW,Hengelo-Centrum,Logistiek Piket
+0603190,BRW,Hengelo-Centrum,Kazernealarm
+0603200,BRW,Hengelo Noord,Postalarm
+0603220,BRW,Hengelo-Noord,Bezetting GW
+0603240,BRW,Hengelo-Noord,Bezetting TS
+0603290,BRW,Borne,Bezetting TS
+0603293,BRW,Borne,Bezetting SB
+0603300,BRW,Oldenzaal,Postalarm
+0603311,BRW,Oldenzaal,Bevelvoerder van Dienst Ploeg 1
+0603312,BRW,Oldenzaal,Bevelvoerder van Dienst Ploeg 2
+0603320,BRW,Oldenzaal,Bezetting HW
+0603321,BRW,Oldenzaal,Chauffeurs Ploeg 1
+0603322,BRW,Oldenzaal,Chauffeurs Ploeg 2
+0603340,BRW,Oldenzaal,Bezetting TS
+0603341,BRW,Oldenzaal,Bezetting TS Ploeg 1
+0603342,BRW,Oldenzaal,Bezetting TS Ploeg 2
+0603357,BRW,Losser,Bezetting WT
+0603390,BRW,Losser,Bezetting TS
+0603400,BRW,Denekamp,Postalarm
+0603407,BRW,Denekamp,Bezetting NBT
+0603440,BRW,Denekamp,Bezetting TS
+0603457,BRW,Tubbergen,Bezetting NBT
+0603480,BRW,Tubbergen,Veetakelploeg
+0603485,BRW,Tubbergen,Bezetting WT
+0603490,BRW,Tubbergen,Bezetting TS
+0603506,BRW,De Lutte,Bezetting NBT
+0603540,BRW,De Lutte,Bezetting TS
+0603580,BRW,Ootmarsum,Bezetting NBT
+0603590,BRW,Ootmarsum,Bezetting TS
+0603601,BRW,Weerselo,Verkenningseenheid
+0603611,BRW,Weerselo,Bezetting SB
+0603640,BRW,Weerselo,Bezetting TS
+0603650,BRW,Almelo,Kazernealarm Noodprocedure
+0603651,BRW,Almelo,Duikploeg
+0603690,BRW,Almelo,Kazernealarm
+0603741,BRW,Haaksbergen,Bezetting NBT
+0603861,BRW,Den Ham,Veetakelploeg
+0603862,BRW,Den Ham,Handcrew Overijssel
+0603885,BRW,Den Ham,Bezetting KW
+0603890,BRW,Den Ham,Bezetting TS
+0603900,BRW,Vroomshoop,Postalarm Noodprocedure
+0603940,BRW,Vroomshoop,Bezetting TS
+0603941,BRW,Vroomshoop,Bezetting WT
+0603950,BRW,Vriezenveen,Postalarm Noodprocedure
+0603952,BRW,Vriezenveen,Verkenningseenheid
+0603973,BRW,Vriezenveen,Bezetting KW
+0603985,BRW,Vriezenveen,Bezetting GW
+0603986,BRW,Vriezenveen,Bezetting KW
+0603990,BRW,Vriezenveen,Bezetting TS
+0604002,BRW,Regionaal,Infocode Middel incident
+0604003,BRW,Regionaal,Infocode Groot incident
+0604004,BRW,Regionaal,Infocode Zeer Groot icident
+0604005,BRW,Regionaal,Infocode Grip
+0604100,BRW,Enschede Hoofdpost,Kazernealarm Noodprocedure
+0604141,BRW,Enschede Hoofdpost,Kazernealarm
+0604200,BRW,Enschede Noord,Kazernealarm Noodprocedure
+0604241,BRW,Enschede Noord,Kazernealarm
+0604251,BRW,Glanerbrug,Postalarm Noodprocedure
+0604270,BRW,Boekelo,Bezetting NBT
+0604271,BRW,Boekelo,Bezetting TS
+0604280,BRW,Glanerbrug,Bezetting TS
+0604288,BRW,Glanerbrug,Bezetting Dronebox
+0604299,BRW,Glanerbrug,Piloot Drone
+0604301,BRW,Rijssen,Verkenningseenheid IBGS
+0604302,BRW,Rijssen,Bevelvoerder van Dienst
+0604307,BRW,Rijssen,Bezetting NBT Ploeg 1
+0604308,BRW,Rijssen,Bezetting NBT Ploeg 2
+0604309,BRW,Rijssen,Bezetting NBT Ploeg 3
+0604311,BRW,Rijssen,Bezetting HW Ploeg 1
+0604312,BRW,Rijssen,Bezetting HW Ploeg 2
+0604316,BRW,Rijssen,Bezetting HA
+0604340,BRW,Rijssen,Bezetting TS 1+2
+0604342,BRW,Rijssen,Bezetting TS 1
+0604343,BRW,Rijssen,Bezetting TS 2
+0604350,BRW,Holten,Postalarm
+0604357,BRW,Holten,Bezetting TST-NB 5241
+0604360,BRW,Holten,Veetakelploeg
+0604380,BRW,Holten,Bezetting WT
+0604390,BRW,Holten,Bezetting TS
+0604407,BRW,Hellendoorn,Bezetting NBT
+0604435,BRW,Hellendoorn,Bezetting KW
+0604440,BRW,Hellendoorn,Bezetting TS
+0604450,BRW,Nijverdal,Postalarm
+0604457,BRW,Nijverdal,Bezetting TST-NB 5441
+0604461,BRW,Nijverdal,Bezetting SB Ploeg 1
+0604462,BRW,Nijverdal,Bezetting SB Ploeg 2
+0604490,BRW,Nijverdal,Bezetting TS
+0604491,BRW,Nijverdal,Ploeg 1
+0604492,BRW,Nijverdal,Ploeg 2
+0604500,BRW,Wierden,Postalarm
+0604540,BRW,Wierden,Bezetting TS
+0604541,BRW,Wierden,Bezetting NBT/WTT
+0604585,BRW,Enter,Bezetting KW
+0604590,BRW,Enter,Bezetting TS
+0604601,BRW,Goor,Verkenningseenheid
+0604616,BRW,Goor,Bezetting WT
+0604640,BRW,Goor,Bezetting TS
+0604700,BRW,Haaksbergen,Postalarm
+0604701,BRW,Haaksbergen,Verkenningseenheid IBGS
+0604740,BRW,Haaksbergen,Bezetting TS
+0604741,BRW,Haaksbergen,Piketploeg
+0604743,BRW,Haaksbergen,Bezetting SB
+0604757,BRW,Delden,Bezetting NBT
+0604790,BRW,Delden,Bezetting TS
+0604806,BRW,Markelo,Bezetting TS
+0604807,BRW,Markelo,Veetakelploeg
+0604840,BRW,Markelo,Bezetting TS
+0604841,BRW,Markelo,Bezetting KW
+0604860,BRW,Diepenheim,Veetakelploeg
+0604890,BRW,Diepenheim,Bezetting TS
+0604999,BRW,Regionaal,Proefalarm
+0605010,BRW,Regionaal,Informatie Manager
+0605039,BRW,Regionaal,Commandant van Dienst
+0605040,BRW,Regionaal,Regionaal Operationeel Leider
+0605050,BRW,Regionaal,HOvD / Leider CoPI
+0605060,BRW,Regionaal,Hoofd Informatie
+0605061,BRW,OCB,Informatie & Operationeel Centrum
+0605062,BRW,Regionaal,Team Brand Onderzoek
+0605070,BRW,Regionaal,Voorlichting (Piket)
+0605080,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+0605090,BRW,Regionaal,Waterschap (Vechtstromen)
+0605092,BRW,Regionaal,Teamleiders Handcrew
+0605093,BRW,Regionaal,Natuurbeheerders
+0605099,BRW,Alstätte Duitsland,Lichtkrant
+0605131,BRW,Regionaal,OvD (05-9093)
+0605141,BRW,Regionaal,OvD (05-9094)
+0605151,BRW,Regionaal,OvD (05-9095)
+0605161,BRW,Regionaal,OvD (05-9096)
+0605181,BRW,Regionaal,HOvD/Taakcommandant
+0605190,BRW,Regionaal,OvD Bevolkingszorg
+0605192,BRW,Regionaal,OvD Bevolkingszorg
+0605194,BRW,Regionaal,OvD Bevolkingszorg
+0605201,BRW,Hengelo Centrum,TS 05-1131
+0605203,BRW,Hengelo Centrum,AL 05-1151
+0605205,BRW,Hengelo Centrum,HV-KR 05-1171
+0605207,BRW,Hengelo Noord,TS 05-1231
+0605213,BRW,Hengelo Centrum,VZH 05-9081
+0605214,BRW,Borne,TS 05-1331
+0605217,BRW,Oldenzaal,TS 05-2131
+0605219,BRW,Oldenzaal,HW 05-2151
+0605223,BRW,Losser,TS 05-2231
+0605225,BRW,Regionaal,TS 05-9237 reserve
+0605226,BRW,Denekamp,TS 05-2331
+0605227,BRW,Tubbergen,TS 05-2431
+0605228,BRW,Tubbergen,TST-NBB 05-2441
+0605231,BRW,de Lutte,TST-NBB 05-2541
+0605232,BRW,Losser,WT 05-2261
+0605233,BRW,Ootmarsum,TST-NBB 05-2641
+0605234,BRW,Weerselo,TS 05-2731
+0605237,BRW,Almelo,TS 05-3131
+0605238,BRW,Almelo,AL 05-3151
+0605239,BRW,Vriezenveen,HA 05-3681
+0605240,BRW,Rijssen,DPA + SLH 05-5163
+0605243,BRW,Almelo,HV-KR 05-3171
+0605244,BRW,Almelo,WO 05-3111
+0605247,BRW,Den Ham,TS 05-3431
+0605248,BRW,Den Ham,DB 05-3401
+0605249,BRW,Vroomshoop,WT 05-3561
+0605250,BRW,Vriezenveen,TS 05-3631
+0605253,BRW,Enschede Hoofdpost,TS 05-4131
+0605255,BRW,Enschede Noord,AL 05-4251
+0605256,BRW,Enschede Hoofdpost,HW 05-4152
+0605257,BRW,Borne,SB 05-1361
+0605258,BRW,Enschede Hoofdpost,HV-KR 05-4171
+0605259,BRW,Enschede Noord,TS 05-4231
+0605267,BRW,Enschede Glanerburg,TS 05-4331
+0605268,BRW,Boekelo,TS 05-4431
+0605272,BRW,Rijssen,TS 05-5131
+0605274,BRW,Rijssen,HW 05-5151
+0605277,BRW,Rijssen,HA 05-5181
+0605278,BRW,Holten,TST-NBB 05-5241
+0605280,BRW,Hellendoorn,TST-NBB 05-5341
+0605281,BRW,Nijverdal,TS 05-5431
+0605283,BRW,Nijverdal,SB 05-5461
+0605287,BRW,Wierden,TS 05-5531
+0605288,BRW,Wierden,TST-NBB 05-5541
+0605289,BRW,Enter,TS 05-5631
+0605290,BRW,HOvD/Taakcommandant,DV-HO 05-9091
+0605291,BRW,Goor,TS 05-1431
+0605292,BRW,Goor,SB 05-1461
+0605293,BRW,Haaksbergen,TST-NBB 05-4541
+0605296,BRW,Delden,TST-NBB 05-1541
+0605297,BRW,Delden,TS 05-1531
+0605298,BRW,Markelo,TST-NBB 05-1641
+0605300,BRW,Officier Verbindingen & Informatie,DV-OVI 05-9002
+0605301,BRW,HOvD/Leider CoPI,DV-HO 05-9092
+0605303,BRW,Adviseur Gevaarlijke Stoffen,DV-AGS 05-9021
+0605304,BRW,Hengelo Centrum,COH-MU 05-9098
+0605320,BRW,Diepenheim,TS 05-1731
+0605330,BRW,Hellendoorn,KW 05-5362
+0605332,BRW,Enter,KW 05-5662
+0605333,BRW,Vroomshoop,TS 05-3531
+0605344,BRW,Holten,WT 05-5261
+0605355,BRW,Enschede Centrum,BOH 05-4121
+0605356,BRW,Haaksbergen,WT 05-4561
+0605357,BRW,Den Ham,KW 05-3462
+0605361,BRW,Tubbergen,VIA 05-2479
+0605363,BRW,Markelo,VIA 05-1679
+0605364,BRW,Holten,VIA 05-5279
+0605365,BRW,Hellendoorn,VIA 05-5379
+0605367,BRW,Diepenheim,VIA 05-1779
+0605368,BRW,Den Ham,VIA 05-3479
+0605371,BRW,Nijverdal,NBH 05-9064
+0605374,BRW,Weerselo,DB-VEB 05-2721
+0605378,BRW,Regionaal,Team Digitale Verkenning - Teamleider
+0605379,BRW,Rijssen,Team Digitale Verkenning
+0605380,BRW,Vriezenveen,Team Digitale Verkenning
+0605403,BRW,Enschede,Reserve TS 05-9331
+0605406,BRW,Enschede,Reserve TS 05-9332
+0605407,BRW,Hengelo,Reserve TS 05-9238
+0605408,BRW,Hengelo,Reserve TS 05-9236
+0605420,BRW,GMK,Infocode (ICT piket)
+0605421,BRW,GMK,Alarmcode (ICT piket)
+0605501,BRW,Landkreises Grafschraft Bentheim Duitsland,Lichtkrant
+0605704,BRW,Duitsland - Nordhorn,TS 49-7231
+0605706,BRW,Duitsland - Nordhorn,HW 49-7251
+0605714,BRW,Duitsland - Gildehaus,TS 49-7431
+0605716,BRW,Duitsland - Lage,TS 49-7831
+0605717,BRW,Duitsland - Gronau,TS 49-7531
+0605719,BRW,Duitsland - Gronau,AL 49-7551
+0605727,BRW,Duitsland - Alstätte,TS 49-7731
+0605801,BRW,Enter,Kazernetechniek
+0605802,BRW,Enter,Lichtkrant
+0605805,BRW,Goor,Lichtkrant
+0605809,BRW,Haaksbergen,Kazernetechniek
+0605813,BRW,Delden,Lichtkrant
+0605817,BRW,Markelo,Lichtkrant
+0605821,BRW,Borne,Lichtkrant
+0605825,BRW,Oldenzaal,Kazernetechniek
+0605826,BRW,Oldenzaal,Lichtkrant
+0605829,BRW,Losser,Lichtkrant
+0605833,BRW,Denekamp,Kazernetechniek
+0605837,BRW,Tubbergen,Kazernetechniek
+0605901,BRW,Hengelo Centrum,Kazernetechniek
+0605905,BRW,Hengelo Noord,Kazernetechniek
+0605909,BRW,Borne,Lichtkrant
+0605912,BRW,Borne,Kazernetechniek
+0605913,BRW,De Lutte,Lichtkrant
+0605917,BRW,Ootmarsum,Lichtkrant
+0605921,BRW,Almelo,Kazernetechniek
+0605922,BRW,Almelo,Lichtkrant
+0605923,BRW,Almelo,Kazernetechniek WO
+0605933,BRW,Enschede-Centrum,Kazernetechniek
+0605937,BRW,Enschede Noord,Kazernetechniek
+0605941,BRW,Boekelo,Lichtkrant
+0605945,BRW,Glanerbrug,Kazernetechniek
+0605965,BRW,Den Ham,Lichtkrant
+0605969,BRW,Vroomshoop,Kazernetechniek
+0605973,BRW,Vriezenveen,Kazernetechniek
+0605974,BRW,Vriezenveen,Lichtkrant
+0605977,BRW,Rijssen,Kazernetechniek
+0605978,BRW,Rijssen,Lichtkrant
+0605981,BRW,Holten,Kazernetechniek
+0605982,BRW,Holten,Lichtkrant
+0605985,BRW,Hellendoorn,Kazernetechniek
+0605986,BRW,Hellendoorn,Lichtkrant
+0605989,BRW,Nijverdal,Kazernetechniek
+0605990,BRW,Nijverdal,Lichtkrant
+0605993,BRW,Weerselo,Lichtkrant
+0605997,BRW,Wierden,Kazernetechniek
+0605998,BRW,Wierden,Lichtkrant
+0623060,AMBU,MK Oost-Nederland,Monitor Twente
+0623061,AMBU,MK Oost-Nederland,Infocode ZCC Twente
+0623501,AMBU,Regionaal,Medisch Manager Ambulancezorg
+0623594,AMBU,Regionaal,Calamiteitenteam
+0623599,AMBU,Regionaal,CBRN Team
+0623711,AMBU,Regionaal,Directeur Publieke Gezondheid (GHOR)
+0623809,AMBU,Regionaal,OvD-G (GHOR)
+0623831,AMBU,Regionaal,NRK Noodhulp-Team UGS
+0623832,AMBU,Regionaal,NRK Noodhulp-Team UGS
+0623833,AMBU,Regionaal,NRK Noodhulp-Team UGS Enschede
+0623834,AMBU,Regionaal,NRK Noodhulp-Team UGS Oldenzaal
+0623840,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg (GHOR)
+0623850,AMBU,Regionaal,Geneeskundig Functionaris (GHOR)
+0623870,AMBU,Regionaal,OvD-G CoPI
+0623899,AMBU,Regionaal,NRK Noodhulp-Teams (proef-alarm)
+0623999,AMBU,Regionaal,Proefalarm
+0633000,POL,Politie Oost Nederland,Forensische Opsporing (Verkeer)
+0633093,POL,OC-P,Persinformatie

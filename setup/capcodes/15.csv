@@ -1,0 +1,328 @@
+capcode,discipline,locatie/divisie,beschrijving
+1500000,BRW,Regionaal,Management BRW
+1500004,BRW,Regionaal,Strandcoördinator
+1500007,BRW,Regionaal,Monitorcode STH
+1500012,BRW,Regionaal,Quick Response Team
+1500013,BRW,Regionaal,Nationaal Crisiscentrum
+1500014,BRW,Regionaal,GRIP Infocode
+1500015,BRW,Regionaal,GRIP Monitorcode
+1500020,BRW,Regionaal,Hoofdofficier van Dienst 2
+1500021,BRW,Regionaal,Hoofdofficier van Dienst 1
+1500022,BRW,Regionaal,Commandant van Dienst
+1500032,BRW,GMK,Piket Calamiteitencoordinator
+1500040,BRW,Regionaal,Monteur van Dienst
+1500041,BRW,Regionaal,Team Collegiale Ondersteuning
+1500046,BRW,GMK,Calamiteitencoördinator
+1500049,BRW,Regionaal,Piket ICT
+1500050,BRW,Regionaal,OvD-1
+1500051,BRW,Regionaal,OvD Maatregelen
+1500052,BRW,Regionaal,OvD-2
+1500053,BRW,Regionaal,OvD-5
+1500054,BRW,Regionaal,OvD-3
+1500055,BRW,Regionaal,OvD-4
+1500060,BRW,Regionaal,Informatiemanager CoPI
+1500061,BRW,Regionaal,Informatiemanager ROT
+1500063,BRW,Regionaal,Leider ROT/Operationeel Leider
+1500064,BRW,Regionaal,GEO informatiemanager CoPI
+1500065,BRW,BRW Haaglanden/Hollands Midden,Adviseur Gevaarlijke Stoffen ROT
+1500066,BRW,Regionaal,Informatiecoördinator ROT
+1500071,BRW,Regionaal,Woordvoerder
+1500075,BRW,Regionaal,Persinformatie Brandweer Den Haag
+1500080,BRW,BRW Haaglanden/Hollands Midden,Adviseur Gevaarlijke Stoffen
+1500081,BRW,Regionaal,Hoofd Ondersteuning
+1500083,BRW,Regionaal,Preventie Inspecteur van Dienst
+1500084,BRW,Regionaal,Coördinator Verkenningseenheden
+1500085,BRW,Regionaal,Team Brandonderzoek
+1500087,BRW,BRW Haaglanden (Rijswijk),Team Digitale Verkenning
+1500090,BRW,BRW Haaglanden (Rijswijk),Brand Als Specialisme team (BAS) (infocode)
+1500091,BRW,BRW Haaglanden (Rijswijk),Brand Als Specialisme team (BAS) Inzetcode)
+1500121,BRW,Regionaal,Duinwachter Dunea
+1500122,GMK,Den Haag,Liaison DCMR Rotterdam
+1500123,BRW,Regionaal,Boswachter Staatsbosbeheer Hollands Duin
+1500124,BRW,Regionaal,Amsterdamse Waterleidingduinen (Boswachter)
+1500126,BRW,Regionaal,Zuid Hollands Landschap (Boswachter)
+1500130,BRW,Regionaal,Bouw- en Woningtoezicht Gemeente Westland
+1500140,BRW,Den Haag-Archipel,Kazernealarm + 24 uursdienst
+1500141,BRW,Leidschendam-Voorburg,Kazernealarm + 24 uursdienst
+1500142,BRW,Den Haag-Centrum,Kazernealarm + 24 uursdienst
+1500143,BRW,De Lier,Kazernetechniek
+1500144,BRW,Delft,Kazernealarm + 24 uursdienst
+1500145,BRW,Den Hoorn,Kazernetechniek
+1500147,BRW,Honselersdijk,Kazernetechniek
+1500148,BRW,Den Haag-Laak,Kazernealarm + 24 uursdienst
+1500149,BRW,Den Haag-Leidschenveen,Kazernealarm + 24 uursdienst
+1500150,BRW,Den Haag-Loosduinen,Kazernealarm + 24 uursdienst
+1500151,BRW,Maasdijk,Kazernetechniek
+1500152,BRW,Maasland,Kazernetechniek
+1500153,BRW,Monster,Kazernetechniek
+1500154,BRW,Naaldwijk,Kazernetechniek
+1500155,BRW,Zoetermeer-Oosterheem,Kazernealarm + 24 uursdienst
+1500156,BRW,Pijnacker,Kazernealarm + 24 uursdienst
+1500157,BRW,Zoetermeer-Stadshart,Kazernealarm + 24 uursdienst
+1500158,BRW,Scheveningen,Kazernealarm + 24 uursdienst
+1500159,BRW,Schipluiden,Kazernetechniek
+1500160,BRW,'s-Gravenzande,Kazernetechniek
+1500161,BRW,Rijswijk,Kazernealarm + 24 uursdienst
+1500162,BRW,Wassenaar,Kazernealarm + 24 uursdienst
+1500163,BRW,Waterdingen,Kazernetechniek
+1500171,BRW,Den Hoorn,Postalarm
+1500180,BRW,Den Hoorn,Ploegchef
+1500181,BRW,Schipluiden,Ploegchef
+1500182,BRW,Maasland,Ploegchef
+1500183,BRW,De Lier,Ploegchef
+1500184,BRW,'s-Gravenzande,Ploegchef
+1500185,BRW,Honselersdijk,Ploegchef
+1500186,BRW,Maasdijk,Ploegchef
+1500187,BRW,Naaldwijk,Ploegchef
+1500188,BRW,Monster,Ploegchef
+1500189,BRW,Wateringen,Ploegchef
+1500191,BRW,Den Haag-Centrum,Duikploegleider
+1500192,BRW,Den Haag-Centrum,Duikploegleider WO 9610
+1500193,BRW,Delft,Duikploegleider
+1500195,BRW,Honselersdijk,Bezetting HA
+1500196,BRW,BRW,Infocode Motor Ondersteuning Brandweer
+1500197,BRW,Den Haag Centrum,Brandweer Motor 9660
+1500198,BRW,Den Haag Centrum,Brandweer Motor 9661
+1500199,BRW,Den Haag Centrum,Brandweer Motor 9662
+1500201,BRW,Den Haag Laak,Reserve DA 15-9601
+1500210,BRW,Loosduinen,Adembeschermingsvoertuig 7782
+1500232,BRW,De Lier,Postalarm
+1500235,BRW,De Lier,Chauffeurs/Kraanbedieners HV-KR
+1500236,BRW,De Lier,Chauffeurs HA
+1500252,BRW,'s-Gravenzande,Postalarm
+1500254,BRW,'s-Gravenzande,Ploeg A
+1500255,BRW,'s-Gravenzande,Ploeg B
+1500258,BRW,'s-Gravenzande,Verkenningseenheid IBGS
+1500280,BRW,Honselersdijk,FloraHolland - groep
+1500292,BRW,Maasdijk,Postalarm
+1500293,BRW,Maasdijk,Ploegchef
+1500294,BRW,Maasdijk,Verkenningseenheid
+1500301,BRW,Honselersdijk,Postalarm
+1500306,BRW,Schipluiden,Postalarm
+1500307,BRW,Maasland,Postalarm
+1500312,BRW,Naaldwijk,Postalarm
+1500314,BRW,Naaldwijk,Chauffeurs
+1500332,BRW,Monster,Postalarm
+1500337,BRW,Monster,Bezetting HA
+1500352,BRW,Wateringen,Postalarm
+1500354,BRW,Wateringen,Logistiek Ploeg A
+1500355,BRW,Wateringen,Logistiek Ploeg A
+1500358,BRW,Wateringen,Verkenningseenheid
+1500401,BRW,Maasdijk,First Responders
+1500431,BRW,Wassenaar,Repressieve Kantoor Dienst
+1500432,BRW,Wassenaar,Ploeg 1
+1500433,BRW,Wassenaar,Ploeg 2
+1500434,BRW,Wassenaar,Ploeg 3
+1500435,BRW,Wassenaar,Ploeg 4
+1500436,BRW,Wassenaar,Ploeg 5
+1500438,BRW,Wassenaar,Verkenningseenheid Gevaarlijke Stoffen
+1500439,BRW,Wassenaar,Postalarm
+1500440,BRW,Wassenaar,Chauffeurs HA
+1500441,BRW,Wassenaar,Ploegchef
+1500530,BRW,Den Haag,OvD Bevolkingszorg
+1500534,BRW,Pijnacker-Nootdorp,OvD Bevolkingzorg
+1500536,BRW,Westland,OvD Bevolkingzorg
+1500537,BRW,Zoetermeer,OvD Bevolkingzorg
+1500589,BRUG,MKB Den Haag,iTel Alert Alarmeringssysteem
+1500590,BRW,Specialisme Technische Hulpverlening,STH Noord: Team Leider VR Fryslân standplaats Drachten
+1500591,BRW,Specialisme Technische Hulpverlening,STH Noord: Team VR Fryslân standplaats Drachten
+1500592,BRW,Specialisme Technische Hulpverlening,STH Oost: Team Leider VR Ijsselland standplaats Zwolle
+1500593,BRW,Specialisme Technische Hulpverlening,STH Oost: Team VR IJsselland standplaats Zwolle
+1500594,BRW,Specialisme Technische Hulpverlening,STH Midden: Team Leider VR Gelderland Zuid standplaats Beusichem
+1500595,BRW,Specialisme Technische Hulpverlening,STH Midden: Team VR Gelderland Zuid standplaats Beusichem
+1500596,BRW,Specialisme Technische Hulpverlening,STH West: Team Leider VR Hollands Midden standplaats Alphen aan den Rijn
+1500597,BRW,Specialisme Technische Hulpverlening,STH West: Team VR Hollands Midden standplaats Alphen aan den Rijn. (Coördinerend regio)
+1500598,BRW,Specialisme Technische Hulpverlening,STH Zuid: Team Leider VR Midden -en West Brabant standplaats Tilburg.
+1500599,BRW,Specialisme Technische Hulpverlening,STH Zuid: Team VR Midden -en West Brabant standplaats Tilburg.
+1500601,BRW,Regionaal,Achterwacht (Persoonlijk)
+1500602,BRW,Regionaal,Achterwacht (Persoonlijk)
+1500900,BRW,Regionaal,Informatiemanager Team Bevolkingszorg
+1500901,BRW,Wassenaar,First Responders
+1500902,BRW,Regionaal,Informatiemanager Beleidsteam
+1500903,BRW,Regionaal,Communicatieadviseur ROT
+1500904,BRW,Regionaal,Hoofd Taakorganisatie Communicatie
+1500905,BRW,Regionaal,Omgevingsanalist Communicatie
+1500906,BRW,Den Haag,OVD bevolkingzorg
+1500907,BRW,Rijswijk/Delft,OVD bevolkingzorg
+1500908,BRW,Leidschendam-Voorburg,OVD bevolkingzorg
+1500910,BRW,Wassenaar,OVD bevolkingzorg
+1500923,BRW,Midden Delfland,OVD bevolkingzorg
+1500924,BRW,Midden Delfland,Beheer Openbare Ruimte Gemeente Midden Delfland (piket)
+1500926,BRW,Den Haag,Bouw- en Woningtoezicht
+1500927,BRW,Rijswijk,Bouw- en Woningtoezicht
+1500929,BRW,Zoetermeer,Bouw- en Woningtoezicht
+1500932,BRW,Regionaal,Hoogheemraadschap Delfland
+1500933,BRW,Regionaal,Algemeen Commandant Brandweer
+1500934,BRW,Regionaal,Hoofd Ondersteuning Brandweerzorg
+1500938,BRW,Regionaal,Omgevingsdienst Haaglanden
+1500940,BRW,Regionaal,Regionaal Militair Operationeel Adviseur
+1500941,BRW,Regionaal,OvD Defensie
+1500950,RB,Regionale Voorziening Reddingsbrigades,Monitorcode
+1500960,RB,Leidschendam,Lifeguards
+1500965,RB,Zoetermeer,Lifeguards
+1500970,RB,Wassenaar,Lifeguards
+1500971,RB,Den Haag-Zuid,Lifeguards Strand-Zuid
+1500972,RB,Den Haag,OvD-Reddingsbrigade
+1500973,RB,Den Haag-Noord,Lifeguards Strand-Noord
+1500975,RB,Monster,Strandploeg
+1500977,RB,Monster,Lifeguards
+1500978,RB,Monster,OvD-Reddingsbrigade
+1500980,RB,'s-Gravenzande,Strandgroep
+1500982,RB,'s-Gravenzande,Lifeguards
+1500983,RB,'s-Gravenzande,OvD-Reddingsbrigade
+1500984,RB,Noordwijk,Lifeguards
+1500985,RB,Katwijk,OvD-Reddingsbrigade
+1500986,RB,Katwijk,Lifeguards
+1500987,RB,Noordwijk,OvD-Reddingsbrigade
+1500989,RB,Zandvoort,Alarmploeg
+1500990,KNRM,Reddingstation Katwijk,Bemanning Reddingboot Edith Grondel
+1500991,KNRM,Reddingstation Katwijk,Walploeg
+1500992,KNRM,Reddingstation Noordwijk,Bemanning Reddingboot Paul Johannes
+1500993,KNRM,Reddingstation Noordwijk,Walploeg
+1500994,KNRM,Reddingstation Scheveningen,Bemanning Reddingboot Kitty Roosmale Nepveu
+1500995,KNRM,Reddingstation Scheveningen,Walploeg
+1500996,KNRM,Reddingstation Ter Heijde,Bemanning Reddingboot George Dijkstra
+1500997,KNRM,Reddingstation Ter Heijde,Walploeg
+1500998,RB,Reddingsbrigade Den-Haag,Strandcoördinator
+1500999,MKA,MKA Haaglanden,Monitorcode KNRM
+1520001,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 101
+1520002,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 102
+1520003,AMBU,GGD Haaglanden (locatie Harnaschpolder),RAV High Care Ambulance 103
+1520004,AMBU,GGD Haaglanden (locatie Harnaschpolder),RAV High Care Ambulance 104
+1520005,AMBU,GGD Haaglanden (locatie Harnaschpolder),RAV High Care Ambulance 105
+1520006,AMBU,GGD Haaglanden (locatie Harnaschpolder),RAV High Care Ambulance 106
+1520007,AMBU,GGD Haaglanden (locatie Harnaschpolder),RAV High Care Ambulance 107
+1520008,AMBU,GGD Haaglanden (locatie Harnaschpolder),RAV High Care Ambulance 108
+1520009,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 109
+1520010,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 110
+1520011,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 111
+1520012,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 112
+1520013,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 113
+1520014,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 114
+1520015,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 115
+1520016,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 116
+1520017,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 117
+1520018,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 118
+1520019,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 119
+1520020,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 120
+1520021,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 121
+1520022,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 122
+1520023,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 123
+1520024,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 124
+1520025,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 125
+1520026,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 126
+1520027,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 127
+1520028,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 128
+1520029,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 129
+1520030,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 130
+1520031,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 131
+1520032,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 132
+1520033,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 133
+1520034,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),RAV High Care Ambulance 134
+1520038,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 138
+1520039,AMBU,GGD Haaglanden (locatie Waldorpstraat),RAV High Care Ambulance 139
+1520041,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 141
+1520042,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 142
+1520043,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 143
+1520044,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 144
+1520045,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 145
+1520046,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 146
+1520047,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 147
+1520048,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),RAV High Care Ambulance 148
+1520049,AMBU,Ambulancezorg Zoetermeer (Broeder de Vries),RAV High Care Ambulance 149
+1520100,AMBU,Regionaal,Infocode alle eenheden
+1520105,AMBU,Regionaal,piket Nederlandse Rode Kuis
+1520120,AMBU,Regionaal,Piket Schouwarts Den Haag
+1520121,AMBU,Regionaal,Schouwartsen Den Haag (Groepscode)
+1520122,AMBU,Regionaal,Piket Arts Infectieziekten
+1520123,AMBU,Regionaal,Artsen Infectieziekten (Groepscode)
+1520124,AMBU,Regionaal,Piket Crisiscoordinator
+1520125,AMBU,Regionaal,Crisiscoordinatoren (Groepscode)
+1520126,AMBU,Regionaal,Piket Schouwarts Regio
+1520127,AMBU,Regionaal,Schouwartsen Regio (Groepscode)
+1520128,AMBU,Regionaal,Procesleider Jeugd
+1520132,AMBU,Regionaal,Informatiecoördinator GGD
+1520199,AMBU,Regionaal,Onbekende code
+1520200,AMBU,HAPS,Dienstdoende arts (verschillende voertuignummers)
+1520201,AMBU,"GGD Haaglanden, lokatie Waldorpstraat",Middencomplexe zorg 15-211
+1520202,AMBU,"GGD Haaglanden, lokatie Waldorpstraat",Middencomplexe zorg 15-212
+1520203,AMBU,"GGD Haaglanden, lokatie Waldorpstraat",Middencomplexe zorg 15-213
+1520204,AMBU,"GGD Haaglanden, lokatie Waldorpstraat",Middencomplexe zorg 15-214
+1520205,AMBU,Regionaal,NRK Noodhulp-Team UGS Rijswijk
+1520206,AMBU,Regionaal,NRK Noodhulp-Team UGS Nootdorp
+1520207,AMBU,Regionaal,NRK Noodhulp-Team UGS Den Haag
+1520208,AMBU,Regionaal,NRK Noodhulp-Team UGS Westland
+1520209,AMBU,Regionaal,NRK Noodhulp-Team UGS Delft
+1520210,AMBU,Regionaal,Hoofd Noodhulpteam Hollands Midden
+1520211,AMBU,Regionaal,NRK Noodhulp-Team UGS Alphen
+1520212,AMBU,Regionaal,NRK Noodhulp-Team UGS Gouda
+1520213,AMBU,Regionaal,NRK Noodhulp-Team UGS Leiden
+1520214,AMBU,Regionaal,NRK Noodhulp-Team UGS
+1520215,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-215
+1520216,AMBU,Regionaal,NRK Noodhulp-Team Coördinator
+1520220,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-220
+1520221,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-221
+1520222,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-222
+1520223,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-223
+1520224,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-224
+1520225,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-225
+1520226,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-226
+1520227,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-227
+1520228,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-228
+1520229,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-229
+1520230,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-230
+1520231,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-231
+1520232,AMBU,Witte Kruis Den Haag (locatie Mangaanstraat),Middencomplexe zorg 15-232
+1520240,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),Middencomplexe zorg 15-240
+1520241,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),Middencomplexe zorg 15-241
+1520242,AMBU,Ambulancezorg Zoetermeer (locatie Blauw-roodlaan),Middencomplexe zorg 15-242
+1520301,AMBU,Regionaal,Crisiscoördinator
+1520319,AMBU,GHOR Haaglanden,OvD-G Evenementen
+1520320,AMBU,GHOR Haaglanden,OvDG
+1520321,AMBU,GHOR Haaglanden,OvDG-Maatregelen
+1520322,AMBU,GHOR Haaglanden,Geneeskundig Adviseur Gevaarlijke Stoffen
+1520334,AMBU,Regionaal,OvD-G (groepscode)
+1520335,AMBU,Regionaal,Algemeen Commandant-Geneeskundige Zorg (AC-GZ)
+1520340,AMBU,Regionaal,Rapid Responder Haaglanden 15-340
+1520341,AMBU,Regionaal,Rapid Responder Haaglanden 15-341
+1520342,AMBU,Regionaal,Rapid Responder Haaglanden 15-342
+1520343,AMBU,Regionaal,Rapid Responder Haaglanden 15-343 (SPARR) Spoedarts Rapid Responder)
+1520344,AMBU,Regionaal,Rapid Responder Witte Kruis 15-344 (SPARR) Spoedarts Rapid Responder)
+1520345,AMBU,Regionaal,Rapid Responder Haaglanden 15-345
+1520346,AMBU,Regionaal,Rapid Responder Haaglanden 15-346
+1520349,AMBU,Regionaal,Algemeen Commandant Gezondheidszorg
+1520350,AMBU,Regionaal,Directeur Publieke Gezondheid (piket)
+1520364,AMBU,Regionaal,Directeur Publieke Gezondheid (groepscode)
+1520365,AMBU,Regionaal,Management MKA
+1520372,AMBU,Onbekend,Onbekende code
+1520380,AMBU,GHOR Haaglanden,Hoofd Actiecentrum
+1520381,AMBU,GHOR Haaglanden,Hoofd Informatie Gezondheidszorg (Groepscode)
+1520390,AMBU,RAV,Medisch Manager Ambulancezorg
+1520391,AMBU,MKA,Medisch Managers Ambulancezorg groepsoproep)
+1520401,AMBU,GHOR Haaglanden,PSHOR (PsychoSociale Hulpverlening bij Ongevallen en Rampen)
+1520621,AMBU,Regionaal,Rapid Responder Haaglanden 15-321 (reserve)
+1520622,AMBU,Regionaal,Ambulancemotor 15-322
+1520627,AMBU,Regionaal,Psycholance van BAS Ambulance Service 15-627
+1520997,AMBU,Meldkamer Ambulancezorg,Monitorcode KNRM Water/strand/duin incident.
+1520998,AMBU,Meldkamer Ambulancezorg,Monitorcode Basic Life Support (BLS)
+1520999,AMBU,Meldkamer Ambulancezorg,Monitorcode Advanced Life Support (ALS)
+1530001,POL,MKP,Beheer Meldkamerdomein (1e piket)
+1530002,POL,MKP,Beheer Meldkamerdomein (2e piket)
+1530003,POL,GMK,Management Beheer Meldkamersystemen
+1530005,POL,MKP,Multidisciplinair adviseur C2000 (MAC GMK)
+1530030,POL,MKP,Teamleider Explosieven Veiligheid (TEV)
+1530611,POL,Regionaal,Forensische Opsporing Verkeer
+1530615,POL,Regionaal,Forensische Opsporing
+1530616,POL,Regionaal,Digitale Expertise
+1530617,POL,Regionaal,Team Explosieven Veiligheid (TEV)
+1530623,POL,Regionaal,"Vreemdelingenpolitie, Identificatie en Mensenhandel) (Handhaven)"
+1530624,POL,Regionaal,"Vreemdelingenpolitie, Identificatie en Mensenhandel) (Opsporen)"
+1530633,POL,Regionaal,Onderhandelaar
+1530637,POL,Regionaal,Team Crisisbeheersing
+1530641,POL,Regionaal,Persvoorlichting Haaglanden
+1530659,POL,Regionaal,Eenheidsleiding
+1530660,POL,Regionaal,Algemeen Commandant
+1530664,POL,Regionaal,Hoofd Ondersteuning
+1530668,POL,Regionaal,Staf GBO (Staf Grootschalig- en Bijzonder Optreden)
+1530676,POL,Regionaal,PiketCentralist
+1530875,POL,OC-P,Persinformatie

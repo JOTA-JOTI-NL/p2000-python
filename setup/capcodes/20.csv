@@ -1,0 +1,793 @@
+capcode,discipline,locatie/divisie,beschrijving
+1200012,BRW,Regionaal,Algemeen Commandant Brandweerzorg ROT Oost
+1200019,BRW,Regionaal,Adviseur Industriele Veiligheid
+1200025,BRW,Regionaal,Liaison Defensie
+1200030,BRW,Regionaal,Directeur VR - bij Grip 3 en 4
+1200031,BRW,Regionaal,OvD Communicatie/Piket Persvoorlichting
+1200033,BRW,Regionaal,Communicatie Adviseur CoPI
+1200034,BRW,Regionaal,Regionaal Adviseur Natuurbrand
+1200035,BRW,Regionaal,Commandant van Dienst
+1200036,BRW,Regionaal,HOvD West
+1200037,BRW,Regionaal,HOvD Oost
+1200038,BRW,Regionaal,Adviseur Gevaarlijke Stoffen-1
+1200039,BRW,Regionaal,OvD Baronie Noord
+1200041,BRW,Regionaal,OvD Baronie Zuid
+1200042,BRW,Regionaal,Algemeen Commandant Brandweerzorg ROT West
+1200043,BRW,Regionaal,OvD Markiezaten Oost
+1200044,BRW,Regionaal,OvD Hart van Brabant Oost
+1200045,BRW,Regionaal,OvD Markiezaten West
+1200046,BRW,Regionaal,Informatiecoordinator GBT/RBT
+1200049,BRW,Regionaal,OvD Hart van Brabant West
+1200051,BRW,Regionaal,Adviseur Gevaarlijke Stoffen-2
+1200055,BRW,Almkerk,Verkenningseenheid
+1200058,BRW,Rijsbergen,Verkenningseenheid IBGS
+1200062,BRW,Alphen,Verkenningseenheid IBGS
+1200064,BRW,Dongen,Verkenningseenheid
+1200069,BRW,Oudenbosch,Verkenningseenheid
+1200070,BRW,Hilvarenbeek,Verkenningseenheid
+1200071,BRW,Lage Zwaluwe,Verkenningseenheid IBGS
+1200074,BRW,Zevenbergen,Verkenningseenheid
+1200078,BRW,Halsteren,Verkenningseenheid
+1200079,BRW,Hoogerheide,Verkenningseenheid IBGS
+1200081,BRW,Tilburg-Centrum,Afdeling Techniek Verbindingen
+1200082,BRW,Regionaal,Secretaris ROT
+1200083,BRW,Regionaal,STH Zuid (Tilburg) (Staf)
+1200084,BRW,Regionaal,STH Zuid (Tilburg) (Leiding)
+1200085,BRW,Regionaal,STH Zuid (Tilburg) (Team)
+1200086,BRW,Oosterhout,Chauffeurs CO-MU
+1200089,BRW,Regionaal,Informatiemanager CoPI Oost (Infocode)
+1200091,BRW,Regionaal,Informatiemanager Oost CoPI Infocode
+1200092,BRW,Regionaal,Informatiemanager CoPI West) (Alarmcode
+1200094,BRW,Regionaal,Informatiemanager ROT (Alarmcode)
+1200095,BRW,Regionaal,Informatiemanager ROT
+1200097,BRW,Regionaal,Informatiecoordinator ROT West (Alarmcode)
+1200101,BRW,Regionaal,OvD-Bevolkingszorg Altena/Dongemond
+1200102,BRW,Regionaal,AOV Altena
+1200104,BRW,Wijk en Aalburg,Ondersteuners GW
+1200118,BRW,Genderen,Team Alarm
+1200119,BRW,Genderen,Oppervlaktewater Redteam
+1200127,BRW,Wijk en Aalburg,Bezetting HA
+1200128,BRW,Wijk en Aalburg,Team Alarm
+1200129,BRW,Wijk en Aalburg,Contactpersoon
+1200133,BRW,Regionaal,AOOV Baarle-Nassau / Alphen-Chaam / Gilze-Rijen
+1200134,BRW,Regionaal,OvD-Bz Baarle-Nassau / Alphen-Chaam / Gilze-Rijen
+1200135,BRW,Chaam,Kazernecentrale
+1200141,BRW,Alphen,Contactpersoon
+1200148,BRW,Alphen,Team Alarm
+1200158,BRW,Chaam,Team Alarm
+1200161,BRW,Baarle-Nassau,Contactpersoon
+1200162,BRW,Regionaal,AOV Gemeente Baarle-Nassau
+1200168,BRW,Baarle,First Responders
+1200175,BRW,Chaam,Bezetting GM + BPA
+1200176,BRW,Baarle,Bezetting TK-G + WTA
+1200178,BRW,Baarle,Team Alarm
+1200182,BRW,Regionaal,AOV Baronie-Zuid
+1200183,BRW,Regionaal,OvD-Bevolkingszorg Baronie-Zuid
+1200185,BRW,Breda,Kazernecentrale
+1200187,BRW,Prinsenbeek,25 kV Team Spoor
+1200191,BRW,Breda,Bevelvoerder van Dienst
+1200201,BRW,Breda,Vrije Beroeps Ploeg A
+1200202,BRW,Breda,Vrije Beroeps Ploeg B
+1200203,BRW,Breda,Vrije Beroeps Ploeg C
+1200205,BRW,Breda,Reddingskussen
+1200206,BRW,Breda,Bezetting WBH
+1200207,BRW,Breda,Bedieners PBA
+1200208,BRW,Breda,Bezetting ABH
+1200209,BRW,Breda,Bezetting HA
+1200210,BRW,Breda,Bezetting GM
+1200211,BRW,Breda,Ventilatoraanhanger
+1200213,BRW,Prinsenbeek,Contactpersoon
+1200218,BRW,Prinsenbeek,Team Alarm
+1200223,BRW,Teteringen,Team Alarm
+1200224,BRW,Teteringen,Incitent Team
+1200233,BRW,Ulvenhout,Contactpersoon
+1200238,BRW,Ulvenhout,Team Alarm
+1200241,BRW,Regionaal,AOV Waalwijk
+1200242,BRW,Regionaal,AOV Loon op Zand
+1200243,BRW,Regionaal,AOV Dongen
+1200244,BRW,Regionaal,OvD-Bz Dongen/Loon op Zand/Waalwijk
+1200252,BRW,Dongen,Contactpersoon
+1200253,BRW,Dongen,Incitent Team
+1200256,BRW,Dongen,Team Alarm
+1200268,BRW,'s-Gravenmoer,Team Alarm
+1200272,BRW,Regionaal,AOV Drimmelen
+1200286,BRW,Made,Contactpersoon
+1200287,BRW,Made,Bezetting BRV
+1200288,BRW,Made,Team Alarm
+1200289,BRW,Made,Oppervlaktewater Redteam
+1200298,BRW,Lage Zwaluwe,Team Alarm
+1200299,BRW,Lage Zwaluwe,Contactpersoon
+1200306,BRW,Terheijden,Bezetting KW
+1200308,BRW,Terheijden,Team Alarm
+1200309,BRW,Terheijden,Contactpersoon
+1200310,BRW,Regionaal,OvD-Bevolkingszorg De Markiezaten
+1200312,BRW,Regionaal,AOV de Markiezaten
+1200313,BRW,Roosendaal,Bezetting Kazernecentrale
+1200314,BRW,Bergen op Zoom,Bezetting Kazernecentrale
+1200315,BRW,Bergen op Zoom,Bezetting KW
+1200316,BRW,Bergen op Zoom,Logistiek & Verzorging West
+1200318,BRW,Bergen op Zoom,Specialistische Eenheid IBGS
+1200319,BRW,Bergen op Zoom,Bezetting WT
+1200322,BRW,Bergen op Zoom,Bevelvoerder van Dienst
+1200323,BRW,Bergen op Zoom,Kazernealarm SB
+1200326,BRW,Bergen op Zoom,Vrijwilligers
+1200331,BRW,Bergen op Zoom,Kazernealarm ORT
+1200333,BRW,Bergen op Zoom,Bezetting TS
+1200334,BRW,Bergen op Zoom,Bezetting HV-KR
+1200335,BRW,Bergen op Zoom,Bezetting HW
+1200336,BRW,Steenbergen,Ondersteuners WTH-NWS
+1200337,BRW,Bergen op Zoom,Kazernealarm PA/VKT-NB
+1200342,BRW,Roosendaal,Bevelvoerder van Dienst
+1200344,BRW,Roosendaal,Contactpersoon
+1200345,BRW,Roosendaal,Bezetting HA
+1200346,BRW,Roosendaal,Oppervlaktewater Redteam
+1200349,BRW,Roosendaal,Vrije Beroeps
+1200350,BRW,Roosendaal,Bezetting 1e TS
+1200351,BRW,Roosendaal,Bezetting HV
+1200352,BRW,Roosendaal,Bezetting HW
+1200354,BRW,Roosendaal,Bezetting DAT
+1200355,BRW,Roosendaal,Bezetting VZH
+1200356,BRW,Roosendaal,Vrijwilligers
+1200369,BRW,Halsteren,Team Alarm
+1200379,BRW,Wouw,Team Alarm
+1200383,BRW,Regionaal,OvD-Bevolkingszorg Etten-Leur
+1200385,BRW,Etten-Leur,Kazernecentrale
+1200389,BRW,Etten-Leur,Team Alarm
+1200393,BRW,Etten-Leur,Bezetting KW
+1200394,BRW,Etten-Leur,Bezetting WS
+1200395,BRW,Etten-Leur,Bezetting HW
+1200398,BRW,Etten-Leur,Contactpersoon
+1200418,BRW,Geertruidenberg,Team Alarm
+1200423,BRW,Raamsdonksveer,Contactpersoon
+1200427,BRW,Raamsdonksveer,Bezetting HV-KR
+1200428,BRW,Raamsdonksveer,Team Alarm
+1200432,BRW,Regionaal,Adviseur Openbare Orde en Veiligheid Gilze-Rijen (Alarmcode)
+1200440,BRW,KLu Vliegbasis Gilze-Rijen,Bezetting TS
+1200444,BRW,Rijen,Ondersteuners WTH-NWS
+1200445,BRW,Rijen,Bezetting HA
+1200446,BRW,Rijen,Contactpersoon
+1200447,BRW,Rijen,Bezetting GW
+1200448,BRW,Rijen,Team Alarm
+1200451,BRW,Gilze,Contactpersoon
+1200458,BRW,Gilze,Team Alarm
+1200462,BRW,Regionaal,AOOV Goirle
+1200463,BRW,Regionaal,OvD-Bevolkingszorg Goirle-Hilvarenbeek-Oisterwijk
+1200473,BRW,Goirle,Contactpersoon
+1200476,BRW,Goirle,Team Alarm
+1200488,BRW,Riel,Team Alarm
+1200505,BRW,Oudenbosch,Veetakelploeg
+1200506,BRW,Oudenbosch,Contactpersoon
+1200508,BRW,Oudenbosch,Team Alarm
+1200518,BRW,Hoeven,Team Alarm
+1200519,BRW,Hoeven,Contactpersoon
+1200527,BRW,Oud-Gastel,Contactpersoon
+1200528,BRW,Oud-Gastel,Team Alarm
+1200529,BRW,Oud-Gastel,Bezetting KW
+1200541,BRW,Hilvarenbeek,Contactpersoon
+1200545,BRW,Hilvarenbeek,Bezetting DAT
+1200547,BRW,Hilvarenbeek,Team Alarm
+1200552,BRW,Diessen,Ondersteuners WTH-NWS
+1200553,BRW,Diessen,Bezetting HA
+1200558,BRW,Diessen,Team Alarm
+1200572,BRW,Kaatsheuvel,Contactpersoon
+1200577,BRW,Kaatsheuvel,Team Alarm
+1200579,BRW,Kaatsheuvel,Bezetting DAT Ploeg 1
+1200580,BRW,Kaatsheuvel,Bezetting DAT Ploeg 2
+1200585,BRW,Loon op Zand,Bezetting DAT
+1200588,BRW,Loon op Zand,Team Alarm
+1200592,BRW,Zevenbergen,Chauffeurs HA
+1200594,BRW,Moerdijk,Functionaris Havenschap Moerdijk
+1200595,BRW,Zevenbergen,Kazernecentrale
+1200596,BRW,Zevenbergen,Bezetting GW
+1200598,BRW,Zevenbergen,First Responders
+1200608,BRW,Moerdijk,Team Alarm
+1200617,BRW,Fijnaart,Bezetting PBA
+1200618,BRW,Fijnaart,Team Alarm
+1200619,BRW,Fijnaart,Contactpersoon
+1200628,BRW,Klundert,Team Alarm
+1200629,BRW,Klundert,Contactpersoon
+1200638,BRW,Standdaarbuiten,Team Alarm
+1200639,BRW,Standdaarbuiten,Contactpersoon
+1200645,BRW,Willemstad,Bezetting BRV 1663 Furie 4
+1200646,BRW,Willemstad,Oppervlaktewater Redteam
+1200648,BRW,Willemstad,Team Alarm
+1200649,BRW,Willemstad,Contactpersoon
+1200657,BRW,Zevenbergen,Team Alarm
+1200658,BRW,Zevenbergen,Contactpersoon
+1200665,BRW,Oisterwijk,Kazernecentrale
+1200672,BRW,Oisterwijk,Contactpersoon
+1200676,BRW,Oisterwijk,Team Alarm
+1200677,BRW,Oisterwijk,Bezetting KW
+1200682,BRW,Moergestel,Contactpersoon
+1200688,BRW,Moergestel,Team Alarm
+1200689,BRW,Moergestel,Oppervlaktewater Redteam
+1200692,BRW,Regionaal,AOOV Oosterhout/Drimmelen/Geertruidenberg
+1200695,BRW,Oosterhout,Kazernecentrale
+1200701,BRW,Oosterhout,Bevelvoerder van Dienst
+1200702,BRW,Oosterhout,Bezetting HW Ploeg B
+1200703,BRW,Oosterhout,Bezetting HW Ploeg A
+1200704,BRW,Oosterhout,Contactpersoon
+1200705,BRW,Oosterhout,Ondersteuners WTH-NWS Ploeg A
+1200706,BRW,Oosterhout,Ploeg A
+1200707,BRW,Oosterhout,Ploeg B
+1200708,BRW,Oosterhout,Dagdienst
+1200709,BRW,Oosterhout,Bezetting HA Ploeg A
+1200710,BRW,Oosterhout,Bezetting HA Ploeg B
+1200711,BRW,Oosterhout,Ondersteuners WTH-NWS Ploeg B
+1200712,BRW,Oosterhout,Bezetting HW Dagdienst
+1200716,BRW,Den Hout,Bezetting BOH
+1200717,BRW,Den Hout,Bezetting TS-BO
+1200718,BRW,Den Hout,Team Alarm
+1200728,BRW,Dorst,Team Alarm
+1200729,BRW,Dorst,Contactpersoon
+1200739,BRW,Rucphen,Team Alarm
+1200741,BRW,Rucphen,Contactpersoon
+1200743,BRW,Rucphen,Ondersteuners LIH
+1200744,BRW,Rucphen,Ondersteuners WTH-NWS
+1200745,BRW,Rucphen,Bezetting HA
+1200746,BRW,Rucphen,Bezetting COH-MU
+1200747,BRW,Rucphen,Bezetting DAT
+1200763,BRW,Steenbergen,Bezetting GW
+1200764,BRW,Steenbergen,Bezetting HA
+1200765,BRW,Nieuw-Vossemeer,Oppervlaktewater Redteam
+1200768,BRW,Steenbergen,Team Alarm
+1200774,BRW,Dinteloord,Bezetting BRV
+1200775,BRW,Dinteloord,Schipper BRV 1663 Furie 4
+1200778,BRW,Dinteloord,Team Alarm
+1200788,BRW,Kruisland,Team Alarm
+1200798,BRW,Nieuw-Vossemeer,Team Alarm
+1200799,BRW,Nieuw-Vossemeer,Contactpersoon
+1200802,BRW,Regionaal,Adviseur Openbare Orde en Veiligheid Tilburg
+1200803,BRW,Regionaal,OvD-Bevolkingszorg Tilburg
+1200804,BRW,Tilburg-Centrum,Bezetting Kazernecentrale
+1200806,BRW,Tilburg-Centrum,Logistiek&Ondersteuning Oost
+1200807,BRW,Tilburg-Centrum,Verkeersregelaars
+1200808,BRW,Tilburg-Centrum,Kermisteam intern toezicht
+1200809,BRW,Tilburg-Centrum,TS4 Kermis
+1200812,BRW,Tilburg-Centrum,Bevelvoerder van Dienst
+1200817,BRW,Tilburg-Centrum,Springploeg
+1200818,BRW,Tilburg-Centrum,Bezetting 1e TS
+1200821,BRW,Tilburg-Vossenberg,Bezetting SB
+1200822,BRW,Tilburg-Centrum,Bezetting HA
+1200823,BRW,Tilburg-Centrum,VD-MOP
+1200825,BRW,Tilburg-Centrum,Herbezetting
+1200826,BRW,Tilburg-Centrum,Bezetting COH Oost
+1200827,BRW,Tilburg-Centrum,Bezetting VZH
+1200832,BRW,Tilburg-Vossenberg,Bevelvoerder van Dienst
+1200833,BRW,Tilburg-Vossenberg,Specialistische Eenheid IBGS
+1200837,BRW,Tilburg-Vossenberg,Springbemanning
+1200857,BRW,Berkel-Enschot,Team Alarm
+1200861,BRW,Udenhout,Postcommandant
+1200867,BRW,Udenhout,Team Alarm
+1200873,BRW,Waalwijk,Bezetting HW
+1200876,BRW,Waalwijk,Bezetting Kazernecentrale
+1200881,BRW,Waalwijk,Bevelvoerder van Dienst
+1200882,BRW,Waalwijk,Contactpersoon
+1200883,BRW,Waalwijk,Dagdienst
+1200884,BRW,Waalwijk,Ondersteuners WTH-NWS
+1200885,BRW,Waalwijk,Bezetting HA
+1200886,BRW,Waalwijk,Team Alarm
+1200891,BRW,Sprang-Capelle,Kazernecoordinator
+1200895,BRW,Sprang-Capelle,Oppervlaktewater Redteam
+1200898,BRW,Sprang-Capelle,Team Alarm
+1200902,BRW,Waspik,Contactpersoon
+1200907,BRW,Waspik,Team Alarm
+1200908,BRW,Waspik,Veetakelploeg
+1200916,BRW,Regionaal,Coordinator OvD-Bz
+1200918,BRW,Haaren,Team Alarm
+1200925,BRW,Werkendam,HV Team Alarm
+1200928,BRW,Werkendam,Team Alarm
+1200929,BRW,Werkendam,Contactpersoon
+1200937,BRW,Dussen,Incitent Team
+1200938,BRW,Dussen,Team Alarm
+1200939,BRW,Dussen,Contactpersoon
+1200947,BRW,Hank,Contactpersoon
+1200948,BRW,Hank,Team Alarm
+1200949,BRW,Hank,Oppervlaktewater Redteam
+1200950,BRW,Hank,Bezetting SI
+1200958,BRW,Sleeuwijk,Team Alarm
+1200972,BRW,Hoogerheide,Contactpersoon
+1200973,BRW,Vliegbasis Woensdrecht,Bezetting TS
+1200974,BRW,Hoogerheide,Ondersteuners WTH-NWS
+1200976,BRW,Hoogerheide,Bezetting HA
+1200978,BRW,Hoogerheide,Team Alarm
+1200982,BRW,Huijbergen,Contactpersoon
+1200988,BRW,Huijbergen,Team Alarm
+1200998,BRW,Ossendrecht,Team Alarm
+1201007,BRW,Putte,Team Alarm
+1201028,BRW,Woudrichem,Team Alarm
+1201029,BRW,Woudrichem,Oppervlaktewater Redteam
+1201037,BRW,Almkerk,Team Alarm
+1201039,BRW,Almkerk,Contactpersoon
+1201048,BRW,Giessen,Team Alarm
+1201049,BRW,Giessen,Contactpersoon
+1201053,BRW,Regionaal,AOOV Zundert
+1201054,BRW,Regionaal,OvD-Bevolkingszorg Zundert
+1201062,BRW,Zundert,Contactpersoon
+1201063,BRW,Zundert,Bezetting WT
+1201068,BRW,Zundert,Team Alarm
+1201072,BRW,Rijsbergen,Contactpersoon
+1201078,BRW,Rijsbergen,Team Alarm
+1201080,BRW,Moerdijk Haven,Bevelvoerder van Dienst
+1201081,BRW,Moerdijk Haven,Team Alarm
+1201082,BRW,Moerdijk Haven,Bezetting SB
+1201087,BRW,Moerdijk Haven,Herbezettingspool
+1201088,BRW,Moerdijk Haven,Kazernealarm
+1201090,BRW,Moerdijk Haven,Contactpersoon
+1201104,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+1201105,BRW,Regionaal,Sectielid ROT/BZ gemeente
+1201107,BRW,Regionaal,Adviseur Crisiscommunicatie RBT
+1201108,BRW,Regionaal,Hoofd Taakorganisatie Crisiscommunicatie
+1201109,BRW,Regionaal,Communicatieadviseur Taakorganisatie Crisiscommunicatie
+1201110,BRW,Regionaal,Communicatieadviseur ROT
+1201112,BRW,Regionaal,Hoofd Informatie Bz (Infocode)
+1201113,BRW,Regionaal,Informatiecoordinator Bz (Alarmcode)
+1201116,BRW,Regionaal,Milieudienst
+1201118,BRW,Regionaal,Centraal Registratie- en Informatie Bureau (CRIB)
+1201119,BRW,Regionaal,Informatiecoordinator BeleidsTeam
+1201120,BRW,Regionaal,Termijnzorg
+1201171,BRW,Regionaal,OvD-B Markiezaten West (OvD-B Copi)
+1201172,BRW,Regionaal,OvD-B Markiezaten West (Stafsectie ROT)
+1201180,BRW,Regionaal,OvD-B Baronie Noord (Stafsectie ROT)
+1201196,BRW,Regionaal,OvD-B Baronie Zuid (Stafsectie ROT)
+1201220,BRW,Regionaal,Piket Team Brandonderzoek (Infocode)
+1201221,BRW,Regionaal,Piket Team Brandonderzoek (Alarmcode)
+1201223,BRW,Regionaal,Team Digitale Verkenning (Teamleider)
+1201224,BRW,Oosterhout,Team Digitale Verkenning (Teamleden)
+1201226,BRW,Regionaal,Team Collegiale Opvang
+1201230,BRW,Regionaal,Waterschap Aa en Maas
+1201231,BRW,Regionaal,Waterschap De Dommel
+1201232,BRW,Regionaal,Sluiswachter Spieringsluis Werkendam
+1201233,BRW,Regionaal,Sluiswachter Biesboschsluis Bandijk Werkendam
+1201234,BRW,Regionaal,Natuurbeheerder Biesbosch
+1201236,BRW,Regionaal,Brabant Water (waterleidingbedrijf)
+1201237,BRW,Regionaal,Natuurbeheerders West
+1201238,BRW,Regionaal,Natuurbeheerders Oost
+1201239,BRW,Regionaal,Waterschap Brabantse Delta
+1201240,BRW,Regionaal,OvD-Water RWS Dordrecht
+1201241,BRW,Regionaal,Verkeerscentrale RWS Dordrecht
+1201242,BRW,Regionaal,Waterschap Rivierenland
+1201300,BRW,Breda,Kazernetechniek
+1201301,BRW,Breda,Kazernetechniek 1e TS
+1201302,BRW,Breda,Kazernetechniek 2e TS
+1201303,BRW,Breda,Kazernetechniek SB
+1201304,BRW,Breda,Kazernetechniek HW
+1201305,BRW,Breda,Kazernetechniek GM
+1201306,BRW,Breda,Kazernetechniek HV-KR
+1201307,BRW,Breda,Kazernetechniek WO
+1201308,BRW,Breda,Kazernetechniek Specialistische voertuigen
+1201321,BRW,Etten-Leur,Kazernetechniek
+1201322,BRW,Hoogerheide,Kazernetechniek
+1201323,BRW,Steenbergen,Kazernetechniek
+1201324,BRW,Almkerk,Kazernetechniek
+1201325,BRW,Dussen,Kazernetechniek
+1201326,BRW,Hank,Kazernetechniek
+1201331,BRW,Tilburg-Centrum,Kazernetechniek 1e TS
+1201332,BRW,Tilburg-Centrum,Kazernetechniek HW
+1201333,BRW,Tilburg-Centrum,Kazernetechniek HV-KR
+1201334,BRW,Tilburg-Centrum,Kazernetechniek 2e TS
+1201335,BRW,Tilburg-Centrum,Kazernetechniek HA
+1201336,BRW,Tilburg-Centrum,Kazernealarm
+1201341,BRW,Tilburg-Vossenberg,Kazernetechniek TS
+1201342,BRW,Tilburg-Vossenberg,Kazernetechniek HW
+1201343,BRW,Tilburg-Vossenberg,Kazernetechniek HA
+1201345,BRW,Tilburg-Vossenberg,Kazernetechniek ORT
+1201346,BRW,Tilburg-Vossenberg,Kazernealarm
+1201350,BRW,Veen,Aansturing Slagboom Recreatiegebied Veense Put
+1201351,BRW,Waalwijk,Kazernetechniek
+1201352,BRW,Alphen,Kazernetechniek
+1201353,BRW,Chaam,Kazernetechniek
+1201354,BRW,Raamsdonksveer,Kazernetechniek
+1201355,BRW,Oudenbosch,Kazernetechniek
+1201356,BRW,Regionaal,Loon op Zand (Slagbomen Midden Brabantweg - N261)
+1201357,BRW,Regionaal,Gilze (Poorten bedrijventerrein Midden-Brabant Poort)
+1201358,BRW,Regionaal,Hoogerheide (Slagboom Bungalowpark Familyland)
+1201359,BRW,Regionaal,Hoogerheide (Slagboom Bungalowpark Familyland)
+1201360,BRW,Regionaal,Willemstad (Wegblokkers Vesting)
+1201363,BRW,Gilze,Kazernetechniek
+1201364,BRW,Oosterhout,Kazernetechniek
+1201367,BRW,Regionaal,Halsteren (Bollards Bedrijventerrein Oude Molen - Canadaweg)
+1201368,BRW,Standdaarbuiten,Kazernetechniek
+1201369,BRW,Regionaal,Halsteren (Bollards Bedrijventerrein Oude Molen - De Vang)
+1201370,BRW,Regionaal,Roosendaal (Slagboom appartementencomplex de Bortendonc)
+1201372,BRW,Bergen op Zoom,Kazernetecniek 2e TS
+1201378,BRW,Regionaal,Wegblokker Geertruidenberg-Centrum
+1201379,BRW,Bergen op Zoom,Kazernealarm
+1201382,BRW,Roosendaal,Kazernetechniek 2e TS
+1201389,BRW,Roosendaal,Kazernealarm
+1201390,BRW,Raamsdonksveer,Wegblokkers Keizersdijk/Knip
+1201391,BRW,Raamsdonksveer,Wegblokkers Hoofdstraat
+1201400,BRW,Halsteren,TS 1532
+1201401,BRW,Bergen op Zoom,TS 1531
+1201402,BRW,Bergen op Zoom,HV-KR 1571
+1201403,BRW,Bergen op Zoom,SB 1561
+1201404,BRW,Bergen op Zoom,HW 1551
+1201405,BRW,Bergen op Zoom,DAT 1503
+1201406,BRW,Roosendaal,TST 1342
+1201407,BRW,District Markiezaten,Reserve TS 1031
+1201408,BRW,Roosendaal,HV-KR 1371
+1201409,BRW,Roosendaal,HW 1351
+1201410,BRW,Putte,TST 1443
+1201411,BRW,Bergen op Zoom,TST 1543
+1201412,BRW,Wouw,TST 1344
+1201413,BRW,Ossendrecht,TST 1442
+1201414,BRW,Hoogerheide,TST 1444
+1201415,BRW,Bergen op Zoom,WT 1461
+1201416,BRW,Huijbergen,TST 1441
+1201417,BRW,Oudenbosch,TS 1231
+1201418,BRW,Hoeven,TS 1233
+1201419,BRW,Oud Gastel,TS 1234
+1201420,BRW,Moerdijk,TS 1132
+1201421,BRW,Moerdijk Haven,TS-IB 1133
+1201422,BRW,Moerdijk Haven,SB 1161
+1201424,BRW,Klundert,TS 1131
+1201425,BRW,Standdaarbuiten,TS 1135
+1201426,BRW,District Markiezaten,Reserve TS 1032
+1201427,BRW,Zevenbergen,TS 1139
+1201428,BRW,Willemstad,TS 1136
+1201429,BRW,Fijnaart,TS 1130
+1201431,BRW,Steenbergen,TS 1634
+1201433,BRW,Nieuw-Vossemeer,TS 1633
+1201434,BRW,Kruisland,TS1632
+1201435,BRW,Dinteloord,TS 1631
+1201436,BRW,Dinteloord,HV 1672
+1201437,BRW,Roosendaal,TS 1331
+1201440,BRW,Breda,TS 3132
+1201441,BRW,Breda,TS 3133
+1201442,BRW,District Markiezaten,Reserve 20-3032
+1201443,BRW,Breda,WO 3111
+1201444,BRW,Breda,HW 3151
+1201445,BRW,Breda,SB 3161
+1201446,BRW,Breda,HV 3171
+1201447,BRW,Prinsenbeek,GM 3185
+1201448,BRW,Prinsenbeek,TS 3131
+1201449,BRW,Teteringen,TS 3134
+1201450,BRW,Ulvenhout,TST 3145
+1201451,BRW,Etten-Leur,TS 3432
+1201452,BRW,Etten-Leur,TS 3431
+1201454,BRW,Etten-Leur,TS AL 3451
+1201455,BRW,Rucphen,DA 3301
+1201457,BRW,Rucphen,TST 3342
+1201458,BRW,Rucphen,HA 3381
+1201459,BRW,Zundert,TS 3231
+1201460,BRW,Zundert,WT 3261
+1201461,BRW,Rijsbergen,TS 3232
+1201462,BRW,Haaren,TS 9531
+1201467,BRW,Made,PM-OR 5405
+1201468,BRW,Made,TS 5432
+1201469,BRW,Terheijden,TS 5434
+1201470,BRW,Terheijden,HV 5471
+1201471,BRW,Lage Zwaluwe,TS 5431
+1201472,BRW,District Hart van Brabant,Reserve TS 7031
+1201473,BRW,Raamsdonksveer,TS 5233
+1201474,BRW,Geertruidenberg,TS 5231
+1201475,BRW,District Baronie,Reserve TS 5031
+1201476,BRW,Oosterhout,TST 5344
+1201478,BRW,Oosterhout,TS 5335
+1201479,BRW,Oosterhout,HW 5351
+1201480,BRW,Den Hout,TS 5331
+1201481,BRW,Wijk en Aalburg,TS 5132
+1201483,BRW,Werkendam,TS 5534
+1201485,BRW,Sleeuwijk,TS 5533
+1201486,BRW,District Baronie,Reserve TS 5032
+1201487,BRW,Hank,TS 5532
+1201488,BRW,Dussen,TS 5531
+1201489,BRW,District Baronie,Reserve TS 5034
+1201490,BRW,Woudrichem,TS 5634
+1201492,BRW,Genderen,TS 5131
+1201494,BRW,Dorst,TS 5332
+1201495,BRW,Almkerk,TS 5631
+1201496,BRW,Giessen,TS 5632
+1201500,BRW,Dongen,TS 7331
+1201502,BRW,Loon op Zand,DV-PA 7203
+1201503,BRW,Loon op Zand,TS 7242
+1201504,BRW,Kaatsheuvel,PM 7201
+1201505,BRW,Kaatsheuvel,TS 7241
+1201506,BRW,Sprang-Capelle,TS 7133
+1201507,BRW,'s-Gravenmoer,TS 7332
+1201508,BRW,Waalwijk,TS 7132
+1201509,BRW,Waalwijk,TS 7131
+1201510,BRW,Waalwijk,HW 7151
+1201511,BRW,Waspik,TS 7134
+1201513,BRW,Gilze,TS 7431
+1201514,BRW,Rijen,TS 7432
+1201517,BRW,Alphen,TS 7531
+1201518,BRW,Chaam,TS 7532
+1201520,BRW,Baarle-Nassau,WT 7661
+1201521,BRW,District Baronie,Reserve TS 7033
+1201522,BRW,Baarle-Nassau,TST 7641
+1201524,BRW,District Baronie,Reserve TS 7032
+1201533,BRW,Tilburg Centrum,TS 9433
+1201534,BRW,Tilburg Centrum,HV 9471
+1201535,BRW,Tilburg Centrum,HW 9452
+1201536,BRW,Hilvarenbeek,DV-PA 9203
+1201537,BRW,Tilburg Centrum,TS 9435
+1201538,BRW,Tilburg Vossenberg,HW 9451
+1201539,BRW,Ulvenhout,TST 9446
+1201540,BRW,Berkel-Enschot,TS 9431
+1201541,BRW,Goirle,TS 9331
+1201542,BRW,Riel,TST 9342
+1201543,BRW,Hilvarenbeek,TST 9241
+1201544,BRW,Diessen,TS 9232
+1201545,BRW,Oisterwijk,TST 9141
+1201546,BRW,Oisterwijk,TS 9132
+1201547,BRW,Moergestel,TS 9133
+1201548,BRW,Tilburg Centrum,Reserve TS 9031
+1201550,BRW,Zevenbergen,HV 1171
+1201551,BRW,Roosendaal,PM 1302
+1201552,BRW,District Markiezaten,Reserve TST 1045
+1201553,BRW,District Markiezaten,Reserve TST 1033
+1201554,BRW,Informatiemanager CoPI,DV-IMC 0095
+1201555,BRW,Informatiemanager CoPI,DV-IMC 0096
+1201557,BRW,Oosterhout,MCU 0099
+1201565,BRW,OvD Hart van Brabant Oost,DA 9092
+1201566,BRW,Tilburg Vossenberg,SB 9461
+1201567,BRW,Kaatsheuvel,HV 7271
+1201568,BRW,OvD Hart van Brabant West,DA 7092
+1201569,BRW,OvD Midden/Zuid,DA 7093
+1201570,BRW,OvD Markiezaten West,DA 1092
+1201571,BRW,OvD Markiezaten Oost,DA 3093
+1201572,BRW,HOvD -Oost,DA 0091
+1201573,BRW,HOvD West,DA 0092
+1201574,BRW,Adviseur Gevaarlijke Stoffen AGS1,DB 0021
+1201575,BRW,Adviseur Gevaarlijke Stoffen AGS2,DB 0022
+1201576,BRW,OvD Baronie Zuid,DB 3092
+1201577,BRW,OvD Reserve,DA 0098
+1201578,BRW,OvD Baronie Noord,DA 5092
+1201580,BRW,Raamsdonksveer,HV-KR 5271
+1201581,BRW,Roosendaal,HA 1381
+1201582,BRW,Hoogerheide,HA 1382
+1201583,BRW,Hoogerheide,HA 1481
+1201584,BRW,Bergen op Zoom,HA 1581
+1201585,BRW,Steenbergen,HA 1681
+1201586,BRW,Breda,HA 3182
+1201587,BRW,Rucphen,HA 3381
+1201589,BRW,Wijk en Aalburg,HA 5181
+1201590,BRW,Oosterhout,HA 5381
+1201592,BRW,Rijen,HA 7481
+1201594,BRW,Tilburg Centrum,HA 9481
+1201595,BRW,Waalwijk,HA-T 7181
+1201596,BRW,Oud Gastel,PM/SL 1262
+1201597,BRW,Bergen op Zoom,PM 1562
+1201598,BRW,Etten-Leur,GM 3461
+1201601,BRW,Breda Cobra cutter,CB 0064
+1201658,BRW,Roosendaal,Kazernecentrale
+1201659,BRW,Zevenbergen,Kazernecentrale
+1201660,BRW,Etten-Leur,Kazernecentrale
+1201707,BRW,Regionaal,Informatiemanagers CoPI Oost (Groepscode)
+1201711,BRW,Regionaal,Plotter (ROT)
+1201712,BRW,Regionaal,Geo Informatie Medewerker CoPI Oost
+1201713,BRW,Regionaal,Geo Informatie Medewerker ROT West
+1201714,BRW,Regionaal,Geo Informatie Medewerker CoPI West
+1201721,BRW,Tilburg Centrum,Functionaris Logistiek Oost
+1201722,BRW,Roosendaal,Functionaris Logistiek West
+1201725,BRW,Regionaal,Kazernecoordinator Oost
+1201726,BRW,Regionaal,Kazernecoordinator West
+1201727,BRW,Regionaal,Commandant Uitgangsstelling Oost
+1201728,BRW,Regionaal,Commandant Uitgangsstelling West
+1201801,BRW,Regionaal,Regionaal Operationeel Leider (Infocode)
+1201802,BRW,Regionaal,Regionaal Operationeel Leider (Alarmcode)
+1201803,BRW,Regionaal,Coordinator Verkenningseenheden/Meetplanleider
+1201811,BRW,Regionaal,PreCom koppeling MKB Oost Brabant
+1201812,BRW,Regionaal,Interregionale Alarmering door MKB Oost Brabant
+1201813,BRW,Regionaal,Precom koppeling MKB Oost Nederland
+1201814,BRW,Regionaal,Alarmering door MKB Oost Nederland
+1201815,BRW,Regionaal,PreCom koppeling
+1201816,BRW,Regionaal,Alarmcode
+1201896,BRW,Regionaal,Directeur
+1201920,BRW,Almkerk,Lichtkrant
+1201921,BRW,Alphen,Lichtkrant
+1201922,BRW,Baarle-Nassau,Lichtkrant
+1201923,BRW,Bergen op Zoom,Lichtkrant
+1201924,BRW,Berkel-Enschot,Lichtkrant
+1201925,BRW,Breda,Lichtkrant
+1201926,BRW,Chaam,Lichtkrant
+1201927,BRW,Den Hout,Lichtkrant
+1201928,BRW,Diessen,Lichtkrant
+1201929,BRW,Dinteloord,Lichtkrant
+1201930,BRW,Dongen,Lichtkrant
+1201931,BRW,Dorst,Lichtkrant
+1201932,BRW,Dussen,Lichtkrant
+1201933,BRW,Etten-Leur,Lichtkrant
+1201934,BRW,Fijnaart,Lichtkrant
+1201935,BRW,Geertruidenberg,Lichtkrant
+1201936,BRW,Genderen,Lichtkrant
+1201937,BRW,Giessen,Lichtkrant
+1201938,BRW,Gilze,Lichtkrant
+1201939,BRW,Goirle,Lichtkrant
+1201940,BRW,'s-Gravenmoer,Lichtkrant
+1201941,BRW,Halsteren,Lichtkrant
+1201942,BRW,Hank,Lichtkrant
+1201943,BRW,Hilvarenbeek,Lichtkrant
+1201944,BRW,Halderberge,Lichtkrant
+1201945,BRW,Huijbergen,Lichtkrant
+1201946,BRW,Kaatsheuvel,Lichtkrant
+1201947,BRW,Klundert,Lichtkrant
+1201948,BRW,Kruisland,Lichtkrant
+1201949,BRW,Lage Zwaluwe,Lichtkrant
+1201950,BRW,Loon op Zand,Lichtkrant
+1201951,BRW,Made,Lichtkrant
+1201952,BRW,Moerdijk,Lichtkrant
+1201953,BRW,Moergestel,Lichtkrant
+1201954,BRW,Nieuw-Vossemeer,Lichtkrant
+1201955,BRW,Oisterwijk,Lichtkrant
+1201956,BRW,Oosterhout,Lichtkrant
+1201957,BRW,Ossendrecht,Lichtkrant
+1201958,BRW,Oudenbosch,Lichtkrant
+1201959,BRW,Oud Gastel,Lichtkrant
+1201960,BRW,Prinsenbeek,Lichtkrant
+1201961,BRW,Putte,Lichtkrant
+1201962,BRW,Raamsdonksveer,Lichtkrant
+1201963,BRW,Riel,Lichtkrant
+1201964,BRW,Rijen,Lichtkrant
+1201965,BRW,Rijsbergen,Lichtkrant
+1201966,BRW,Roosendaal,Lichtkrant
+1201967,BRW,Rucphen,Lichtkrant
+1201968,BRW,Sleeuwijk,Lichtkrant
+1201969,BRW,Sprang-Capelle,Lichtkrant
+1201970,BRW,Moerdijk (Post Industrieterrein),Lichtkrant
+1201971,BRW,Standdaarbuiten,Lichtkrant
+1201972,BRW,Steenbergen,Lichtkrant
+1201973,BRW,Terheijden,Lichtkrant
+1201974,BRW,Teteringen,Lichtkrant
+1201975,BRW,Tilburg-Centrum,Lichtkrant
+1201976,BRW,Tilburg-Vossenberg,Lichtkrant
+1201977,BRW,Udenhout,Lichtkrant
+1201978,BRW,Ulvenhout,Lichtkrant
+1201979,BRW,Waalwijk,Lichtkrant
+1201980,BRW,Waspik,Lichtkrant
+1201982,BRW,Haaren,Lichtkrant
+1201983,BRW,Wijk en Aalburg,Lichtkrant
+1201984,BRW,Willemstad,Lichtkrant
+1201985,BRW,Hoogerheide,Lichtkrant
+1201986,BRW,Woudrichem,Lichtkrant
+1201987,BRW,Wouw,Lichtkrant
+1201988,BRW,Moerdijk,Lichtkrant
+1201989,BRW,Zundert,Lichtkrant
+1201998,BRW,MKB,Proefalarm
+1201999,BRW,MKB,Monitorcode
+1220000,AMBU,GHOR Midden- en West-Brabant,Algemeen Commandant Geneeskundige Zorg) (Alarmcode)
+1220001,AMBU,GHOR Midden- en West-Brabant,Directeur Publieke Gezondheid
+1220002,AMBU,GHOR Midden- en West-Brabant,Algemeen Commandant Geneeskundigezorg
+1220003,AMBU,GHOR Midden- en West-Brabant,Hoofd Informatie & Hoofd Ondersteuning
+1220004,AMBU,GHOR Midden- en West-Brabant,Hoofd Informatie & Hoofd Ondersteuning GRIP 1 Infocode
+1220029,AMBU,GHOR Midden- en West-Brabant,GAGS Zuid Nederland
+1220030,AMBU,RAV Brabant Midden-West-Noord,Team Collegiale Ondersteuning (TCO)
+1220031,AMBU,RAV Brabant Midden-West-Noord,TCO Laag- en Middencomplexe zorg
+1220234,AMBU,RAV Brabant Midden-West-Noord,Middencomplexe zorg 20-234
+1220235,AMBU,RAV Brabant Midden-West-Noord,Middencomplexe zorg 20-235
+1220327,AMBU,RAV Brabant Midden-West-Noord,Ambulancemotorondersteuning 20-327
+1220329,AMBU,RAV Brabant Midden-West-Noord,Ambulancemotorondersteuning 20-329
+1220357,AMBU,RAV Brabant Midden-West-Noord,Rapid Responder 20-357
+1220429,AMBU,RAV Brabant Midden-West-Noord,Middencomplexe zorg 20-229
+1220449,AMBU,RAV Brabant Midden-West-Noord,Ambulance 20-149
+1220451,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS Waalwijk
+1220452,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS
+1220453,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS Tilburg
+1220454,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS
+1220455,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS Etten-Leur
+1220456,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS Hoogerheide
+1220457,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS
+1220458,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS
+1220459,AMBU,RAV Brabant Midden-West-Noord,NRK Noodhulp-Team Alarm UGS
+1220499,AMBU,Meldkamer Ambulancezorg Bergen op Zoom,Monitorcode
+1220601,AMBU,Bergen op Zoom,Ambulance 20-141
+1220602,AMBU,Bergen op Zoom,Ambulance 20-142
+1220603,AMBU,Bergen op Zoom,Ambulance 20-143
+1220604,AMBU,Bergen op Zoom,Ambulance 20-144
+1220605,AMBU,Roosendaal,Ambulance 20-145
+1220606,AMBU,Roosendaal,Ambulance 20-146
+1220607,AMBU,Roosendaal,Ambulance 20-147
+1220608,AMBU,Roosendaal,Ambulance 20-148
+1220609,AMBU,Roosendaal,Ambulance 20-149
+1220611,AMBU,RAV Brabant Midden-West-Noord,Zorgambulances 20-421
+1220612,AMBU,RAV Brabant Midden-West-Noord,Middencomplexe zorg 20-231
+1220619,AMBU,RAV Brabant Midden-West-Noord,Middencomplexe zorg 20-232
+1220620,AMBU,Breda,Ambulance 20-167
+1220621,AMBU,Breda,Ambulance 20-161
+1220622,AMBU,Breda,Ambulance 20-162
+1220623,AMBU,Breda,Ambulance 20-163
+1220624,AMBU,Breda,Ambulance 20-164
+1220625,AMBU,Breda,Ambulance 20-165
+1220626,AMBU,Breda,Ambulance 20-166
+1220627,AMBU,Breda,Ambulance 20-167
+1220628,AMBU,Breda,Ambulance 20-168
+1220630,AMBU,Oosterhout,Ambulance 20-170
+1220631,AMBU,Oosterhout,Ambulance 20-171
+1220632,AMBU,Oosterhout,Reserve Ambulance 20-172
+1220634,AMBU,Oosterhout,Ambulance 20-174
+1220635,AMBU,Waalwijk,Ambulance 20-194
+1220641,AMBU,Tilburg-Zuid,Ambulance 20-181
+1220642,AMBU,Tilburg-Zuid,Ambulance 20-182
+1220643,AMBU,Tilburg-Zuid,Ambulance 20-183
+1220644,AMBU,Tilburg-Zuid,Ambulance 20-184
+1220645,AMBU,Tilburg-Noord,Ambulance 20-185
+1220646,AMBU,Tilburg-Noord,Ambulance 20-189
+1220647,AMBU,Tilburg-Noord,Ambulance 20-187
+1220648,AMBU,Tilburg-Noord,Ambulance 20-188
+1220649,AMBU,Tilburg-Noord,Ambulance 20-186
+1220651,AMBU,Waalwijk,Ambulance 20-191
+1220652,AMBU,Waalwijk,Ambulance 20-192
+1220653,AMBU,Waalwijk,Ambulance 20-193
+1220708,AMBU,MKA Zeeland-West Brabant,Slagboom Halstersebaan/Camping Herelseheide Heerle
+1220711,AMBU,RAV Brabant Midden-West-Noord,Incident Response Team
+1220803,AMBU,GHOR Midden- en West-Brabant,OvD-G 20-803
+1220804,AMBU,GHOR Midden- en West-Brabant,OvD-G 20-804
+1220805,AMBU,GHOR Midden- en West-Brabant,OvD-G 20-805
+1220841,AMBU,RAV Brabant Midden-West-Noord,Rapid Responder 20-351
+1220842,AMBU,RAV Brabant Midden-West-Noord,Rapid Responder 20-352
+1220843,AMBU,RAV Brabant Midden-West-Noord,Rapid Responder 20-353
+1220844,AMBU,RAV Brabant Midden-West-Noord,Rapid Responder 20-354
+1220845,AMBU,RAV Brabant Midden-West-Noord,Rapid Responder 20-355
+1220938,AMBU,Waalwijk,Ambulance 20-195
+1220939,AMBU,RAV Brabant Midden-West-Noord,Middencomplexe zorg 20-233
+1220940,AMBU,RAV Brabant Midden-West-Noord,Ambulance 20-152
+1220941,AMBU,RAV Brabant Midden-West-Noord,Ambulance 20-151
+1220942,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-422
+1220943,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-423
+1220944,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-424
+1220945,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-425
+1220946,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-426
+1220947,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-427
+1220948,AMBU,RAV Brabant Midden-West-Noord,Laagcomplexe zorg 20-428
+123000?,POL,Politie Eenheid Zeeland-West-Brabant,Beheer
+1230065,BRW,BRW Midden- en West-Brabant,Infocode Zuid-Holland-Zuid
+1230066,POL,Politie Eenheid Zeeland-West-Brabant,Vooralarmering KNRM
+1230090,POL,Politie Eenheid Zeeland-West-Brabant,Piket Functionaris Korpsleideing
+1230100,POL,Politie Eenheid Zeeland-West-Brabant,Multidisciplinair Teamleider OC
+1230104,POL,Politie Eenheid Zeeland-West-Brabant,Teamleider GMK (Persoonlijk)
+1230111,POL,District De Markiezaten,Managementteam
+1230112,POL,District De Baronie,Managementteam
+1230114,POL,District Hart van Brabant,Managementteam
+1230115,POL,District Markiezaten,GRIP 1 (Infocode)
+1230116,POL,District Markiezaten,GRIP 2 (Alarmcode)
+1230117,POL,District Markiezaten,GRIP 3 (Alarmcode)
+1230121,POL,District De Baronie,Grote Brand (Infocode)
+1230122,POL,District De Baronie,Zeer Grote Brand (Infocode)
+1230123,POL,District De Baronie,Grote HV) (Infocode)
+1230124,POL,District De Baronie,Zeer Grote HV) (Infocode)
+1230125,POL,District De Baronie,GRIP 1 (Infocode)
+1230126,POL,District De Baronie,GRIP 2 (Alarmcode)
+1230141,POL,District Hart van Brabant,Grote Brand (Infocode)
+1230142,POL,District Hart van Brabant,Zeer Grote Brand (Infocode)
+1230143,POL,District Hart van Brabant,Grote HV) (Infocode)
+1230144,POL,District Hart van Brabant,Zeer Grote HV) (Infocode)
+1230145,POL,District Hart van Brabant,GRIP 1 (Infocode)
+1230146,POL,District Hart van Brabant,GRIP 2 (Alarmcode)
+1230147,POL,District Hart van Brabant,GRIP 3 (Alarmcode)
+1230151,POL,District De Markiezaten,Grote Brand (Infocode)
+1230152,POL,District De Markiezaten,Zeer Grote Brand (Infocode)
+1230153,POL,District De Markiezaten,Grote HV) (Infocode)
+1230154,POL,District De Markiezaten,Zeer Grote HV) (Infocode)
+1230160,POL,Politie Eenheid Zeeland-West-Brabant,Calamiteitencoordinator GMK Zeeland-West Brabant
+1230200,POL,Politie Eenheid Zeeland-West-Brabant,Persvoorlichting Districten Hart van Brabant en De Baronie
+1230201,POL,Politie Eenheid Zeeland-West-Brabant,Persvoorlichting District De Markiezaten
+1230260,POL,Politie Eenheid Zeeland-West-Brabant,Persvoorlichting
+1230261,POL,OC-P,Persinformatie (District De Markiezaten)
+1230262,POL,OC-P,Persinformatie (District De Baronie)
+1230264,POL,OC-P,Persinformatie (District Hart van Brabant)
+1230265,POL,Politie Eenheid Zeeland-West-Brabant,Persvoorlichting District Hart van Brabant / De Baronie
+1230266,POL,Politie Eenheid Zeeland-West-Brabant,Persvoorlichting District De Markiezaten
+1230270,POL,Politie Eenheid Zeeland-West-Brabant,Regionaal Milieuteam
+1230275,POL,Politie Eenheid Zeeland-West-Brabant,Piket DCMR/Omgevingsdienst Rotterdam
+1230301,POL,Politie Eenheid Zeeland-West-Brabant,Openbaar Ministerie
+1230302,POL,Politie Eenheid Zeeland-West-Brabant,Justitie
+1230501,POL,Politie Eenheid Zeeland-West-Brabant,Grip 1 (Infocode)
+1230502,POL,Politie Eenheid Zeeland-West-Brabant,Grip 1 (Alarmcode)
+1230503,POL,Politie Eenheid Zeeland-West-Brabant,Grip 2 (Infocode)
+1230504,POL,Politie Eenheid Zeeland-West-Brabant,Grip 2 (Alarmcode)
+1230505,POL,Politie Eenheid Zeeland-West-Brabant,Grip 3 (Infocode)
+1230506,POL,Politie Eenheid Zeeland-West-Brabant,Grip 3 (Alarmcode)
+1230507,POL,Politie Eenheid Zeeland-West-Brabant,Grip 4 (Infocode)
+1230508,POL,Politie Eenheid Zeeland-West-Brabant,Grip 4 (Alarmcode)
+1230509,POL,Politie Eenheid Zeeland-West-Brabant,Infocode Groot incident (Infocode)
+1230510,POL,Politie Eenheid Zeeland-West-Brabant,Alarmcode Groot incident (Alarmcode)
+1230511,POL,Politie Eenheid Zeeland-West-Brabant,Infocode Zeer Groot incident (Infocode)
+1230512,POL,Politie Eenheid Zeeland-West-Brabant,Alarmcode Zeer Groot incident (Alarmcode)
+1230513,POL,Politie Eenheid Zeeland-West-Brabant,Grote Hulpverlening (Infocode)
+1230514,POL,Politie Eenheid Zeeland-West-Brabant,Grote Hulpverlening (Alarmcode)
+1230900,POL,Politie Eenheid Zeeland-West-Brabant,Op- en afschalingscode
+1230902,POL,Politie Eenheid Zeeland-West-Brabant,District De Markiezaten Op- en afschalingscode
+1230903,POL,Politie Eenheid Zeeland-West-Brabant,de Baronie Op- en afschalingscode
+1230904,POL,Politie Eenheid Zeeland-West-Brabant,Hart van Brabant Op- en afschalingscode
+1230999,POL,Politie Eenheid Zeeland-West-Brabant,Monitorcode

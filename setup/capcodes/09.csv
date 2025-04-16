@@ -1,0 +1,731 @@
+capcode,discipline,locatie/divisie,beschrijving
+0706000,BRW,OCB,Infocode/Proefalarm
+0706001,BRW,OCB,Monitorcode
+0706002,BRW,Abcoude,Postcommandant
+0706003,BRW,Abcoude,Bevelvoerder van Dienst
+0706004,BRW,Abcoude,Postalarm
+0706005,BRW,Rijn & Venen,OvD (Rijn & Venen Noord)
+0706006,BRW,Abcoude,Noodalarmering
+0706007,BRW,Abcoude,AED Alarm
+0706009,BRW,Abcoude,Oppervlaktewater Redteam
+0706051,BRW,Amerongen,Postcommandant
+0706052,BRW,Amerongen,Ploeg 1
+0706053,BRW,Amerongen,Ploeg 2
+0706055,BRW,Amerongen,Bevelvoerder van Dienst
+0706056,BRW,Amerongen,COT
+0706057,BRW,Amerongen,Postalarm
+0706118,BRW,Eemland,OvD (Eemland-Zuid)
+0706119,BRW,Amersfoort-Centrum,Kazernealarm TS
+0706120,BRW,Amersfoort-Centrum,Kazernealarm AL
+0706121,BRW,Amersfoort-Centrum,Kazernealarm WO
+0706123,BRW,Amersfoort-Centrum,Dagdienst
+0706124,BRW,Amersfoort-Noord,Bezetting TS Dagdienst
+0706126,BRW,Amersfoort-Noord,Bevelvoerder van Dienst
+0706131,BRW,Amersfoort-Noord,Ploeg 1
+0706132,BRW,Amersfoort-Noord,Ploeg 2
+0706133,BRW,Amersfoort-Noord,Ploeg 3
+0706134,BRW,Amersfoort-Noord,Ploeg 4
+0706138,BRW,Amersfoort-Centrum,Noodalarmering
+0706139,BRW,Amersfoort-Noord,Noodalarmering
+0706140,BRW,Amersfoort-Centrum,Bevelvoerder van Dienst 24-uursdienst
+0706141,BRW,Amersfoort-Centrum,Bevelvoerder van Dienst
+0706145,BRW,Amersfoort-Centrum,Chauffeurs Quick Response Team
+0706146,BRW,Amersfoort-Centrum,Chauffeurs CO-MU
+0706147,BRW,Amersfoort-Centrum,Postalarm
+0706148,BRW,Eemland,"Piket Uitrusting, Materieel en Logistiek"
+0706231,BRW,Baarn,AED Alarm
+0706240,BRW,Baarn,Postalarm
+0706245,BRW,Baarn,Piketploeg Dagdienst
+0706246,BRW,Baarn,Bezetting TS
+0706247,BRW,Baarn,Bezetting Patientenvervoer
+0706248,BRW,Baarn,Bezetting HV
+0706249,BRW,Baarn,Bevelvoerder van Dienst
+0706251,BRW,Baarn,Noodalarmering
+0706317,BRW,Nieuwer Ter Aa,AED Alarm
+0706318,BRW,Kockengen,AED Alarm
+0706319,BRW,Breukelen,AED Alarm
+0706320,BRW,Breukelen,Postcommandant
+0706321,BRW,Breukelen,Postalarm
+0706322,BRW,Breukelen,Piketploeg 2
+0706323,BRW,Breukelen,Piketploeg 1
+0706325,BRW,Breukelen,Brugwachter
+0706327,BRW,Breukelen,Externe Diensten
+0706329,BRW,Nieuwer Ter Aa,Postcommandant
+0706330,BRW,Nieuwer Ter Aa,Postalarm
+0706331,BRW,Kockengen,Postalarm
+0706333,BRW,Kockengen,Bevelvoerder van Dienst
+0706334,BRW,Breukelen,Noodalarmering
+0706335,BRW,Nieuwer Ter Aa,Noodalarmering
+0706336,BRW,Kockengen,Noodalarmering
+0706337,BRW,Breukelen,Dagondersteuning
+0706338,BRW,Kockengen,Rietdak Brandbestrijdingsteam
+0706339,BRW,Breukelen,COT
+0706435,BRW,Binnensticht-Zeist-Bunnik,OvD-B
+0706436,BRW,Bunnik,AED Alarm
+0706437,BRW,Werhoven,AED Alarm
+0706440,BRW,Bunnik,Postalarm
+0706441,BRW,Werkhoven,Postalarm
+0706445,BRW,Bunnik,Noodalarmering
+0706446,BRW,Werkhoven,Noodalarmering
+0706447,BRW,Werkhoven,Rietdak Brandbestrijdingsteam
+0706448,BRW,Bunnik,Bevelvoerder van Dienst
+0706501,BRW,Bunschoten,AED Alarm
+0706504,BRW,Bunschoten,Bezetting BRV
+0706505,BRW,Bunschoten,COT
+0706507,BRW,Bunschoten,Bevelvoerder van Dienst
+0706508,BRW,Bunschoten,Duikploeg
+0706509,BRW,Bunschoten,Bezetting TS Ploeg 1
+0706510,BRW,Bunschoten,Bezetting TS Ploeg 2
+0706511,BRW,Bunschoten,Bezetting TS Ploeg 3
+0706512,BRW,Bunschoten,Dienstwisselcode
+0706513,BRW,Bunschoten,Postalarm
+0706514,BRW,Eemland,OvD (Eemland Noord)
+0706515,BRW,Bunschoten,Noodalarmering
+0706576,BRW,De Bilt,AED Alarm
+0706577,BRW,Bilthoven,AED Alarm
+0706578,BRW,Westbroek-Tienhoven,AED Alarm
+0706579,BRW,Groenekan,AED Alarm
+0706580,BRW,Maartensdijk,AED Alarm
+0706582,BRW,Binnensticht,OvD Binnensticht/Kromme Rijn
+0706583,BRW,De Bilt,Postalarm
+0706584,BRW,Bilthoven,Bezetting TS Ploeg 1
+0706585,BRW,Bilthoven,Bezetting TS Ploeg 2
+0706587,BRW,Bilthoven,Bevelvoerder van Dienst
+0706588,BRW,Bilthoven,Bezetting HA
+0706589,BRW,Bilthoven,Dagondersteuning
+0706590,BRW,Westbroek-Tienhoven,Postalarm
+0706591,BRW,Bilthoven,Bezetting ABH
+0706595,BRW,Maartensdijk,Postalarm
+0706597,BRW,Groenekan,Postalarm
+0706598,BRW,De Bilt,Noodalarmering
+0706599,BRW,Bilthoven,Noodalarmering
+0706600,BRW,Maartensdijk,Noodalarmering
+0706601,BRW,Groenekan,Noodalarmering
+0706602,BRW,Westbroek-Tienhoven,Noodalarmering
+0706605,BRW,De Bilt,Bevelvoerder van Dienst
+0706606,BRW,Groenekan,Bevelvoerder van Dienst
+0706607,BRW,Maartensdijk,Bevelvoerder van Dienst
+0706766,BRW,Doorn,AED Alarm
+0706768,BRW,Doorn,Postcommandant
+0706769,BRW,Doorn,Ploeg 1
+0706770,BRW,Doorn,Ploeg 2
+0706771,BRW,Doorn,Ploeg 3
+0706772,BRW,Doorn,Bezetting AL Ploeg 1
+0706773,BRW,Doorn,Bezetting AL Ploeg 2
+0706774,BRW,Doorn,Bezetting AL Ploeg 3
+0706775,BRW,Heuvelrug,OvD (Heuvelrug West)
+0706776,BRW,Doorn,Noodalarmering
+0706778,BRW,Doorn,Bevelvoerder van Dienst
+0706779,BRW,Doorn,Bezetting TS Dagondersteuning
+0706780,BRW,Doorn,Bezetting AL Dagondersteuning
+0706826,BRW,Driebergen,AED Alarm
+0706829,BRW,Driebergen,Postcommandant
+0706830,BRW,Driebergen,Ploeg 1
+0706831,BRW,Driebergen,Ploeg 2
+0706833,BRW,Driebergen,Bevelvoerder van Dienst
+0706835,BRW,Driebergen,Postalarm
+0706836,BRW,Driebergen,Noodalarmering
+0706891,BRW,Eemnes,AED Alarm
+0706895,BRW,Eemnes,Postalarm
+0706896,BRW,Eemnes,Bevelvoerder van Dienst
+0706897,BRW,Eemnes,Noodalarmering
+0706898,BRW,Eemnes,Postcommandant
+0706899,BRW,Eemnes,COT
+0706941,BRW,Houten-Oost,AED Alarm
+0706942,BRW,Houten-West,AED Alarm
+0706943,BRW,Schalkwijk,AED Alarm
+0706947,BRW,Lekstroom,OvD (Lekstroom)
+0706948,BRW,Houten,Postalarm
+0706951,BRW,Houten-West,Kazernetechniek
+0706952,BRW,Houten-West,Bezetting CO-MU
+0706954,BRW,Schalkwijk,Verkenningseenheid
+0706955,BRW,Schalkwijk,Postalarm
+0706956,BRW,Schalkwijk,Kazernetechniek
+0706957,BRW,Schalkwijk,Noodalarmering
+0706958,BRW,Houten,Noodalarmering
+0706959,BRW,Houten-Oost,Bezetting TS
+0706960,BRW,Houten-Oost,Kazernetechniek
+0706961,BRW,Houten-West,Bezetting TS
+0706963,BRW,Houten-West,Bezetting SB
+0706964,BRW,Houten-West,Bevelvoerder van Dienst
+0706965,BRW,Houten-Oost,Bevelvoerder van Dienst
+0706966,BRW,Schalkwijk,Bevelvoerder van Dienst
+0707000,BRW,Regionaal,Team Paraatheid & Inzet
+0707042,BRW,IJsselstein,AED Alarm
+0707043,BRW,IJsselstein,COT
+0707044,BRW,IJsselstein,Bevelvoerder van Dienst
+0707045,BRW,IJsselstein,Bezetting AL
+0707048,BRW,Lekstroom,OvD (Lekstroom Noord)
+0707049,BRW,IJsselstein,Noodalarmering
+0707051,BRW,IJsselstein,Postalarm
+0707111,BRW,Leersum,AED Alarm
+0707112,BRW,Leersum,COT
+0707115,BRW,Leersum,Ploeg 1
+0707116,BRW,Leersum,Postalarm
+0707117,BRW,Leersum,Bevelvoerder van Dienst
+0707118,BRW,Leersum,Ploeg 2
+0707119,BRW,Leersum,Ploeg 3
+0707120,BRW,Leersum,Chauffeur QRT
+0707161,BRW,Leusden,AED Alarm
+0707164,BRW,Leusden,Ploeg 1
+0707165,BRW,Leusden,Ploeg 2
+0707166,BRW,Leusden,Dienstwisselcode
+0707167,BRW,Achterveld,Postalarm
+0707168,BRW,Leusden,Bevelvoerder van Dienst
+0707170,BRW,Leusden,Postcommandant
+0707171,BRW,Achterveld,Bevelvoerder van Dienst
+0707172,BRW,Leusden,Chauffeur van Dienst
+0707174,BRW,Leusden,Postalarm
+0707175,BRW,Achterveld,Noodalarmering
+0707177,BRW,Achterveld,AED Alarm
+0707256,BRW,Nigtevecht,AED Alarm
+0707261,BRW,Nigtevecht,Bevelvoerder van Dienst
+0707263,BRW,Loenen aan de Vecht,Postalarm
+0707264,BRW,Loenen aan de Vecht,Bevelvoerder van Dienst
+0707265,BRW,Loenen aan de Vecht,AED Alarm
+0707266,BRW,Nigtevecht,Postalarm
+0707267,BRW,Loenen aan de Vecht,Noodalarmering
+0707268,BRW,Nigtevecht,Noodalarmering
+0707269,BRW,Loenen aan de Vecht,Brugwachter Cronenburgherbrug
+0707270,BRW,Nigtevecht,Brugwachter
+0707351,BRW,Lopik,Postcommandant
+0707352,BRW,Lopik,Postalarm
+0707354,BRW,Benschop,Postcommandant
+0707355,BRW,Benschop,Bevelvoerder van Dienst
+0707356,BRW,Benschop,Ploeg 1
+0707357,BRW,Benschop,Ploeg 2
+0707358,BRW,Lopik,Kazernetechniek
+0707363,BRW,Lopik,Noodalarmering
+0707364,BRW,Benschop,Noodalarmering
+0707501,BRW,Maarn-Maarsbergen,AED Alarm
+0707507,BRW,Maarn-Maarsbergen,Ploeg A
+0707508,BRW,Maarn-Maarsbergen,Dienstwisselcode
+0707509,BRW,Maarn-Maarsbergen,Ploeg B
+0707510,BRW,Maarn-Maarsbergen,Kazernetechniek
+0707513,BRW,Maarn-Maarsbergen,Bevelvoerder van Dienst
+0707514,BRW,Maarn-Maarsbergen,Noodalarmering
+0707515,BRW,Maarn-Maarsbergen,Bemanning HV
+0707516,BRW,Maarn-Maarsbergen,Postalarm
+0707563,BRW,Maarssen,AED Alarm
+0707564,BRW,Maarsseveen-Tienhoven,AED Alarm
+0707568,BRW,Maarssen,Postcommandant
+0707572,BRW,Maarssen,Poller Kaatsbaan/Nassaustraat
+0707573,BRW,Maarssen,Postalarm
+0707574,BRW,Maarssen,Duikploeg
+0707575,BRW,Maarssen,Bezetting AL
+0707582,BRW,Maarsseveen-Tienhoven,Postalarm
+0707583,BRW,Maarssen,Bevelvoerder van Dienst
+0707584,BRW,Maarssen,Noodalarmering
+0707585,BRW,Maarsseveen-Tienhoven,Noodalarmering
+0707586,BRW,Maarssen,Commandant
+0707711,BRW,Montfoort,AED Alarm
+0707712,BRW,Linschoten,AED Alarm
+0707718,BRW,Linschoten,COT
+0707719,BRW,Montfoort,Postcommandant
+0707720,BRW,Montfoort,Postalarm
+0707721,BRW,Montfoort,Ploeg 1
+0707722,BRW,Montfoort,Ploeg 2
+0707724,BRW,Montfoort,Chauffeurs HA
+0707726,BRW,Linschoten,Postcommandant
+0707727,BRW,Linschoten,Postalarm
+0707728,BRW,Linschoten,Ploeg 1
+0707729,BRW,Linschoten,Ploeg 2
+0707730,BRW,Linschoten,Bevelvoerder van Dienst
+0707731,BRW,Rijn & Venen,OvD (Rijn & Venen Zuid)
+0707732,BRW,Montfoort,Noodalarmering
+0707733,BRW,Linschoten,Noodalarmering
+0707734,BRW,Montfoort,Brugwachter
+0707811,BRW,Nieuwegein Noord,AED Alarm
+0707812,BRW,Nieuwegein Zuid,AED Alarm
+0707819,BRW,Nieuwegein Zuid,Postalarm
+0707820,BRW,Nieuwegein Noord,Dagdienst
+0707821,BRW,Nieuwegein Zuid,Bevelvoerder van Dienst
+0707822,BRW,Nieuwegein Noord,Chauffeur QRT
+0707824,BRW,Nieuwegein Noord,Postalarm
+0707838,BRW,Nieuwegein Noord,Postcommandant
+0707839,BRW,Nieuwegein Zuid,Noodalarmering
+0707840,BRW,Nieuwegein Noord,Noodalarmering
+0707841,BRW,Nieuwegein,Centrale Brugbedieningspost
+0707927,BRW,Oudewater,AED Alarm
+0707928,BRW,Oudewater,Brugwachter
+0707929,BRW,Oudewater,Postalarm
+0707932,BRW,Oudewater,Noodalarmering
+0707933,BRW,Oudewater,Bevelvoerder van Dienst
+0707934,BRW,Oudewater,Opvang&Nazorg
+0707935,BRW,Oudewater,Verzorgingsgroep West
+0707991,BRW,Renswoude,AED Alarm
+0707992,BRW,Renswoude,Postcommandant
+0707994,BRW,Renswoude,Postalarm
+0707995,BRW,Renswoude,Noodalarmering
+0707996,BRW,Renswoude,Bevelvoerder van Dienst
+0707997,BRW,Renswoude,COT
+0708031,BRW,Rhenen-Achterberg,AED Alarm
+0708032,BRW,Elst,AED Alarm
+0708038,BRW,Rhenen-Achterberg,Postalarm
+0708039,BRW,Rhenen-Achterberg,Ploeg 1
+0708040,BRW,Rhenen-Achterberg,Ploeg 2
+0708042,BRW,Rhenen-Achterberg,Postcommandant
+0708044,BRW,Rhenen-Achterberg,Bevelvoeder van dienst
+0708048,BRW,Elst,Postcommandant
+0708049,BRW,Elst,Bevelvoerder van Dienst
+0708050,BRW,Elst,Postalarm
+0708051,BRW,Elst,MFT (Multifunctioneel Terreinvoertuig) Patientenvervoer
+0708052,BRW,Rhenen-Achterberg,Noodalarmering
+0708054,BRW,Elst,Noodalarmering
+0708056,BRW,Rhenen,Roadblocks
+0708126,BRW,Mijdrecht,AED Alarm
+0708127,BRW,Vinkeveen,AED Alarm
+0708132,BRW,Mijdrecht,TCO
+0708133,BRW,Vinkeveen,TCO
+0708134,BRW,Mijdrecht,Duikploeg
+0708135,BRW,Mijdrecht,Postalarm
+0708136,BRW,Mijdrecht,Ploeg 1
+0708137,BRW,Mijdrecht,Ploeg 2
+0708138,BRW,Mijdrecht,Bezetting AL Ploeg 1
+0708139,BRW,Mijdrecht,Bezetting AL Ploeg 2
+0708140,BRW,Mijdrecht,Bevelvoerder van Dienst
+0708141,BRW,Vinkeveen,Postalarm
+0708142,BRW,Vinkeveen,Schippers
+0708143,BRW,Vinkeveen,Bevelvoerder van Dienst
+0708144,BRW,Wilnis,Postalarm
+0708147,BRW,Wilnis,Bevelvoerder van Dienst
+0708148,BRW,Mijdrecht,Noodalarmering
+0708149,BRW,Vinkeveen,Noodalarmering
+0708150,BRW,Wilnis,Noodalarmering
+0708153,BRW,De Ronde Venen,Verkeerstechniek
+0708154,BRW,Mijdrecht,Dienstwisselcode
+0708156,BRW,De Ronde Venen,Monitorcode
+0708191,BRW,Soest,AED Alarm
+0708192,BRW,Soesterberg,AED Alarm
+0708194,BRW,Soest-Hoofdpost,AED Alarm
+0708294,BRW,Soest-Hoofdpost,TCO
+0708295,BRW,Soest-Hoofdpost,Postalarm
+0708296,BRW,Soest Nevenpost,Postalarm
+0708297,BRW,Soest-Hoofdpost,Bezetting AL
+0708298,BRW,Soest,Bevelvoerder van Dienst
+0708299,BRW,Soest-Hoofdpost,Kazernetechniek
+0708300,BRW,Soest,Noodalarmering
+0708301,BRW,Soesterberg,Noodalarmering
+0708302,BRW,Soesterberg,Postalarm
+0708303,BRW,Soesterberg,Bevelvoerder van Dienst
+0708304,BRW,Soest-Hoofdpost,Bezetting HA
+0708305,BRW,Soest-Hoofdpost + Nevenpost,Postalarm
+0708306,BRW,Soesterberg,Bezetting VZ
+0708308,BRW,Soest Nevenpost,Kazernetechiek
+0708310,BRW,Soest,Postcommandant
+0708431,BRW,De Meern,AED Alarm
+0708432,BRW,Utrecht Zuilen,AED Alarm
+0708433,BRW,Vleuten,AED Alarm
+0708441,BRW,Utrecht,OvD (Utrecht)
+0708442,BRW,Utrecht Tolsteeg,Kazernealarm
+0708447,BRW,Utrecht Tolsteeg,Bevelvoerder van Dienst
+0708450,BRW,Utrecht Schepenbuurt,Kazernealarm
+0708456,BRW,Utrecht Schepenbuurt,COT
+0708457,BRW,Schepenbuurt,Bevelvoerder van Dienst
+0708460,BRW,Utrecht Voordorp,Kazernealarm
+0708468,BRW,Utrecht Voordorp,Bevelvoerder van Dienst
+0708469,BRW,Utrecht Voordorp,TCO
+0708470,BRW,Utrecht Leidsche Rijn,Kazernealarm
+0708482,BRW,Utrecht Leidsche Rijn,COT
+0708483,BRW,Utrecht,"Piket Uitrusting, Materieel & Logistiek"
+0708484,BRW,Utrecht Leidsche Rijn,Bevelvoerder van dienst
+0708489,BRW,Regionaal,Pelotonscommandant Logistiek
+0708490,BRW,Utrecht Zuilen,Bevelvoerder van dienst
+0708491,BRW,Utrecht Zuilen,Piketploeg
+0708492,BRW,Utrecht Zuilen,Ploeg 1
+0708493,BRW,Utrecht Zuilen,Ploeg 2
+0708494,BRW,Utrecht Zuilen,Ploeg 3
+0708495,BRW,Utrecht Zuilen,Postalarm
+0708500,BRW,De Meern,Bevelvoerder van Dienst
+0708501,BRW,De Meern,Ploeg 1
+0708502,BRW,De Meern,Ploeg 2
+0708503,BRW,De Meern,Ploeg 3
+0708507,BRW,De Meern,Postalarm
+0708515,BRW,Vleuten,Postalarm
+0708518,BRW,Vleuten,Bevelvoerder van Dienst
+0708519,BRW,Vleuten,Roadblocks
+0708520,BRW,Utrecht Noord,Noodalarmering
+0708521,BRW,Utrecht Leidsche Rijn,Noodalarmering
+0708522,BRW,Utrecht Oost,Noodalarmering
+0708523,BRW,Utrecht Tolsteeg,Noodalarmering
+0708524,BRW,Utrecht Zuilen,Noodalarmering
+0708525,BRW,De Meern,Noodalarmering
+0708526,BRW,Vleuten,Noodalarmering
+0708527,BRW,De Meern,TCO
+0708790,BRW,Veenendaal,AED Alarm
+0708791,BRW,Veenendaal,Kazernetechniek
+0708792,BRW,Veenendaal,Postcommandant
+0708793,BRW,Heuvelrug,OvD (Heuvelrug Oost)
+0708795,BRW,Veenendaal,COT
+0708796,BRW,Veenendaal,Gaspakdragers
+0708797,BRW,Veenendaal,Bezetting Leiding & Coördinatie Unit
+0708798,BRW,Veenendaal,Postalarm
+0708799,BRW,Veenendaal,Bezetting TS Ploeg 1
+0708800,BRW,Veenendaal,Piketploeg 1
+0708801,BRW,Veenendaal,Bezetting TS Ploeg 2
+0708802,BRW,Veenendaal,Piketploeg 2
+0708803,BRW,Veenendaal,Bezetting TS Ploeg 3
+0708804,BRW,Veenendaal,Piketploeg 3
+0708805,BRW,Veenendaal,Bezetting AL Ploeg 1
+0708806,BRW,Veenendaal,Bezetting AL Ploeg 2
+0708807,BRW,Veenendaal,Bezetting AL Ploeg 3
+0708808,BRW,Veenendaal,Chauffeurs Dagdienst
+0708809,BRW,Veenendaal,Roadblocks
+0708810,BRW,Veenendaal,Bevelvoerder van Dienst
+0708814,BRW,Veenendaal,Dienstwisselcode
+0708815,BRW,Veenendaal,Noodalarmering
+0708816,BRW,Heuvelrug,"Uitrusting, Materieel & Logistiek"
+0708886,BRW,Vianen,AED Alarm
+0708887,BRW,Hagestein,AED Alarm
+0708890,BRW,Vianen,Bevelvoerder van Dienst
+0708893,BRW,Vianen,Bezetting TS Ploeg A
+0708894,BRW,Vianen,Bezetting TS Ploeg B
+0708896,BRW,Vianen,Oppervlaktewater Redteam
+0708897,BRW,Vianen,Ruilcode
+0708898,BRW,Vianen,Postalarm
+0708899,BRW,Vianen,Bezetting BRV
+0708900,BRW,Vianen,Bezetting HW
+0708901,BRW,Vianen,COT
+0708905,BRW,Hagestein,Postalarm
+0708906,BRW,Vianen,Bevelvoerder van Dienst
+0708907,BRW,Vianen,Noodalarmering
+0708908,BRW,Hagestein,Noodalarmering
+0708909,BRW,Leerdam,AED Alarm
+0708910,BRW,Leerdam,Piketploeg
+0708911,BRW,Leerdam,Postalarm
+0708912,BRW,Leerdam,Bezetting AL
+0708913,BRW,Leerdam,Bevelvoerder van Dienst
+0708914,BRW,Leerdam,Kazernetechniek
+0708915,BRW,Leerdam,Noodalarmering
+0708919,BRW,Schoonrewoerd,AED Alarm
+0708920,BRW,Schoonrewoerd,Postalarm
+0708921,BRW,Schoonrewoerd,Bezetting WT
+0708922,BRW,Schoonrewoerd,Bevelvoerder van Dienst
+0708923,BRW,Schoonrewoerd,Noodalarmering
+0708924,BRW,Ameide,AED Alarm
+0708925,BRW,Ameide,Postalarm
+0708926,BRW,Ameide,Bevelvoerder van Dienst
+0708927,BRW,Ameide,Noodalarmering
+0708929,BRW,Lexmond,AED Alarm
+0708930,BRW,Lexmond,Postalarm
+0708931,BRW,Lexmond,Bevelvoerder van Dienst
+0708932,BRW,Lexmond,Noodalarmering
+0708933,BRW,Lexmond,Brug Merwedekanaal
+0708934,BRW,Meerkerk,AED Alarm
+0708935,BRW,Meerkerk,Postalarm
+0708936,BRW,Meerkerk,Bezetting HV
+0708937,BRW,Meerkerk,Bevelvoerder van Dienst
+0708938,BRW,Meerkerk,Noodalarmering
+0708940,BRW,Leerdam,TCO
+0708941,BRW,Schoonrewoerd,TCO
+0708942,BRW,Ameide,TCO
+0708943,BRW,Lexmond,TCO
+0708944,BRW,Meerkerk,TCO
+0708991,BRW,Wijk bij Duurstede,AED Alarm
+0708992,BRW,Cothen-Langbroek,AED Alarm
+0708994,BRW,Wijk bij Duurstede,Postcommandant
+0708995,BRW,Wijk bij Duurstede,Opvang&Nazorg
+0708996,BRW,Wijk bij Duurstede,Bezetting BRV
+0708997,BRW,Wijk bij Duurstede,Postalarm
+0708998,BRW,Wijk bij Duurstede,Kazernetechniek
+0709000,BRW,Wijk bij Duurstede,Bevelvoerder van Dienst
+0709002,BRW,Cothen-Langbroek,Postcommandant
+0709003,BRW,Cothen-Langbroek,Postalarm
+0709004,BRW,Cothen-Langbroek,Rietdak Brandbestrijdingsteam
+0709005,BRW,Cothen-Langbroek,Bevelvoerder van Dienst
+0709006,BRW,Wijk bij Duurstede,Noodalarmering
+0709007,BRW,Cothen-Langbroek,Kazernetechniek
+0709008,BRW,Cothen-Langbroek,Noodalarmering
+0709009,BRW,Wijk bij Duurstede,Duikploeg
+0709091,BRW,Woerden,AED Alarm
+0709092,BRW,Harmelen,AED Alarm
+0709093,BRW,Kamerik,AED Alarm
+0709094,BRW,Zegveld,AED Alarm
+0709096,BRW,Woerden,Postcommandant
+0709098,BRW,Woerden,Postalarm
+0709099,BRW,Woerden,Piketgroep
+0709100,BRW,Woerden,Bezetting AL ANW
+0709101,BRW,Woerden,Bezetting AL Dagdienst
+0709102,BRW,Kamerik,Rietdak Brandbestrijdingsteam
+0709103,BRW,Harmelen,Postcommandant
+0709104,BRW,Harmelen,Ploeg 1
+0709105,BRW,Harmelen,Ploeg 2
+0709106,BRW,Kamerik,Postcommandant
+0709107,BRW,Kamerik,Ploeg 1
+0709108,BRW,Kamerik,Ploeg 2
+0709109,BRW,Zegveld,Postcommandant
+0709110,BRW,Zegveld,Postalarm
+0709112,BRW,Woerden,Noodalarmering
+0709113,BRW,Harmelen,Noodalarmering
+0709114,BRW,Zegveld,Noodalarmering
+0709115,BRW,Kamerik,Noodalarmering
+0709117,BRW,Woerden,Brugwachter Kwakelbrug
+0709118,BRW,Woerden,TCO
+0709120,BRW,Zegveld,TCO
+0709121,BRW,Kamerik,TCO
+0709122,BRW,Woerden,Kazernetechniek
+0709124,BRW,Woerden,Vakantieploeg
+0709125,BRW,Woerden,Oppervlakteredders
+0709128,BRW,Woerden,Bevelvoerder van Dienst
+0709230,BRW,Woudenberg,TCO
+0709280,BRW,Woudenberg,AED Alarm
+0709281,BRW,Woudenberg,Postcommandant
+0709282,BRW,Woudenberg,Bevelvoerder van Dienst
+0709283,BRW,Woudenberg,Postalarm
+0709284,BRW,Woudenberg,Ploeg 1
+0709285,BRW,Woudenberg,Ploeg 2
+0709287,BRW,Woudenberg,Kazernetechniek
+0709288,BRW,Woudenberg,Noodalarmering
+0709289,BRW,Woudenberg,Chauffeurs
+0709341,BRW,Zeist,AED Alarm
+0709342,BRW,Den Dolder,AED Alarm
+0709347,BRW,Zeist,TCO
+0709350,BRW,Den Dolder,Postalarm
+0709351,BRW,Zeist,Bezetting HA
+0709353,BRW,Zeist,Ploeg 1
+0709354,BRW,Zeist,Ploeg 2
+0709356,BRW,Zeist,Postalarm
+0709357,BRW,Zeist,Kazernealarm
+0709358,BRW,Zeist,Dagdienst
+0709360,BRW,Binnensticht/Lekstroom,Piket UML Binnensticht/Lekstroom
+0709361,BRW,Zeist,Postalarm
+0709362,BRW,Den Dolder,Noodalarmering
+0709400,BRW,Regionaal,Functionaris Logistiek West
+0709401,BRW,Regionaal,Functionaris Logistiek Oost
+0709498,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (Oost)
+0709499,BRW,Regionaal,Coordinator Verkenningseenheden IBGS
+0709500,BRW,Regionaal,HOvD-B/Leider CoPI West
+0709501,BRW,Regionaal,HOvD-B/Leider CoPI Oost
+0709505,BRW,Regionaal,Informatiemanager Verspreiding Natuurbrand
+0709507,BRW,RAC,Centralist
+0709508,BRW,RAC,Centralist
+0709509,BRW,RAC,Centralist
+0709510,BRW,RAC,Centralist
+0709511,BRW,RAC,Centralist
+0709512,BRW,RAC,Centralist
+0709513,BRW,RAC,Centralist
+0709514,BRW,RAC,Centralist
+0709515,BRW,RAC,Centralist
+0709516,BRW,RAC,Centralist
+0709517,BRW,RAC,Centralist
+0709518,BRW,RAC,Centralist
+0709519,BRW,RAC,Centralist
+0709520,BRW,RAC,Centralist
+0709522,BRW,RAC,Centralist
+0709527,BRW,RAC,PiketCentralist
+0709529,BRW,RAC,Coordinator
+0709530,BRW,Regionaal,Hoofd Sectie Ondersteuning ROT
+0709531,BRW,RAC,Leiding
+0709532,BRW,Regionaal,Commandanten van Dienst (Groepscode)
+0709533,BRW,Regionaal,Commandant van Dienst
+0709534,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (West)
+0709535,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (Oost)
+0709539,BRW,Regionaal,Regionaal Operationeel Leider
+0709540,BRW,Regionaal,Informatiemanager CoPI Oost
+0709541,BRW,Regionaal,Informatiemanager CoPI West
+0709542,BRW,Regionaal,Informatiemanager ROT
+0709543,BRW,Regionaal,Medewerker Sectie Informatie ROT
+0709545,BRW,Regionaal,Groepsalarm Regionaal Operationeel Leiders
+0709550,BRW,Regionaal,Directeur VRU
+0709551,BRW,Regionaal,HOvD's Oost (Groepscode)
+0709553,BRW,Regionaal,Procesbewaker Communicatie ROT
+0709555,BRW,Regionaal,Notulist RBT
+0709556,BRW,Regionaal,Ondersteunend Secretaris RBT
+0709557,BRW,Regionaal,HOvD's West (Groepscode)
+0709560,BRW,Eemland,Monitorcode
+0709561,BRW,Binnensticht/Lekstroom,Monitorcode
+0709562,BRW,Heuvelrug,Monitorcode
+0709563,BRW,Utrecht,Monitorcode
+0709564,BRW,Rijn & Venen,Monitorcode
+0709566,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+0709567,BRW,Regionaal,Communicatieadviseur ROT
+0709568,BRW,Regionaal,Infocode Natuurbrandbestrijding
+0709569,BRW,Regionaal,Lid Sectie Brandweer Medewerker Informatiemanagement
+0709570,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0709571,BRW,Regionaal,Coordinator van Dienst Team Opvang & Nazorg
+0709572,BRW,Regionaal,Team Opvang en Nazorg
+0709573,BRW,GMK,Calamiteiten Coordinator
+0709575,BRW,Regionaal,Coordinerend Informatiemanager
+0709580,BRW,Regionaal,Piket Voertuigen en Inventaris
+0709590,BRW,Utrecht Leidsche Rijn,Medewerkers Logistiek Centraal Dagploeg
+0709591,BRW,Utrecht Leidsche Rijn,Medewerkers Logistiek & Ondersteuning Ploeg 1
+0709592,BRW,Utrecht Leidsche Rijn,Medewerkers Logistiek & Ondersteuning Ploeg 2
+0709593,BRW,Utrecht Leidsche Rijn,Medewerkers Logistiek & Ondersteuning Ploeg 3
+0709594,BRW,RAC,Piket ICT
+0709595,BRW,Utrecht Leidsche Rijn,Medewerkers Logistiek Centraal (Groepsalarm)
+0709596,BRW,Utrecht Leidsche Rijn,Medewerkers Logistiek Centraal
+0709597,BRW,Regionaal,Quick Response Team (Teamleden)
+0709598,BRW,Regionaal,Quick Response Team (Ploegleiders)
+0709600,BRW,Regionaal,Geo Informatie Medewerker ROT
+0709602,BRW,Regionaal,Boswachters (Groepscode)
+0709603,BRW,Regionaal,Lichtkrant Kazernes
+0709604,BRW,MKB Utrecht >,MKB Gelderland Midden Infocode
+0709605,BRW,MKB Utrecht >,MKB Gooi en Vechtstreek Infocode
+0709606,BRW,MKB Utrecht >,MKB Den Haag (Infocode)
+0709609,BRW,Regionaal,Voorlichter
+0709610,BRW,Regionaal,Communicatieadviseur CoPI
+0709611,BRW,RAC,Centralist
+0709612,BRW,RAC,Centralist
+0709613,BRW,RAC,Centralist
+0709614,BRW,RAC,Centralist
+0709616,BRW,RAC,Centralist
+0709617,BRW,RAC,Centralist
+0709640,BRW,Eemland,OvD-Bevolkingszorg
+0709641,BRW,De Bilt,OvD-Bevolkingszorg
+0709643,BRW,Lekstroom,OvD-Bevolkingszorg
+0709644,BRW,Heuvelrug,OvD-Bevolkingszorg
+0709645,BRW,de Ronde Venen,OvD-Bevolkingszorg
+0709646,BRW,Stichtse Vecht,OvD-Bevolkingszorg
+0709647,BRW,Utrecht,OvD-Bevolkingszorg
+0709648,BRW,Woerden/Oudewater,OvD-Bevolkingszorg
+0709649,BRW,Zeist/Bunnik,OvD-Bevolkingszorg
+0709682,BRW,Eemnes,Verkenningseenheid IBGS
+0709684,BRW,Leersum,Verkenningseenheid IBGS
+0709686,BRW,Mijdrecht,Verkenningseenheid
+0709700,BRW,Leusden,DPH 2261
+0709706,BRW,Soest,BPH 3364
+0709709,BRW,Zeist,SLH 6662
+0709711,BRW,Soest,WBH 3366
+0709714,BRW,Leusden,Bezetting WTH-NB 2265
+0709718,BRW,Soest,BSH 3387
+0709727,BRW,Regionaal,Team Brandonderzoek
+0709730,BRW,Regionaal,OvD Defensie
+0709731,BRW,Regionaal,Aansturing RTV Utrecht
+0709732,BRW,MKB Utrecht >,MKB Rotterdam (Infocode)
+0709733,BRW,MKB Utrecht >,Amsterdam-Amstelland (Uithoorn) (TS)
+0709735,BRW,MKB Utrecht >,MKB Amsterdam (Infocode)
+0709756,BRW,MKB Utrecht >,BRW Amsterdam-Amstelland (Driemond) (Bezetting TS)
+0709790,BRW,Waterschap,Waterschap Vallei en Veluwe
+0709791,BRW,Waterschap,Stichtse Rijnlanden
+0709792,BRW,Waterschap,"Amstel, Gooi en Vecht"
+0709793,BRW,Waterschap,Rivierenland
+0726003,AMBU,Meldkamer Ambulancezorg,Regionale Infocode
+0726007,AMBU,RAV Utrecht,Crisiscoördinator
+0726012,AMBU,GHOR Utrecht,CvD-G (Groepscode)
+0726013,AMBU,GHOR Utrecht,Hoofd Informatie Gezondheidszorg (Groepscode)
+0726015,AMBU,MKA Utrecht,Algemeen Commandant Geneeskundige Zorg
+0726016,AMBU,MKA Utrecht,Arts Landelijk Centrum Infectiezieken
+0726017,AMBU,GHOR Utrecht,OvD-G (Groepscode)
+0726018,AMBU,MKA Utrecht,Operationeel Directeur Publieke Gezondheidszorg (Groepsalarm)
+0726020,AMBU,GHOR Utrecht,Leider PSH
+0726060,AMBU,GHOR Utrecht,Hoofd Ondersteuning Gezondheidszorg
+0726061,AMBU,MKA Utrecht,Achterwacht
+0726063,AMBU,GHOR Utrecht,OvD-G Oost
+0726064,AMBU,GHOR Utrecht,Hoofd Informatie Gezondheidszorg
+0726066,AMBU,GHOR Utrecht,Algemeen Commandant Geneeskundige Zorg
+0726067,AMBU,GHOR Utrecht,OvD-G West
+0726068,AMBU,GHOR Utrecht,Operationeel Directeur Publieke Gezondheid
+0726069,AMBU,GHOR Utrecht,Hoofd Publieke Gezondheidszorg / Crisiscoordinator GGD
+0726071,AMBU,Rode Kruis,NRK Noodhulp-Team UGS1 Utrecht
+0726101,AMBU,Utrecht,Ambulance 09-101
+0726102,AMBU,Utrecht,Ambulance 09-102
+0726103,AMBU,Utrecht,Ambulance 09-103
+0726104,AMBU,Utrecht,Ambulance 09-104
+0726105,AMBU,Leusden,Ambulance 09-105
+0726106,AMBU,Utrecht,Ambulance 09-106
+0726107,AMBU,Utrecht,Ambulance 09-107
+0726108,AMBU,Utrecht,Ambulance 09-108
+0726109,AMBU,Utrecht,Ambulance 09-109
+0726111,AMBU,Leusden,Ambulance 09-111
+0726112,AMBU,Leusden,Ambulance 09-112
+0726114,AMBU,Utrecht,Ambulance 09-114
+0726115,AMBU,Utrecht,Ambulance 09-115
+0726116,AMBU,Nieuwegein,Ambulance 09-116
+0726117,AMBU,Nieuwegein,Ambulance 09-117
+0726118,AMBU,Nieuwegein,Ambulance 09-118
+0726119,AMBU,Utrecht,Ambulance 09-119
+0726120,AMBU,Utrecht,Ambulance 09-120
+0726121,AMBU,Vinkeveen,Ambulance 09-121
+0726122,AMBU,Vinkeveen,Ambulance 09-122
+0726123,AMBU,Vinkeveen,Ambulance 09-123
+0726124,AMBU,Utrecht,Ambulance 09-124
+0726125,AMBU,Utrecht,Ambulance 09-125
+0726126,AMBU,Utrecht,Ambulance 09-126
+0726127,AMBU,Maarssen,Ambulance 09-127
+0726128,AMBU,Maarssen,Ambulance 09-128
+0726129,AMBU,Nieuwegein,Ambulance 09-129
+0726130,AMBU,Woerden,Ambulance 09-130
+0726131,AMBU,Woerden,Ambulance 09-131
+0726133,AMBU,Rhenen,Ambulance 09-133
+0726134,AMBU,Amersfoort,Ambulance 09-134
+0726135,AMBU,Amersfoort,Ambulance 09-135
+0726136,AMBU,Amersfoort,Ambulance 09-136
+0726137,AMBU,Amersfoort,Ambulance 09-137
+0726138,AMBU,Zeist,Ambulance 09-138
+0726140,AMBU,Doorn,Ambulance 09-140
+0726141,AMBU,Doorn,Ambulance 09-141
+0726142,AMBU,Amersfoort,Ambulance 09-142
+0726143,AMBU,Amersfoort,Ambulance 09-143
+0726144,AMBU,Amersfoort,Ambulance 09-144
+0726145,AMBU,Rhenen,Ambulance 09-145
+0726146,AMBU,Rhenen,Ambulance 09-146
+0726147,AMBU,Amersfoort,Ambulance 09-147
+0726148,AMBU,Zeist,Ambulance 09-148
+0726149,AMBU,Zeist,Ambulance 09-149
+0726150,AMBU,Utrecht,Ambulance 09-150
+0726541,AMBU,Regionaal,Micu 09-301
+0726542,AMBU,Regionaal,Micu 09-302
+0726543,AMBU,Regionaal,Micu 09-303
+0726545,AMBU,Regionaal,Babylance 09-310
+0726550,AMBU,Regionaal,MotorAmbu 09-320
+0726551,AMBU,Regionaal,MotorAmbu 09-321
+0726552,AMBU,Regionaal,MotorAmbu 09-322
+0726553,AMBU,Regionaal,MotorAmbu 09-323
+0726554,AMBU,Regionaal,MotorAmbu 09-324
+0726560,AMBU,Utrecht,Rapid Responder 09-340
+0726561,AMBU,Amersfoort,Rapid Responder 09-341
+0726562,AMBU,Utrecht,Rapid Responder 09-342
+0726563,AMBU,Doorn,Rapid Responder 09-343
+0726564,AMBU,Utrecht,Rapid Responder 09-344
+0726565,AMBU,Utrecht,Rapid Responder 09-345
+0726566,AMBU,Utrecht,Rapid Responder 09-346
+0726568,AMBU,Utrecht,Rapid Responder 09-350
+0726570,AMBU,Regionaal,Rapid Responder/OvD-G 09-380
+0726571,AMBU,Regionaal,Rapid Responder/OvD-G 09-381
+0726572,AMBU,Regionaal,Rapid Responder/OvD-G 09-382
+0726576,AMBU,Regionaal,Fiets Ambulance 09-356
+0726577,AMBU,Regionaal,Fiets Ambulance 09-357
+0726580,AMBU,Regionaal,Laagcomplexe zorg 09-404
+0726581,AMBU,Regionaal,Laagcomplexe zorg 09-402
+0726583,AMBU,Regionaal,Laagcomplexe zorg 09-408
+0726584,AMBU,Regionaal,Laagcomplexe zorg 09-409
+0726585,AMBU,Regionaal,Laagcomplexe zorg 09-405
+0726586,AMBU,Regionaal,Laagcomplexe zorg 09-406
+0726587,AMBU,Regionaal,Laagcomplexe zorg 09-407
+0726588,AMBU,Regionaal,Laagcomplexe zorg 09-403
+0726589,AMBU,Regionaal,Laagcomplexe zorg 09-401
+0726590,AMBU,Regionaal,Middencomplexe zorg 09-207
+0726591,AMBU,Regionaal,Middencomplexe zorg 09-206
+0726592,AMBU,Regionaal,Middencomplexe zorg 09-203
+0726593,AMBU,Regionaal,Middencomplexe zorg 09-205
+0726594,AMBU,Regionaal,Middencomplexe zorg 09-208
+0726595,AMBU,Regionaal,Rapid Responder 09-347
+0726596,AMBU,Regionaal,Rapid Responder 09-348
+0726597,AMBU,Regionaal,Middencomplexe zorg 09-202
+0726598,AMBU,Regionaal,Middencomplexe zorg 09-201
+0726599,AMBU,Regionaal,Middencomplexe zorg 09-204
+0726600,AMBU,Regionaal,Middencomplexe zorg 09-209
+0726601,AMBU,Regionaal,Middencomplexe zorg 09-210
+0726602,AMBU,Regionaal,Middencomplexe zorg 09-211
+0726900,AMBU,Meldkamer Ambulancezorg,Monitorcode Piketfunctionarissen
+0726901,AMBU,Meldkamer Ambulancezorg,Proefalarm
+0736001,POL,Politie Eenheid Midden-Nederland,SGBO (Piket0
+0736006,POL,Politie Eenheid Midden-Nederland,SGBO (Algemeen Commandant)
+0736050,POL,Politie Eenheid Midden-Nederland,BCCB (Monitorcode)
+0736055,POL,Politie Eenheid Midden-Nederland,Piket Ondersteuningsgroep
+0736064,POL,Politie Eenheid Midden-Nederland,Piket Verkenningseenheid
+0736079,POL,Politie Eenheid Midden-Nederland,Piket Conflict- en Crisisbeheersing
+0736080,POL,Politie Eenheid Midden-Nederland,Conflict- en Crisisbeheersing (1e Piket)
+0736081,POL,Politie Eenheid Midden-Nederland,Conflict- en Crisisbeheersing (2e Piket)
+0736082,POL,Politie Eenheid Midden-Nederland,BCCB (Piket Bedrijfsvoering & Werkprocessen)
+0736087,POL,Politie Eenheid Midden-Nederland,TEV Cluster Zuid
+0736090,POL,OC-P,Persinformatie
+0736091,POL,Politie Eenheid Midden-Nederland,Piket Mediadesk Utrecht
+0736096,POL,Politie Eenheid Midden-Nederland,Operationeel Aanspreekpunt Nautisch
+0736097,POL,Politie Eenheid Midden-Nederland,Coordinator Droneteam Utrecht
+0736098,POL,Politie Eenheid Midden-Nederland,Droneteam
+0736900,POL,Politie Eenheid Midden-Nederland,District Utrecht (Monitorcode)
+0736901,POL,Politie Eenheid Midden-Nederland,District Utrecht (Proefalarm)
+0736992,POL,Politie Eenheid Midden-Nederland,District Utrecht (Afdeling Beheer)
+0736994,POL,Politie Eenheid Midden-Nederland,District Utrecht (Afdeling Beheer)
+0736999,POL,Politie Eenheid Midden-Nederland,District Utrecht (Piket GMK)

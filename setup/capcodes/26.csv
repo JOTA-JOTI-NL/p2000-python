@@ -1,0 +1,223 @@
+capcode,discipline,locatie/divisie,beschrijving
+1735000,KNRM-KWC,KNRM,Landelijk Proefalarm
+1735031,KNRM-KWC,KNRM,KNRM-KWC
+1735051,KNRM-KWC,Meldkamer Noord Nederland,Lichtkrant
+1735052,KNRM-KWC,Meldkamer Noord Nederland,Lichtkrant
+1735056,KNRM-KWC,GMK Oost-Nederland,Lichtkrant
+1735060,KNRM-KWC,OCB Noord Holland / Noord,Infocode
+1735061,KNRM-KWC,OCB Noord Holland / Zuid,Infocode
+1735062,KNRM-KWC,OCB Noord Holland / Kennemerland,Infocode
+1735064,KNRM-KWC,OCB Gooi en Vechtstreek,Infocode
+1735065,KNRM-KWC,OCB Den Haag,Infocode
+1735066,KNRM-KWC,OCB Den Haag/Hollands Midden,Infocode
+1735067,KNRM-KWC,OCB Rotterdam,Infocode
+1735068,KNRM-KWC,OCB Zuid-Holland Zuid,Infocode
+1735069,KNRM-KWC,OC-B Zeeland-West Brabant,Infocode
+1735075,KNRM-KWC,GMK Flevoland,Lichtkrant
+1735098,KNRM-KWC,KWC Den Helder Joint Rescue Coordination Centre (JRCC),Lichtkrant
+1735099,KNRM-KWC,KWC Den Helder,Infocode Wachtsman KNRM
+1735102,KNRM-KWC,KNRM Reddingstation Cadzand,Schippers
+1735108,KNRM-KWC,KNRM Reddingstation Cadzand,Bemanning Reddingboot Winifred Lucy Verkade-Clark
+1735110,KNRM-KWC,KNRM Reddingstation Cadzand,Walploeg
+1735112,KNRM-KWC,KNRM Reddingstation Breskens,Schippers
+1735118,KNRM-KWC,KNRM Reddingstation Breskens,Bemanning Reddingboot Zeemanshoop
+1735122,KNRM-KWC,KNRM Reddingstation Westkapelle,Schippers
+1735128,KNRM-KWC,KNRM Reddingstation Westkapelle,Bemanning Reddingboot Uly
+1735130,KNRM-KWC,KNRM Reddingstation Westkapelle,Walploeg
+1735132,KNRM-KWC,KNRM Reddingstation Veere,Schippers
+1735133,KNRM-KWC,KNRM Reddingstation Veere,Bemanning Reddingboot Oranje
+1735142,KNRM-KWC,KNRM Neeltje Jans,Schippers
+1735148,KNRM-KWC,KNRM Reddingstation Neeltje Jans-Buiten,Bemanning Reddingboot Koopmansdank
+1735149,KNRM-KWC,KNRM Reddingstation Neeltje Jans-Binnen,Bemanning Reddingboot Fred
+1735152,KNRM-KWC,KNRM Reddingstation Ouddorp,Schipper
+1735158,KNRM-KWC,KNRM Reddingstation Ouddorp Buiten,Bemanning Reddingboot Baron van Lynden
+1735159,KNRM-KWC,KNRM Reddingstation Ouddorp Binnen,Bemanning Reddingboot Griend
+1735160,KNRM-KWC,KNRM Reddingstation Ouddorp,Walploeg
+1735162,KNRM-KWC,KNRM Stellendam,Schippers
+1735168,KNRM-KWC,KNRM Reddingstation Stellendam-Buiten,Bemanning Reddingboot Antoinette
+1735169,KNRM-KWC,KNRM Reddingstation Stellendam-Binnen,Bemanning Reddingboot Neeltje Struijs
+1735171,KNRM-KWC,KNRM Reddingstation Hoek van Holland,SAR liaison
+1735172,KNRM-KWC,KNRM Reddingstation Hoek van Holland,Schipper Reddingboot Jeanine Parqui
+1735178,KNRM-KWC,KNRM Reddingstation Hoek van Holland,Bemanning Reddingboot Jeanine Parqui
+1735182,KNRM-KWC,KNRM Reddingstation Ter Heijde,Schipper
+1735188,KNRM-KWC,KNRM Reddingstation Ter Heijde,Bemanning Reddingboot George Dijkstra
+1735190,KNRM-KWC,KNRM Reddingstation Ter Heijde,Walploeg
+1735192,KNRM-KWC,KNRM Scheveningen,Schippers Kitty Roosmale Nepveu
+1735198,KNRM-KWC,KNRM Reddingstation Scheveningen,Bemanning Reddingboot Kitty Roosmale Nepveu
+1735200,KNRM-KWC,KNRM Reddingstation Scheveningen,Walploeg
+1735201,KNRM-KWC,KNRM Reddingstation Katwijk,SAR liaison
+1735202,KNRM-KWC,KNRM Reddingstation Katwijk,Schippers
+1735208,KNRM-KWC,KNRM Reddingstation Katwijk,Bemanning Reddingboot Edith Grondel
+1735210,KNRM-KWC,KNRM Reddingstation Katwijk,Walploeg
+1735212,KNRM-KWC,KNRM Noordwijk aan Zee,Schippers
+1735218,KNRM-KWC,KNRM Reddingstation Noordwijk aan Zee,Bemanning Reddingboot Paul Johannes
+1735220,KNRM-KWC,KNRM Reddingstation Noordwijk aan Zee,Walploeg
+1735222,KNRM-KWC,KNRM Reddingstation Zandvoort,Schippers
+1735228,KNRM-KWC,KNRM Reddingstation Zandvoort,Bemanning Reddingboot Annie Poulisse
+1735230,KNRM-KWC,KNRM Reddingstation Zandvoort,Walploeg
+1735232,KNRM-KWC,KNRM Reddingstation IJmuiden,Schipper NH1816
+1735238,KNRM-KWC,KNRM Reddingstation IJmuiden,Bemanning Reddingboot Nh1816
+1735242,KNRM-KWC,KNRM Reddingstation Wijk aan Zee,Schipper
+1735248,KNRM-KWC,KNRM Reddingstation Wijk aan Zee,Bemanning Reddingboot Donateur
+1735250,KNRM-KWC,KNRM Reddingstation Wijk aan Zee,Walploeg
+1735252,KNRM-KWC,KNRM Reddingstation Egmond aan Zee,Schippers
+1735258,KNRM-KWC,KNRM Reddingstation Egmond aan Zee,Bemanning Reddingboot Irene & Henk
+1735260,KNRM-KWC,KNRM Reddingstation Egmond aan Zee,Walploeg
+1735262,KNRM-KWC,KNRM Reddingstation Petten,Schippers
+1735268,KNRM-KWC,KNRM Reddingstation Petten,Bemanning Reddingboot Dolfijn
+1735270,KNRM-KWC,KNRM Reddingstation Petten,Walploeg
+1735271,KNRM-KWC,KNRM Reddingstation Callantsoog,SAR Liaison KWC
+1735272,KNRM-KWC,KNRM Reddingstation Callantsoog,KNRM Station CAL Callantsoog - Schippers
+1735278,KNRM-KWC,KNRM Reddingstation Callantsoog,Bemanning Reddingboot Koen Oberman
+1735280,KNRM-KWC,KNRM Reddingstation Callantsoog,Walploeg
+1735282,KNRM-KWC,KNRM Reddingstation Den Helder,Schipper
+1735288,KNRM-KWC,KNRM Reddingstation Den Helder,Bemanning Reddingboot Joke Dijkstra
+1735292,KNRM-KWC,KNRM Reddingstation Texel De Koog,Schippers
+1735298,KNRM-KWC,KNRM Reddingstation Texel De Koog,Bemanning Reddingboot Zalm
+1735299,KNRM-KWC,KNRM Reddingstation Texel Oudeschild,Bemanning Reddingboot Cornelis Dito
+1735300,KNRM-KWC,KNRM Reddingstation Texel De Koog,Walploeg
+1735302,KNRM-KWC,KNRM Reddingstation Texel De Cocksdorp,Schippers
+1735308,KNRM-KWC,KNRM Reddingstation Texel De Cocksdorp,Bemanning Reddingboot Beursplein 5
+1735312,KNRM-KWC,KNRM Reddingstation Vlieland,Schipper
+1735314,KNRM-KWC,KNRM Vlieland,Lifeguards
+1735318,KNRM-KWC,KNRM Reddingstation Vlieland,Bemanning Reddingboot Graaf van Bylandt
+1735319,KNRM-KWC,KNRM Reddingstation Vlieland,Bemanning Reddingboten Huibert Dijkstra en Gul
+1735320,KNRM-KWC,KNRM Reddingstation Vlieland,Walploeg
+1735332,KNRM-KWC,KNRM Reddingstation West-Terschelling,Schipper
+1735338,KNRM-KWC,KNRM Reddingstation West-Terschelling,Bemanning Reddingboot Arie Visser
+1735342,KNRM-KWC,KNRM Reddingstation Terschelling Paal 8,Schipper
+1735348,KNRM-KWC,KNRM Reddingstation Terschelling Paal 8,Bemanning Reddingboot Frans Hogewind
+1735350,KNRM-KWC,KNRM Reddingstation Terschelling Paal 8,Walploeg
+1735352,KNRM-KWC,KNRM Reddingstation Ameland Ballum,Schipper
+1735358,KNRM-KWC,KNRM Reddingstation Ameland Ballum,Bemanning Reddingboot Anna Margaretha
+1735362,KNRM-KWC,KNRM Reddingstation Ameland Nes,Schipper
+1735368,KNRM-KWC,KNRM Reddingstation Ameland Nes,Bemanning Reddingboot Maria Hofker
+1735370,KNRM-KWC,KNRM Reddingstation Ameland Nes,Walploeg
+1735372,KNRM-KWC,KNRM Reddingstation Schiermonnikoog,Schipper
+1735378,KNRM-KWC,KNRM Reddingstation Schiermonnikoog,Bemanning Reddingboot Edzard Jacob
+1735380,KNRM-KWC,KNRM Reddingstation Schiermonnikoog,Walploeg
+1735382,KNRM-KWC,KNRM Reddingstation Schiermonnikoog,Schippers Koning Willem I
+1735384,KNRM-KWC,KNRM Reddingstation Schiermonnikoog,Lifeguards
+1735388,KNRM-KWC,KNRM Reddingstation Schiermonnikoog,Bemanning Reddingboot Koning Willem I
+1735392,KNRM-KWC,KNRM Reddingstation Eemshaven,Schipper
+1735398,KNRM-KWC,KNRM Reddingstation Eemshaven,Bemanning Reddingboot Jan en Titia Visser
+1735402,KNRM-KWC,KNRM Reddingstation Lauwersoog,Schipper
+1735408,KNRM-KWC,KNRM Reddingstation Lauwersoog Buiten,Bemanning Reddingboot Annie Jacoba Visser
+1735409,KNRM-KWC,KNRM Reddingstation Lauwersoog Binnen,Bemanning Reddingboot Springbok
+1735411,KNRM-KWC,KNRM Reddingstation Harlingen,SAR liaison
+1735412,KNRM-KWC,KNRM Reddingstation Harlingen,Schipper
+1735418,KNRM-KWC,KNRM Reddingstation Harlingen,Bemanning Reddingboten Wiecher en Jap Visser-Politiek & Chios
+1735422,KNRM-KWC,KNRM Reddingstation Hindeloopen,Schippers Alida & Ineke van Dun-de Meester
+1735428,KNRM-KWC,KNRM Reddingstation Hindeloopen,Bemanning Reddingboot Alida
+1735432,KNRM-KWC,KNRM Reddingstation Lemmer,Schipper Anna Dorothea
+1735438,KNRM-KWC,KNRM Reddingstation Lemmer,KNRM Reddingstation Lemmer (Bemanning Reddingboot Anna Dorothea)
+1735441,KNRM-KWC,KNRM Reddingstation Urk,SAR liaison
+1735442,KNRM-KWC,KNRM Reddingstation Urk,Schippers Kapiteins Hazewinkel & Marinus Cornelis
+1735448,KNRM-KWC,KNRM Reddingstation Urk,Bemanning Reddingboten Kapiteins Hazewinkel en Marinus Cornelis
+1735452,KNRM-KWC,KNRM Reddingstation Elburg,Schipper Evert Floor
+1735458,KNRM-KWC,KNRM Reddingstation Elburg,Bemanning Reddingboot Evert Floor
+1735462,KNRM-KWC,KNRM Reddingstation Marken,Schipper
+1735468,KNRM-KWC,KNRM Reddingstation Marken,Bemanning Reddingboot Frans Verkade
+1735472,KNRM-KWC,KNRM Reddingstation Enkhuizen,Schipper Watersport KNWV
+1735477,KNRM-KWC,KWC >,Infocode Sluiswachter Naviduct Enkhuizen
+1735478,KNRM-KWC,KNRM Reddingstation Enkhuizen,Bemanning Reddingboten Watersport KNWV en Corrie Dijkstra-Van Elk
+1735482,KNRM-KWC,KNRM Reddingstation Den Oever,Schipper Reddingboot Op Dreef
+1735488,KNRM-KWC,KNRM Reddingstation Den Oever,Bemanning Reddingboot Op Dreef
+1735492,KNRM-KWC,KNRM Reddingstation Huizen,Schipper
+1735498,KNRM-KWC,KNRM Reddingstation Huizen,Bemanning Reddingboot Nikolaas Wijsenbeek
+1735502,KNRM-KWC,KNRM Reddingstation Hansweert,Schipper Jan van Engelenburg
+1735508,KNRM-KWC,KNRM Reddingstation Hansweert,Bemanning Reddingboot Jan van Engelenburg
+1735512,KNRM-KWC,KNRM Reddingstation Blaricum,Schipper
+1735518,KNRM-KWC,KNRM Reddingstation Blaricum,Bemanning Reddingboot Pieter Houbolt
+1735528,KNRM-KWC,KNRM Reddingstation Lelystad,Bemanning Reddingboot Bert & Anneke Knape
+1735702,KNRM-KWC,KNRM Reddingstation Andijk,Schipper 't Span
+1735708,KNRM-KWC,KNRM Reddingstation Andijk,Bemanning Reddingboot 't Span
+1735718,KNRM-KWC,KNRM Reddingstation Medemblik,Bemanning Reddingboot Bernardine
+1735722,KNRM-KWC,Reddingstation Hoorn,Reddingsbrigade - Schipper
+1735728,KNRM-KWC,Reddingsbrigade Hoorn,Alarmploeg
+1735732,KNRM-KWC,Reddingstation Warder,Schipper
+1735738,KNRM-KWC,Reddingstation Warder,Bemanning
+1735742,KNRM-KWC,KNRM Reddingstation Dordrecht,Schippers
+1735748,KNRM-KWC,KNRM Reddingstation Dordrecht-Zuid,Bemanning Reddingboot KBW 1910
+1735749,KNRM-KWC,KNRM Reddingstation Dordrecht-Noord,Bemanning Reddingboot Tjepke Ekkelboom
+1735752,KNRM-KWC,Reddingstation Wijdenes,Schipper
+1735758,KNRM-KWC,Reddingstation Wijdenes,Bemanning Reddingboot De Arend
+1735768,KNRM-KWC,KNRM Reddingstation Maasvlakte,Bemanning Rescue Water Craft
+1735770,KNRM-KWC,KNRM Reddingstation Maasvlakte,Walploeg
+1735778,KNRM-KWC,Brandweer Zeewolde,Bemanning Brandweervaartuig 25-4513
+1735788,KNRM-KWC,BRW Noord- en Oost-Gelderland (Harderwijk),Brandweervaartuig 06-1112
+1735795,KNRM-KWC,BRW Zeeland (Stavenisse),Brandweervaartuig Scaldis
+1735800,KNRM-KWC,Reddingsbrigade Nederland,Wachtsman
+1735801,KNRM-KWC,Reddingsbrigade Castricum,Strandploeg
+1735802,KNRM-KWC,Reddingsbrigade Castricum,Alarmploeg
+1735803,KNRM-KWC,Reddingsbrigade Hellevoetsluis,Strandploeg
+1735804,KNRM-KWC,Reddingsbrigade Hellevoetsluis,Alarmploeg
+1735805,KNRM-KWC,Reddingsbrigade Hoek van Holland,Strandploeg
+1735806,KNRM-KWC,Reddingsbrigade Egmond aan Zee,Strandploeg
+1735807,KNRM-KWC,Reddingsbrigade Egmond aan Zee,Alarmploeg
+1735809,KNRM-KWC,Reddingsbrigade Ouddorp,Strandploeg
+1735811,KNRM-KWC,Reddingsbrigade Bergen,Strandploeg
+1735815,KNRM-KWC,Reddingsbrigade Rockanje,Strandploeg
+1735816,KNRM-KWC,Reddingsbrigade Schoorl,Strandploeg
+1735817,KNRM-KWC,Reddingsbrigade Schoorl,Alarmploeg
+1735818,KNRM-KWC,Reddingsbrigade Rockanje,Alarmploeg
+1735819,KNRM-KWC,Reddingsbrigade Domburg,Strandploeg
+1735825,KNRM-KWC,Reddingsbrigade Vlissingen,Strandploeg
+1735827,KNRM-KWC,Reddingsbrigade Petten,Alarmploeg
+1735828,KNRM-KWC,Reddingsbrigade Vlissingen,Alarmploeg
+1735831,KNRM-KWC,Reddingsbrigade Callantsoog,Strandploeg
+1735832,KNRM-KWC,Reddingsbrigade Callantsoog,Alarmploeg
+1735833,KNRM-KWC,Reddingsbrigade Sluis,Strandploeg
+1735835,KNRM-KWC,Reddingsbrigade Westerschouwen,Strandploeg
+1735836,KNRM-KWC,Reddingsbrigade Den Helder,Strandploeg
+1735837,KNRM-KWC,Reddingsbrigade Den Helder,Alarmploeg
+1735841,KNRM-KWC,Reddingsbrigade Texel - De Koog,Strandploeg
+1735842,KNRM-KWC,Reddingsbrigade Texel - De Koog,Alarmploeg
+1735847,KNRM-KWC,Reddingsbrigade Almere,Strandploeg
+1735849,KNRM-KWC,Reddingsbrigade Naarden,Strandploeg
+1735850,KNRM-KWC,Reddingsbrigade Heemskerk,Strandploeg
+1735851,KNRM-KWC,Reddingsbrigade Wijk aan Zee,Strandploeg
+1735852,KNRM-KWC,Reddingsbrigade Wijk aan Zee,Alarmploeg
+1735854,KNRM-KWC,Reddingsbrigade IJmuiden,Strandploeg
+1735855,KNRM-KWC,Reddingsbrigade IJmuiden,Alarmploeg
+1735857,KNRM-KWC,Reddingsbrigade Bloemendaal,Strandploeg
+1735858,KNRM-KWC,Reddingsbrigade Bloemendaal,Alarmploeg
+1735859,KNRM-KWC,Reddingsbrigade Brouwersdam,Strandploeg
+1735860,KNRM-KWC,Reddingsbrigade Zandvoort,Strandploeg
+1735861,KNRM-KWC,Reddingsbrigade Zandvoort,Alarmploeg
+1735863,KNRM-KWC,Reddingsbrigade Noordwijk aan Zee,Strandploeg
+1735864,KNRM-KWC,Reddingsbrigade Noordwijk aan Zee,Alarmploeg
+1735865,KNRM-KWC,SSV Strandpost Oostkapelle,Strandploeg
+1735866,KNRM-KWC,Reddingsbrigade Katwijk,Strandploeg
+1735867,KNRM-KWC,Reddingsbrigade Katwijk,Alarmploeg
+1735869,KNRM-KWC,Reddingsbrigade Wassenaar,Strandploeg
+1735871,KNRM-KWC,SSV Strandpost Domburg,Strandploeg
+1735872,KNRM-KWC,Reddingsbrigade Scheveningen,Strandploeg
+1735874,KNRM-KWC,SSV Strandpost Noordduine,Strandploeg
+1735875,KNRM-KWC,Reddingsbrigade Monster,Strandploeg
+1735876,KNRM-KWC,Reddingsbrigade Monster,Alarmploeg
+1735878,KNRM-KWC,Reddingsbrigade 's-Gravenzande,Strandploeg
+1735879,KNRM-KWC,Reddingsbrigade 's-Gravenzande,Strandploeg
+1735880,KNRM-KWC,Reddingsbrigade Westkapelle,Strandploeg
+1735882,KNRM-KWC,Reddingsbrigade Zouteland,Strandploeg
+1735884,KNRM-KWC,Reddingsbrigade Dishoek,Strandploeg
+1735887,KNRM-KWC,Reddingsbrigade Renesse,Strandploeg
+1735889,KNRM-KWC,Reddingsbrigade Scharendijke,Strandploeg
+1735981,KNRM-KWC,Kustwacht-Centrum,Kustwachtvliegtuig Kustwacht 01
+1735982,KNRM-KWC,Kustwacht-Centrum,Operationeel Team
+1735983,KNRM-KWC,Kustwacht-Centrum,Operationeel Team - Hand Having
+1735984,KNRM-KWC,Kustwacht-Centrum,Operationeel Team Voorlichting
+1735985,KNRM-KWC,Kustwacht-Centrum,Leider Operationeel Team
+1735986,KNRM-KWC,Kustwacht-Centrum,Info Hulpvraag Noordzee-Noord
+1735987,KNRM-KWC,Kustwacht-Centrum,Info Hulpvraag Noordzee-Zuid
+1735988,KNRM-KWC,Kustwacht-Centrum,Info Hulpvraag Waddenzee
+1735989,KNRM-KWC,Kustwacht-Centrum,Info Hulpvraag IJsselmeergebied
+1735990,KNRM-KWC,Kustwacht-Centrum,Info Hulpvraag Zuidhollandse Stromen
+1735991,KNRM-KWC,Kustwacht-Centrum,Info Hulpvraag Zeeuwse Stromen
+1735992,KNRM-KWC,Kustwacht-Centrum,SAR-helikopter Rescue 06 Den Helder
+1735993,KNRM-KWC,Kustwacht-Centrum,Winchoperator Rescue 06 Den Helder
+1735994,KNRM-KWC,Kustwacht-Centrum,SAR-verpleegkundige Resque 06 Den Helder
+1735995,KNRM-KWC,Kustwacht-Centrum,Technische dienst/grondwerktuigkundige Den Helder
+1735996,KNRM-KWC,Kustwacht-Centrum,SAR-helikopter Rescue 08 Midden-Zeeland
+1735997,KNRM-KWC,Kustwacht-Centrum,Winchoperator Rescue 08 Midden-Zeeland
+1735998,KNRM-KWC,Kustwacht-Centrum,SAR-verpleegkundige Rescue 08 Midden-Zeeland

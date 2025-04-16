@@ -1,0 +1,323 @@
+capcode,discipline,locatie/divisie,beschrijving
+0500000,BRW,MkNN,Proefalarm
+0500011,BRW,Regionaal,Algemeen Commandant
+0500012,BRW,Regionaal,Operationeel Leider
+0500014,BRW,Regionaal,HOvD-2
+0500015,BRW,Regionaal,HOvD-1
+0500016,BRW,Regionaal,HOVD-B (Groepscode)
+0500017,BRW,GMK Drenthe,Calamiteitencoördinator
+0500018,BRW,Cluster Noord Nederland,TeamBrandOnderzoek (Alarmcode)
+0500020,BRW,Cluster Noord Nederland,TeamBrandOnderzoek (Infocode)
+0500021,BRW,Regionaal,Pelotonscommandant Logistiek
+0500044,BRW,MkNN,Centralisten (Persoonlijkecode)
+0500053,BRW,MkNN,Centralisten (Persoonlijkecode)
+0500080,BRW,MkNN,Hoofd Meldkamer
+0500081,BRW,MkNN,Centralist (Persoonlijkecode)
+0500090,BRW,Regionaal,Team Digitale Verkenning
+0500091,BRW,Regionaal,Team Digitale Verkenning
+0500095,BRW,Regionaal,Adviseur WT Pendel Systeem
+0500098,BRW,MkNN,Lichtkrant
+0500100,BRW,Annen,Ploeg A
+0500101,BRW,Annen,Ploeg B
+0500118,BRW,Annen,Postalarm
+0500119,BRW,Annen,Postalarm Totaal
+0500150,BRW,Gasselternijveen,Bezetting TS Ploeg A
+0500151,BRW,Gasselternijveen,Bezetting TS Ploeg B
+0500155,BRW,Gasselternijveen,Monitor
+0500169,BRW,Gasselternijveen,Postalarm
+0500200,BRW,Gieten,Postalarm
+0500202,BRW,Gieten,Dagdienst
+0500204,BRW,Gieten,Verkenningseenheid
+0500215,BRW,Gieten,Monitor
+0500216,BRW,Gieten,Bezetting WT
+0500250,BRW,Rolde,Ploeg A
+0500251,BRW,Rolde,Ploeg B
+0500255,BRW,Rolde,Monitor
+0500269,BRW,Rolde,Postalarm
+0500299,BRW,Aa en Hunze,Dagondersteuning
+0500304,BRW,Assen Oost,Oud&Nieuw Ploeg
+0500311,BRW,Assen West,Duikers
+0500315,BRW,Regionaal,OvD (Noord en Midden)
+0500321,BRW,Assen,Burgemeester
+0500330,BRW,Assen Oost,Ploeg A
+0500331,BRW,Assen Oost,Ploeg B
+0500333,BRW,Assen Oost,Ploeg A/B
+0500335,BRW,Assen Oost,Monitor
+0500339,BRW,Assen Oost,Postalarm
+0500340,BRW,Assen West,Ploeg A
+0500341,BRW,Assen West,Ploeg B
+0500342,BRW,Assen West,Ploeg C
+0500343,BRW,Assen West,Chauffeurs dagdienst
+0500345,BRW,Assen West,Monitor
+0500347,BRW,Assen West,Kazerneploeg TS dagdienst
+0500349,BRW,Assen West,Postalarm
+0500351,BRW,Assen West,Bezetting COH-MU
+0500353,BRW,Assen West,Bezetting SAA
+0500354,BRW,Assen West,Schippers BRV
+0500358,BRW,Assen West,Oud&Nieuw Ploeg
+0500359,BRW,Assen West,Evenementencode
+0500395,BRW,Assen West,Kazernehek
+0500396,BRW,Assen West,Bezetting SAA dagdienst Ploeg
+0500398,BRW,Assen Oost,Kazernetechniek
+0500399,BRW,Assen West,Kazernetechniek
+0500400,BRW,Borger,Bezetting TS/WT
+0500403,BRW,Borger,Verkenningseenheid
+0500415,BRW,Borger,Monitor
+0500450,BRW,2e Exloermond,Postalarm
+0500467,BRW,2e Exloermond,Bezetting WT
+0500500,BRW,Coevorden,Ploeg A
+0500501,BRW,Coevorden,Ploeg B
+0500502,BRW,Coevorden,Ploeg C
+0500503,BRW,Coevorden,Dagcode
+0500518,BRW,Coevorden,Kazernehek
+0500519,BRW,Coevorden,Postalarm
+0500600,BRW,Schoonoord,Postalarm
+0500650,BRW,Sleen,Postalarm
+0500700,BRW,Zweeloo,Postalarm
+0500718,BRW,Zweeloo,Kazernetechniek
+0500719,BRW,Zweeloo,Bezetting BSA
+0500750,BRW,Zwinderen,Postalarm
+0500767,BRW,Zwinderen,Bezetting WT
+0500768,BRW,Zwinderen,Kazernetechniek
+0500769,BRW,Zwinderen,Postalarm Totaal
+0500800,BRW,Coevorden,Bedrijfsbrandweer Forbo Novilon
+0500810,BRW,Regionaal,Militair Operationeel Adviseur
+0500820,BRW,Eelde,Bedrijfsbrandweer Groningen Airport Eelde (Commandant)
+0500821,BRW,Eelde,Bedrijfsbrandweer Groningen Airport Eelde (Bezetting CT Ploeg 1)
+0500822,BRW,Eelde,Bedrijfsbrandweer Groningen Airport Eelde (Bezetting CT Ploeg 2)
+0500839,BRW,Emmen,Bedrijfsbrandweer Emmtec Services
+0500843,BRW,Regionaal,OvD Groepscode
+0500850,BRW,Emmen,Kazernealarm
+0500851,BRW,Emmen,Duikalarm
+0500853,BRW,Regionaal,OvD Zuid-Oost
+0500868,BRW,Emmen,Kazernetechniek
+0500869,BRW,Emmen,Postalarm
+0500870,BRW,Emmen,Gemeentelijk Commandant
+0500896,BRW,Emmen,Coordinator TCO (Zuidoost)
+0500898,BRW,Emmen,Monitorcode
+0500950,BRW,Emmer-Compascuum,Postalarm
+0500968,BRW,Emmer-Compascuum,Kazernetechniek
+0501000,BRW,Klazienaveen,Bezetting TS Ploeg A
+0501001,BRW,Klazienaveen,Bezetting TS Ploeg B
+0501002,BRW,Klazienaveen,Bezetting TS Ploeg C
+0501004,BRW,Klazienaveen,Verkenningseenheid
+0501005,BRW,Klazienaveen,Chauffeurs
+0501006,BRW,Klazienaveen,Dagondersteuning
+0501016,BRW,Klazienaveen,Bezetting WT
+0501018,BRW,Klazienaveen,Kazernetechniek
+0501019,BRW,Klazienaveen,Postalarm
+0501050,BRW,Schoonebeek,Postalarm
+0501068,BRW,Schoonebeek,Kazernetechniek
+0501100,BRW,Hoogeveen,A Ploeg
+0501101,BRW,Hoogeveen,B Ploeg
+0501102,BRW,Hoogeveen,C Ploeg
+0501104,BRW,Hoogeveen,Bevelvoerder van Dienst
+0501106,BRW,Hoogeveen,Verkenningseenheid IBGS
+0501107,BRW,Hoogeveen,A Ploeg Verzorging
+0501108,BRW,Hoogeveen,B Ploeg Verzorging
+0501109,BRW,Hoogeveen,C Ploeg Verzorging
+0501110,BRW,Regionaal,Coordinator TCO Zuidwest
+0501111,BRW,Hoogeveen,Chauffeurs A Ploeg
+0501112,BRW,Hoogeveen,Chauffeurs B Ploeg
+0501113,BRW,Hoogeveen,Chauffeurs C Ploeg
+0501116,BRW,Havelte,Verzorgingsploeg
+0501118,BRW,Hoogeveen,Kazernehek
+0501119,BRW,Hoogeveen,Postalarm
+0501120,BRW,Hoogeveen,Persoonlijkcode
+0501158,BRW,Hoogeveen,Persoonlijkcode
+0501178,BRW,Hoogeveen,Persoonlijkcode
+0501195,BRW,Hoogeveen,Persoonlijkcode
+0501200,BRW,Meppel,Bezetting TS Ploeg A
+0501201,BRW,Meppel,Bezetting TS Ploeg B
+0501204,BRW,Regionaal,OvD Zuid-West
+0501206,BRW,Meppel,Bezetting TS Dagploeg
+0501210,BRW,Meppel,Monitor
+0501214,BRW,Meppel,Bezetting HW Ploeg A
+0501215,BRW,Meppel,Bezetting HW Ploeg B
+0501216,BRW,Meppel,Bezetting WT Ploeg A
+0501217,BRW,Meppel,Bezetting WT Ploeg B
+0501218,BRW,Meppel,Kazernetechniek
+0501219,BRW,Meppel,Postalarm
+0501233,BRW,Meppel,Persoonlijkcode
+0501239,BRW,Meppel,Persoonlijkcode
+0501244,BRW,Meppel,Persoonlijkcode
+0501270,BRW,Meppel,Persoonlijkcode
+0501300,BRW,Norg,Postalarm
+0501303,BRW,Norg,Verkenningseenheid IBGS
+0501316,BRW,Norg,Bezetting WT
+0501350,BRW,Peize,Postalarm
+0501355,BRW,Peize,Monitor
+0501368,BRW,Peize,Kazernehek
+0501400,BRW,Roden,Bezetting TS
+0501416,BRW,Roden,Bezetting WT
+0501418,BRW,Roden,Kazernetechniek
+0501443,BRW,Roden,Burgemeester
+0501450,BRW,Veenhuizen,Postalarm
+0501465,BRW,Veenhuizen,Monitor
+0501466,BRW,Veenhuizen,Bezetting WT Ploeg 1
+0501467,BRW,Veenhuizen,Bezetting WT Ploeg 2
+0501501,BRW,Beilen,Bezetting TS Ploeg A
+0501502,BRW,Beilen,Bezetting TS Ploeg B
+0501504,BRW,Beilen,Verkenningseenheid IBGS
+0501505,BRW,Beilen,Bezetting TS Ploeg C
+0501514,BRW,Beilen,Bezetting WT Ploeg A
+0501515,BRW,Beilen,Monitor
+0501516,BRW,Beilen,Bezetting WT Ploeg B
+0501517,BRW,Beilen,Bezetting WT Ploeg C
+0501519,BRW,Beilen,Postalarm
+0501601,BRW,Smilde,Postalarm
+0501605,BRW,Smilde,Monitor
+0501616,BRW,Smilde,Bezetting WT Ploeg A
+0501617,BRW,Smilde,Bezetting WT Ploeg B
+0501618,BRW,Smilde,Kazernetechniek
+0501619,BRW,Smilde,Postalarm totaal
+0501651,BRW,Westerbork,Postalarm
+0501654,BRW,Westerbork,Veetakelploeg
+0501666,BRW,Westerbork,Bezetting WT
+0501750,BRW,Dwingeloo,Postalarm
+0501767,BRW,Dwingeloo,Bezetting WT
+0501768,BRW,Dwingeloo,Kazernetechniek
+0501769,BRW,Dwingeloo,Postalarm totaal
+0501800,BRW,Havelte,Postalarm
+0501817,BRW,Havelte,Bezetting WT
+0501819,BRW,Havelte,Postalarm totaal
+0501850,BRW,Vledder,Postalarm
+0501900,BRW,De Wijk-Koekange,Postalarm
+0501918,BRW,De Wijk-Koekange,Kazernetechniek
+0501950,BRW,Ruinen,Ploeg A
+0501951,BRW,Ruinen,Ploeg B
+0501953,BRW,Ruinen,Verkenningseenheid
+0501954,BRW,Ruinen,Chauffeurs
+0501967,BRW,Ruinen,Bezetting WT
+0501969,BRW,Ruinen,Postalarm
+0502000,BRW,Ruinerwold,Postalarm
+0502005,BRW,Ruinerwold,Bezetting DB + VIA
+0502017,BRW,Ruinerwold,Bezetting WT
+0502050,BRW,Zuidwolde,Postalarm
+0502068,BRW,Zuidwolde,Kazernetechniek
+0502100,BRW,Eelde,Postalarm
+0502103,BRW,Eelde,Verkenningseenheid
+0502115,BRW,Eelde,Monitor
+0502116,BRW,Eelde,Bezetting WT
+0502118,BRW,Eelde,Kazernetechniek
+0502150,BRW,Vries,Ploeg A
+0502151,BRW,Vries,Ploeg B
+0502165,BRW,Vries,Monitor
+0502168,BRW,Vries,Kazernetechniek
+0502169,BRW,Vries,Postalarm
+0502200,BRW,Zuidlaren,Postalarm
+0502216,BRW,Zuidlaren,Bezetting WT
+0502218,BRW,Zuidlaren,Kazernetechniek
+0502250,BRW,Regionaal,Infocode MKB Oost Nederland
+0502260,BRW,Gemeente Aa en Hunze,OvD Bevolkingszorg
+0502261,BRW,Gemeente Assen,OvD Bevolkingszorg
+0502262,BRW,Gemeente Midden-Drenthe,OvD Bevolkingszorg
+0502263,BRW,Gemeente Noordenveld,OvD Bevolkingszorg
+0502264,BRW,Gemeente Tynaarlo,OvD Bevolkingszorg
+0502265,BRW,Gemeente Borger-Odoorn,OvD Bevolkingszorg
+0502266,BRW,Gemeente Emmen,OvD Bevolkingszorg
+0502267,BRW,Gemeente Coevorden,OvD Bevolkingszorg
+0502268,BRW,Gemeente Hoogeveen,OvD Bevolkingszorg
+0502269,BRW,Gemeente De Wolden,OvD Bevolkingszorg
+0502270,BRW,Gemeente Meppel,OvD Bevolkingszorg
+0502271,BRW,Gemeente Westerveld,OvD Bevolkingszorg
+0502272,BRW,Regionaal,Liasons Provincie ROT
+0502273,BRW,Coevorden,OvD Bevolkingszorg
+0502275,BRW,Hunze en Aa's,Waterschapsfunctionaris
+0502277,BRW,Reest & Wieden,Waterschapsfunctionaris
+0502278,BRW,Vechtstromen,Waterschapsfunctionaris
+0502279,BRW,Noorderzijlvest,Waterschapsfunctionaris
+0502282,BRW,Regionaal,Informatiemanager CoPI
+0502284,BRW,Regionaal,Voorlichting
+0502290,BRW,Regionaal,Staatsbosbeheer / Natuurmonumenten
+0502301,BRW,Bedrijfsbrandweer,Bedrijfsbrandweer Fokker Hoogeveen (TS Ploeg)
+0502302,BRW,Bedrijfsbrandweer,Bedrijfsbrandweer Fokker Hoogeveen (Kader)
+0502307,BRW,Regionaal,TCO coordinator (Noord/Midden)
+0502505,BRW,Assen West,COH-MU 03-0399
+0502507,BRW,Vries,HA 03-9782
+0502509,BRW,OvD Noord en Midden,DV-OD 03-8293
+0502516,BRW,Vries,DPH 03-9762
+0502519,BRW,Vries,LIH-RTV 03-9779
+0502530,BRW,Assen West,TS 03-8231
+0502531,BRW,Assen Oost,TS 03-8232
+0502534,BRW,Assen West,AL 03-8251
+0502535,BRW,Assen West,WO 03-8210
+0502536,BRW,Assen Oost,SB 03-8260
+0502540,BRW,Assen West,BRV-M 03-8214
+0502545,BRW,Annen,TS 03-8431
+0502547,BRW,Gasselternijveen,TS 03-8432
+0502551,BRW,Gieten,TS 03-8433
+0502554,BRW,Rolde,TS 03-8434
+0502556,BRW,Beilen,TS 03-8331
+0502561,BRW,Smilde,TS 03-8333
+0502564,BRW,Westerbork,TST-NB 03-8341
+0502574,BRW,Zuidlaren,TS 03-8133
+0502578,BRW,Norg,TS 03-8031
+0502580,BRW,Peize,TS 03-8032
+0502585,BRW,Roden,TS 03-8033
+0502587,BRW,Veenhuizen,TS 03-8035
+0502590,BRW,Coevorden,HA 03-9883
+0502593,BRW,OvD Zuid-Oost,DV-OD 03-8693
+0502620,BRW,Emmen,TS 03-8632
+0502621,BRW,Emmen,TS 03-8633
+0502625,BRW,Emmen,WO 03-8610
+0502626,BRW,Emmen,SB 03-8661
+0502636,BRW,Emmer-Compascuum,TS 03-8731
+0502639,BRW,Klazienaveen,TS 03-8732
+0502643,BRW,Schoonebeek,TS 03-8733
+0502646,BRW,Borger,TS 03-8531
+0502649,BRW,2e Exloermond,TST-NB 03-8541
+0502653,BRW,Coevorden,TS 03-8831
+0502654,BRW,Coevorden,TS 03-8832
+0502655,BRW,Coevorden,HW 03-8850
+0502656,BRW,Coevorden,AL 03-8851
+0502661,BRW,Schoonoord,TS 03-8833
+0502663,BRW,Zweeloo,TS 03-8835
+0502664,BRW,Zweeloo,PM 03-8806
+0502665,BRW,Zwinderen,TS 03-8836
+0502667,BRW,De Wijk-Koekange,HA 03-9982
+0502670,BRW,OvD Zuid-West,DA-OD 03-8993
+0502695,BRW,Hoogeveen,TS 03-8931
+0502696,BRW,Hoogeveen,TS 03-8932
+0502700,BRW,Hoogeveen,AL 03-8951
+0502702,BRW,Hoogeveen,SB 03-8961
+0502718,BRW,De Wijk-Koekange,TS 03-9031
+0502720,BRW,De Wijk-Koekange,WTH 03-9066
+0502721,BRW,Ruinen,TST-NB 03-9041
+0502722,BRW,Ruinen,WT 03-9065
+0502725,BRW,Ruinerwold,TS 03-9033
+0502726,BRW,Zuidwolde,TS 03-9034
+0502728,BRW,Meppel,TS 03-9231
+0502729,BRW,Meppel,TS 03-9232
+0502730,BRW,Meppel,TS 03-9232
+0502732,BRW,Meppel,HW 03-9250
+0502740,BRW,Dwingeloo,TST-NB 03-9141
+0502743,BRW,Havelte,TST-NB 03-9142
+0502746,BRW,Vledder,TST-NB 03-9143
+0502750,BRW,Groningen Airport,CT 03-9367
+0502751,BRW,Groningen Airport,CT 03-9368
+0502760,BRW,Borger,WT 03-8565
+0502761,BRW,2e Exloermond,WT 03-8567
+0502762,BRW,Emmer-Compascuum,WT 03-8765
+0502763,BRW,Schoonebeek,WT 03-8767
+0502764,BRW,Reserve Regionaal,WT 03-0365
+0502766,BRW,Zwinderen,WT 03-8867
+0502767,BRW,Schoonoord,WT 03-8868
+0502768,BRW,Assen West,WT 03-8265
+0502769,BRW,Norg,WT 03-8065
+0502770,BRW,Roden,WT 03-8066
+0502771,BRW,Veenhuizen,WT 03-8067
+0502772,BRW,Eelde,WT 03-8165
+0502773,BRW,Zuidlaren,WT 03-8166
+0502774,BRW,Beilen,WT 03-8365
+0502775,BRW,Smilde,WT 03-8366
+0502776,BRW,Westerbork,WT 03-8367
+0502777,BRW,Gieten,WT 03-8465
+0502999,BRW,OCB Noord Nederland,Lichtkrant Drenthe
+0520000,AMBU,GHOR,Proefalarm
+0520004,AMBU,GHOR,OvD-G
+0520005,AMBU,GHOR,OvD-G`s (Groepscode)
+0520061,AMBU,GHOR,ACGZ/Algemeen Commandant Geneeskundige Zorg
+0520602,AMBU,Regionaal,Medical Assistance International
+0530112,POL,OC-P,Persinformatie
+0531112,BRW,OC-B,Persinformatie

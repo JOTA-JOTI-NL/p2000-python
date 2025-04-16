@@ -1,0 +1,462 @@
+capcode,discipline,locatie/divisie,beschrijving
+1503002,BRW,Regionaal,Regionaal Operationeel Team (ROT)
+1503003,BRW,Regionaal,Commandant van Dienst
+1503004,BRW,Regionaal,Hoofd Ondersteuning
+1503005,BRW,Regionaal,HOvD West
+1503006,BRW,Regionaal,HOvD Oost
+1503008,BRW,Regionaal,Leider CoPI West
+1503009,BRW,Regionaal,Leider CoPI Oost
+1503012,BRW,Regionaal,OvD Duin- & Bollenstreek
+1503013,BRW,Regionaal,OVD Leiden e.o.
+1503014,BRW,Regionaal,OVD Rijnstreek
+1503015,BRW,Regionaal,OVD Gouda e.o.
+1503016,BRW,Regionaal,OVD Krimpenerwaard
+1503021,BRW,Regionaal,Brandweermotor Den Haag
+1503026,BRW,Regionaal,Centralisten
+1503030,BRW,Alphen a/d Rijn - Beroeps,Duikerploeg
+1503031,BRW,Alphen a/d Rijn - Vrijwilligers,Postalarm
+1503032,BRW,Alphen a/d Rijn - Beroeps,Vrije Bevelvoerders
+1503033,BRW,Alphen a/d Rijn - Beroeps,Chauffeurs
+1503038,BRW,Alphen a/d Rijn - Beroeps,24 uursdienst
+1503040,BRW,Alphen a/d Rijn - Vrijwilligers,Chauffeurs
+1503041,BRW,Alphen a/d Rijn - Beroeps,Vrije Chauffeurs
+1503042,BRW,Alphen a/d Rijn - Beroeps,Kazernealarm
+1503043,BRW,Alphen a/d Rijn - Vrijwilligers,Bezetting 2e TS
+1503046,BRW,Alphen a/d Rijn - Beroeps,Ploegchef/Operationeel Bevelvoerder
+1503061,BRW,Aarlanderveen,Postalarm
+1503062,BRW,Aarlanderveen,Ploegchef/Operationeel Bevelvoerder
+1503071,BRW,Zwammerdam,Postalarm
+1503072,BRW,Zwammerdam,Ploegchef/Operationeel Bevelvoerder
+1503080,BRW,Bergambacht,Postalarm
+1503083,BRW,Bergambacht,Chauffeurs AL Ploeg 1
+1503084,BRW,Bergambacht,Chauffeurs AL Ploeg 2
+1503085,BRW,Bergambacht,Kazernetechniek
+1503086,BRW,Krimpen aan de Lek,Kazernetechniek
+1503089,BRW,Bergambacht,Ploegchef/Operationeel Bevelvoerder
+1503105,BRW,Bodegraven,Postalarm
+1503110,BRW,Bodegraven,Chauffeurs WT Ploeg 1
+1503111,BRW,Bodegraven,Chauffeurs WT Ploeg 2
+1503119,BRW,Bodegraven,Piketploeg
+1503121,BRW,Nieuwerbrug,Postalarm
+1503128,BRW,Nieuwerbrug,Ploegchef/Operationeel Bevelvoerder
+1503129,BRW,Bodegraven,Ploegchef/Operationeel Bevelvoerder
+1503130,BRW,Boskoop,Ploegchef/Operationeel Bevelvoerder
+1503131,BRW,Boskoop,Ploeg 1
+1503132,BRW,Boskoop,Ploeg 2
+1503133,BRW,Boskoop,Bezetting KW Ploeg 1
+1503134,BRW,Boskoop,Bezetting KW Ploeg 2
+1503135,BRW,Boskoop,Postalarm
+1503136,BRW,Boskoop,First-Responders ploeg
+1503149,BRW,Gouda - Beroeps,Herbezetting Vrije Duikers
+1503150,BRW,Gouda - Beroeps,Duikploeg
+1503151,BRW,Gouda - Beroeps,Postalarm
+1503152,BRW,Gouda - Beroeps,Kazernealarm
+1503153,BRW,Gouda - Beroeps,Ploegchef/Operationeel Bevelvoerder
+1503154,BRW,Gouda - Beroeps,Chauffeurs
+1503155,BRW,Gouda - Beroeps,Vrije Chauffeurs
+1503160,BRW,Gouda - Beroeps,24-uursploeg
+1503165,BRW,Gouda - Beroeps,Bevelvoerders
+1503166,BRW,Gouda - Beroeps,Ondersteuning CoPI
+1503180,BRW,Gouda - Vrijwilligers,Postalarm
+1503181,BRW,Gouda - Vrijwilligers,Chauffeurs
+1503191,BRW,Hillegom,Ploeg 1
+1503192,BRW,Hillegom,Ploeg 2
+1503194,BRW,Hillegom,Ploegchef/Operationeel Bevelvoerder
+1503195,BRW,Hillegom,Postalarm
+1503203,BRW,Katwijk,Bezetting AL Ploeg 1
+1503204,BRW,Katwijk,Bezetting AL Ploeg 2
+1503205,BRW,Katwijk,Bezetting AL Ploeg 3
+1503206,BRW,Katwijk,Bezetting AL Ploeg 4
+1503207,BRW,Rijnsburg,Bezetting KW Ploeg 1
+1503208,BRW,Rijnsburg,Bezetting KW Ploeg 2
+1503211,BRW,Leimuiden,Postalarm
+1503212,BRW,Leimuiden,Verkenningseenheid
+1503232,BRW,Woubrugge,Postalarm
+1503234,BRW,Woubrugge,Brandstofploeg
+1503238,BRW,Leimuiden,Ploegchef/Operationeel Bevelvoerder
+1503239,BRW,Woubrugge,Ploegchef/Operationeel Bevelvoerder
+1503243,BRW,Katwijk,Postalarm
+1503244,BRW,Katwijk,Piketploeg 1
+1503245,BRW,Katwijk,Piketploeg 2
+1503246,BRW,Katwijk,Piketploeg 3
+1503247,BRW,Katwijk,Piketploeg 4
+1503248,BRW,Katwijk,Bezetting TS Dagdienst
+1503252,BRW,Katwijk,Ploegchef/Operationeel Bevelvoerder
+1503253,BRW,Katwijk,Bezetting AL Dagdienst
+1503260,BRW,Leiden Noord - Beroeps,Duikerploeg
+1503261,BRW,Leiden Noord - Beroeps,24-uursdienst
+1503262,BRW,Leiden Noord - Beroeps,Chauffeurs AL
+1503264,BRW,Leiden Noord - Beroeps,BRW | HM | Leiden Noord - Beroeps
+1503266,BRW,Leiden Noord - Beroeps,Herbezetting
+1503271,BRW,Leiden Noord - Vrijwilligers,Ploegchef/Operationeel Bevelvoerder
+1503272,BRW,Leiden Noord - Vrijwilligers,Bezetting AB/SV Ploeg 1
+1503273,BRW,Leiden Noord - Vrijwilligers,Bezetting AB/SV Ploeg 2
+1503274,BRW,Leiden Noord - Vrijwilligers,Herbezetting
+1503275,BRW,Leiden Noord - Vrijwilligers,Kazernealarm
+1503279,BRW,Leiden Noord - Beroeps,Beroeps Kazernealarm
+1503282,BRW,Leiden-Zuid,Chauffeurs AL
+1503284,BRW,Leiden-Zuid,24-uursdienst
+1503286,BRW,Leiden-Zuid,Vrije Beroeps
+1503289,BRW,Leiden-Zuid,Kazernealarm
+1503294,BRW,Leiden-Zuid,Operationele Bevelvoerder (OB)
+1503320,BRW,Nieuwkoop-Nieuwveen,Ploegchef/Operationeel Bevelvoerder
+1503323,BRW,Nieuwkoop-Nieuwveen,Postalarm
+1503330,BRW,Lisse,Ploegchef/Operationeel Bevelvoerder
+1503331,BRW,Lisse,Ploeg 1
+1503332,BRW,Lisse,Ploeg 2
+1503333,BRW,Lisse,Chauffeurs AL Ploeg 1
+1503334,BRW,Lisse,Chauffeurs AL Ploeg 2
+1503335,BRW,Lisse,Postalarm
+1503336,BRW,Lisse,First Responders
+1503338,BRW,Lisse,Bevelvoerder
+1503356,BRW,Moordrecht,Verkenningseenheid
+1503357,BRW,Moordrecht,Postalarm
+1503359,BRW,Moordrecht,Ploegchef/Operationeel Bevelvoerder
+1503360,BRW,Lekkerkerk,Ploegchef/Operationeel Bevelvoerder
+1503363,BRW,Lekkerkerk,Postalarm
+1503364,BRW,Lekkerkerk,Verkenningseenheid
+1503370,BRW,Krimpen aan de Lek,Ploegchef/Operationeel Bevelvoerder
+1503371,BRW,Krimpen aan de Lek,Postalarm
+1503381,BRW,Nieuwerkerk aan den IJssel,Postalarm
+1503384,BRW,Nieuwerkerk aan den IJssel,Ploegchef/Operationeel Bevelvoerder
+1503394,BRW,Nieuwerkerk aan den IJssel,Bezetting BRV
+1503400,BRW,Nieuwkoop,Ploegchef/Operationeel Bevelvoerder)
+1503403,BRW,Nieuwkoop,Postalarm
+1503404,BRW,Nieuwkoop,Verkenningseenheid
+1503410,BRW,Noordwijkerhout,Ploegchef/Operationeel Bevelvoerder)
+1503413,BRW,Noordwijkerhout,Postalarm
+1503430,BRW,Noordwijk,Postalarm
+1503432,BRW,Noordwijk,Chauffeurs AL Ploeg 1
+1503433,BRW,Noordwijk,Chauffeurs AL Ploeg 2
+1503434,BRW,Noordwijk,Bezetting PM-NB 16-1841
+1503437,BRW,Noordwijk,Ploegchef/Operationeel Bevelvoerder
+1503440,BRW,Oegstgeest,Postalarm
+1503461,BRW,Ouderkerk aan den IJssel,Postalarm
+1503462,BRW,Ouderkerk aan den IJssel,Bezetting PM-UHD
+1503471,BRW,Gouderak,Postalarm
+1503478,BRW,Ouderkerk aan den IJssel,Ploegchef/Operationeel Bevelvoerder
+1503479,BRW,Gouderak,Ploegchef/Operationeel Bevelvoerder
+1503491,BRW,Reeuwijk,Postalarm
+1503492,BRW,Reeuwijk,Ploeg 1
+1503493,BRW,Reeuwijk,Ploeg 2
+1503494,BRW,Reeuwijk,Bezetting BRV
+1503496,BRW,Reeuwijk,Ploegchef/Operationeel Bevelvoerder
+1503500,BRW,Driebruggen,Postalarm
+1503502,BRW,Driebruggen,Ploegchef/Operationeel Bevelvoerder
+1503510,BRW,Rijnsburg,Postalarm
+1503511,BRW,Rijnsburg,Ploeg 1
+1503512,BRW,Rijnsburg,Ploeg 2
+1503517,BRW,Rijnsburg,Ploegchef/Operationeel Bevelvoerder
+1503524,BRW,Rijnsburg,Bezetting KW Ploeg 1 + 2
+1503530,BRW,Hazerswoude,Ploegchef/Operationeel Bevelvoerder
+1503535,BRW,Hazerswoude,Postalarm
+1503540,BRW,Benthuizen,Ploegchef/Operationeel Bevelvoerder
+1503541,BRW,Benthuizen,Ploeg 1
+1503542,BRW,Benthuizen,Ploeg 2
+1503543,BRW,Benthuizen,Postalarm
+1503544,BRW,Benthuizen,Verkenningseenheid
+1503548,BRW,Benthuizen,25 kV Ploeg HSL
+1503550,BRW,Koudekerk aan den rijn,Ploegchef/Operationeel Bevelvoerder
+1503551,BRW,Koudekerk aan den rijn,Arbeidshygiëne
+1503552,BRW,Koudekerk aan den rijn,Bezetting AB/SV Ploeg 1
+1503553,BRW,Koudekerk aan den rijn,Bezetting AB/SV Ploeg 2
+1503555,BRW,Koudekerk aan den rijn,Postalarm
+1503560,BRW,Sassenheim,Postalarm
+1503561,BRW,Sassenheim,Bezetting GW
+1503567,BRW,Sassenheim,Ploegchef/Operationeel Bevelvoerder
+1503580,BRW,Schoonhoven,Duikploeg
+1503581,BRW,Schoonhoven,Postalarm
+1503591,BRW,Schoonhoven,Ploegchef/Operationeel Bevelvoerder
+1503592,BRW,Schoonhoven,Schipper
+1503595,BRW,Schoonhoven,Kazernealarm
+1503600,BRW,Ter Aar,Duikploeg
+1503601,BRW,Ter Aar,Postalarm
+1503602,BRW,Ter Aar,Ploegchef/Operationeel Bevelvoerder
+1503610,BRW,Valkenburg,Verkenningseenheid
+1503611,BRW,Valkenburg,Postalarm
+1503612,BRW,Valkenburg,Ploegchef/Operationeel Bevelvoerder
+1503621,BRW,Stolwijk,Postalarm
+1503628,BRW,Stolwijk,Bezetting KW Ploeg 1
+1503629,BRW,Stolwijk,Bezetting KW Ploeg 2
+1503632,BRW,Haastrecht,Postalarm
+1503638,BRW,Stolwijk,Ploegchef/Operationeel Bevelvoerder
+1503639,BRW,Haastrecht,Ploegchef/Operationeel Bevelvoerder
+1503640,BRW,Voorhout,Postalarm
+1503641,BRW,Voorhout,Ploegchef/Operationeel Bevelvoerder
+1503642,BRW,Voorhout,Bezetting Arbeidshygienevoertuig Dagploeg
+1503643,BRW,Voorhout,Bezetting Arbeidshygienevoertuig Nachtploeg
+1503660,BRW,Voorschoten,Ploegchef/Operationeel Bevelvoerder
+1503663,BRW,Voorschoten,Postalarm
+1503680,BRW,Waddinxveen,First-Responders ploeg
+1503681,BRW,Waddinxveen,Postalarm
+1503682,BRW,Waddinxveen,Ploeg 1
+1503683,BRW,Waddinxveen,Ploeg 2
+1503684,BRW,Waddinxveen,Ploegchef/Operationeel Bevelvoerder
+1503689,BRW,Waddinxveen,Lichtkrant
+1503691,BRW,BRW Hollands Midden,Hefbrug Waddinxveen
+1503700,BRW,Warmond,Postalarm
+1503703,BRW,Warmond,Ploegchef/Operationeel Bevelvoerder
+1503711,BRW,Zevenhuizen,Postalarm
+1503720,BRW,Zevenhuizen,Ploegchef/Operationeel Bevelvoerder
+1503731,BRW,Rijpwetering,Postalarm
+1503732,BRW,Rijpwetering,Ploegchef/Operationeel Bevelvoerder
+1503739,BRW,Roelofarendsveen,Bezetting HV
+1503740,BRW,Roelofarendsveen,Postalarm
+1503741,BRW,Roelofarendsveen,Ploegchef/Operationeel Bevelvoerder
+1503750,BRW,Kaag,Postalarm
+1503751,BRW,Kaag,Ploegchef/Operationeel Bevelvoerder
+1503801,BRW,BRW Hollands Midden,Brugwachter Woubrugsebrug Woubrugge
+1503802,BRUG,BRW Hollands Midden,Brugwachter Aardammerbrug Ter Aar
+1503803,BRUG,BRW Hollands Midden,Brugwachter Hefbrug Boskoop
+1503804,BRUG,BRW Hollands Midden,Brugwachter Ophaalbrug Haastrecht
+1503810,GMK,BRW Hollands Midden,Piket Beheer en Onderhoud
+1503850,BRW,Roelofarendsveen,First-Responders
+1503851,BRW,De Kaag,First-Responders
+1503852,BRW,Warmond,First-Responders
+1503853,BRW,Leimuiden,First-Responders
+1503854,BRW,Lekkerkerk,First-Responders
+1503855,BRW,Krimpen aan de Lek,First-Responders
+1503856,BRW,Nieuwkoop,First-Responders
+1503857,BRW,Nieuwveen,First-Responders
+1503860,BRW,Rijpwetering,First-Responders
+1503861,BRW,Woubrugge,First-Responders
+1503862,BRW,Schoonhoven,First-Responders
+1503863,BRW,Ouderkerk a/d IJssel,First-Responders
+1503864,BRW,Ter Aar,First-Responders
+1503865,BRW,Lageweg,First-Responders
+1503866,BRW,Koudekerk aan den rijn,First-Responders
+1503867,BRW,Nieuwerbrug,First-Responders
+1503868,BRW,Driebruggen,First-Responders
+1503869,BRW,Aarlanderveen,First-Responders
+1503870,BRW,Hazerswoude,First-Responders
+1503871,BRW,Benthuizen,First-Responders
+1503872,BRW,Zevenhuizen,First-Responders
+1503873,BRW,Bodegraven,First-Responders
+1503874,BRW,Boskoop,First-Responders
+1503875,BRW,Waddinxveen,First-Responders
+1503876,BRW,Nieuwerkerk,First-Responders
+1503878,BRW,Lisse,First-Responders
+1503879,BRW,Noordwijkerhout,First-Responders
+1503900,BRW,MKB Den Haag,Monitorcode Hollands Midden
+1503902,BRW,MKB Den Haag,Monitorcode Haaglanden
+1503903,BRW,MKB Den Haag >,MKB Noord Holland (Infocode)
+1503905,BRW,MKB Den Haag >,MKB Amsterdam (Infocode)
+1503920,BRW,Regionaal,Nationaal Crisiscentrum
+1503925,BRW,Regionaal,Team Brandonderzoek (TBO)
+1503970,BRW,Regionaal,Persvoorlichting
+1503971,BRW,Regionaal,Voorlichting (Groepscode)
+1503976,BRW,Regionaal,Communicatieadviseur CoPI
+1503986,BRW,Waddinxsveen,Verzorgingsploeg
+1503988,BRW,Regionaal,Informatiemanager CoPI-Oost
+1503989,BRW,Regionaal,Informatiemanager CoPI West
+1503990,BRW,Regionaal,Staffunctionaris BRW
+1503991,BRW,Regionaal,Informatie Manager ROT
+1503992,BRW,Regionaal,Informatie Coordinator ROT
+1503993,BRW,Regionaal,Plotters ROT
+1503994,BRW,Regionaal,Secretaris ROT
+1503995,BRW,Regionaal,Persvoorlichter CoPI
+1503996,BRW,Regionaal,Informatiemanager Beleidsteam Oost
+1503997,BRW,Regionaal,Informatiemanager Beleidsteam West
+1504000,BRW,Regionaal,Proefalarm
+1504002,BRW,Regionaal,Monitorcode GRIP
+1504005,BRW,Regionaal,TCO West
+1504006,BRW,Regionaal,TCO Oost
+1504020,BRW,Leiden Zuid,Bezetting Gevaarlijke Stoffen Specialisme
+1504022,BRW,Gouda,Gevaarlijke Stoffen Eenheid
+1504030,BRW,Regionaal,HOvD-B (Groepscode)
+1504032,BRW,Regionaal,OvD-B Duinstreek (Groepscode)
+1504044,BRW,Regionaal,Specialist Natuurbranden
+1504053,BRW,Regionaal,Persoonlijkecode
+1504054,BRW,Regionaal,Persoonlijkecode
+1504055,BRW,Regionaal,Persoonlijkecode
+1504058,BRW,Regionaal,Persoonlijkecode
+1504064,BRW,Regionaal,Persoonlijkecode
+1504077,BRW,Regionaal,Persoonlijkecode
+1504079,BRW,Regionaal,Persoonlijkecode
+1504083,BRW,MKB Den Haag,Piket Leiding MKB (Persoonlijk)
+1504105,BRW,Regionaal,Monitorcode OvD-B
+1504194,BRW,Regionaal,Omgevingsanalist
+1504195,BRW,Regionaal,Communicatie adviseur ROT
+1504196,BRW,Regionaal,Communicatie adviseur GBT
+1504197,BRW,Regionaal,Hoofd Actiecentrum Voorlichting
+1504198,BRW,Regionaal,Algemeen Commandant Bz
+1504199,BRW,Regionaal,Staffunctionaris Bz
+1504200,BRW,Regionaal,OvD-Bevolkingszorg Kaag en Braassem
+1504201,BRW,Regionaal,OvD-Bevolkingszorg Alphen aan den Rijn
+1504206,BRW,Regionaal,OvD-Bevolkingszorg Hillegom
+1504207,BRW,Regionaal,OvD-Bevolkingszorg Katwijk
+1504208,BRW,Regionaal,OvD-Bevolkingszorg Leiden
+1504209,BRW,Regionaal,OvD-Bevolkingszorg Leiderdorp
+1504210,BRW,Regionaal,OvD-Bevolkingszorg Lisse
+1504212,BRW,Regionaal,OvD-Bevolkingszorg Nieuwkoop
+1504213,BRW,Regionaal,OvD-Bevolkingszorg Noordwijk
+1504215,BRW,Regionaal,OvD-Bevolkingszorg Oegstgeest
+1504218,BRW,Regionaal,OvD-Bevolkingszorg Teylingen
+1504220,BRW,Regionaal,OvD-Bevolkingszorg Voorschoten
+1504222,BRW,Regionaal,OvD-Bevolkingszorg Zoeterwoude
+1504229,BRW,Regionaal,OvD-Bevolkingszorg Midden-Holland
+1504299,BRW,Regionaal,Hoogheemraadschap van Schieland en de Krimpenerwaard
+1504411,BRW,Regionaal,Kazernemanager Alphen a/d Rijn
+1504412,BRW,Regionaal,Kazernemanager Gouda
+1504413,BRW,Regionaal,Kazernemanager Leiden-Noord
+1504414,BRW,Regionaal,Kazernemanager Leiden-Zuid
+1504415,BRW,Regionaal,Clustermanager Noord
+1504416,BRW,Regionaal,Clustermanager Midden
+1504417,BRW,Regionaal,Clustermanager Zuid
+1504501,BRW,Regionaal,Coordinator DCU (Katwijk)
+1504502,BRW,Regionaal,Noordwijk (Coordinator DCU)
+1504503,BRW,Regionaal,Lisse (Coordinator DCU)
+1504504,BRW,Regionaal,Leiden-Noord (Coordinator DCU)
+1504505,BRW,Regionaal,Leiden-Zuid (Coordinator DCU)
+1504506,BRW,Regionaal,Roelofarendsveen (Coordinator DCU)
+1504507,BRW,Regionaal,Nieuwkoop (Coordinator DCU)
+1504508,BRW,Regionaal,Alphen a/d Rijn (Coordinator DCU)
+1504509,BRW,Regionaal,Waddinxveen (Coordinator DCU)
+1504510,BRW,Regionaal,Reeuwijk (Coordinator DCU)
+1504511,BRW,Regionaal,Gouda (Coordinator DCU)
+1504512,BRW,Regionaal,Nieuwerkerk a/d IJssel (Coordinator DCU)
+1504513,BRW,Regionaal,Bergambacht (Coordinator DCU)
+1505291,BRW,Regionaal,Infocode GRIP 1
+1505292,BRW,Regionaal,Infocode GRIP 2
+1505293,BRW,Regionaal,Infocode GRIP 3
+1505294,BRW,Regionaal,Infocode GRIP 4
+1505295,BRW,Regionaal,Infocode GRIP 5
+1505595,BRW,Regionaal,Voorzitter VR
+1505601,BRW,Regionaal,Burgemeester Alphen a/d Rijn
+1505605,BRW,Regionaal,Burgemeester Krimpenerwaard
+1505610,BRW,Regionaal,Burgemeester Bodegraven-Reeuwijk
+1505620,BRW,Regionaal,Burgemeester Gouda
+1505625,BRW,Regionaal,Burgemeester Hillegom
+1505631,BRW,Regionaal,Burgemeester Kaag en Braassem
+1505636,BRW,Regionaal,Burgemeester Katwijk
+1505641,BRW,Regionaal,Burgemeester Leiden
+1505646,BRW,Regionaal,Burgemeester Leiderdorp
+1505651,BRW,Regionaal,Burgemeester Lisse
+1505661,BRW,Regionaal,Burgemeester Nieuwkoop
+1505666,BRW,Regionaal,Burgemeester Noordwijk
+1505681,BRW,Regionaal,Burgemeester Oegstgeest
+1505701,BRW,Regionaal,Burgemeester Teylingen
+1505706,BRW,Regionaal,Burgemeester Voorschoten
+1505716,BRW,Regionaal,Burgemeester Waddinxveen
+1505721,BRW,Regionaal,Burgemeester Zoeterwoude
+1505726,BRW,Regionaal,Burgemeester Zuidplas
+1505731,BRW,Regionaal,Informatie Coordinator Grootschalige en Bijzondere Zorg
+1505732,BRW,Regionaal,Informatie Coördinator Grootschalige en Bijzondere Zorg
+1505791,GMK,GMK Den Haag,Infocode Verkeersmanagementcentrale Zuidwest-Nederland Rhoon
+1505810,BRW,Regionaal,Beveiliging Universiteit Leiden
+1523000,AMBU,MKA Hollands Midden,Proefalarm
+1523001,AMBU,MKA Hollands Midden,Monitorcode ALS
+1523002,AMBU,MKA Hollands Midden,Monitorcode BLS
+1523005,AMBU,MKA Hollands Midden,Infocode SEH LUMC
+1523006,AMBU,MKA Hollands Midden,GRIP Infocode GHOR
+1523007,AMBU,MKA Hollands Midden,Monitorcode Duin/Strand/Water incidenten
+1523010,AMBU,Reddingsbrigade Alphen a/d Rijn,Alarmploeg
+1523011,AMBU,Reddingsbrigade Alphen a/d Rijn,OvD
+1523020,AMBU,MKA Hollands Midden,Brugbediencentrum Steekterpoort Alphen a/d Rijn
+1523021,AMBU,MKA Hollands Midden,Brugbediencentrale Leidschendam
+1523025,AMBU,MKA Hollands Midden,Boswachter Staatsbosbeheer Rottemeren
+1523035,AMBU,MKA Hollands Midden,Verpleegkundige Keukenhof
+1523100,AMBU,MKA Hollands Midden,Regionale Infocode
+1523150,AMBU,RAV Hollands Midden,Ambulance 16-150 Gouda e.o.
+1523151,AMBU,RAV Hollands Midden,Ambulance 16-151 Gouda e.o.
+1523152,AMBU,RAV Hollands Midden,Ambulance 16-152 Gouda e.o.
+1523153,AMBU,RAV Hollands Midden,Ambulance 16-153 Gouda e.o.
+1523154,AMBU,RAV Hollands Midden,Ambulance 16-154 Gouda e.o.
+1523155,AMBU,RAV Hollands Midden,Ambulance 16-155 Gouda e.o.
+1523156,AMBU,RAV Hollands Midden,Ambulance 16-156 Gouda e.o.
+1523157,AMBU,RAV Hollands Midden,Ambulance 16-157 Gouda e.o.
+1523160,AMBU,RAV Hollands Midden,Ambulance 16-160 Alphen e.o.
+1523161,AMBU,RAV Hollands Midden,Ambulance 16-161 Alphen e.o.
+1523162,AMBU,RAV Hollands Midden,Ambulance 16-162 Alphen e.o.
+1523163,AMBU,RAV Hollands Midden,Ambulance 16-163 Alphen e.o.
+1523164,AMBU,RAV Hollands Midden,Ambulance 16-164 Alphen e.o.
+1523165,AMBU,RAV Hollands Midden,Ambulance 16-165 Alphen e.o.
+1523170,AMBU,RAV Hollands Midden,Ambulance 16-170 Leiderdorp
+1523171,AMBU,RAV Hollands Midden,Ambulance 16-171 Leiderdorp
+1523172,AMBU,RAV Hollands Midden,Ambulance 16-172 Leiderdorp
+1523173,AMBU,RAV Hollands Midden,Ambulance 16-173 Leiderdorp
+1523174,AMBU,RAV Hollands Midden,Ambulance 16-174 Leiderdorp
+1523175,AMBU,RAV Hollands Midden,Ambulance 16-175 Leiderdorp
+1523176,AMBU,RAV Hollands Midden,Ambulance 16-176 Leiden / Bollenstreek e.o.
+1523177,AMBU,RAV Hollands Midden,Ambulance 16-177 Leiden / Bollenstreek e.o.
+1523178,AMBU,RAV Hollands Midden,Ambulance 16-178 Leiden / Bollenstreek e.o.
+1523179,AMBU,RAV Hollands Midden,Ambulance 16-179 Leiden / Bollenstreek e.o.
+1523180,AMBU,RAV Hollands Midden,Ambulance 16-180 Leiden / Bollenstreek e.o.
+1523181,AMBU,RAV Hollands Midden,Ambulance 16-181 Leiden / Bollenstreek e.o.
+1523182,AMBU,RAV Hollands Midden,Ambulance 16-182 Leiden / Bollenstreek e.o.
+1523183,AMBU,RAV Hollands Midden,Ambulance 16-183 Leiden / Bollenstreek e.o.
+1523184,AMBU,RAV Hollands Midden,Ambulance 16-184 Leiden / Bollenstreek e.o.
+1523185,AMBU,RAV Hollands Midden,Ambulance 16-185 Leiden / Bollenstreek e.o.
+1523186,AMBU,RAV Hollands Midden,Ambulance 16-186 Leiden / Bollenstreek e.o.
+1523187,AMBU,RAV Hollands Midden,Ambulance 16-187 Leiden / Bollenstreek e.o.
+1523190,AMBU,RAV Hollands Midden,Ambulance 16-190 Leiden / Bollenstreek e.o.
+1523191,AMBU,RAV Hollands Midden,Ambulance 16-191 Alphen e.o.
+1523270,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-270
+1523271,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-271
+1523272,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-272
+1523273,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-273
+1523274,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-274
+1523275,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-275
+1523276,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-276
+1523280,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-280
+1523281,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-281
+1523286,AMBU,RAV Hollands Midden,Middencomplexe zorg 16-286
+1523310,AMBU,RAV Hollands Midden,MICU 16-310
+1523348,AMBU,Hillegom,First Responder 16-348
+1523349,AMBU,Lisse,First Responder 16-349
+1523350,AMBU,Warmond,First Responder 16-350
+1523351,AMBU,Noordwijkerhout,First Responder 16-351
+1523352,AMBU,Kaag,First Responder 16-352
+1523353,AMBU,Roelofarendsveen,First Responder 16-353
+1523354,AMBU,Leimuiden,First Responder 16-354
+1523355,AMBU,Woubrugge,First Responder 16-355
+1523357,AMBU,Nieuwveen,First Responder 16-357
+1523358,AMBU,Nieuwkoop,First Responder 16-358
+1523359,AMBU,Ter Aar,First Responder 16-359
+1523360,AMBU,Aarlanderveen,First Responder 16-360
+1523361,AMBU,Leiden,AMBU Biker 16-361
+1523362,AMBU,Leiden,AMBU Biker 16-362
+1523365,AMBU,Boskoop,First Responder 16-365
+1523366,AMBU,Benthuizen,First Responder 16-366
+1523367,AMBU,Hazerswoude,First Responder 16-367
+1523368,AMBU,Koudekerk a/d Rijn,First Responder 16-368
+1523369,AMBU,Bodegraven,First Responder 16-369
+1523370,AMBU,Nieuwerbrug,First Responder 16-370
+1523371,AMBU,Driebruggen,First Responder 16-371
+1523372,AMBU,Schoonhoven,First Responder 16-372
+1523373,AMBU,Lekkerkerk,First Responder 16-373
+1523374,AMBU,Krimpen aan de Lek,First Responder 16-374
+1523375,AMBU,Ouderkerk a/d IJssel,First Responder 16-375
+1523376,AMBU,Lageweg,First Responder 16-376
+1523377,AMBU,Nieuwerkerk a/d IJssel,First Responder 16-377
+1523378,AMBU,Zevenhuizen,First Responder 16-378
+1523379,AMBU,Waddinxveen,First Responder 16-379
+1523385,AMBU,RAV Hollands Midden,Rapid Responder/OvD-G 16-385
+1523386,AMBU,RAV Hollands Midden,Rapid Responder/OvD-G 16-386
+1523387,AMBU,RAV Hollands Midden,Physician Assistent en Verpleegkundig Specialist 16-387
+1523388,AMBU,RAV Hollands Midden,Physician Assistent en Verpleegkundig Specialist 16-388
+1523389,AMBU,RAV Hollands Midden,Rapid Responder/OvD-G 16-389
+1523791,AMBU,GHOR Hollands Midden,GRIP 1
+1523792,AMBU,GHOR Hollands Midden,GRIP 2
+1523800,AMBU,MKA Hollands Midden,Management
+1523801,AMBU,MKA Hollands Midden,Management
+1523802,AMBU,RAV Hollands Midden,Locatiehoofd Rijdienst
+1523805,AMBU,RAV Hollands Midden,Roosterbureau Rijdienst
+1523816,AMBU,MKA Hollands Midden,TCO West
+1523817,AMBU,MKA Hollands Midden,TCO Oost
+1523822,AMBU,GHOR Hollands Midden,GAGS
+1523835,AMBU,NRK Hollands Midden,Noodhulp Grootschalige Geneeskundige Bijstand (GGB) (16-835)
+1523845,AMBU,GHOR Hollands Midden,Algemeen Commandant Geneeskundige Zorg
+1523851,AMBU,MKA Hollands Midden,RGF
+1523852,AMBU,GHOR Hollands Midden,Hoofd Publieke Gezondheid
+1523853,AMBU,GHOR Hollands Midden,Hoofd Acute Gezondheid
+1523870,AMBU,GHOR Hollands Midden,Hoofd Actiecentrum
+1523876,AMBU,GHOR Hollands Midden,Operationeel medewerker actiecentrum OMAC
+1533000,POL,Politie Eenheid Den Haag,Proefalarm
+1533001,POL,GMK Hollands Midden,Coördinatoren
+1533038,POL,GMK Hollands Midden,Centralist (Persoonlijk)
+1533501,POL,MKA Hollands Midden,GGD Arts Gouda
+1533502,POL,MKA Hollands Midden,GGD Arts Leiden / Alphen ad Rijn
+1533504,POL,MKA Hollands Midden,GGD Arts Infectieziekten
+1533998,POL,Politie Eenheid Den Haag,Persvoorlichting Hollands Midden
+1533999,POL,OC-P,PersInformatie (Hollands Midden)

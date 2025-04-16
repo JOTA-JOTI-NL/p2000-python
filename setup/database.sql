@@ -1,0 +1,25 @@
+CREATE TABLE IF NOT EXISTS `D_CAPCODE` (
+    `PK_CAPCODE` int(11) NOT NULL AUTO_INCREMENT,
+    `CAPCODE` varchar(255) NOT NULL,
+    `FK_REGION` int(11) NOT NULL DEFAULT 0,
+    `DESCRIPTION` varchar(255) NOT NULL DEFAULT '',
+    `TYPE` enum('ambulance','brandweer','dares','gemeente','knrm','onbekend','politie','reddingsbrigade') NOT NULL DEFAULT 'onbekend',
+    `CITY` varchar(255) NOT NULL DEFAULT '',
+    PRIMARY KEY (`PK_CAPCODE`),
+    UNIQUE INDEX `UNIQUE_CAPCODE` (`CAPCODE`)
+);
+
+CREATE TABLE IF NOT EXISTS `D_REGION` (
+    `PK_REGION` int(10) unsigned NOT NULL AUTO_INCREMENT,
+    `NAME` varchar(255) DEFAULT NULL,
+    PRIMARY KEY (`PK_REGION`)
+);
+
+CREATE TABLE IF NOT EXISTS `D_CITY` (
+    `PK_CITY` int(10) unsigned NOT NULL AUTO_INCREMENT,
+    `NAME` varchar(255) DEFAULT NULL,
+    `ACRONYM` varchar(255) DEFAULT NULL,
+    PRIMARY KEY (`PK_CITY`),
+    UNIQUE INDEX `SEARCH_ACRONYM` (`ACRONYM`),
+    INDEX `SEARCH_NAME` (`NAME`)
+);

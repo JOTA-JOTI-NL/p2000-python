@@ -1,0 +1,353 @@
+capcode,discipline,locatie/divisie,beschrijving
+0610000,BRW,Regionaal,Proefalarm
+0610001,BRW,Dalfsen,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610002,BRW,Deventer,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610003,BRW,Hardenberg,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610004,BRW,Kampen,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610005,BRW,Olst-Wijhe,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610006,BRW,Ommen,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610007,BRW,Raalte,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610008,BRW,Staphorst,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610009,BRW,Steenwijkerland,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610010,BRW,Zwartewaterland,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610011,BRW,Zwolle,Bezetting Coordinatiepunt Decentrale Uitgifte
+0610022,BRW,Dalfsen,Postalarm
+0610023,BRW,Dalfsen,Bevelvoerder
+0610025,BRW,Dalfsen,Kazernecode
+0610026,BRW,Dalfsen,Bezetting TS
+0610035,BRW,Dalfsen,Chauffeurs
+0610050,BRW,Dalfsen,Lichtkrant
+0610054,BRW,Dalfsen,Decentrale Uitgifte post
+0610055,BRW,Dalfsen,Decentrale Uitgifte
+0610062,BRW,Nieuwleusen,Postalarm
+0610063,BRW,Nieuwleusen,Bevelvoerder
+0610065,BRW,Nieuwleusen,Kazernecode
+0610066,BRW,Nieuwleusen,Bezetting TS
+0610075,BRW,Nieuwleusen,Bezetting HV
+0610089,BRW,Nieuwleusen,Bezetting KW
+0610090,BRW,Nieuwleusen,Lichtkrant
+0610102,BRW,Lemelerveld,Noodalarmeringscode
+0610103,BRW,Lemelerveld,Bevelvoerder
+0610105,BRW,Lemelerveld,Kazernecode
+0610106,BRW,Lemelerveld,Bezetting TS
+0610130,BRW,Lemelerveld,Lichtkrant
+0610142,BRW,Deventer,Kazernealarm noodprocedure
+0610143,BRW,Deventer,Beroeps - Bevelvoerder
+0610145,BRW,Deventer,Kazernecode
+0610146,BRW,Deventer,Beroeps Bezetting 1e TS
+0610147,BRW,Deventer,Vrijwilligers Bezetting 2e TS
+0610155,BRW,Deventer,Beroeps Chauffeurs
+0610156,BRW,Deventer,Vrije Beroeps
+0610157,BRW,Deventer,Ademluchtwerkplaats
+0610165,BRW,Deventer,Herbezetting
+0610169,BRW,Deventer,Vrijwilligers Bezetting GW
+0610170,BRW,Deventer,Lichtkrant
+0610174,BRW,Deventer,Decentrale Uitgifte post
+0610175,BRW,Deventer,Decentrale Uitgifte
+0610181,BRW,Bathmen,Postcoordinator
+0610182,BRW,Bathmen,Postalarm
+0610183,BRW,Bathmen,Bevelvoerder
+0610185,BRW,Bathmen,Kazernecode
+0610186,BRW,Bathmen,Bezetting TS
+0610210,BRW,Bathmen,Lichtkrant
+0610221,BRW,Diepenveen,Postcoordinator
+0610222,BRW,Diepenveen,Postalarm
+0610223,BRW,Diepenveen,Bevelvoerder
+0610225,BRW,Diepenveen,Kazernecode
+0610226,BRW,Diepenveen,Bezetting TS
+0610250,BRW,Diepenveen,Lichtkrant
+0610263,BRW,Deventer,Vrijwilligers Bevelvoerder
+0610301,BRW,Hardenberg,Postcoordinator
+0610302,BRW,Hardenberg,Postalarm
+0610303,BRW,Hardenberg,Bevelvoerder
+0610305,BRW,Hardenberg,Kazernecode
+0610306,BRW,Hardenberg,Bezetting TS Ploeg 1
+0610307,BRW,Hardenberg,Bezetting TS Ploeg 2
+0610308,BRW,Hardenberg,Bezetting TS Ploeg 3
+0610315,BRW,Hardenberg,Bezetting HW
+0610316,BRW,Hardenberg,Logistiek cluster Vechtdal
+0610330,BRW,Hardenberg,Lichtkrant
+0610334,BRW,Hardenberg,Decentrale Uitgifte post
+0610335,BRW,Hardenberg,Decentrale Uitgifte
+0610342,BRW,Dedemsvaart,Postalarm
+0610343,BRW,Dedemsvaart,Bevelvoerder
+0610345,BRW,Dedemsvaart,Kazernecode
+0610346,BRW,Dedemsvaart,Bezetting TS Ploeg 1
+0610347,BRW,Dedemsvaart,Bezetting TS Ploeg 2
+0610352,BRW,Dedemsvaart,Bezetting TS Ploeg 1 + 2
+0610355,BRW,Dedemsvaart,Chauffeurs
+0610368,BRW,Dedemsvaart,Verkenningseenheid
+0610370,BRW,Dedemsvaart,Lichtkrant
+0610382,BRW,Bergentheim,Postalarm
+0610383,BRW,Bergentheim,Bevelvoerder
+0610385,BRW,Bergentheim,Kazernecode
+0610386,BRW,Bergentheim,Bezetting TS
+0610410,BRW,Bergentheim,Lichtkrant
+0610422,BRW,Balkbrug,Postalarm
+0610423,BRW,Balkbrug,Bevelvoerder
+0610425,BRW,Balkbrug,Kazernecode
+0610426,BRW,Balkbrug,Bezetting TS
+0610450,BRW,Balkbrug,Lichtkrant
+0610462,BRW,Gramsbergen,Postalarm
+0610463,BRW,Gramsbergen,Bevelvoerder
+0610465,BRW,Gramsbergen,Kazernecode
+0610466,BRW,Gramsbergen,Bezetting TS
+0610490,BRW,Gramsbergen,Lichtkrant
+0610502,BRW,Slagharen,Postalarm
+0610503,BRW,Slagharen,Bevelvoerder
+0610505,BRW,Slagharen,Kazernecode
+0610506,BRW,Slagharen,Bezetting TS
+0610530,BRW,Slagharen,Lichtkrant
+0610542,BRW,De Krim,Postalarm
+0610543,BRW,De Krim,Bevelvoerder
+0610545,BRW,De Krim,Kazernecode
+0610546,BRW,De Krim,Bezetting TS
+0610570,BRW,De Krim,Lichtkrant
+0610581,BRW,Kampen,Postcoordinator
+0610582,BRW,Kampen,Postalarm
+0610583,BRW,Kampen,Bevelvoerder
+0610585,BRW,Kampen,Kazernecode
+0610586,BRW,Kampen,Bezetting TS Ploeg 1
+0610587,BRW,Kampen,Bezetting TS Ploeg 2
+0610588,BRW,Kampen,Kazernedienst
+0610592,BRW,Kampen,Bezetting TS Ploeg 1 + 2
+0610594,BRW,Kampen,Schippers
+0610595,BRW,Kampen,Bezetting HW Ploeg 1
+0610596,BRW,Kampen,Bezetting HW Ploeg 2
+0610610,BRW,Kampen,Lichtkrant
+0610614,BRW,Kampen,Decentrale Uitgifte
+0610615,BRW,Kampen,Decentrale Uitgifte
+0610621,BRW,IJsselmuiden,Postcoordinator
+0610622,BRW,IJsselmuiden,Postalarm
+0610623,BRW,IJsselmuiden,Bevelvoerder
+0610625,BRW,IJsselmuiden,Kazernecode
+0610626,BRW,IJsselmuiden,Ploeg 3A
+0610627,BRW,IJsselmuiden,Ploeg 3B
+0610628,BRW,IJsselmuiden,Bezetting TS Dagdienst
+0610650,BRW,IJsselmuiden,Lichtkrant
+0610661,BRW,Olst,Postcoordinator
+0610662,BRW,Olst,Noodalarmeringscode
+0610663,BRW,Olst,Bevelvoerder
+0610665,BRW,Olst,Kazernecode
+0610666,BRW,Olst,Bezetting TS
+0610675,BRW,Olst,Schippers/Bezetting BRV
+0610690,BRW,Olst,Lichtkrant
+0610694,BRW,Olst-Wijhe,Decentrale Uitgifte
+0610702,BRW,Wesepe,Postalarm
+0610703,BRW,Wesepe,Bevelvoerder
+0610705,BRW,Wesepe,Kazernecode
+0610706,BRW,Wesepe,Bezetting TS
+0610730,BRW,Wesepe,Lichtkrant
+0610741,BRW,Wijhe,Postcoordinator
+0610742,BRW,Wijhe,Noodalarmeringscode
+0610743,BRW,Wijhe,Bevelvoerder
+0610745,BRW,Wijhe,Kazernecode
+0610746,BRW,Wijhe,Bezetting TS
+0610755,BRW,Wijhe,Bezetting WT
+0610770,BRW,Wijhe,Lichtkrant
+0610781,BRW,Welsum,Postcoordinator
+0610782,BRW,Welsum,Postalarm
+0610783,BRW,Welsum,Bevelvoerder
+0610785,BRW,Welsum,Kazernecode
+0610786,BRW,Welsum,Bezetting TS
+0610810,BRW,Welsum,Lichtkrant
+0610821,BRW,Ommen,Postcoordinator
+0610822,BRW,Ommen,Postalarm
+0610823,BRW,Ommen,Bevelvoerders
+0610825,BRW,Ommen,Kazernecode
+0610826,BRW,Ommen,Bezetting TS Ploeg 1
+0610827,BRW,Ommen,Bezetting TS Ploeg 2
+0610835,BRW,Ommen,Bezetting HV
+0610837,BRW,Ommen,Bezetting WT
+0610838,BRW,Ommen,Chauffeurs
+0610849,BRW,Ommen,Bezetting GW
+0610850,BRW,Ommen,Lichtkrant
+0610855,BRW,Ommen,Decentrale Uitgifte
+0610861,BRW,Raalte,Postcoordinator
+0610862,BRW,Raalte,Postalarm
+0610863,BRW,Raalte,Bevelvoerder
+0610865,BRW,Raalte,Kazernecode
+0610866,BRW,Raalte,Bezetting TS/KW Ploeg A
+0610867,BRW,Raalte,Bezetting TS/KW Ploeg B
+0610872,BRW,Raalte,Bezetting TS/KW Ploegen A + B
+0610888,BRW,Raalte,Verkenningseenheid IBGS
+0610890,BRW,Raalte,Lichtkrant
+0610894,BRW,Raalte,Decentrale Uitgifte post
+0610895,BRW,Raalte,Decentrale Uitgifte
+0610901,BRW,Heino,Noodalarmeringscode
+0610902,BRW,Heino,Postalarm
+0610903,BRW,Heino,Bevelvoerder
+0610905,BRW,Heino,Kazernecode
+0610906,BRW,Heino,Bezetting TS
+0610915,BRW,Heino,Verzorgingsgroep (Coordinator)
+0610916,BRW,Heino,Verzorgingsgroep (Groepsleden)
+0610930,BRW,Heino,Lichtkrant
+0610942,BRW,Heeten,Postalarm
+0610943,BRW,Heeten,Bevelvoerder
+0610945,BRW,Heeten,Kazernecode
+0610946,BRW,Heeten,Bezetting TS
+0610968,BRW,Heeten,Verkenningseenheid IBGS
+0610970,BRW,Heeten,Lichtkrant
+0610982,BRW,Luttenberg,Postalarm
+0610983,BRW,Luttenberg,Bevelvoerder
+0610985,BRW,Luttenberg,Kazernecode
+0610986,BRW,Luttenberg,Bezetting TS
+0611010,BRW,Luttenberg,Lichtkrant
+0611021,BRW,Staphorst,Postcoordinator
+0611022,BRW,Staphorst,Postalarm
+0611023,BRW,Staphorst,Bevelvoerders
+0611025,BRW,Staphorst,Kazernecode
+0611026,BRW,Staphorst,Bezetting TS Ploeg 1
+0611027,BRW,Staphorst,Bezetting TS Ploeg 2
+0611032,BRW,Staphorst,Bezetting TS Ploeg 1 + 2
+0611050,BRW,Staphorst,Lichtkrant
+0611054,BRW,Staphorst,Decentrale Uitgifte
+0611055,BRW,Staphorst,Decentrale Uitgifte
+0611061,BRW,Steenwijk,Postcoordinator
+0611062,BRW,Steenwijk,Postalarm
+0611063,BRW,Steenwijk,Bevelvoerder
+0611065,BRW,Steenwijk,Kazernecode
+0611066,BRW,Steenwijk,Bezetting TS Ploeg 1
+0611067,BRW,Steenwijk,Bezetting TS Ploeg 2
+0611072,BRW,Steenwijk,Bezetting TS Ploeg 1 + 2
+0611077,BRW,Steenwijk,Bezetting HW/HV Ploeg 1
+0611078,BRW,Steenwijk,Bezetting HW/HV Ploeg 2
+0611090,BRW,Steenwijk,Lichtkrant
+0611095,BRW,Steenwijkerland,Decentrale Uitgifte
+0611102,BRW,Kuinre,Postalarm
+0611103,BRW,Kuinre,Bevelvoerder
+0611105,BRW,Kuinre,Kazernecode
+0611106,BRW,Kuinre,Bezetting TS
+0611130,BRW,Kuinre,Lichtkrant
+0611141,BRW,Giethoorn,Postcoordinator
+0611142,BRW,Giethoorn,Postalarm
+0611143,BRW,Giethoorn,Bevelvoerder
+0611145,BRW,Giethoorn,Kazernecode
+0611146,BRW,Giethoorn,Bezetting TS
+0611153,BRW,Giethoorn,Oppervlaktewater Redteam
+0611155,BRW,Giethoorn,Schippers
+0611170,BRW,Giethoorn,Lichtkrant
+0611182,BRW,Oldemarkt,Postalarm
+0611183,BRW,Oldemarkt,Bevelvoerder
+0611185,BRW,Oldemarkt,Kazernecode
+0611186,BRW,Oldemarkt,Bezetting TS
+0611195,BRW,Oldemarkt,Bezetting BRV
+0611196,BRW,Oldemarkt,Chauffeurs
+0611199,BRW,Oldemarkt,Bezetting WT
+0611208,BRW,Oldemarkt,Verkenningseenheid
+0611210,BRW,Oldemarkt,Lichtkrant
+0611222,BRW,Vollenhove,Postalarm
+0611223,BRW,Vollenhove,Bevelvoerder
+0611225,BRW,Vollenhove,Kazernecode
+0611226,BRW,Vollenhove,Bezetting TS
+0611236,BRW,Vollenhove,Bezetting WT Ploeg 1
+0611237,BRW,Vollenhove,Bezetting WT Ploeg 2
+0611238,BRW,Vollenhove,Bezetting WT Ploeg 3
+0611240,BRW,Vollenhove,Ademluchtploeg
+0611241,BRW,Vollenhove,Bezetting Specialistische Voertuigen
+0611250,BRW,Vollenhove,Lichtkrant
+0611262,BRW,Genemuiden,Postalarm
+0611263,BRW,Genemuiden,Bevelvoerders
+0611265,BRW,Genemuiden,Kazernecode
+0611266,BRW,Genemuiden,Bezetting TS
+0611289,BRW,Genemuiden,Bezetting GW
+0611290,BRW,Genemuiden,Lichtkrant
+0611295,BRW,Zwartewaterland,Decentrale Uitgifte
+0611301,BRW,Hasselt,Postcoordinator
+0611302,BRW,Hasselt,Postalarm
+0611303,BRW,Hasselt,Bevelvoerder
+0611305,BRW,Hasselt,Kazernecode
+0611306,BRW,Hasselt,Ploeg 1
+0611307,BRW,Hasselt,Ploeg 2
+0611312,BRW,Hasselt,Ploegen 1 + 2
+0611330,BRW,Hasselt,Lichtkrant
+0611341,BRW,Zwartsluis,Postcoordinator
+0611342,BRW,Zwartsluis,Postalarm
+0611343,BRW,Zwartsluis,Bevelvoerder
+0611345,BRW,Zwartsluis,Kazernecode
+0611346,BRW,Zwartsluis,Bezetting TS
+0611355,BRW,Zwartsluis,Schippers
+0611370,BRW,Zwartsluis,Lichtkrant
+0611382,BRW,Zwolle Noord,Postalarm
+0611383,BRW,Zwolle Noord,Beroeps Bevelvoerder
+0611385,BRW,Zwolle Noord,Kazernecode
+0611386,BRW,Zwolle Noord,Beroeps Bezetting 1e TS
+0611387,BRW,Zwolle Noord,Vrijwilligers
+0611394,BRW,Zwolle Noord,Duikploeg Vrije Instroom
+0611405,BRW,Zwolle Noord,Herbezetting
+0611410,BRW,Zwolle Noord,Lichtkrant
+0611415,BRW,Zwolle,Decentrale Uitgifte
+0611423,BRW,Zwolle Zuid,Beroeps Bevelvoerder
+0611425,BRW,Zwolle Zuid,Kazernecode
+0611426,BRW,Zwolle Zuid,Beroeps Bezetting TS
+0611427,BRW,Zwolle Zuid,Vrijwilligers
+0611435,BRW,Zwolle Zuid,Logistiek
+0611437,BRW,Zwolle Zuid,Beroeps Chauffeurs (Ploeg 1)
+0611438,BRW,Zwolle Zuid,Beroeps Chauffeurs (Ploeg 2)
+0611445,BRW,Zwolle Zuid,Herbezetting
+0611448,BRW,Zwolle Zuid,Verkenningseenheid
+0611450,BRW,Zwolle Zuid,Lichtkrant
+0611530,BRW,Feuerwehr Landkreis Grafschaft Bentheim,Ortsfeuerwehr Wilsum TS Ploeg
+0611760,BRW,Regionaal,OVD Zuid
+0611761,BRW,Regionaal,OvD's Zuid (Groepscode)
+0611780,BRW,Regionaal,OVD West
+0611800,BRW,Regionaal,OVD Oost
+0611820,BRW,Regionaal,OVD Noord
+0611821,BRW,Regionaal,OvD's Noord (Groepscode)
+0611840,BRW,Regionaal,OVD Midden
+0611841,BRW,Regionaal,OvD's Midden (Groepscode)
+0611880,BRW,Regionaal,HOvD (Oost)
+0611881,BRW,Regionaal,HOvD's Oost (Groepscode)
+0611900,BRW,Regionaal,HOvD (Noordwest)
+0611901,BRW,Regionaal,HOvD's Noordwest (Groepscode)
+0611940,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+0611941,BRW,Regionaal,Adviseurs Gevaarlijke Stoffen (Groepscode)
+0611950,BRW,Regionaal,Plotters VK-organisatie
+0611960,BRW,Regionaal,Commandant van Dienst
+0611980,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0611981,BRW,Regionaal,Algemeen Commandant Brandweerzorg (Groepscode)
+0611984,BRW,Regionaal,Algemeen Commandant (persoonlijke-code)
+0612001,BRW,Regionaal,TCO Teamleden
+0612002,BRW,Regionaal,TCO Coordinator
+0612042,BRW,Regionaal,OvD Bevolkingszorg (Noord-West)
+0612043,BRW,Regionaal,OvD Bevolkingszorg (Oost)
+0612044,BRW,Regionaal,OvD Bevolkingszorg (Zuid)
+0612045,BRW,Regionaal,OvD Bevolkingszorg (Zuid)
+0612047,BRW,Regionaal,Hoofd Taakorganisatie Communicatie (Piket)
+0612051,BRW,Regionaal,Teamleider Omgevingszorg (Piket)
+0612055,BRW,Regionaal,Teamleider Opvang Verzorging en Registratie
+0612056,BRW,Regionaal,Teamleider Opvang Verzorging en Registratie
+0612060,BRW,Regionaal,Informatiemanager CoPI Noord-West
+0612061,BRW,Regionaal,Informatiemanager CoPI Zuid-Oost
+0612080,BRW,Regionaal,Logistiek Brandweer Actiecentrum
+0612081,BRW,Regionaal,Bezetting Sectie Brandweer
+0612087,BRW,Regionaal,Hoofd Informatie Brandweer
+0612100,BRW,Regionaal,Team Brandzonderzoek
+0612101,BRW,Regionaal,Team Brandzonderzoek (Groepscode)
+0612120,BRW,Regionaal,OvD Communicatie
+0612121,BRW,Regionaal,Voorlichting (GRIP)
+0612150,BRW,Specialisme Technische Hulpverlening-Oost,Teamleden
+0612151,BRW,Specialisme Technische Hulpverlening-Oost,Teamleden
+0612152,BRW,Specialisme Technische Hulpverlening-Oost,Teamleider
+0612260,BRW,GMK,Monitorcode GRIP
+0612261,BRW,GMK,Monitorcode GRIP 1
+0612269,BRW,Regionaal,Infocode Middel Incident
+0612270,BRW,Regionaal,Infocode Natuurbrand
+0612271,BRW,Regionaal,Infocode Groot Incident
+0612272,BRW,Regionaal,Infocode Zeer Groot Incident
+0612357,BRW,IJsselmuiden,Dynamische afsluiting
+0620010,AMBU,Regionaal,OvD-G piket
+0620012,AMBU,Regionaal,OvD-G persoonlijke code
+0620040,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg
+0620050,AMBU,Regionaal,Hoofd Ondersteuning Geneeskundige Zorg
+0620051,AMBU,Regionaal,Hoofd Informatie Geneeskundige Zorg
+0620060,AMBU,Regionaal,Medisch Manager Ambulancezorg
+0620070,AMBU,Regionaal,Coördinator
+0620080,AMBU,Regionaal,Psychosociale Hulpverlening (PSH)
+0620090,AMBU,Regionaal,TCO medewerker
+0620601,AMBU,Regionaal,Infocode OvD-G
+0620999,AMBU,MK Oost-Nederland,Monitor IJsselland
+0630050,POL,Regionaal,Forensische Opsporing Verkeer
+0630055,POL,District IJsselland,Watertoezicht
+0630210,POL,Regionaal,Persvoorlichting
+0630211,POL,OC-P,Persinformatie

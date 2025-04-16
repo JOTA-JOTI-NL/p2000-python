@@ -1,0 +1,271 @@
+capcode,discipline,locatie/divisie,beschrijving
+1104154,BRW,Regionaal,Officier Defensie
+1104701,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1104710,BRW,Regionaal,Algemeen Commandant
+1104711,BRW,Regionaal,Informatiemanager ROT
+1104715,BRW,Regionaal,Coordinator Logistiek
+1104716,BRW,Regionaal,Team Brandonderzoek
+1104719,BRW,Regionaal,Actiecentrum Brandweer Chef Informatie
+1104721,BRW,Regionaal,Actiecentrum Brandweer Chef Ondersteuning
+1104722,BRW,Regionaal,Compagnies Commandant Brandweer
+1104723,BRW,Regionaal,Leider CoPI
+1104724,BRW,Regionaal,OvD Bevolkingszorg
+1104725,BRW,Regionaal,Informatiemanager-CoPI
+1104728,BRW,Regionaal,Geo Informatie Medewerker
+1104730,BRW,Regionaal,Communicatieadviseur ROT
+1104732,BRW,Regionaal,Omgevingsdienst
+1104739,BRW,Regionaal,Alarmeringsfunctionaris Midden
+1104740,BRW,Regionaal,Alarmeringsfunctionaris Oost
+1104741,BRW,Regionaal,Onbekende code
+1104743,BRW,Regionaal,Onbekende code
+1104761,BRW,Regionaal,OvD (Noord)
+1104762,BRW,Regionaal,OvD (Oost)
+1104763,BRW,Regionaal,OvD (Zuid)
+1104764,BRW,Regionaal,OvD (West)
+1104765,BRW,Regionaal,OvD's (Groepscode)
+1104766,BRW,Regionaal,HOvD's (Groepscode)
+1104767,BRW,Regionaal,Piketgroep C-Log
+1104768,BRW,Regionaal,Onbekende code
+1104769,BRW,Regionaal,Coördinator Verkenningseenheden
+1104770,BRW,Regionaal,Vrije OvD
+1104775,BRW,Regionaal,Hoofd Officier van Dienst
+1104779,BRW,Regionaal,Procedure extreem weer
+1104781,BRW,OCB Brabant-Zuidoost,GRIP 1
+1104782,BRW,OCB Brabant-Zuidoost,GRIP 2
+1104783,BRW,OCB Brabant-Zuidoost,GRIP 3
+1104790,BRW,OCB Brabant-Zuidoost,Centralisten
+1104791,BRW,OCB Brabant-Zuidoost,Centralisten van Dienst
+1104797,BRW,OCB Brabant-Zuidoost,Interregionale Alarmering door MKB Limburg
+1104798,BRW,OCB Brabant-Zuidoost,Interregionale Alarmering door MKB ZeeBra
+1104799,BRW,OCB Brabant-Zuidoost,Monitorcode
+1104800,BRW,Regionaal,Voorlichter
+1104846,BRW,Aalst,Postalarm
+1104898,BRW,Aalst,Monitorcode
+1104946,BRW,Waalre,Postalarm
+1104972,BRW,Aalst-Waalre,Ondersteuners CO-MU
+1104998,BRW,Waalre,Monitorcode
+1105046,BRW,Aarle-Rixtel,Postalarm
+1105098,BRW,Aarle-Rixtel,Monitorcode
+1105148,BRW,Asten,Bezetting HV
+1105149,BRW,Asten,Postalarm
+1105160,BRW,Asten,Ploeg A
+1105161,BRW,Asten,Ploeg B
+1105162,BRW,Asten,Ploeg C
+1105163,BRW,Asten,Ploeg E
+1105164,BRW,Asten,Ploeg D
+1105165,BRW,Asten,Ploeg F
+1105172,BRW,Asten,Bezetting VC
+1105198,BRW,Asten,Monitorcode
+1105246,BRW,Beek en Donk,Postalarm
+1105254,BRW,Beek en Donk,Chemiepakdragers
+1105298,BRW,Beek en Donk,Monitorcode
+1105346,BRW,Lieshout,Postalarm
+1105349,BRW,Lieshout,Postalarm via noodprocedure
+1105398,BRW,Lieshout,Monitorcode
+1105438,BRW,Bakel,Verkenningseenheid
+1105446,BRW,Bakel,Postalarm
+1105447,BRW,Bakel,Veetakelploeg
+1105498,BRW,Bakel,Monitorcode
+1105546,BRW,De Rips,Postalarm
+1105598,BRW,De Rips,Monitorcode
+1105633,BRW,Gemert,Medische Assistentie Eenheid
+1105646,BRW,Gemert,Postalarm
+1105649,BRW,Gemert,Postalarm via noodprocedure
+1105698,BRW,Gemert,Monitorcode
+1105746,BRW,KLu Vliegbasis Eindhoven,Bezetting TS-DF 28-4935
+1105825,BRW,Bergeijk,Bezetting HA+WTH
+1105846,BRW,Bergeijk,Postalarm
+1105849,BRW,Bergeijk,Postalarm via noodprocedure
+1105854,BRW,Bergeijk,Chemiepakdragers
+1105898,BRW,Bergeijk,Monitorcode
+1105933,BRW,Luyksgestel,Medische Assistentie Eenheid
+1105946,BRW,Luyksgestel,Postalarm
+1105998,BRW,Luyksgestel,Monitorcode
+1106029,BRW,Best,Bezetting HA+WTH
+1106046,BRW,Best,Postalarm
+1106047,BRW,Best,Bezetting HV
+1106049,BRW,Best,Postalarm via noodprocedure
+1106098,BRW,Best,Monitorcode
+1106120,BRW,Bladel,Bezetting HW
+1106154,BRW,Bladel,Chemiepakdragers
+1106160,BRW,Bladel,Ploeg A
+1106161,BRW,Bladel,Ploeg B
+1106198,BRW,Bladel,Monitorcode
+1106246,BRW,Hapert,Postalarm
+1106261,BRW,Hapert,Ploeg A
+1106262,BRW,Hapert,Ploeg B
+1106263,BRW,Hapert,Verkenningseenheid
+1106298,BRW,Hapert,Monitorcode
+1106346,BRW,Budel,Postalarm
+1106398,BRW,Budel,Monitorcode
+1106438,BRW,Maarheeze,Verkenningseenheid
+1106446,BRW,Maarheeze,Postalarm
+1106498,BRW,Maarheeze,Monitorcode
+1106525,BRW,Deurne,Bezetting HA+WTH
+1106546,BRW,Deurne,Postalarm
+1106554,BRW,Deurne,Bezetting KW
+1106598,BRW,Deurne,Monitorcode
+1106646,BRW,Neerkant,Postalarm
+1106698,BRW,Neerkant,Monitorcode
+1106730,BRW,Eersel,Oppervlaktewater Redteam
+1106746,BRW,Eersel,Postalarm
+1106747,BRW,Eersel,Bezetting HV
+1106749,BRW,Eersel,Postalarm via noodprocedure
+1106798,BRW,Eersel,Monitorcode
+1106846,BRW,Vessem,Postalarm
+1106847,BRW,Vessem,Veetakelploeg
+1106898,BRW,Vessem,Monitorcode
+1106926,BRW,Eindhoven (Noord) Woensel Vrijwilligers,Chauffeurs
+1106953,BRW,Eindhoven (Centrum),Redteam Hoogteverschillen
+1106960,BRW,Eindhoven (Noord) Woensel Vrijwilligers,Ploeg
+1106961,BRW,Eindhoven (Noord) Woensel Vrijwilligers,Bezetting GW
+1106973,BRW,Eindhoven (Centrum),Kazernealarm
+1106974,BRW,Eindhoven (Noord) Woensel Vrijwilligers,Kazernealarm
+1106975,BRW,Eindhoven (Oost) TUE,Kazernealarm
+1106976,BRW,Eindhoven (Noord) Woensel Vrijwilligers,Bezetting DV + BSA
+1106998,BRW,Eindhoven (Centrum),Monitorcode
+1107022,BRW,Heeze,Bezetting HA+WTH Ploeg A
+1107023,BRW,Heeze,Bezetting HA+WTH Ploeg B
+1107026,BRW,Leende,Bezetting HV Ploeg B
+1107046,BRW,Heeze,Postalarm
+1107049,BRW,Heeze,Postalarm via noodprocedure
+1107098,BRW,Heeze,Monitorcode
+1107125,BRW,Leende,Bezetting HV Ploeg A
+1107146,BRW,Leende,Postalarm
+1107198,BRW,Leende,Monitorcode
+1107220,BRW,Geldrop,Bezetting HW Ploeg A
+1107221,BRW,Geldrop,Bezetting HW Ploeg B
+1107222,BRW,Geldrop,Bezetting HW Ploeg C
+1107246,BRW,Geldrop,Postalarm
+1107247,BRW,Geldrop,Adembeschermingploeg
+1107249,BRW,Geldrop,Postalarm Totaal
+1107260,BRW,Geldrop,Ploeg A
+1107261,BRW,Geldrop,Ploeg B
+1107262,BRW,Geldrop,Ploeg C
+1107263,BRW,Geldrop,Adembeschermingploeg A
+1107264,BRW,Geldrop,Adembeschermingploeg B
+1107265,BRW,Geldrop,Adembeschermingploeg C
+1107298,BRW,Geldrop,Monitorcode
+1107329,BRW,Mierlo,Bezetting HA + LIH
+1107346,BRW,Mierlo,Postalarm
+1107347,BRW,Mierlo,Bezetting GW
+1107354,BRW,Mierlo,Postalarm via noodprocedure
+1107398,BRW,Mierlo,Monitorcode
+1107438,BRW,Nuenen,Verkenningseenheid
+1107449,BRW,Nuenen,Postalarm
+1107465,BRW,Nuenen,Bezetting KW
+1107498,BRW,Nuenen,Monitorcode
+1107533,BRW,Oirschot,Medische Assistentie Eenheid
+1107538,BRW,Oirschot,Verkenningseenheid
+1107546,BRW,Oirschot,Postalarm
+1107565,BRW,Oirschot,Bezetting KW
+1107598,BRW,Oirschot,Monitorcode
+1107633,BRW,De Beerzen,Medische Assistentie Eenheid
+1107646,BRW,De Beerzen,Postalarm
+1107649,BRW,De Beerzen,Postalarm via noodprocedure
+1107698,BRW,De Beerzen,Monitorcode
+1107925,BRW,Reusel,Bezetting HA
+1107933,BRW,Reusel,Medische Assistentie Eenheid
+1107946,BRW,Reusel,Postalarm
+1107965,BRW,Reusel,Bezetting KW
+1107998,BRW,Reusel,Monitorcode
+1108133,BRW,Someren,Medische Assistentie Eenheid
+1108138,BRW,Someren,Verkenningseenheid
+1108165,BRW,Someren,Bezetting KW
+1108198,BRW,Someren,Monitorcode
+1108249,BRW,Son en Breugel,Postalarm
+1108254,BRW,Son en Breugel,Chemiepakdragers
+1108272,BRW,Son en Breugel,Bezetting VC
+1108298,BRW,Son en Breugel,Monitorcode
+1108349,BRW,Bedrijfsbrandweer TU Eindhoven,Korpsalarm
+1108360,BRW,Bedrijfsbrandweer TU Eindhoven,Bevelvoerder van Dienst / Gids
+1108398,BRW,Eindhoven TUE,Monitorcode
+1108420,BRW,Valkenswaard,Bezetting HW Ploeg A
+1108421,BRW,Valkenswaard,Bezetting HW Ploeg B
+1108449,BRW,Valkenswaard,Postalarm
+1108465,BRW,Valkenswaard,Bezetting KW
+1108498,BRW,Valkenswaard,Monitorcode
+1108520,BRW,Veldhoven De Run,Bezetting HW
+1108540,BRW,Veldhoven De Run,Medische Assistentie Eenheid
+1108546,BRW,Veldhoven De Run,Postalarm
+1108547,BRW,Veldhoven-Heemweg,Postalarm
+1108598,BRW,Veldhoven De Run/Heemweg,Monitorcode
+1108698,BRW,Eindhoven-Woensel,Monitorcode
+1108749,BRW,Bedrijfsbrandweer Nedzink/Nyrstar Budel,Gids
+1108824,BRW,Helmond Vrijwilligers,Bezetting HA + SBH
+1108825,BRW,Helmond Vrijwilligers,Bezetting HA + COH
+1108864,BRW,Helmond Vrijwilligers,Bezetting TS
+1108898,BRW,Helmond Beroeps,Monitorcode
+1108946,BRW,Bedrijfsbrandweer Bavaria Lieshout,Postalarm
+1108960,BRW,Bedrijfsbrandweer Bavaria Lieshout,Ploeg A
+1108961,BRW,Bedrijfsbrandweer Bavaria Lieshout,Ploeg B
+1108962,BRW,Bedrijfsbrandweer Bavaria Lieshout,Gids
+1108998,BRW,Bedrijfsbrandweer Bavaria Lieshout,Monitorcode
+1108999,BRW,BRW Brabant-Zuidoost,Proefalarm
+1123000,AMBU,MKA Oost-Brabant,Beheer
+1123013,AMBU,MKA Oost-Brabant,Beheer
+1123101,AMBU,Regionaal,Ambulance 22-101
+1123102,AMBU,Regionaal,Ambulance 22-102
+1123103,AMBU,Regionaal,Ambulance 22-103
+1123104,AMBU,Regionaal,Ambulance 22-104
+1123105,AMBU,Regionaal,Ambulance 22-105
+1123106,AMBU,Regionaal,Ambulance 22-106
+1123107,AMBU,Regionaal,Ambulance 22-107
+1123108,AMBU,Regionaal,Ambulance 22-108
+1123109,AMBU,Regionaal,Ambulance 22-109
+1123110,AMBU,Regionaal,Ambulance 22-110
+1123111,AMBU,Regionaal,Ambulance 22-111
+1123112,AMBU,Regionaal,Ambulance 22-112
+1123114,AMBU,Regionaal,Ambulance 22-114
+1123115,AMBU,Regionaal,Ambulance 22-115
+1123116,AMBU,Regionaal,Ambulance 22-116
+1123117,AMBU,Regionaal,Ambulance 22-117
+1123118,AMBU,Regionaal,Ambulance 22-118
+1123119,AMBU,Regionaal,Ambulance 22-119
+1123120,AMBU,Regionaal,Ambulance 22-120
+1123121,AMBU,Regionaal,Ambulance 22-121
+1123122,AMBU,Regionaal,Ambulance 22-122
+1123123,AMBU,Regionaal,Ambulance 22-123
+1123124,AMBU,Regionaal,Ambulance 22-124
+1123125,AMBU,Regionaal,Ambulance 22-125
+1123126,AMBU,Regionaal,Ambulance 22-126
+1123127,AMBU,Regionaal,Ambulance 22-127
+1123128,AMBU,Regionaal,Ambulance 22-128
+1123129,AMBU,Regionaal,Ambulance 22-129
+1123130,AMBU,Regionaal,Ambulance 22-130
+1123131,AMBU,Regionaal,Ambulance 22-131
+1123132,AMBU,Regionaal,Ambulance 22-132
+1123140,AMBU,Regionaal,Ambulance 22-140
+1123200,AMBU,GHOR Brabant-Zuidoost,Geneeskundig Adviseur Gevaarlijke Stoffen Zuid Nederland
+1123201,AMBU,Regionaal,Middencomplexe zorg 22-201
+1123202,AMBU,Regionaal,Middencomplexe zorg 22-202
+1123203,AMBU,Regionaal,Middencomplexe zorg 22-203
+1123204,AMBU,Regionaal,Middencomplexe zorg 22-204
+1123205,AMBU,Regionaal,Middencomplexe zorg 22-205
+1123206,AMBU,Regionaal,Middencomplexe zorg 22-206
+1123310,AMBU,Regionaal,Babylance 22-310
+1123340,AMBU,Regionaal,Rapid Responder 22-340
+1123341,AMBU,Regionaal,Rapid Responder 22-341
+1123801,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-801
+1123802,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-802
+1123803,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-803
+1123804,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-804
+1123805,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-805
+1123806,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-806
+1123807,AMBU,GHOR Brabant-Zuidoost,OvD-G 22-807
+1124401,AMBU,GHOR Brabant-Zuidoost,RGF - Regionaal Geneeskundig Functionaris
+1124402,AMBU,GHOR Brabant-Zuidoost,Algemeen Commandant Geneeskundige Zorg
+1124463,AMBU,GHOR Brabant-Zuidoost,Piket Hoofd Informatie/Hoofd Ondersteuning
+1124471,AMBU,GHOR Brabant-Zuidoost,Crisiscoordinator GGD
+1124481,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 1 Best
+1124482,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 2 Eersel
+1124483,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 3 Asten
+1124484,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 4 Eindhoven West
+1124485,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 5 Leende
+1124486,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 6 Eindhoven Noord
+1124487,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 7 Helmond
+1124488,AMBU,Nederlandse Rode Kruis,Noodhulp-Team UGS 8 Eindhoven Zuid
+1124499,AMBU,Meldkamer Ambulancezorg,Proefalarm
+1133000,POL,Politie Eenheid Oost-Brabant,Beheer OC
+1133777,POL,Politie Eenheid Oost-Brabant,Persvoorlichting
+1133888,POL,OC-P,Persinformatie (District Eindhoven/District Helmond)

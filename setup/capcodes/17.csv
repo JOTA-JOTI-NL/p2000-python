@@ -1,0 +1,693 @@
+capcode,discipline,locatie/divisie,beschrijving
+1400001,KNRM,Reddingstation Ouddorp,Bezetting Reddingboot + Walploeg
+1400003,KNRM,KNRM Reddingstation Stellendam Buiten,Bezetting Reddingboot Antoinette
+1400004,KNRM,KNRM Reddingstation Stellendam Binnen,Bezetting Reddingboot
+1400005,KNRM,KNRM Reddingstation Hoek van Holland,Bezetting Reddingboot Jeannine Parqui
+1400006,KNRM,GMK Rotterdam-Rijnmond,Monitor KNRM
+1400008,KNRM,Helvoetse Reddingsbrigade,Commando
+1400009,KNRM,Helvoetse Reddingsbrigade,Alarmploeg
+1400017,BRW,Regionaal,Piket Pelotonscommandant Logistiek (Persoonlijk)
+1400018,BRW,Regionaal,Informatiemanager (Persoonlijk)
+1400019,BRW,Regionaal,GEO Informatiemedewerker (Persoonlijk)
+1400020,BRW,Regionaal,Leider CoPI (Persoonlijk)
+1400021,BRW,Regionaal,Woordvoerde) (Persoonlijk)
+1400023,BRW,Regionaal,Leider CoPI/Regionaal Operationeel Leider (Persoonlijk)
+1400026,BRW,Regionaal,Regionaal Operationeel Leider (Persoonlijk)
+1400028,BRW,Regionaal,Leider CoPI (Persoonlijk)
+1400029,BRW,Regionaal,Sectie Communicatie (Persoonlijk)
+1400030,BRW,Regionaal,Woordvoerder (Persoonlijk)
+1400032,BRW,GMK Rotterdam,Centralist (Persoonlijk)
+1400033,BRW,GMK Rotterdam,Centralist (Persoonlijk)
+1400034,BRW,Regionaal,Informatiemanager ROT (Persoonlijk)
+1400035,BRW,GMK Rotterdam,Centralist (Persoonlijk)
+1400036,BRW,Regionaal,Piket Informatiemanager
+1400037,BRW,Regionaal,Piket Regionaal Operationeel Leider (Persoonlijk)
+1400038,BRW,Regionaal,Officier (Persoonlijk)
+1400039,BRW,Regionaal,Woordvoerder (Persoonlijk)
+1400042,BRW,Regionaal,Informatiemanager ROT (Persoonlijk)
+1400043,BRW,Regionaal,Centralist (Persoonlijk)
+1400044,BRW,Regionaal,Tactisch Officier Alarmcentrale (Persoonlijk)
+1400047,BRW,Regionaal,Tactisch Officier Alarmcentrale (Persoonlijk)
+1400048,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400050,BRW,Regionaal,Kazerne Coordinator Maasmond
+1400054,BRW,Regionaal,Hoofdofficier 1+2
+1400056,BRW,Regionaal,Onbekende code
+1400058,BRW,Regionaal,Kazerne Coordinator Maasmond (Persoonlijk)
+1400060,BRW,Regionaal,Kazerne Coordinator Maasmond) (Persoonlijk)
+1400061,BRW,Regionaal,Piket Pelotonscommandant Logistiek (Persoonlijk)
+1400062,BRW,Regionaal,Piket Pelotonscommandant Logistiek (Persoonlijk)
+1400063,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator (Persoonlijk)
+1400064,BRW,Regionaal,ROL/Leider CoPI (Persoonlijk)
+1400065,BRW,Regionaal,Piket Hoofdofficier (Persoonlijk)
+1400066,BRW,Regionaal,Persoonlijke Code
+1400067,BRW,Regionaal,Pelotonscommandant Logistiek (Persoonlijk)
+1400068,BRW,Regionaal,Piket Pelotonscommandant Logistiek (Persoonlijk)
+1400071,BRW,Regionaal,Teamleider Team Digitale Verkenning (Persoonlijk)
+1400073,BRW,Regionaal,Piket Pelotonscommandant Logistiek (Persoonlijk)
+1400075,BRW,Regionaal,Voorlichting (Persoonlijk)
+1400076,BRW,Regionaal,Voorlichting (Persoonlijk)
+1400077,BRW,Regionaal,Leider CoPI / Regionaal Operationeel Leider (Persoonlijk)
+1400078,BRW,Regionaal,Waterschapsvertegenwoordiger
+1400079,BRW,Regionaal,Stafofficier Zuid (Persoonlijk)
+1400083,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400084,BRW,Regionaal,Woordvoerder (Persoonlijk)
+1400086,BRW,Regionaal,Informatiemanager (Persoonlijk)
+1400087,BRW,Regionaal,Tactisch Officier Alarmcentrale (Persoonlijk)
+1400088,BRW,Regionaal,Gezagvoerder/Teamleider Team Digitale Verkenning (Persoonlijk)
+1400089,BRW,Regionaal,Teamleider Team Digitale Verkenning (Persoonlijk)
+1400090,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400091,BRW,Regionaal,Teamleider Team Digitale Verkenning (Persoonlijk)
+1400092,BRW,Regionaal,Hoofd Sectie Communicatie (Persoonlijk)
+1400093,BRW,Regionaal,Piket Medewerker Sectie Crisiscommunicatie (Persoonlijk)
+1400095,BRW,Regionaal,Directeur GHOR / Directiewacht (Persoonlijk)
+1400097,BRW,Regionaal,Teamleider Team Digitale Verkenning (Persoonlijk)
+1400100,BRW,Regionaal,OvD Waterweg
+1400101,BRW,Regionaal,Vrije OvD
+1400111,BRW,Hoek van Holland,Ploeg
+1400112,BRW,Hoek van Holland,Bevelvoerders
+1400118,KNRM,Hoek van Holland,Coordinator Strandwacht
+1400119,KNRM,Hoek van Holland,Strandwacht
+1400121,BRW,Maassluis,Postalarm
+1400122,BRW,Maassluis,Ploeg A
+1400123,BRW,Maassluis,Ploeg B
+1400124,BRW,Maassluis,Bevelvoerders
+1400125,BRW,Maassluis,Verkenningseenheid
+1400127,BRW,Maassluis,Oppervlaktewater Redteam
+1400128,BRW,Maassluis,Bezetting HW
+1400131,BRW,Vlaardingen - Vrijwilligers,Bezetting TS-SK 03
+1400132,BRW,Vlaardingen - Vrijwilligers,Bevelvoerder van Dienst
+1400133,BRW,Vlaardingen - Vrijwilligers,Chauffeurs
+1400134,BRW,Vlaardingen - Vrijwilligers,Specialisten
+1400136,BRW,Vlaardingen,Kazernealarm + 24 uursdienst
+1400141,BRW,Schiedam,Kazernealarm + 24 uursdienst
+1400147,BRW,Schiedam - Vrijwilligers,Ploeg
+1400148,BRW,Schiedam - Vrijwilligers,Bevelvoerder van Dienst
+1400149,BRW,Schiedam,Verkenningseenheid IBGS
+1400153,BRW,Krimpen aan den IJssel,Bezetting VZH
+1400154,BRW,Schiedam - Vrijwilligers,Specialisten
+1400155,BRW,Schiedam - Vrijwilligers,Chauffeurs
+1400160,BRW,Vlaardingen,Decentrale Uitgifte
+1400163,BRW,Barendrecht,Decentrale Uitgifte
+1400165,BRW,Spijkenisse,Decentrale Uitgifte
+1400167,BRW,Doelwater,Evenementenkazerne 01
+1400168,BRW,Regionaal,Evenementenkazerne
+1400169,BRW,Albert Plesmanweg,Evenementenkazerne
+1400170,BRW,Marconiplein,Evenementenkazerne
+1400185,BRW,Luchthaven Brandweer Rotterdam The Hague Airport,On Scene Commander
+1400186,BRW,Luchthaven Brandweer Rotterdam The Hague Airport,Bezetting TS
+1400200,BRW,BRW Rotterdam-Rijnmond,OvD Noord
+1400202,BRW,BRW Rotterdam-Rijnmond,Arbeidshygiene
+1400205,BRW,Rotterdam-Frobenstraat,Ondersteuners ABH
+1400210,BRW,Regionaal Reserve,Bezetting TS 9331
+1400216,BRW,MKB Rotterdam,Infocode MKB Den Haag
+1400221,BRW,Rotterdam-Frobenstraat,Kazernealarm + 24 uursdienst
+1400222,BRW,Rotterdam-Frobenstraat - Vrijwilligers,Ploeg
+1400223,BRW,Rotterdam-Frobenstraat - Vrijwilligers,Bevelvoerders
+1400225,BRW,Berkel en Rodenrijs,Vrijwilligers Ploeg
+1400226,BRW,Berkel en Rodenrijs,Bezetting HA + DPH
+1400227,BRW,Berkel en Rodenrijs,Bezetting DPH
+1400228,BRW,Rotterdam-Frobenstraat,Verkenningseenheid IBGS
+1400231,BRW,Rotterdam-Baan,Kazernealarm + 24 uursdienst
+1400232,BRW,BRW Rotterdam-Rijnmond (Rotterdam-Zuid),Tunnel Response Team
+1400233,BRW,Rotterdam-Baan,Bevelvoerder van Dienst
+1400241,BRW,Berkel en Rodenrijs,Vrijwilligers Totaal
+1400244,BRW,Rotterdam-Frobenstraat - Vrijwilligers,Specialisten
+1400261,BRW,Bleiswijk,Vrijwilligers alarm
+1400262,BRW,Bleiswijk,Oppervlaktewater Redteam
+1400265,BRW,BRW Rotterdam-Rijnmond,Coordinator Decentrale Uitgifte) (Persoonlijk)
+1400270,BRW,Vlaardingen Vrijwilligers,Bezetting TS-SK 0332
+1400271,BRW,Schiedam Vrijwilligers,Bezetting TS-SK 0432
+1400272,BRW,Rotterdam-Frobenstraat Vrijwilligers,Bezetting TS-SK 0532
+1400273,BRW,Capelle aan den IJssel-Slotlaan Vrijwilligers,Bezetting TS-SK 1132
+1400274,BRW,Rotterdam-Keyenburg Vrijwilligers,Bezetting TS-SK 3331
+1400275,BRW,Ridderkerk,Bezetting TS-SK 3832
+1400276,BRW,Rozenburg,Bezetting TS-SK 1731
+1400277,BRW,Zwartewaal,Bezetting TS-SK 2731
+1400278,BRW,Spijkenisse Vrijwilligers,Bezetting TS-SK 3132
+1400279,BRW,Sommelsdijk-Olympia,Bezetting TS-SK 4532
+1400282,BRW,Berkel en Rodenrijs,Bezetting TS-SK 0732
+1400283,BRW,Hoogvliet,Bezetting TS-SK 2231
+1400285,BRW,BRW Rotterdam-Rijnmond,Regionaal Proefalarm Beroepskazernes
+1400286,BRW,BRW Rotterdam-Rijnmond,Regionaal Infobericht/Proefalarm Vrijwilligers
+1400287,BRW,BRW Den Haag >,Infocode MKB Rotterdam
+1400288,BRW,MKB Zeeland/West-Brabant >,Infocode MKB Rotterdam
+1400289,BRW,MKB Zeeland/West Brabant >,PreCom Terugkoppeling MKB Rotterdam
+1400291,BRW,Regionaal,Grip 1 Alarm
+1400292,BRW,Regionaal,Grip 2 Alarm
+1400293,BRW,Regionaal,Grip 3 Alarm
+1400294,BRW,Regionaal,Grip 4 Alarm
+1400301,BRW,Rotterdam-Bosland,Infocode Kazerne Bosland
+1400303,BRW,Regionaal,OvD Oost/SBB
+1400304,BRW,Regionaal,Fire Liaison Officer Scheepsbrandbestrijding
+1400311,BRW,Rotterdam-Bosland,Kazernealarm + 24 uursdienst
+1400314,MIRG,MIRG Rotterdam-Rijnmond,Teamleden
+1400321,BRW,Rotterdam-Metaalhof,Kazernealarm + 24 uursdienst
+1400331,BRW,Capelle a/d IJssel Slotlaan,Kazernealarm + 24 uursdienst
+1400332,BRW,Capelle aan den IJssel-Slotlaan - Vrijwilligers,Ploeg
+1400333,BRW,Capelle a/d IJssel Slotlaan,Verkenningseenheid Brandweer (Meetgroep)
+1400334,BRW,Capelle a/d IJssel Slotlaan,Duikerploeg
+1400340,BRUG,Krimpen aan den IJssel,Brugwachter Algerabrug
+1400341,BRW,Krimpen aan den IJssel,Postalarm
+1400342,BRW,Krimpen aan den IJssel,Ploeg A
+1400343,BRW,Krimpen aan den IJssel,Ploeg B
+1400344,BRW,Krimpen aan den IJssel,Ploeg C
+1400348,BRW,Regionaal,Coordinator TCO
+1400349,BRW,BRW Rotterdam-Rijnmond/ZHZ,Team Brand- en Incidenten Onderzoek (Infocode)
+1400350,BRW,BRW Rotterdam-Rijnmond/ZHZ,Team Brand- en Incidenten Onderzoek (Alarmcode)
+1400361,BRW,Regionaal,Strandwachten Nesselande
+1400371,BRW,Capelle aan den IJssel-Slotlaan Vrijwilligers,SK Ploeg 1
+1400372,BRW,Capelle aan den IJssel-Slotlaan Vrijwilligers,SK Ploeg 2
+1400373,BRW,Capelle aan den IJssel-Slotlaan Vrijwilligers,SK Ploeg 3
+1400374,BRW,Capelle aan den IJssel-Slotlaan Vrijwilligers,Bevelvoeder van Dienst
+1400375,BRW,Capelle aan den IJssel-Slotlaan Vrijwilligers,Kazernetechniek
+1400380,BRW,Havenbedrijf Rotterdam,RPA 20
+1400381,BRW,Havenbedrijf Rotterdam,RPA 01
+1400382,BRW,Havenbedrijf Rotterdam,RPA 02
+1400384,BRW,Havenbedrijf Rotterdam,RPA 14
+1400385,BRW,Havenbedrijf Rotterdam,RPA 15
+1400386,BRW,Havenbedrijf Rotterdam,RPA 16
+1400387,BRW,Havenbedrijf Rotterdam,RPA 13
+1400390,BRW,Havenbedrijf Rotterdam,RPA 10
+1400391,BRW,Havenbedrijf Rotterdam,RPA 11
+1400392,BRW,Havenbedrijf Rotterdam,RPA 12
+1400394,BRW,Havenbedrijf Rotterdam,RPA 08
+1400395,BRW,Havenbedrijf Rotterdam,RPA 06
+1400396,BRW,Havenbedrijf Rotterdam,RPA 07
+1400400,BRW,Regionaal,OvD Zuid
+1400401,BRW,Regionaal,Piket Technische Dienst
+1400402,BRW,Regionaal,Functionaris Logistiek
+1400403,BRW,Rotterdam-Keyenburg Vrijwilligers,Ploeg
+1400404,BRW,Rotterdam-Keyenburg Vrijwilligers,Bevelvoeder van Dienst
+1400410,BRW,Ridderkerk,Bezetting HA
+1400424,BRW,Albrandswaard,Verkenningseenheid
+1400425,BRW,Albrandswaard,Bevelvoeder van Dienst
+1400426,BRW,Albrandswaard,Ploeg
+1400427,BRW,Regionaal,Informatiemanager (Persoonlijk)
+1400434,BRW,Regionaal,Stedin Netbeheer
+1400435,BRW,Regionaal,RWS Rhoon (VMC)
+1400436,BRW,Regionaal,RET (CVL)
+1400441,BRW,Mijnsherenlaan,Kazernealarm + 24 uursdienst
+1400442,BRW,Keyenburg,Kazernealarm + 24 uursdienst
+1400443,BRW,Barendrecht,Oppervlaktewater Redteam
+1400451,BRW,Barendrecht,Postalarm
+1400452,BRW,Barendrecht,Ploeg A
+1400453,BRW,Barendrecht,Ploeg B
+1400454,BRW,Barendrecht,Bevelvoerders
+1400455,BRW,Barendrecht,Bezetting CO-MU/VC
+1400456,BRW,Barendrecht,Bezetting CO-MU/VC
+1400461,BRW,Rotterdam-Groene Tuin,Kazernealarm + 24 uursdienst
+1400462,BRW,BRW Rotterdam-Rijnmond >,Zuid-Holland Zuid (Infocode)
+1400463,BRW,Rotterdam-Groene Tuin,Quick Response Team
+1400471,BRW,Ridderkerk,Bezetting 1e TS
+1400472,BRW,Ridderkerk,Bezetting 2e TS
+1400475,BRW,Ridderkerk,Bezetting HA-KR
+1400477,BRW,Ridderkerk,Verkenningseenheid
+1400479,BRW,Ridderkerk,Bevelvoerders
+1400483,BRW,Rotterdam-Albert Plesmanweg,Kazernealarm + 24 uursdienst
+1400485,BRW,Regionaal,Kazerne Coordinator (Persoonlijk)
+1400486,BRW,Regionaal,Piket Informatiemanager CoPI (Persoonlijk)
+1400487,BRW,Regionaal,Informatiemanager CoPI (Persoonlijk)
+1400488,BRW,Regionaal,Piket Informatiemanager ROT (Persoonlijk)
+1400490,BRW,Regionaal,Stafofficier Zuid (Persoonlijk)
+1400491,BRW,Regionaal,Piket Landelijk Adviseur Team Digitale Verkenning (Persoonlijk)
+1400496,BRW,Regionaal,Piket Tactisch Officier Alarmcentrale
+1400500,BRW,Gezamenlijke Brandweer Rotterdam/Voorne-Putten,OvD-1
+1400501,BRW,Gezamenlijke Brandweer Rotterdam,Coördinator Piket
+1400502,BRW,Gezamenlijke Brandweer Rotterdam,Team Digitale Verkenning (Teamleden)
+1400503,BRW,Gezamenlijke Brandweer Rotterdam,Team Digitale Verkenning (Teamleider)
+1400504,BRW,Gezamenlijke Brandweer Rotterdam,Materiaaldienst
+1400507,BRW,Gezamenlijke Brandweer Rotterdam,Teamleden Digitale Verkenning (Groepscode)
+1400511,BRW,Gezamenlijke Brandweer Rotterdam-Coloradoweg,Kazernealarm + 24 uursdienst
+1400513,BRW,Gezamenlijke Brandweer Rotterdam-Coloradoweg,?
+1400521,BRW,Gezamenlijke Brandweer Rotterdam-Elbeweg,Kazernealarm + 24 uursdienst
+1400531,BRW,Gezamenlijke Brandweer Rotterdam-Merseyweg,Kazernealarm + 24 uursdienst
+1400541,BRW,Gezamenlijke Brandweer Rotterdam-Botlekweg,Kazernealarm + 24 uursdienst
+1400551,BRW,Gezamenlijke Brandweer Rotterdam-Butaanweg,Kazernealarm + 24 uursdienst
+1400561,BRW,Gezamenlijke Brandweer Rotterdam-Maximaweg,Kazernealarm + 24 uursdienst
+1400562,KNRM,Gezamenlijke Brandweer Rotterdam-Maximaweg,Schipper
+1400563,KNRM,Reddingsbrigade Rotterdam,Coordinator
+1400564,KNRM,Gezamenlijke Brandweer Rotterdam-Maximaweg,Bezetting KHV/RWC
+1400570,BRW,Gezamenlijke Brandweer Rotterdam,Managementteam
+1400571,BRW,Gezamenlijke Brandweer Rotterdam-Moezelweg,Kazernealarm + Logistiek Team
+1400572,BRW,Gezamenlijke Brandweer Rotterdam,Technische Dienst (Persoonlijk)
+1400573,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator (Persoonlijk)
+1400574,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator (Persoonlijk)
+1400575,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator (Persoonlijk)
+1400576,BRW,Gezamenlijke Brandweer Rotterdam,Logistiek Piket (Persoonlijk)
+1400577,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator (Persoonlijk)
+1400578,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator Digitale Verkenning (Persoonlijk)
+1400579,BRW,Gezamenlijke Brandweer Rotterdam,Piket Coördinator Digitale Verkenning (Persoonlijk)
+1400581,BRW,Gezamenlijke Brandweer Rotterdam-Hoogvliet,Bevelvoerders
+1400582,BRW,Gezamenlijke Brandweer Rotterdam-Hoogvliet,Ploeg
+1400583,BRW,Gezamenlijke Brandweer Rotterdam-Hoogvliet,Bezetting HA + BMH-BRB
+1400591,BRW,Gezamenlijke Brandweer Rotterdam-Rozenburg,Bevelvoerders
+1400592,BRW,Gezamenlijke Brandweer Rotterdam-Rozenburg,Ploeg
+1400593,BRW,Gezamenlijke Brandweer Rotterdam-Hoogvliet,Bezetting HA
+1400599,BRW,Gezamenlijke Brandweer Rotterdam,Monitor Afdeling Operationele Informatie &Procedures
+1400600,BRW,Gezamenlijke Brandweer Rotterdam/Voorne-Putten,OvD-2
+1400601,BRW,Spijkenisse,Bezetting WO
+1400605,BRW,Voorne-Putten,Monitor
+1400608,KNRM,Regionaal,Reddingsbrigade Rockanje (Commando)
+1400609,KNRM,Regionaal,Reddingsbrigade Rockanje (Alarmploeg)
+1400611,BRW,Rockanje,Ploeg
+1400612,BRW,Rockanje,Verkenningseenheid IBGS
+1400613,BRW,Oostvoorne,Ploeg
+1400614,BRW,Oostvoorne,Bevelvoerders
+1400615,BRW,Westvoorne,Commando
+1400616,BRW,Rockanje,Bevelvoerders
+1400618,BRW,Hellevoetsluis,Monitorcode
+1400619,BRW,Hellevoetsluis,Oppervlaktewater Redteam
+1400621,BRW,Hellevoetsluis,Bezetting TS
+1400623,BRW,Hellevoetsluis,Ploeg A
+1400624,BRW,Hellevoetsluis,Ploeg B
+1400625,BRW,Hellevoetsluis,Bezetting SI
+1400628,BRW,Hellevoetsluis,Bevelvoerders
+1400629,BRW,Hellevoetsluis,Bezetting HW
+1400631,BRW,Brielle,Postalarm
+1400632,BRW,Brielle,Bevelvoerders
+1400633,BRW,Brielle,Ploeg
+1400634,BRW,Brielle,Verkenningseenheid
+1400635,BRW,Zwartewaal,Bevelvoerders
+1400636,BRW,Zwartewaal,Ploeg
+1400639,BRW,Brielle,Oppervlaktewater Redteam
+1400642,BRW,Oudenhoorn,Ploeg
+1400643,BRW,Oudenhoorn,Bevelvoerder van Dienst
+1400644,BRW,Heenvliet,Ploeg
+1400645,BRW,Heenvliet,Bevelvoerder van Dienst
+1400646,BRW,Zuidland,Ploeg
+1400647,BRW,Zuidland,Bevelvoerders
+1400651,BRW,Spijkenisse,Kazernealarm + 24 uursdienst
+1400652,BRW,Spijkenisse,Bevelvoerder van Dienst Beroepsploeg
+1400653,BRW,Spijkenisse - Vrijwilligers,Ploeg
+1400661,BRW,Spijkenisse,Bezetting WO
+1400662,BRW,Spijkenisse - Vrijwilligers,Verkenningseenheid
+1400663,BRW,Spijkenisse - Vrijwilligers,Bevelvoerder van Dienst
+1400664,BRW,Spijkenisse,Postalarm
+1400665,BRW,Spijkenisse,Oppervlaktewater Redteam
+1400667,BRW,Brielle,Ondersteuningsteam GW
+1400681,BRW,Gezamenlijke Brandweer Rotterdam,Verkenningseenheid Bedrijvenpark Botlek
+1400691,BRW,Berkel en Rodenrijs Kazerne Berkelse Poort,Kazernealarm + 24 uursdienst
+1400693,BRW,Regionaal,Leider CoPI
+1400699,BRW,Regionaal,Regionaal Duikcoordinator (Persoonlijk)
+1400700,BRW,Regionaal,OvD Eilanden Goeree Overflakkee
+1400705,BRW,Regionaal,Monitorcode Flakkee
+1400708,KNRM,Reddingsbrigade Brouwersdam,Coordinator
+1400709,KNRM,Reddingsbrigade Ouddorp,Coordinator
+1400711,BRW,Ouddorp,Ploeg
+1400712,BRW,Cluster Goeree,Commando
+1400713,BRW,Ouddorp,Verkenningseenheid
+1400715,BRW,Goedereede,Ploeg
+1400717,BRW,Stellendam,Ploeg
+1400719,BRW,Stellendam,Oppervlaktewater Redteam
+1400721,BRW,Melissant,Ploeg
+1400723,BRW,Dirksland,Commando
+1400724,BRW,Dirksland,Ploeg
+1400726,BRW,Herkingen,Ploeg
+1400728,BRW,Dirksland,Postalarm
+1400733,BRW,Middelharnis,Commando
+1400736,BRW,Nieuwe Tonge,Ploeg
+1400738,BRW,Stad aan 't Haringvliet,Ploeg
+1400741,BRW,Oude-Tonge,Ploeg
+1400743,BRW,Oostflakkee,Bevelvoerder van Dienst
+1400744,BRW,Den Bommel,Ploeg
+1400745,BRW,Den Bommel,Bezetting TS Dagdienst
+1400746,BRW,Ooltgensplaat,Ploeg
+1400749,BRW,Oude-Tonge,Bevelvoerder van Dienst
+1400750,BRW,Den Bommel,Bevelvoerder van Dienst
+1400751,BRW,Ooltgensplaat,Bevelvoerder van Dienst
+1400752,BRW,Ouddorp,Bevelvoerder van Dienst
+1400753,BRW,Goedereede,Bevelvoerder van Dienst
+1400754,BRW,Stellendam,Bevelvoerder van Dienst
+1400755,BRW,Melissant,Bevelvoerder van Dienst
+1400756,BRW,Dirksland,Bevelvoerder van Dienst
+1400757,BRW,Herkingen,Bevelvoerder van Dienst
+1400760,BRW,Nieuwe Tonge,Bevelvoerder van Dienst
+1400761,BRW,Stad aan 't Haringvliet,Bevelvoerder van Dienst
+1400763,BRW,Sommelsdijk-Olympia,Postalarm
+1400764,BRW,Sommelsdijk-Olympia,Ploeg A
+1400765,BRW,Sommelsdijk-Olympia,Ploeg B
+1400766,BRW,Sommelsdijk-Olympia,Ploeg C
+1400767,BRW,Sommelsdijk-Olympia,Ploeg D
+1400768,BRW,Sommelsdijk-Olympia,Bevelvoerder van Dienst
+1400769,BRW,Sommelsdijk-Olympia,Kazernetechniek
+1400771,BRW,Vlaardingen,25 kV Team Spoor
+1400772,BRW,Frobenstraat,25 kV Team Spoor
+1400773,BRW,Ridderkerk,25 kV Team Spoor
+1400774,BRW,Albrandswaard,25 kV Team Spoor
+1400775,BRW,Oostvoorne,25 kV Team Spoor
+1400784,BRW,Regionaal,Piket TCO Coördinator (Persoonlijk)
+1400792,BRW,Havenbedrijf Rotterdam,Operationeel Manager
+1400794,BRW,Havenbedrijf Rotterdam,Onbekende code
+1400795,BRW,Havenbedrijf Rotterdam,Monteur van Dienst
+1400796,BRW,Havenbedrijf Rotterdam,Logistiek medewerker
+1400799,BRW,Brw Zuid-Holland Zuid,Info bord GMC
+1400802,BRW,Regionaal,OvD-Bz Krimpen / Lansingerland / Maassluis
+1400804,BRW,Regionaal,Persoonlijke Code
+1400806,BRW,Regionaal,Persoonlijke Code
+1400807,BRW,Regionaal,Informatiemanager ROT (Persoonlijk)
+1400808,BRW,GMK Rotterdam,Centralist
+1400809,BRW,Regionaal,Verslaglegger ROT
+1400810,BRW,Regionaal,Waakdienstambtenaar Gem. Rotterdam
+1400813,BRW,Regionaal,GMK Beheer/MAC (Persoonlijk)
+1400815,BRW,Regionaal,Piket Algemeen Commandant Bevolkingszorg (Persoonlijk)
+1400819,BRW,Regionaal,GEO Informatiemedewerker (Persoonlijk)
+1400820,BRW,Regionaal,Controleur Preventie
+1400823,BRW,Regionaal,Controleur Preventie
+1400824,BRW,Regionaal,Informatiemanager (Persoonlijk)
+1400825,BRW,Regionaal,Informatiemanager ROT (Persoonlijk)
+1400836,BRW,Regionaal,Informatiemanager (Persoonlijk)
+1400837,BRW,Regionaal,Informatiemanager ROT (Persoonlijk)
+1400838,BRW,Regionaal,Informatiemanager (Persoonlijk)
+1400840,BRW,Regionaal,Cluster Commandant (Persoonlijk)
+1400841,BRW,Regionaal,Hoogheemraadschap Delfland
+1400842,BRW,Regionaal,Hoogheemraadschap Schieland / Krimpenerwaard
+1400843,BRW,Regionaal,Hoogheemraadschap Hollandse Delta
+1400847,BRW,Regionaal,GEO Informatiemedewerker (Persoonlijk)
+1400848,BRW,Regionaal,Hoofdofficier/Tactisch Officier Alarmcentrale (Persoonlijk)
+1400851,BRW,Regionaal,Piket Medewerkers Sectie Crisiscommunicatie (Persoonlijk)
+1400852,BRW,MKB Rotterdam-Rijnmond >,Infocode Haven Coordinatie Centrum
+1400853,BRW,Havenbedrijf Rotterdam,Divisie Havenmeester (OvD-1)
+1400854,BRW,Havenbedrijf Rotterdam,Divisie Havenmeester (HOvD Scheepvaartzorg)
+1400855,BRW,Regionaal,Regionaal Operationeel Leider (Persoonlijk)
+1400856,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400857,BRW,Regionaal,Cluster Commandant (Persoonlijk)
+1400859,BRW,Regionaal,Piket Algemeen Commandant Crisiscommunicatie (Persoonlijk)
+1400861,BRW,Regionaal,Sectie Communicatie (Persoonlijk)
+1400862,BRW,GMK Rotterdam-Rijnmond,Infocode Rotterdam The Hague Airport
+1400863,BRW,Regionaal,Piket Woordvoerder (Persoonlijk)
+1400866,BRW,Havenbedrijf Rotterdam,OvD-2 Scheepvaartzorg
+1400867,BRW,Regionaal,Stafofficier Oost/SBB (Persoonlijk)
+1400870,BRW,Havenbedrijf Rotterdam,Divisie Havenmeester (Piket NCTV/ROT/CMT) (Persoonlijk)
+1400871,BRW,Regionaal,Stafofficier Oost/SBB (Persoonlijk)
+1400873,BRW,Havenbedrijf Rotterdam,Onbekende code
+1400874,BRW,Regionaal,Woordvoerder (1e Piket)
+1400875,BRW,Regionaal,Hoofd Actie Centrum (Persoonlijk)
+1400876,BRW,Regionaal,Voorlichting (Persoonlijk)
+1400877,BRW,Regionaal,Woordvoerder (2e Piket)
+1400878,BRW,Regionaal,Voorlichting
+1400881,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400882,BRW,Regionaal,Onbekende code
+1400884,BRW,Regionaal,Woordvoerder (Persoonlijk)
+1400885,BRW,Regionaal,Sectie Communicatie
+1400886,BRW,Regionaal,Sectie Communicatie (Persoonlijk)
+1400889,BRW,Regionaal,Algemeen Ondersteuner GMk (Persoonlijk)
+1400890,BRW,Regionaal,Informatiemanager ROT (1e Piket)
+1400891,BRW,Regionaal,Informatiemanager ROT (2e Piket)
+1400892,BRW,Regionaal,Geo Informatie Medewerker
+1400893,BRW,Regionaal,Piket GMK Beheer/MAC (Persoonlijk)
+1400896,BRW,Regionaal,Algemeen Ondersteuner GMK (Persoonlijk)
+1400897,BRW,Regionaal,GMK Beheer/MAC (Persoonlijk)
+1400899,BRW,Regionaal,Stafofficier Zuid (Persoonlijk)
+1400900,BRW,Regionaal,Leiding Vakbekwaam (Persoonlijk)
+1400901,BRW,Regionaal,Woordvoerder (Groepscode)
+1400902,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1400903,BRW,Regionaal,2e Adviseur Gevaarlijke Stoffen
+1400910,BRW,Regionaal,HOvD (Groepscode)
+1400919,BRW,Regionaal,HOvD-1
+1400920,BRW,Regionaal,Tactisch Officier Alarmcentrale (Persoonlijk)
+1400922,BRW,Regionaal,Beheer (Persoonlijk)
+1400923,BRW,Regionaal,Piket GMK Beheer/MAC (Persoonlijk)
+1400925,BRW,Havenbedrijf Rotterdam,Divisie Havenmeester (OvD)
+1400926,BRW,Regionaal,Tactisch Officier Alarmcentrale
+1400927,BRW,Regionaal,HOvD-2
+1400928,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400929,BRW,Regionaal,actisch Officier Alarmcentrale (Persoonlijk)
+1400931,POL,Regionaal,DROC (OvD-OC)
+1400934,BRW,Regionaal,Hoofd Actie Centrum (Persoonlijk)
+1400936,BRW,Regionaal,GMK Beheer/MAC (Persoonlijk)
+1400937,BRW,Regionaal,Piket GMK Beheer/MAC (Persoonlijk)
+1400939,BRW,Regionaal,Piket GMK Beheer/MAC (Persoonlijk)
+1400940,BRW,Regionaal,Multi Adviseur C2000
+1400941,BRW,Regionaal,GMK Beheer/MAC (Persoonlijk)
+1400942,BRW,Regionaal,Piket Algemeen Ondersteuner GMK (Persoonlijk)
+1400944,BRW,Regionaal,Hoofdofficier (Persoonlijk)
+1400945,BRW,Regionaal,Communicatie (Persoonlijk)
+1400947,BRW,Regionaal,Directiewacht (Persoonlijk)
+1400948,BRW,Regionaal,Medewerker Sectie Crisiscommunicatie (Persoonlijk)
+1400949,BRW,Gezamenlijke Brandweer Rotterdam,Persoonlijke code
+1400952,BRW,Regionaal,Sectie Communicatie (Persoonlijk)
+1400953,BRW,Regionaal,Piket Algemeen Commandant Crisiscommunicatie (Persoonlijk)
+1400954,BRW,Gezamenlijke Brandweer Rotterdam,Coordinator (Persoonlijk)
+1400955,BRW,Gezamenlijke Brandweer Rotterdam,Landelijk Adviseur Team Digitale Verkenning (Persoonlijk)
+1400957,BRW,Regionaal,Piket TCO Coordinator (Persoonlijk)
+1400961,BRW,Regionaal,AGS (1e piket)
+1400962,BRW,Regionaal,AGS (2e piket)
+1400964,BRW,Regionaal,Pelotonscommandant Logistiek
+1400965,BRW,Gezamenlijke Brandweer Rotterdam,Collectieve Brandbestrijding Poule (Groepscode)
+1400970,BRW,Regionaal,Algemeen Commandant Crisiscommunicatie (Persoonlijk)
+1400971,BRW,Regionaal,GEO Informatiemedewerker (Persoonlijk)
+1400975,BRW,Regionaal,OvD-Bevolkingszorg Capelle a/d IJssel
+1400976,BRW,Regionaal,Regionaal Operationeel Leider
+1400977,BRW,Regionaal,OvD Bevolkingszorg Goedereede
+1400982,BRW,Regionaal,OvD-Bevolkingszorg Middelharnis
+1400983,BRW,Regionaal,OvD-Bevolkingszorg Oostflakkee
+1400984,BRW,Regionaal,OvD-Bevolkingszorg Albrandswaard - Barendrecht - Ridderkerk
+1400985,BRW,Regionaal,OvD-Bevolkingszorg Rotterdam
+1400987,BRW,Regionaal,OvD-Bevolkingszorg Schiedam
+1400988,BRW,Regionaal,OvD-Bevolkingszorg Nissewaard
+1400989,BRW,Regionaal,OvD-Bevolkingszorg Vlaardingen
+1400990,BRW,Regionaal,OvD-Bevolkingszorg Westvoorne
+1400991,BRW,GMK Rotterdam,Piket GMK Beheer/MAC (Persoonlijk)
+1400992,BRW,Regionaal,Kazerne Coordinator Goeree Overflakkee
+1400993,BRW,OCB Rotterdam,Lichtkrant Kazernes Rotterdam-Rijnmond
+1400994,BRW,OCB Rotterdam,Lichtkrant GMK Algemeen
+1400995,BRW,OCB Rotterdam,Lichtkrant MKB
+1400996,BRW,OCB Rotterdam,Lichtkrant MKA
+1400997,BRW,OC Politie Rotterdam,Lichtkrant OC
+1400998,BRW,OCB Rotterdam,Lichtkrant Actiecentrum
+1400999,BRW,OCB Rotterdam,Monitor
+1420000,AMBU,MKA Rotterdam-Rijnmond,Regionale Infocode
+1420001,AMBU,Regionaal,AZRR Bezetting Ambulance (17-101)
+1420002,AMBU,Regionaal,AZRR Bezetting Ambulance (17-102)
+1420003,AMBU,Regionaal,AZRR Bezetting Ambulance (17-103)
+1420004,AMBU,Regionaal,AZRR Bezetting Ambulance (17-104)
+1420005,AMBU,Regionaal,AZRR Bezetting Ambulance (17-105)
+1420006,AMBU,Regionaal,AZRR Bezetting Ambulance (17-106)
+1420007,AMBU,Regionaal,AZRR Bezetting Ambulance (17-107)
+1420008,AMBU,Regionaal,AZRR Bezetting Ambulance (17-108)
+1420009,AMBU,Regionaal,AZRR Bezetting Ambulance (17-109)
+1420010,AMBU,Regionaal,AZRR Bezetting Ambulance (17-110)
+1420011,AMBU,Regionaal,AZRR Bezetting Ambulance (17-111)
+1420012,AMBU,Regionaal,AZRR Bezetting Ambulance (17-112)
+1420013,AMBU,Regionaal,AZRR Bezetting Ambulance (17-113)
+1420014,AMBU,Regionaal,AZRR Bezetting Ambulance (17-114)
+1420015,AMBU,Regionaal,AZRR Bezetting Ambulance (17-115)
+1420016,AMBU,Regionaal,AZRR Bezetting Ambulance (17-116)
+1420017,AMBU,Regionaal,AZRR Bezetting Ambulance (17-117)
+1420018,AMBU,Regionaal,AZRR Bezetting Ambulance (17-118)
+1420019,AMBU,Regionaal,AZRR Bezetting Ambulance (17-119)
+1420020,AMBU,Regionaal,AZRR Bezetting Ambulance (17-120)
+1420021,AMBU,Regionaal,AZRR Bezetting Ambulance (17-121)
+1420022,AMBU,Regionaal,AZRR Bezetting Ambulance (17-122)
+1420023,AMBU,Regionaal,AZRR Bezetting Ambulance (17-123)
+1420024,AMBU,Regionaal,AZRR Bezetting Ambulance (17-124)
+1420025,AMBU,Regionaal,AZRR Bezetting Ambulance (17-125)
+1420026,AMBU,Regionaal,AZRR Bezetting Ambulance (17-126)
+1420027,AMBU,Regionaal,AZRR Bezetting Ambulance (17-127)
+1420028,AMBU,Regionaal,AZRR Bezetting Ambulance (17-128)
+1420029,AMBU,Regionaal,AZRR Bezetting Ambulance (17-129)
+1420030,AMBU,Regionaal,AZRR Bezetting Ambulance (17-130)
+1420031,AMBU,Regionaal,AZRR Bezetting Ambulance (17-131)
+1420032,AMBU,Regionaal,AZRR Bezetting Ambulance (17-132)
+1420033,AMBU,Regionaal,AZRR Bezetting Ambulance (17-133)
+1420034,AMBU,Regionaal,AZRR Bezetting Ambulance (17-134)
+1420035,AMBU,Regionaal,AZRR Bezetting Ambulance (17-135)
+1420036,AMBU,Regionaal,AZRR Bezetting Ambulance (17-136)
+1420037,AMBU,Regionaal,AZRR Bezetting Ambulance (17-137)
+1420038,AMBU,Regionaal,AZRR Bezetting Ambulance (17-138)
+1420039,AMBU,Regionaal,AZRR Bezetting Ambulance (17-139)
+1420040,AMBU,Regionaal,AZRR Bezetting Ambulance (17-140)
+1420041,AMBU,Regionaal,AZRR Bezetting Ambulance (17-141)
+1420042,AMBU,Regionaal,AZRR Bezetting Ambulance (17-142)
+1420043,AMBU,Regionaal,AZRR Bezetting Ambulance (17-143)
+1420044,AMBU,Regionaal,AZRR Bezetting Ambulance (17-144)
+1420045,AMBU,Regionaal,AZRR Bezetting Ambulance (17-145)
+1420046,AMBU,Regionaal,AZRR Bezetting Ambulance (17-146)
+1420047,AMBU,Regionaal,Middencomplexe zorg (17-209)
+1420048,AMBU,Regionaal,Middencomplexe zorg (17-210)
+1420049,AMBU,Regionaal,Middencomplexe zorg (17-201)
+1420050,AMBU,Regionaal,AZRR Bezetting Ambulance (17-150)
+1420051,AMBU,Regionaal,Middencomplexe zorg (17-204)
+1420052,AMBU,Regionaal,AZRR Bezetting Ambulance (17-152)
+1420053,AMBU,Regionaal,AZRR Bezetting Ambulance (17-153)
+1420054,AMBU,Regionaal,AZRR Bezetting Ambulance (17-154)
+1420055,AMBU,Regionaal,AZRR Bezetting Ambulance (17-155)
+1420056,AMBU,Regionaal,Middencomplexe zorg (17-215)
+1420057,AMBU,Regionaal,Middencomplexe zorg (17-202)
+1420058,AMBU,Regionaal,Middencomplexe zorg (17-211)
+1420059,LifeLiner,Regionaal,Traumahelikopter LifeLiner 2 (17-992) Voertuig Mobiel Medisch Team (17-902)
+1420060,AMBU,Regionaal,AZRR Bezetting Ambulance (17-160)
+1420061,AMBU,Regionaal,AZRR Bezetting Ambulance (17-161)
+1420062,AMBU,Regionaal,AZRR Bezetting Kinder Ambulance (17-305)
+1420063,AMBU,Regionaal,AZRR Bezetting Ambulance (17-163)
+1420064,AMBU,Regionaal,AZRR Bezetting Ambulance (17-164)
+1420065,AMBU,Regionaal,AZRR Bezetting Ambulance (17-165)
+1420066,AMBU,Regionaal,AZRR Bezetting Ambulance (17-166)
+1420067,AMBU,Regionaal,AZRR Bezetting Ambulance (17-167)
+1420070,AMBU,Regionaal,AZRR Bezetting Ambulance (17-170)
+1420071,AMBU,Regionaal,AZRR Bezetting Ambulance (17-171)
+1420072,AMBU,Regionaal,AZRR Bezetting Ambulance (17-172)
+1420073,AMBU,Regionaal,AZRR Bezetting Ambulance (17-173)
+1420074,AMBU,Regionaal,AZRR Bezetting Ambulance (17-174)
+1420075,AMBU,Regionaal,AZRR Bezetting Ambulance (17-175)
+1420076,AMBU,Regionaal,AZRR Bezetting Ambulance (17-176)
+1420077,AMBU,Regionaal,AZRR Bezetting Ambulance (17-177)
+1420078,AMBU,Regionaal,AZRR Bezetting Ambulance (17-178)
+1420079,AMBU,Regionaal,AZRR Bezetting Ambulance (17-179)
+1420091,AMBU,Regionaal,Middencomplexe zorg (17-205)
+1420095,AMBU,Regionaal,AZRR Bezetting Ambulance (17-195)
+1420102,AMBU,GMK,Middencomplexe zorg (17-203)
+1420103,BRW,GMK Rotterdam,Centralist (Persoonlijk)
+1420104,AMBU,GMK Rotterdam,Hoofd Meldkamer (Persoonlijk)
+1420108,AMBU,GMK Rotterdam,Hoofd Meldkamer (Persoonlijk)
+1420114,AMBU,BRW Rotterdam-Rijnmond,Centralist (Persoonlijk)
+1420122,AMBU,MKA Rotterdam-Rijnmond,Centralist (Persoonlijk)
+1420124,AMBU,MKA Rotterdam-Rijnmond,Centralist (Persoonlijk)
+1420125,AMBU,VR Rotterdam-Rijnmond,Persoonlijke code
+1420133,AMBU,MKA Rotterdam-Rijnmond,Centralist (Persoonlijk)
+1420138,AMBU,GMK Rotterdam,Hoofd Meldkamer (Persoonlijk)
+1420139,AMBU,GMK Rotterdam,Centralist (Persoonlijk)
+1420143,AMBU,GMK Rotterdam,Centralist (Persoonlijk)
+1420145,AMBU,GMK,Centralist Meldkamer Ambulance
+1420147,AMBU,GMK,Proefalarm Centralisten Meldkamer Brandweer / Ambulance
+1420149,AMBU,GMK,Centralist Meldkamer Brandweer
+1420153,AMBU,Regionaal,Rapid Responder motorAmbulance (17-322)
+1420154,AMBU,Regionaal,Rapid Responder (17-341)
+1420155,AMBU,Regionaal,Rapid Responder (17-340)
+1420156,AMBU,Regionaal,Rapid Responder (17-342)
+1420157,AMBU,Regionaal,Rapid Responder (17-343)
+1420158,AMBU,Regionaal,Rapid Responder (17-348)
+1420159,AMBU,Regionaal,Rapid Responder (17-349)
+1420160,AMBU,Regionaal,Rapid Responder motorAmbulance (17-323)
+1420161,AMBU,Regionaal,Rapid Responder motorAmbulance (17-324)
+1420162,AMBU,Regionaal,AMBU MICU (17-302)
+1420163,AMBU,Regionaal,AZRR Bezetting Ambulance (17-133)
+1420164,AMBU,Regionaal,AMBU MICU (17-304)
+1420166,AMBU,Regionaal,AZRR Bezetting Ambulance (17-158)
+1420167,AMBU,Regionaal,Middencomplexe zorg (17-208)
+1420168,AMBU,Regionaal,Middencomplexe zorg (17-206)
+1420169,AMBU,Regionaal,Middencomplexe zorg (17-207)
+1420171,AMBU,Regionaal,Laagcomplexe zorg (17-401)
+1420172,AMBU,Regionaal,Laagcomplexe zorg (17-402)
+1420173,AMBU,Regionaal,Laagcomplexe zorg (17-403)
+1420174,AMBU,Regionaal,Rapid responder (17-350)
+1420175,AMBU,Regionaal,Rapid responder (17-351)
+1420176,AMBU,Regionaal,Laagcomplexe zorg (17-404)
+1420177,AMBU,Regionaal,Laagcomplexe zorg (17-405)
+1420178,AMBU,Regionaal,Laagcomplexe zorg (17-406)
+1420179,AMBU,Regionaal,Laagcomplexe zorg (17-407)
+1420180,AMBU,Regionaal,Middencomplexe zorg (17-218)
+1420185,AMBU,Regionaal,Middencomplexe zorg (17-212)
+1420186,AMBU,Regionaal,Middencomplexe zorg (17-216)
+1420187,AMBU,Regionaal,Middencomplexe zorg(17-214)
+1420191,AMBU,Regionaal,Rapid Responder (17-344)
+1420192,AMBU,Regionaal,Rapid Responder (17-345)
+1420199,AMBU,Regionaal,Algemeen Commandant Geneeskundigezorg (ACGz)
+1420201,POL,Regionaal,Piket Officier van Justitie
+1420203,AMBU,GHOR Rotterdam-Rijnmond,Coördinatie 17-813 + Coördinatie (GAGS) 17-899
+1420205,AMBU,GHOR Rotterdam-Rijnmond,OMAC (Groepscode)
+1420209,AMBU,GHOR Rotterdam-Rijnmond,GAGS (Groepscode)
+1420210,AMBU,GHOR Rotterdam-Rijnmond,Algemeen Commandant Geneeskundige Zorg (Groepscode)
+1420213,AMBU,Regionaal,Middencomplexe zorg(17-213)
+1420215,AMBU,GHOR Rotterdam-Rijnmond,Technisch Centralist Verbinding commandowagen (Groepscode)
+1420219,AMBU,Regionaal,Middencomplexe zorg (17-219)
+1420234,AMBU,GHOR Rotterdam-Rijnmond,Piket Hoofd Actie Centrum (Persoonlijk)
+1420235,AMBU,GHOR Rotterdam-Rijnmond,Piket Hoofd Actie Centrum (Persoonlijk)
+1420238,AMBU,GHOR Rotterdam-Rijnmond,GHOR (Piket Functionarissen) (Groepscode)
+1420239,AMBU,GHOR Rotterdam-Rijnmond,Piket OvD-G Noord (Persoonlijk)
+1420251,AMBU,Ambulance Rotterdam-Rijnmond,Piket Chef van Dienst (Persoonlijk)
+1420253,AMBU,GHOR Rotterdam-Rijnmond,Piket OvD-G Zuid (Persoonlijk)
+1420259,AMBU,GHOR Rotterdam-Rijnmond,Piket Technisch Centralist Verbindings-Commandowagen (Persoonlijk)
+1420268,AMBU,VR Rotterdam-Rijnmond,Piket Directiewacht (Persoonlijk)
+1420279,AMBU,VR Rotterdam-Rijnmond,Calamiteitenteam Zuid
+1420285,AMBU,GHOR Rotterdam-Rijnmond,Piket GAGS (Persoonlijk)
+1420293,AMBU,GHOR Rotterdam-Rijnmond,Operationeel Directeur (Persoonlijk)
+1420294,AMBU,GHOR Rotterdam-Rijnmond,Piket Algemeen Commandant Geneeskundige Zorg (Persoonlijk)
+1420295,AMBU,GHOR Rotterdam-Rijnmond,OvD-G (Persoonlijk)
+1420296,AMBU,Ambulance Rotterdam-Rijnmond,Piket Chef van Dienst Zuid)(Persoonlijk)
+1420303,AMBU,GHOR Rotterdam-Rijnmond,Piket Technisch Centralist Verbindings-Commandowagen (Persoonlijk)
+1420307,AMBU,GHOR Rotterdam-Rijnmond,Technisch Centralist Verbindings-Commandowagen (Persoonlijk)
+1420309,AMBU,MKA Rotterdam-Rijnmond,OvD-G (Persoonlijk)
+1420311,AMBU,GHOR Rotterdam-Rijnmond,OvD-G (Persoonlijk)
+1420312,AMBU,GHOR Rotterdam-Rijnmond,Piket Operationeel Medewerker Actiecentrum (Persoonlijk)
+1420328,AMBU,GHOR Rotterdam-Rijnmond,GAGS (Persoonlijk)
+1420336,AMBU,VR Rotterdam-Rijnmond,Calamiteitenteam Zuid
+1420341,AMBU,GHOR Rotterdam-Rijnmond,Algemeen Commandant Geneeskundige Zorg (Persoonlijk)
+1420347,AMBU,Ambulance Rotterdam-Rijnmond,Persoonlijk
+1420349,AMBU,GHOR Rotterdam-Rijnmond,LKPSH (Persoonlijk)
+1420354,AMBU,GHOR Rotterdam-Rijnmond,OvD-G/CvD-G (Persoonlijk)
+1420356,AMBU,Ambulance Rotterdam-Rijnmond,Chauffeur NICU/PICU
+1420366,AMBU,GHOR Rotterdam-Rijnmond,Operationeel Medewerker Actiecentrum (Persoonlijk)
+1420367,AMBU,GHOR Rotterdam-Rijnmond,Piket Operationeel Medewerker Actiecentrum (Persoonlijk)
+1420368,AMBU,GHOR Rotterdam-Rijnmond,Operationeel Medewerker Actiecentrum (Persoonlijk)
+1420385,AMBU,GHOR Rotterdam-Rijnmond,Persoonlijke Code
+1420387,AMBU,VR Rotterdam-Rijnmond,Regionaal Operationeel Leider (Persoonlijk)
+1420407,AMBU,GHOR Rotterdam-Rijnmond,Persoonlijke Code
+1420414,AMBU,GHOR Rotterdam-Rijnmond,Piket LKPSH) (Persoonlijk)
+1420415,AMBU,GHOR Rotterdam-Rijnmond,Piket LKPSH (Persoonlijk)
+1420424,AMBU,GHOR Rotterdam-Rijnmond,Piket OvD-G Zuid (Persoonlijk)
+1420425,AMBU,GHOR Rotterdam-Rijnmond,OvD-G Noord
+1420429,AMBU,GHOR Rotterdam-Rijnmond,Piket GAGS (Persoonlijk)
+1420433,AMBU,GHOR Rotterdam-Rijnmond,Piket GAGS (Persoonlijk)
+1420435,AMBU,GHOR Rotterdam-Rijnmond,Coordinatie Noord) 17-812
+1420436,AMBU,GHOR Rotterdam-Rijnmond,Coordinatie Zuid) 17-811
+1420438,AMBU,GHOR Rotterdam-Rijnmond,Piket Technisch Centralist Verbindings-Commandowagen (Persoonlijk)
+1420447,AMBU,VR Rotterdam-Rijnmond,Piket GEO Informatiemedewerker (Persoonlijk)
+1420448,AMBU,VR Rotterdam-Rijnmond,Piket GEO Informatiemedewerker (Persoonlijk)
+1420449,AMBU,Ambulance Rotterdam-Rijnmond,Dienstvoertuig 17-380 Verpleegkundig Specialist
+1420451,AMBU,GHOR Rotterdam-Rijnmond,GAGS (Persoonlijk)
+1420452,AMBU,VR Rotterdam-Rijnmond,Calamiteitenteam Zuid
+1420473,AMBU,GGD Rotterdam-Rijnmond,Piket Infectieziekten (Persoonlijk)
+1420487,AMBU,Ambulance Rotterdam-Rijnmond,Chef van Dienst Zuid (Persoonlijk)
+1420489,AMBU,GHOR Rotterdam-Rijnmond,OvD-G Noord/Zuid (Persoonlijk)
+1420491,AMBU,GHOR Rotterdam-Rijnmond,OvD-G Zuid (Persoonlijk)
+1420500,AMBU,GHOR Rotterdam-Rijnmond,GAGS
+1420504,AMBU,GHOR Rotterdam-Rijnmond,GAGS (Persoonlijk)
+1420506,AMBU,MKA Rotterdam-Rijnmond,Rode Kruis (Noodhulpteam Noord)
+1420507,AMBU,MKA Rotterdam-Rijnmond,Rode Kruis (Noodhulpteam Midden)
+1420508,AMBU,MKA Rotterdam-Rijnmond,Rode Kruis (Noodhulpteam Zuid)
+1420509,AMBU,GHOR Rotterdam-Rijnmond,GGB Noord
+1420510,AMBU,GHOR Rotterdam-Rijnmond,GGB Noord
+1420511,AMBU,GHOR Rotterdam-Rijnmond,GGB Midden
+1420512,AMBU,GHOR Rotterdam-Rijnmond,GGB Midden
+1420513,AMBU,GHOR Rotterdam-Rijnmond,GGB Zuid
+1420514,AMBU,GHOR Rotterdam-Rijnmond,GGB Zuid
+1420515,GMK,GMK Rotterdam,Calamiteitencoordinator
+1420545,AMBU,Ambulance Rotterdam-Rijnmond,Rijopleiding 17-545
+1420851,AMBU,Ambulance Rotterdam-Rijnmond,Coördinatie 17-851
+1420872,AMBU,Ambulance Rotterdam-Rijnmond,Coördinatie 17-872
+1420873,AMBU,Ambulance Rotterdam-Rijnmond,Coördinatie 17-873
+1420874,AMBU,Ambulance Rotterdam-Rijnmond,Coordinatie 17-874
+1420875,AMBU,Ambulance Rotterdam-Rijnmond,Coördinatie 17-875
+1420901,AMBU,MMT Zuid West,MMT-Ambulance 17-901 - Rotterdam
+1420999,AMBU,MKA Rotterdam,Monitorcode
+1430011,POL,VR Rotterdam-Rijnmond,Leider CoPI (Persoonlijk)
+1430015,POL,VR Rotterdam-Rijnmond,Informatiemanager (Persoonlijk)
+1430020,POL,OC-P,PersInformatie (Rotterdam + Zuid-Holland-Zuid)
+1430021,POL,Politie Rotterdam,Rijkswaterstaat Dordrecht (Infocode)
+1430030,BRW,BRW Rotterdam-Rijnmond,Persalarm
+1430039,POL,Politie Eenheid Rotterdam,Forensische Opsporing
+1430049,POL,Politie Rotterdam,OvD-P
+1430055,POL,Politie Eenheid Rotterdam,Verkeersongevallen Analyse (VOA)
+1430060,POL,Politie Rotterdam,Regionale Informatie Organisatie
+1430065,POL,Politie Eenheid Rotterdam,CoPI - Groepscode
+1430066,POL,Politie Eenheid Rotterdam,Voorlichting (Groepscode)
+1430067,POL,Politie Eenheid Rotterdam,Conflict- en Crisisbeheersing (Groepscode)
+1430068,POL,Politie Eenheid Rotterdam,Algemeen Commandant Politiezorg (Groepscode)
+1430070,POL,VR Rotterdam-Rijnmond,OvD Defentie
+1430071,POL,Politie Eenheid Rotterdam,Planningsstaf
+1430072,POL,Politie Eenheid Rotterdam,Planningsstaf
+1430073,POL,Politie Eenheid Rotterdam,Hoofd Ondersteuning
+1430074,POL,Politie Eenheid Rotterdam,Hoofd Ordehandhaving
+1430075,POL,Politie Eenheid Rotterdam,Hoofd Opsporing
+1430076,POL,Politie Eenheid Rotterdam,Hoofd Mobiliteit
+1430077,POL,Politie Eenheid Rotterdam,Hoofd Mobiliteit
+1430122,POL,VR Rotterdam-Rijnmond,Leider CoPI (Persoonlijk)
+1430173,POL,Politie Eenheid Rotterdam,Algemeen Commandant Politiezorg (Persoonlijk)
+1430260,POL,Europoort e.o.,Info Verkeersmanagement Havenbedrijf Rotterdam
+1430261,POL,N wegen incidenten,Infocode naar Incidentcoördinatiedesk Provincie Zuid-Holland
+1430270,POL,Rotterdam e.o.,Info Meldkamer Stadsbeheer ivm verkeersregie
+1430403,POL,VR Rotterdam-Rijnmond,Algemeen Commandant Bevolkingszorg (Persoonlijk)
+1430404,POL,VR Rotterdam-Rijnmond,Algemeen Commandant Bevolkingszorg (Persoonlijk)
+1430406,POL,VR Rotterdam-Rijnmond,Algemeen Commandant Bevolkingszorg (Persoonlijk)
+1430999,POL,Politie Rotterdam,Eenheidsgrensoverschrijdende Heterdaad Alarmering

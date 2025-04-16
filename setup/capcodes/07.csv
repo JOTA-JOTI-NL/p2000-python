@@ -1,0 +1,457 @@
+capcode,discipline,locatie/divisie,beschrijving
+0900000,BRW,GMK Gelderland-Midden,Proefalarm
+0900001,BRW,GMK Gelderland-Midden,Lokaal Beheer OCB
+0900002,BRW,GMK Gelderland-Midden,Coordinator Meldkamer Arnhem-Nijmegen
+0900004,BRW,GMK Gelderland-Midden,Algemeen Commandant Brandweerzorg
+0900006,BRW,Regionaal,AGS-OT - CVE (Groepscode)
+0900007,BRW,Regionaal,AGS-OT - CVE
+0900009,BRW,GMK Gelderland-Midden,Verbindingsfunctionaris
+0900018,BRW,Regionaal,HOvD-B-ACB - AGS-OT - OvD (Groepscode)
+0900019,BRW,Regionaal,Informatiemanager CoPI
+0900020,BRW,Regionaal,Voorlichter Oost (Alarmcode)
+0900021,BRW,Regionaal,Voorlichter West (Alarmcode)
+0900025,BRW,Regionaal,Regionaal Operationeel Leider (Alarmcode)
+0900033,BRW,Regionaal,Geo Informatie Medewerker CoPI
+0900035,BRW,Regionaal,Adviseur Gevaarlijke Stoffen Oost (Alarmcode)
+0900036,BRW,Regionaal,OvD Cluster Oost (Alarmcode)
+0900037,BRW,Regionaal,OvD Oost (Infocode)
+0900038,BRW,Regionaal,OvD's Cluster Oost (Groepscode)
+0900039,BRW,Regionaal,Commandant van Dienst - Operationeel Leider
+0900044,BRW,Regionaal,Regionaal Duikadviseur
+0900045,BRW,Regionaal,OvD Cluster Zuid (Alarmcode)
+0900046,BRW,Regionaal,OvD's Zuid (Groepscode)
+0900047,BRW,Regionaal,OvD Zuid (Infocode)
+0900048,BRW,Regionaal,Piket Voorlichting Oost (Infocode)
+0900049,BRW,Regionaal,Piket Voorlichting West (Infocode)
+0900050,BRW,Regionaal,Medewerker Sectie Brandweer
+0900095,BRW,Gelderland Midden,Persoonlijkecode
+0900097,BRW,Regionaal,Incidentmanagment (Persoonlijkecode)
+0900100,BRW,Giesbeek,Bezetting TS
+0900101,BRW,Giesbeek,Bezetting BRV-M
+0900104,BRW,Giesbeek,Kader
+0900105,BRW,Giesbeek,First Responders
+0900106,BRW,Giesbeek,Oppervlaktewater Redteam
+0900300,BRW,Arnhem-Noord,Lichtkrant
+0900301,BRW,Arnhem-Noord,24-uursdienst
+0900307,BRW,Arnhem-Noord,Bevelvoerder van dienst (Ploegchef Noord + Zuid)
+0900308,BRW,BRW Gelderland-Midden,OvD Cluster Midden (Alarmcode)
+0900309,BRW,BRW Gelderland-Midden,OvD Midden (Infocode)
+0900310,BRW,BRW Gelderland-Midden,OvD Cluster Midden (Groepscode)
+0900311,BRW,Arnhem,TCO
+0900315,BRW,Arnhem-Zuid,Dienstvrije Duikploeg
+0900321,BRW,Arnhem-Noord,Herbezettingsploeg 1
+0900322,BRW,Arnhem-Noord,Herbezettingsploeg 2
+0900324,BRW,Arnhem-Noord,Herbezettingsploeg 3
+0900337,BRW,Cluster Midden,Arbeidshygiene Ploeg 1 ANW
+0900338,BRW,Cluster Midden,Arbeidshygiene Ploeg 2 ANW
+0900339,BRW,Cluster Midden,Arbeidshygiene Ploeg 1 Dagdienst
+0900340,BRW,BRW Gelderland-Midden,Algemeen Commandant Brandweerzorg
+0900341,BRW,BRW Gelderland-Midden,HOvD Oost (Infocode)
+0900342,BRW,BRW Gelderland-Midden,HOvD Oost (Groepscode)
+0900345,BRW,Regionaal,Team Brandonderzoek
+0900346,BRW,Regionaal,Landelijk Adviseur Natuurbrandbestrijding
+0900347,BRW,Cluster Midden,Arbeidshygiene Ploeg 2 Dagdienst
+0900350,BRW,Arnhem-Zuid,Lichtkrant
+0900351,BRW,Arnhem-Zuid,24-uursdienst
+0900357,BRW,Arnhem-Zuid,Bevelvoerder van Dienst
+0900362,BRW,Arnhem-Zuid,Herbezettingsploeg 1
+0900364,BRW,Arnhem-Zuid,Herbezettingsploeg 2
+0900450,BRW,Barneveld,Bezetting TS Ploeg 1 ANW
+0900451,BRW,Barneveld,Bezetting HW Ploeg 1 ANW
+0900452,BRW,Barneveld,Bezetting TS Ploeg 2 ANW
+0900453,BRW,Barneveld,Bezetting HW Ploeg 2 ANW
+0900454,BRW,Barneveld,Bezetting TS Ploeg 3 ANW
+0900455,BRW,Barneveld,Bezetting HW Ploeg 3 ANW
+0900456,BRW,Barneveld,Bezetting HA Ploeg 1 ANW
+0900457,BRW,Barneveld,Bezetting HV-KR Ploeg 1 ANW
+0900458,BRW,Barneveld,Bezetting HA Ploeg 2 ANW
+0900459,BRW,Barneveld,Bezetting HV Ploeg 2 ANW
+0900460,BRW,Barneveld,Bezetting HA Ploeg 3 ANW
+0900461,BRW,Barneveld,Bezetting HV-KR Ploeg 3 ANW
+0900462,BRW,Barneveld,Arbeidshygiene Cluster Noord Ploeg 1 ANW
+0900463,BRW,Barneveld,Arbeidshygiene Cluster Noord Ploeg 2 ANW
+0900464,BRW,Barneveld,Arbeidshygiene Cluster Noord Ploeg 3 ANW
+0900465,BRW,Barneveld,Arbeidshygiene Cluster Noord Dagdienst
+0900468,BRW,Barneveld,Bezetting HA-WTH
+0900469,BRW,Barneveld,Bezetting HV Dagdienst
+0900470,BRW,Barneveld,Bezetting HW Dagdienst
+0900472,BRW,Barneveld,Dagondersteuning
+0900474,BRW,Barneveld,Ploeg Dagdienst
+0900475,BRW,Barneveld,Bezetting HW
+0900476,BRW,Barneveld,Bezetting HA
+0900482,BRW,Barneveld,Kader
+0900486,BRW,Barneveld,First Responders
+0900487,BRW,Barneveld,First Responders Dagdienst
+0900488,BRW,Barneveld,TCO
+0900517,BRW,Barneveld,Bevelvoeder van Dienst
+0900539,BRW,Barneveld,Postalarm
+0900540,BRW,Garderen,Ploeg
+0900542,BRW,Garderen,First Responders
+0900560,BRW,Garderen,Postcommandant
+0900589,BRW,Garderen,Postalarm
+0900590,BRW,Kootwijkerbroek,Ploeg
+0900591,BRW,Kootwijkerbroek,Rietdak Brandbestrijdingsteam
+0900592,BRW,Kootwijkerbroek,First Responders
+0900593,BRW,Kootwijkerbroek,Bezetting WT
+0900620,BRW,Kootwijkerbroek,Postcommandant
+0900639,BRW,Kootwijkerbroek,Noodalarmering
+0900640,BRW,Voorthuizen,Ploeg
+0900644,BRW,Voorthuizen,Verkenningseenheid
+0900645,BRW,Voorthuizen,First Responders
+0900660,BRW,Voorthuizen,Persoonlijkecode
+0900689,BRW,Voorthuizen,Postalarm
+0900690,BRW,Zwartebroek,Ploeg
+0900691,BRW,Zwartebroek,Veetakelploeg
+0900692,BRW,Zwartebroek,First Responders
+0900700,BRW,Regionaal,OvD Noord (Alarmcode)
+0900701,BRW,Regionaal,OvD Noord (Infocode)
+0900702,BRW,Regionaal,OvD's Noord (Groepscode)
+0900710,BRW,Zwartebroek,Persoonlijkecode
+0900739,BRW,Zwartebroek,Postalarm
+0900790,BRW,Doesburg,Ploeg
+0900791,BRW,Doesburg,Bezetting TS-SK
+0900792,BRW,Doesburg,First Responders
+0900793,BRW,Doesburg,Schippers BRV
+0900800,BRW,Doesburg,Oppervlaktewater Redteam
+0900810,BRW,Doesburg,Postcommandant
+0900850,BRW,Duiven,Postcommandant
+0900851,BRW,Duiven,Ploeg
+0900853,BRW,Duiven,Bezetting HA
+0900854,BRW,Duiven,Bezetting PM
+0900856,BRW,Duiven,First Responders
+0900860,BRW,Duiven,Kazernetechniek
+0900909,BRW,Duiven,Noodalarmeringscode
+0901060,BRW,BRW Gelderland-Midden,OvD Cluster West (Alarmcode)
+0901061,BRW,BRW Gelderland-Midden,OvD West (Infocode)
+0901062,BRW,Ede Centrum,Bevelvoerder van Dienst Alarmcode
+0901066,BRW,Ede Centrum,Kazernetechniek
+0901068,BRW,Ede Centrum,Verzorgingsgroep
+0901069,BRW,BRW Gelderland-Midden,Adviseur Gevaarlijke Stoffen West (Infocode)
+0901070,BRW,BRW Gelderland-Midden,Adviseur Gevaarlijke Stoffen West (Persoonlijke code)
+0901071,BRW,BRW Gelderland-Midden,Adviseur Gevaarlijke Stoffen West (Alarmcode)
+0901072,BRW,BRW Gelderland-Midden,OvD Cluster West (Groepscode)
+0901075,BRW,Ede Centrum,24-uursdienst
+0901077,BRW,Ede,TCO Team
+0901078,BRW,Ede,TCO Team
+0901079,BRW,Ede Centrum,Arbeidshygiene Cluster West ANW
+0901080,BRW,Ede Centrum,Voertuignavigatie
+0901081,BRW,Ede Centrum,Arbeidshygiene Cluster West Dagdienst
+0901083,BRW,Regionaal,HOvD West
+0901084,BRW,Regionaal,HOvD West (Infocode)
+0901085,BRW,Regionaal,HOvD West (Groepscode)
+0901111,BRW,Ede Centrum,Herbezettingsploeg 1
+0901112,BRW,Ede Centrum,Herbezettingsploeg 2
+0901113,BRW,Ede Centrum,Herbezettingsploeg 3
+0901114,BRW,Ede Centrum,Herbezettingsploeg 4
+0901120,BRW,Ede-Stadspoort,Ploeg
+0901122,BRW,Ede-Stadspoort,First Responders
+0901126,BRW,Ede-Stadspoort,Kader
+0901170,BRW,Bennekom,Ploeg
+0901172,BRW,Bennekom,First Responders
+0901176,BRW,Bennekom,Kader
+0901220,BRW,Ederveen,Ploeg
+0901222,BRW,Ederveen,First Responders
+0901226,BRW,Ederveen,Kader
+0901270,BRW,Harskamp,Ploeg
+0901272,BRW,Harskamp,First Responders
+0901276,BRW,Harskamp,Kader
+0901320,BRW,Lunteren,Ploeg
+0901322,BRW,Lunteren,First Responders
+0901326,BRW,Lunteren,Kader
+0901370,BRW,Otterlo,Ploeg
+0901372,BRW,Otterlo,First Responders
+0901376,BRW,Otterlo,Kader
+0901420,BRW,De Valk,Ploeg
+0901421,BRW,De Valk,Veetakelploeg
+0901422,BRW,De Valk,First Responders
+0901426,BRW,De Valk,Kader
+0901470,BRW,Defensie ISK Harskamp,Kazerneploeg 1
+0901472,BRW,Defensie ISK Harskamp,Kazerneploeg 2
+0901474,BRW,Defensie ISK Harskamp,Kazerneploeg 3
+0901489,BRW,Defensie ISK Harskamp,Korps Defensiebrandweer
+0901490,BRW,Defensie ISK Harskamp,Kampcommandant
+0901491,BRW,Defensie ISK Harskamp,Plv. Kampcommandant
+0901496,BRW,Defensie ISK Harskamp,Persoonlijkecode
+0901570,BRW,Bemmel,Ploeg
+0901572,BRW,Bemmel,Bezetting TS-SK
+0901574,BRW,Bemmel,Dagondersteuning
+0901578,BRW,Bemmel,25 kV Team Betuwelijn
+0901582,BRW,Bemmel,Postcommandant
+0901584,BRW,Bemmel,First Responders
+0901586,BRW,Bemmel,Oppervlaktewater Redteam
+0901590,BRW,Bemmel,Kazernetechniek
+0901629,BRW,Bemmel,Postalarm
+0901630,BRW,Doornenburg,Postalarm
+0901632,BRW,Doornenburg,First Responders
+0901634,BRW,Doornenburg,Kader
+0901640,BRW,Doornenburg,Kazernetechniek
+0901670,BRW,Gendt,Postalarm
+0901675,BRW,Gendt,Kader
+0901677,BRW,Gendt,First Responders
+0901680,BRW,Gendt,Kazernetechniek
+0901720,BRW,Huissen,Postalarm
+0901721,BRW,Huissen,Bezetting HA
+0901727,BRW,Huissen,Kader
+0901729,BRW,Huissen,First Responders
+0901730,BRW,Huissen,Kazernetechniek
+0901769,BRW,Huissen,Postalarm
+0901770,BRW,Hoevelaken,Ploeg 1
+0901771,BRW,Hoevelaken,Ploeg 2
+0901779,BRW,Hoevelaken,Verkenningseenheid
+0901780,BRW,Hoevelaken,First Responders Ploeg 1
+0901781,BRW,Hoevelaken,First Responders Ploeg 2
+0901790,BRW,Hoevelaken,Ploegchef
+0901830,BRW,Nijkerk,Bezetting TS Ploeg 1
+0901832,BRW,Nijkerk,Bezetting TS Ploeg 2
+0901834,BRW,Nijkerk,Bezetting TS Ploeg 3
+0901836,BRW,Nijkerk,Bevelvoerders
+0901839,BRW,Nijkerk,First Responders Ploeg 1
+0901840,BRW,Nijkerk,First Responders Ploeg 2
+0901841,BRW,Nijkerk,First Responders Ploeg 3
+0901847,BRW,Nijkerk,Bezetting HW Ploeg 1
+0901848,BRW,Nijkerk,Bezetting HW Ploeg 2
+0901849,BRW,Nijkerk,Bezetting HW Ploeg 3
+0901850,BRW,Nijkerk,Voertuignavigatie
+0901853,BRW,Nijkerk,Oppervlaktewater Redteam
+0901854,BRW,Nijkerk,Bezetting BRV
+0901861,BRW,Nijkerk,Bezetting KW Ploeg 1
+0901862,BRW,Nijkerk,Bezetting KW Ploeg 2
+0901863,BRW,Nijkerk,Bezetting KW Ploeg 3
+0901866,BRW,Nijkerk,Postcommandant
+0901871,BRW,Nijkerk,Bezetting HV-KR Ploeg 1
+0901872,BRW,Nijkerk,Bezetting HV-KR Ploeg 2
+0901873,BRW,Nijkerk,Bezetting HV-KR Ploeg 3
+0901894,BRW,Nijkerk,Bevelvoerder van Dienst
+0901895,BRW,Nijkerk,Postcommandant
+0901919,BRW,Nijkerk,Postalarm
+0901920,BRW,Elst,Ploeg
+0901922,BRW,Elst,Rietdak Brandbestrijdingsteam
+0901927,BRW,Elst,Kader
+0901929,BRW,Elst,First Responders
+0901930,BRW,BRW Gelderland-Midden,Cluster Zuid (TCO)
+0901937,BRW,Bemmel,Arbeidshygiene Cluster Zuid Ploeg 1 Dagdienst
+0901938,BRW,Bemmel,Arbeidshygiene Cluster Zuid Ploeg 2 Dagdienst
+0901939,BRW,Bemmel,Arbeidshygiene Cluster Zuid Ploeg 1 ANW
+0901940,BRW,Bemmel,Arbeidshygiene Cluster Zuid Ploeg 2 ANW
+0901980,BRW,Heteren,Ploeg
+0901982,BRW,Heteren,Bezetting WT
+0901984,BRW,Heteren,Postcommandant
+0901985,BRW,Heteren,First Responders
+0902029,BRW,Heteren,Postalarm
+0902030,BRW,Oosterhout,Ploeg
+0902032,BRW,Oosterhout,Verkenningseenheid IBGS
+0902033,BRW,Oosterhout,Kader
+0902034,BRW,Oosterhout,First Responders
+0902070,BRW,Valburg,Ploeg
+0902072,BRW,Valburg,First Responders
+0902073,BRW,Valburg,TCO
+0902074,BRW,Valburg,Kader
+0902075,BRW,Valburg,25 kV Team Spoor
+0902076,BRW,Valburg,Oppervlaktewater Redteam
+0902109,BRW,Valburg,Postalarm
+0902110,BRW,Zetten,Ploeg
+0902111,BRW,Zetten,Veetakelploeg
+0902114,BRW,Zetten,Kader
+0902115,BRW,Zetten,First Responders
+0902159,BRW,Zetten,Postalarm
+0902160,BRW,Doorwerth,Ploeg
+0902165,BRW,Doorwerth,Bezetting HW
+0902166,BRW,Doorwerth,Schippers/Rescue Operators
+0902167,BRW,Doorwerth,Bezetting HA
+0902168,BRW,Doorwerth,Oppervlaktewater Redteam
+0902172,BRW,Doorwerth,First Responders
+0902173,BRW,Cluster Midden,TCO
+0902210,BRW,Renkum,Persoonlijkecode
+0902219,BRW,Doorwerth,Postalarm
+0902220,BRW,Oosterbeek,Ploeg
+0902221,BRW,Oosterbeek,First Responders
+0902259,BRW,Oosterbeek,Postalarm
+0902260,BRW,Renkum,Ploeg
+0902261,BRW,Renkum,First Responders
+0902296,BRW,Renkum,Persoonlijke-code
+0902300,BRW,Wolfheze,Ploeg
+0902302,BRW,Wolfheze,First Responders
+0902322,BRW,Wolfheze,Persoonlijkecode
+0902339,BRW,Wolfheze,Postalarm
+0902340,BRW,Bedrijfsbrandweer Parenco Renkum,Bezetting TS
+0902390,BRW,Dieren,Ploeg
+0902392,BRW,Dieren,Bezetting HW
+0902394,BRW,Dieren,Ploegcommandant
+0902395,BRW,Dieren,First Responders
+0902396,BRW,Dieren,Kazernetechniek
+0902400,BRW,Dieren,Oppervlaktewater Redteam
+0902449,BRW,Dieren,Postalarm
+0902450,BRW,Rheden,Postalarm
+0902452,BRW,Rheden,Bezetting HV
+0902453,BRW,Rheden,Bezetting WT
+0902456,BRW,BRW Gelderland-Midden (Cluster Oost),TCO
+0902457,BRW,Rheden,Kader
+0902458,BRW,Rheden,First Responders
+0902499,BRW,Rheden,Postalarm
+0902500,BRW,Velp,Ploeg
+0902502,BRW,Cluster Oost,Arbeidshygiëne Dagdienst
+0902503,BRW,Cluster Oost,Arbeidshygiëne ANW
+0902504,BRW,Velp,Verkenningseenheid IBGS
+0902505,BRW,Velp,Kader
+0902506,BRW,Velp,First Responders
+0902507,BRW,Velp,Bezetting WT
+0902559,BRW,Velp,Postalarm
+0902560,BRW,Lobith,Ploeg
+0902563,BRW,Lobith,Bezetting BRV
+0902564,BRW,Lobith,First Responders ANW
+0902565,BRW,Lobith,First Responders Dagdienst
+0902566,BRW,Lobith,Dagdienst groep
+0902570,BRW,Lobith,Kader
+0902599,BRW,Lobith,Postalarm
+0902600,BRW,Pannerden,Ploeg
+0902602,BRW,Pannerden,First Responders ANW
+0902610,BRW,Pannerden,Kader
+0902640,BRW,Scherpenzeel,Ploeg
+0902644,BRW,Scherpenzeel,First Responders
+0902662,BRW,Scherpenzeel,Kader
+0902666,BRW,Scherpenzeel,Kazernetechniek
+0902699,BRW,Scherpenzeel,Postalarm
+0902700,BRW,Wageningen,Bezetting TS Ploeg 1
+0902701,BRW,Wageningen,Bezetting HA Ploeg 1
+0902702,BRW,Wageningen,Bezetting TS Ploeg 2
+0902703,BRW,Wageningen,Bezetting HA Ploeg 2
+0902704,BRW,Wageningen,Bezetting TS Ploeg 3
+0902705,BRW,Wageningen,Bezetting HA Ploeg 3
+0902706,BRW,Wageningen,Bezetting OR Ploeg 1
+0902707,BRW,Wageningen,Bezetting OR Ploeg 2
+0902708,BRW,Wageningen,Bezetting OR Ploeg 3
+0902709,BRW,Wageningen,Schippers Ploeg 1
+0902710,BRW,Wageningen,Schippers Ploeg 2
+0902711,BRW,Wageningen,Schippers Ploeg 3
+0902718,BRW,Wageningen,Kader
+0902721,BRW,Wageningen,First Responders Ploeg 1
+0902722,BRW,Wageningen,First Responders Ploeg 2
+0902723,BRW,Wageningen,First Responders Ploeg 3
+0902724,BRW,Wageningen,Bezetting HW Ploeg 1
+0902725,BRW,Wageningen,Bezetting HW Ploeg 2
+0902726,BRW,Wageningen,Bezetting HW Ploeg 3
+0902788,BRW,Wageningen,Kazernetechniek
+0902789,BRW,Wageningen,Postalarm
+0902790,BRW,Zevenaar,Ploeg Dagdienst
+0902791,BRW,Zevenaar,Bezetting TS Ploeg 1
+0902792,BRW,Zevenaar,Bezetting TS Ploeg 2
+0902794,BRW,Zevenaar,25 kV Team Betuwelijn
+0902796,BRW,Zevenaar,Dagondersteuning
+0902798,BRW,Zevenaar,Verkenningseenheid
+0902800,BRW,Zevenaar,Kader
+0902802,BRW,Zevenaar,Bezetting HW
+0902805,BRW,Zevenaar,First Responders
+0902806,BRW,Zevenaar,TCO
+0902869,BRW,Zevenaar,Postalarm
+0902902,BRW,OCB,Monitorcode
+0902903,BRW,OCB,Monitorcode Middel Incident
+0902904,BRW,OCB,Monitorcode Groot Incident
+0902905,BRW,OCB,Monitorcode Zeer Groot Incident
+0902960,BRW,Arnhem,Sturing decentrale uitgifte
+0902968,BRW,Renkum,Sturing decentrale uitgifte
+0902969,BRW,Rheden,Sturing decentrale uitgifte
+0902970,BRW,Rijnwaarden,Sturing decentrale uitgifte
+0902972,BRW,Wageningen,Sturing decentrale uitgifte
+0902973,BRW,Zevenaar,Sturing decentrale uitgifte
+0902999,BRW,OCB,Lichtkrant
+0920007,AMBU,MK Oost-Nederland,Monitorcode Gelderland-Midden
+0920008,AMBU,Regionaal,OvDG Arnhem e.o.
+0920009,AMBU,Regionaal,OvDG West Veluwevallei
+0920010,AMBU,Regionaal,Forensisch Arts (Politie arts)
+0920011,AMBU,Regionaal,Coordinatie 07-811
+0920012,AMBU,Regionaal,Directeur Publieke Gezondheid van Dienst
+0920014,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg
+0920015,AMBU,Regionaal,GAGS Oost Nederland
+0920022,AMBU,Duitsland,Krankenhaus Emmerich
+0920024,AMBU,Regionaal,Roosterfunctionaris
+0920025,AMBU,Regionaal,TCO West
+0920026,AMBU,Regionaal,TCO Oost
+0920027,AMBU,Regionaal,GGD Arts
+0920036,AMBU,Regionaal,Medisch Manager Ambulancezorg
+0920037,AMBU,Regionaal,Medisch Adviseur
+0920038,AMBU,Onbekend,Onbekend
+0920040,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg
+0920050,AMBU,Regionaal,Arts Infectieziekten
+0920055,AMBU,Regionaal,Persoonlijke-code
+0920101,AMBU,Regionaal,Ambulance 07-101
+0920102,AMBU,Regionaal,Ambulance 07-102
+0920103,AMBU,Regionaal,Ambulance 07-103
+0920104,AMBU,Regionaal,Ambulance 07-104
+0920105,AMBU,Regionaal,Ambulance 07-105
+0920106,AMBU,Regionaal,Ambulance 07-106
+0920107,AMBU,Regionaal,Ambulance 07-107
+0920108,AMBU,Regionaal,Ambulance 07-108
+0920109,AMBU,Regionaal,Ambulance 07-109
+0920110,AMBU,Regionaal,Ambulance 07-110
+0920111,AMBU,Regionaal,Ambulance 07-111
+0920112,AMBU,Regionaal,Ambulance 07-112
+0920113,AMBU,Regionaal,Ambulance 07-113
+0920114,AMBU,Regionaal,Ambulance 07-114
+0920115,AMBU,Regionaal,Ambulance 07-115
+0920116,AMBU,Regionaal,Ambulance 07-116
+0920117,AMBU,Regionaal,Ambulance 07-117
+0920118,AMBU,Regionaal,Ambulance 07-118
+0920119,AMBU,Regionaal,Ambulance 07-119
+0920120,AMBU,Regionaal,Ambulance 07-120
+0920121,AMBU,Regionaal,Ambulance 07-121
+0920122,AMBU,Regionaal,Ambulance 07-122
+0920123,AMBU,Regionaal,Ambulance 07-123
+0920124,AMBU,Regionaal,Ambulance 07-124
+0920125,AMBU,Regionaal,Ambulance 07-125
+0920126,AMBU,Regionaal,Ambulance 07-126
+0920127,AMBU,Regionaal,Ambulance 07-127
+0920142,AMBU,Regionaal,MotorAmbulance 07-322
+0920150,AMBU,Regionaal,Rapid Responder 07-341
+0920151,AMBU,Regionaal,Rapid Responder 07-342
+0920154,AMBU,Regionaal,Rapid Responder 07-345
+0920201,AMBU,Regionaal,Middencomplexe zorg 07-201
+0920202,AMBU,Regionaal,Middencomplexe zorg 07-202
+0920203,AMBU,Regionaal,Middencomplexe zorg 07-203
+0920204,AMBU,Regionaal,Middencomplexe zorg 07-204
+0920205,AMBU,Regionaal,Middencomplexe zorg 07-205
+0920221,AMBU,Regionaal,NRK Noodhulp-Team UGS Barneveld
+0920222,AMBU,Regionaal,NRK Noodhulp-Team UGS Ede
+0920223,AMBU,Regionaal,NRK Noodhulp-Team UGS Wolfheze
+0920224,AMBU,Regionaal,NRK Noodhulp-Team UGS Velp
+0920225,AMBU,Regionaal,NRK Noodhulp-Team UGS Duiven
+0920226,AMBU,Regionaal,NRK Noodhulp-Team UGS Arnhem-Noord
+0920227,AMBU,Regionaal,NRK Noodhulp-Team UGS Heteren
+0920228,AMBU,Regionaal,NRK Noodhulp-Team UGS Arnhem-Zuid
+0920322,AMBU,Regionaal,MotorAmbulance 07-322
+0920324,AMBU,Regionaal,MotorAmbulance 07-324
+0920341,AMBU,Regionaal,Rapid Responder 07-341
+0920342,AMBU,Regionaal,Rapid Responder 07-342
+0920343,AMBU,Regionaal,Rapid Responder 07-343
+0920344,AMBU,Regionaal,Rapid Responder 07-344
+0920345,AMBU,Regionaal,Rapid Responder 07-345
+0920701,AMBU,MK Oost-Nederland,Onbekend
+0920702,AMBU,MK Oost-Nederland,Onbekend
+0920801,AMBU,MK Oost-Nederland,OvDG Noord
+0920802,AMBU,MK Oost-Nederland,OvDG West
+0920999,AMBU,MK Oost-Nederland,OvDG Noord
+0930010,POL,OC-P,Persinformatie
+0930791,POL,De Schaffelaar,Wildbeheer (BOA)
+0930793,POL,Zuidoost Veluwe,Wildbeheer (BOA)
+0930795,POL,Zuidwest Veluwe,Wildbeheer (BOA)
+0930796,POL,Zuidwest Veluwe,Wildbeheer (BOA)
+0930797,POL,De Liemers,Wildbeheer (BOA)
+0930799,POL,Overbetuwe Oost,Wildbeheer (BOA)
+0930800,POL,Politie Eenheid Oost-Nederland,Staatsbosbeheer
+0930811,POL,Politie Eenheid Oost-Nederland,Liason Waterschap Rijn en IJssel
+0930813,POL,Politie Eenheid Oost-Nederland,Liason Waterschap Rivierenland
+0930814,POL,Politie Eenheid Oost-Nederland,Liason Waterschap Vallei en Veluwe
+0930834,POL,Wageningen,Techniekcode tbv wegafsluiting
+0930837,POL,Zevenaar,Verkeerstechniek Binnenstad
+0930839,POL,Politie Eenheid Oost-Nederland,Omgevingsdienst Regio ?
+0930840,POL,Politie Eenheid Oost-Nederland,Milieudienst Regionale Uitvoerings Dienst (RUD) Arnhem
+0930841,POL,Politie Eenheid Oost-Nederland,Omgevingsdienst Arnhem Milieupiket
+0930842,POL,Politie Eenheid Oost-Nederland,Beheer Openbare Ruimte Arnhem
+0930843,POL,Politie Eenheid Oost-Nederland,Duiven piket bodembeheer
+0930845,POL,Politie Eenheid Oost-Nederland,Omgevingsdienst de Vallei Milieupiket
+0930854,POL,Politie Eenheid Oost-Nederland,OvD Bevolkingszorg (Oost)
+0930855,POL,Politie Eenheid Oost-Nederland,OvD Bevolkingszorg (West)
+0930857,POL,Politie Eenheid Oost-Nederland,Beheer GMK
+0930858,POL,Politie Eenheid Oost-Nederland,Algemeen Commandant Bevolkingszorg
+0930861,POL,Politie Eenheid Oost-Nederland,GRIP 1 Arnhem
+0930862,POL,Politie Eenheid Oost-Nederland,GRIP 2 Arnhem
+0930901,POL,Politie Eenheid Oost-Nederland,GRIP 1 Ede

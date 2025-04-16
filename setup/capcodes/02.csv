@@ -1,0 +1,475 @@
+capcode,discipline,locatie/divisie,beschrijving
+0300010,BRW,Regionaal,OVD-B Noord
+0300011,BRW,Regionaal,OVD-B Noord Groepscode
+0300020,BRW,Regionaal,OVD-B Noord-Oost
+0300021,BRW,Regionaal,OVD-B Noord-Oost Groepscode
+0300022,BRW,Regionaal,Functionaris Logistiek
+0300030,BRW,Regionaal,OVD-B Zuid-Oost
+0300031,BRW,Regionaal,OVD-B Zuid-Oost Groepscode
+0300040,BRW,Regionaal,OVD-B Zuid
+0300041,BRW,Regionaal,OVD-B Zuid Groepscode
+0300042,BRW,Regionaal,Functionaris Logistiek
+0300050,BRW,Regionaal,OVD-B Zuid-West
+0300051,BRW,Regionaal,OVD-B Zuid-West Groepscode
+0300055,BRW,OCB Noord-Nederland,Monitor
+0300060,BRW,Regionaal,OVD-B Noord-West
+0300061,BRW,Regionaal,OVD-B Noord-West - Groepscode
+0300070,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+0300072,BRW,Regionaal,HOvD
+0300078,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0300079,BRW,Regionaal,HOvD Groepscode
+0302001,BRW,Buitenpost,Kazernealarm
+0302002,BRW,Drogeham,Kazernealarm
+0302003,BRW,Surhuisterveen,Kazernealarm
+0302004,BRW,Hollum,Postalarm
+0302005,BRW,Nes,Postalarm
+0302006,BRW,Akkrum,Kazernealarm
+0302007,BRW,Grou,Kazernealarm
+0302008,BRW,Bolsward,Kazernealarm
+0302009,BRW,Damwoude,Kazernealarm
+0302010,BRW,Zwaagwesteinde,Kazernealarm
+0302011,BRW,Anjum,Kazernealarm
+0302012,BRW,Dokkum,Kazernealarm
+0302013,BRW,Ternaard,Kazernealarm
+0302014,BRW,Ferwert,Kazernealarm
+0302015,BRW,Hallum,Kazernealarm
+0302016,BRW,Franeker,Kazernealarm
+0302017,BRW,Bakhuizen,Kazernealarm
+0302018,BRW,Balk,Kazernealarm
+0302019,BRW,Sloten,Kazernealarm
+0302020,BRW,Harlingen,Kazernealarm
+0302021,BRW,Heerenveen,Kazernealarm
+0302022,BRW,Jubbega,Kazernealarm
+0302023,BRW,Nieuwehorne,Kazernealarm
+0302024,BRW,Tjalleberd,Kazernealarm
+0302025,BRW,Sint Annaparochie,Kazernealarm
+0302026,BRW,Kollum,Kazernealarm
+0302027,BRW,Leeuwarden-Hoofdpost,Kazernealarm
+0302028,BRW,Leeuwarden-Noord,Kazernealarm
+0302029,BRW,Stiens,Kazernealarm
+0302030,BRW,Echten,Kazernealarm
+0302031,BRW,Lemmer,Kazernealarm
+0302032,BRW,Mantgum,Kazernealarm
+0302033,BRW,Wommels,Kazernealarm
+0302034,BRW,Marssum,Kazernealarm
+0302035,BRW,Menaldum,Kazernealarm
+0302036,BRW,Hindeloopen,Kazernealarm
+0302037,BRW,Koudum,Kazernealarm
+0302038,BRW,Stavoren,Kazernealarm
+0302039,BRW,Workum,Kazernealarm
+0302040,BRW,Appelscha,Kazernealarm
+0302041,BRW,Haulerwijk,Kazernealarm
+0302042,BRW,Oldeberkoop,Kazernealarm
+0302043,BRW,Oosterwolde,Kazernealarm
+0302044,BRW,Beetsterzwaag,Kazernealarm
+0302045,BRW,Gorredijk,Kazernealarm
+0302046,BRW,Ureterp,Kazernealarm
+0302047,BRW,Schiermonnikoog,Kazernealarm
+0302048,BRW,Joure,Kazernealarm
+0302049,BRW,Langweer,Kazernealarm
+0302050,BRW,Sint Nicolaasga,Kazernealarm
+0302051,BRW,Drachten,Kazernealarm
+0302052,BRW,Sneek,Kazernealarm
+0302053,BRW,Midsland,Kazernealarm
+0302054,BRW,West-Terschelling,Kazernealarm
+0302055,BRW,Burgum,Kazernealarm
+0302056,BRW,Giekerk,Kazernealarm
+0302057,BRW,Vlieland,Kazernealarm
+0302058,BRW,Noordwolde,Kazernealarm
+0302059,BRW,Scherpenzeel,Kazernealarm
+0302060,BRW,Wolvega,Kazernealarm
+0302061,BRW,Makkum,Kazernealarm
+0302062,BRW,Parrega,Kazernealarm
+0302063,BRW,Witmarsum,Kazernealarm
+0302064,BRW,Heeg,Kazernealarm
+0302065,BRW,Ylst,Kazernealarm
+0302066,BRW,Woudsend,Kazernealarm
+0302069,BRW,Oudega,Postalarm
+0302206,BRW,Sneek,Palen binnenstad
+0302207,BRW,Sneek,Palen Grootzand
+0302210,BRW,Regionaal,OvD-Bevolkingszorg
+0302220,BRUG,Leeuwarden,Brugwachter Harinxmabrug
+0302222,BRUG,Leeuwarden,Brugwachter Zwettebrug
+0302223,BRUG,Leeuwarden,Brugwachter Slauerhoffbrug
+0302224,BRUG,Leeuwarden,Brugwachter Hermesbrug/Slauerhoffbrug
+0302225,BRUG,Leeuwarden,Bediening Verlaatsbrug
+0302226,BRUG,Leeuwarden,Brugwachter Vrouwenpoortsbrug
+0302227,BRUG,Leeuwarden,Brugwachter Noorderbrug
+0302228,BRUG,Leeuwarden,Brugwachter Eebrug
+0302229,BRUG,Leeuwarden,Brugwachter Greunsbrug
+0302230,BRUG,Leeuwarden,Bediening Hempensbrug
+0302231,BRUG,Leeuwarden,Brugwachter Pylkewiersterbrege
+0302232,BRUG,Leeuwarden,Brugwachter 1e kanaalsbrug
+0302233,BRUG,Leeuwarden,Brugwachter 2e kanaalsbrug
+0302234,BRUG,Leeuwarden,Bediening Vlietsterbrug
+0302235,BRUG,Leeuwarden,Bediening Oosterbrug
+0302236,BRUG,Leeuwarden,Brugwachter Blokhuisbrug
+0302237,BRUG,Leeuwarden,Brugwachter Beursbrug
+0302240,BRUG,Leeuwarden,Groepscode bruggen
+0302241,BRUG,Terhorne,Brugwachter Heerenzijlbrug
+0302242,BRUG,Warga,Brugwachter Dorpsbrug
+0302243,BRUG,Akkrum,Brugwachter Meineslootbrug
+0302245,BRUG,Akkrum,Brugwachter Weidlandsbrug
+0302246,BRUG,Wergea,Brugwachter Palmabrug
+0302247,BRUG,Grou,Brugwachter Gallebrug
+0302250,BRUG,Lemmer,Brugwachter Rienbrug
+0302251,BRUG,Lemmer,Brugwachter Blokjesbrug
+0302252,BRUG,Lemmer,Brugwachter Flevobrug
+0302253,BRUG,Echtenerbrug,Brugwachter Pier Christiaanbrug
+0302260,BRUG,Jistrum,Brugwachter Skulenboarchbrug
+0302261,BRUG,Augustinusga,Brugwachter Blauverlaatbrug
+0302262,BRUG,Burgum (Bergum),Brugwachter Bergumurdaambrug Prinses Margrietkanaal
+0302263,BRUG,Aldskou,Brugwachter Oudeschouw
+0302264,BRUG,Terherne,Brugwachter Oude en Nieuwe Zandslootbrug
+0302265,BRUG,Uitwellingerga,Brugwachter Prinses Margrietkanaal
+0302266,BRUG,Lemmer,Brugwachter Prinses Margrietsluis
+0302267,BRUG,Follega,Brugwachter Follegaslootbrug
+0302268,BRUG,Warns,Brugwachter Warnserbrug
+0302269,BRUG,Stavoren,Brugwachter Johan Friso Sluisbrug
+0302271,BRUG,Workum,Brugwachter Sudergoabrug
+0302272,BRUG,Tjerkwerd,Brugwachter Van Panhuijsbrug
+0302273,BRUG,Bolsward,Brugwachter Kruiswaterbrug A7
+0302276,BRUG,Woudsend,Brugwachter Hellingbrug
+0302278,BRUG,Boornzwaag,Brugwachter Noorder Oude Weg
+0302279,BRUG,Scharsterbrug,Brugwachter Scharsterbrug
+0302280,BRUG,Joure,Brugwachter Scharsterrijnbrug A6
+0302281,BRUG,Langweer,Brugwachter Janeslootbrug
+0302282,BRUG,Nijetrijne,Brugwachter Driewegsluis/L. Homansluis/Oldetrijnsterbrug
+0302283,BRUG,Heerenveen,Brugwachter Rottumerbrug
+0302285,BRUG,Wartena,Brugwachter Wartena
+0302288,BRUG,Dronrijp,Brug Dronrijp
+0302289,BRUG,Franeker,Brugwachter Stationsbrug
+0302290,BRUG,Harlingen,Brugwachter Tsjerk Hiddesbrug
+0302291,BRUG,Dokkum,Brugwachter Dokkumer Nieuwe Zijlen
+0302292,BRUG,Dokkum,Brug Dokkumer Ee Sijbrandahuis
+0302293,BRUG,Harlingen,Brugwachter Koningsbrug
+0302294,BRUG,Lemmer,Brugwachter Zijlroedebrug
+0302295,BRUG,Gorredijk,Overtoom Brug
+0302296,BRUG,Donkerbroek,Brugwachter Dorpsbrug
+0302297,BRUG,Stroobos,Brugwachter Brug Stroobos
+0302298,BRUG,Kootstertille,Brugwachter Koostertille
+0302299,BRUG,Tjerkgaast,Brugwachter Prinses Margrietkanaal Spannenburg
+0302300,BRUG,Oldetrijne,Brugwachter Oldetrijnsterbrug Helomavaort
+0302301,BRUG,Heerenveen,Jousterbrug
+0302304,BRUG,Franeker,Brug Kiesterzijl
+0302305,BRUG,Engwierum,Brugwachter Engwierumerbrug
+0302307,BRUG,Tytsjerksteradeel,Brugwachter Oostermeer
+0302308,BRUG,Munnekebure,Brugwachter Oldelamerbrug
+0302309,BRUG,Heerenveen,Brug Nieuweschoot
+0302310,BRUG,Franeker,Brugwachter Frisiabrug
+0302311,BRUG,Kollumeroudzijl,Brugwachter Zijlsterrijdbrug
+0302312,BRUG,Garyp,Brugwachter Fonejachtbrug
+0302315,BRUG,Workum,Brugwachter Schutsluisbrug
+0302316,BRUG,Workum,Noorderbrug
+0302317,BRUG,Workum,Brugwachter Begijnebrug
+0302318,BRUG,Groningen,Brugwachter van Ketwich Verschuurbrug
+0302320,BRUG,Stavoren,Brugwachter Koebrug
+0302322,BRUG,Stavoren,Centrale Brugbediening
+0302323,BRUG,Workum,Groepscode Bruggen
+0302325,BRUG,Allingawier,Brugwachter Korjusbrug
+0302326,BRUG,Lemmer,Brugwachter Friese Sluis
+0302335,BRUG,Bolsward,Brugwachter Blauwpoortsbrug
+0302336,BRUG,Bolsward,Gysbert Japicxbrug
+0302338,BRUG,Bolsward,Groepscode Bruggen
+0302340,BRUG,Wolsum,Brugwachter Wolsumerkettingbrug
+0302341,BRUG,Abbegeasterketting,Brugwachter Brug Abbegeasterketting
+0302342,BRUG,Heeg,Brugwachter Heeg
+0302343,BRUG,Osingahuizen,Brugwachter De Skou
+0302344,BRUG,IJlst,Brugwachter Geeuwbrug
+0302345,BRUG,Nijesyl,Brugwachter Nijesyl
+0302346,BRUG,Oppenhuizen,Brugwachter Oppenhuizen
+0302347,BRUG,Heeg,Brugwachter Polderweibrug
+0302350,BRUG,Sloten,Brugwachter Nieuwe Langebrug
+0302351,BRUG,Balk,Brugwachter Balk
+0302352,BRUG,Wommels,Brugwachter Boalserter Feart
+0302355,BRUG,Gorredijk,Brugwachter Overtoombrug
+0302359,BRUG,Heerenveen,Bruggen
+0302360,BRUG,Heerenveen,Herenwalbrug
+0302363,BRUG,Sneek,Brugwachter Oppenhuizerbrug
+0302364,BRUG,Sneek,Brugwachter Lemmerwegbrug
+0302365,BRUG,Sneek,Brugwachter Harinxmabrug
+0302366,BRUG,Sneek,Brugwachters Sneek Groepscode
+0302370,BRUG,Dokkum,Brugwachter EeBrug
+0302371,BRUG,Dokkum,Brugwachter Schreiersbrug
+0302372,BRUG,Dokkum,Brugwachter Woudpoortbrug
+0302374,BRUG,Leeuwarden,Brugwachter Eebrug
+0302375,BRUG,Dokkum,Brugwachters Dokkum
+0302388,BRUG,Harlingen,Brugwachter Trambrug
+0302390,BRUG,Harlingen,Brugwachters Harlingen - Groepscode
+0302391,BRUG,Harlingen,Brugwachter Havenbrug
+0302392,BRUG,Harlingen,Brugwachter Prins Hendrikbrug
+0302393,BRUG,Harlingen,Brugwachter Industriebrug
+0302394,BRUG,Harlingen,Trambrug
+0302395,BRUG,Harlingen,Brugwachter Julianabrug
+0302396,BRUG,Harlingen,Brugwachter Singelbrug
+0302400,BRW,De Fryske Marren,OvD-Bevolkingszorg
+0302412,BRW,Achtkarspelen,OvD-Bevolkingszorg
+0302414,BRW,Heerenveen,OvD Bevolkingszorg
+0302418,BRW,Kollumerland en Nieuwkruisland,OvD Bevolkingszorg
+0302419,BRW,Dantumadiel,OvD Bevolkingszorg
+0302420,BRW,Waadhoeke,OvD Bevolkingszorg
+0302422,BRW,Schiermonnikoog,OvD Bevolkingszorg
+0302424,BRW,Terschelling,OvD Bevolkingszorg
+0302426,BRW,Smallingerland,OvD Bevolkingszorg
+0303000,BRW,OCB Noord-Nederland,Proefalarm
+0303005,BRW,Regionaal,Commandant van Dienst
+0303015,BRW,Regionaal,Plotters CoPI
+0303030,BRW,Regionaal,Leider CoPI
+0303040,BRW,Onbekend,Onbekende code
+0303045,BRW,Regionaal,Voorlichter van Dienst
+0303046,BRW,Harllingen,OvD Haven
+0303050,BRW,Regionaal,TCO Teamleden
+0303051,BRW,Regionaal,TCO Coordinator
+0303060,BRW,Drachten,Bezetting Multidisciplinaire Commando Unit
+0303081,BRW,Balk,Oppervlaktewater Redteam
+0303082,BRW,Langweer,Oppervlaktewater Redteam
+0303083,BRW,Lemmer,Oppervlaktewater Redteam
+0303084,BRW,Heeg,Oppervlaktewater Redteam
+0303085,BRW,Koudum,Oppervlaktewater Redteam
+0303086,BRW,Jubbega,Oppervlaktewater Redteam
+0303087,BRW,Grou,Oppervlaktewater Redteam
+0303088,BRW,Burgum,Oppervlaktewater Redteam
+0303089,BRW,Harlingen,Oppervlaktewater Redteam
+0303090,BRW,Wolvega,Oppervlaktewater Redteam
+0303091,BRW,Specialisme Technische Hulpverlening (STH) Noord,Leiding
+0303092,BRW,Specialisme Technische Hulpverlening (STH) Noord,Team
+0303094,BRW,Regionaal,Adviseur Natuurbrand
+0303095,BRW,Regionaal,Informatie Manager Verspreiding Natuurbrand
+0303104,BRW,Buitenpost,Postalarm
+0303105,BRW,Buitenpost,Verkenningseenheid
+0303112,BRW,Drogeham,Postalarm
+0303122,BRW,Surhuisterveen,Postalarm
+0303131,BRW,Hollum,Bevelvoerders
+0303132,BRW,Hollum,Postalarm
+0303137,BRW,Ameland,Coordinatieteam Waddeneilanden
+0303139,BRW,Hollum,Bezetting NBB
+0303141,BRW,Nes,Bevelvoerders
+0303142,BRW,Nes,Bezetting TS
+0303144,BRW,Nes,Bezetting NBB
+0303151,BRW,Akkrum,Bevelvoerder van Dienst
+0303152,BRW,Akkrum,Postalarm
+0303155,BRW,Akkrum,Verkenningseenheid
+0303161,BRW,Grou,Bevelvoerder van Dienst
+0303162,BRW,Grou,Ploeg 1
+0303163,BRW,Grou,Ploeg 2
+0303164,BRW,Grou,Chauffeurs
+0303172,BRW,Bolsward,Ploeg 1
+0303174,BRW,Bolsward,Ploeg 2
+0303175,BRW,Bolsward,Bezetting HW
+0303176,BRW,Bolsward,Ploeg 3
+0303185,BRW,Bolsward,Logistiek & Verzorging
+0303186,BRW,Bolsward,Bemanning HA
+0303191,BRW,Damwâld,Bevelvoerder van Dienst
+0303192,BRW,Damwâld,Postalarm
+0303201,BRW,De Westereen,Bevelvoerder van Dienst
+0303202,BRW,De Westereen,Postalarm
+0303211,BRW,Anjum,Bevelvoerder van Dienst
+0303212,BRW,Anjum,Postalarm
+0303221,BRW,Dokkum,Bevelvoerder van Dienst
+0303222,BRW,Dokkum,Ploeg A
+0303223,BRW,Dokkum,Ploeg B
+0303224,BRW,Dokkum,Bezetting HW Ploeg A
+0303226,BRW,Dokkum,Bezetting HW Ploeg B
+0303242,BRW,Ternaard,Postalarm
+0303252,BRW,Ferwert,Postalarm
+0303262,BRW,Hallum,Postalarm
+0303271,BRW,Franeker,Bezetting TS Ploeg 1
+0303272,BRW,Franeker,Bezetting TS Ploeg 2
+0303278,BRW,Franeker,Bevelvoerder
+0303281,BRW,Franeker,Bezetting HV-KR Ploeg 1
+0303282,BRW,Franeker,Bezetting HV-KR Ploeg 2
+0303286,BRW,Franeker,Bevelvoerder van Dienst
+0303288,BRW,Franeker,Jeugdbrandweer
+0303289,BRW,Franeker,Monitor
+0303292,BRW,Bakhuizen,Postalarm
+0303302,BRW,Balk,Bezetting TS Ploeg 1
+0303303,BRW,Balk,Bezetting TS Ploeg 2
+0303312,BRW,Sloten,Postalarm
+0303321,BRW,Harlingen,Bevelvoerder van Dienst
+0303322,BRW,Harlingen,Ploeg 1
+0303323,BRW,Harlingen,Ploeg 2
+0303331,BRW,Harlingen,Bezetting HW Ploeg 1
+0303332,BRW,Harlingen,Bezetting HW Ploeg 2
+0303333,BRW,Harlingen,Bezetting HW Ploeg 3
+0303337,BRW,Harlingen,Ploeg 3
+0303341,BRW,Heerenveen,Bevelvoerder van Dienst
+0303342,BRW,Heerenveen,Bezetting TS Ploeg 1
+0303343,BRW,Heerenveen,Bezetting TS Ploeg 2
+0303344,BRW,Heerenveen,Bezetting TS Ploeg 3
+0303345,BRW,Heerenveen,Chauffeurs Ploeg 1
+0303346,BRW,Heerenveen,Chauffeurs Ploeg 2
+0303347,BRW,Heerenveen,Chauffeurs Ploeg 3
+0303350,BRW,Heerenveen,Logistiek
+0303353,BRW,Heerenveen,Bedieners HW Ploeg 1
+0303354,BRW,Heerenveen,Bedieners HW Ploeg 2
+0303355,BRW,Heerenveen,Bedieners HW Ploeg 3
+0303358,BRW,Heerenveen,Chauffeurs dagdienst
+0303367,BRW,Jubbega,Postalarm
+0303377,BRW,Nieuwehorne,Postalarm
+0303387,BRW,Tjalleberd,Postalarm
+0303397,BRW,Sint Annaparochie - Het Bildt,Postalarm
+0303400,BRW,Sint Annaparochie - Het Bildt,Verkenningseenheid
+0303406,BRW,Kollum,Bevelvoerder van Dienst
+0303407,BRW,Kollum,Postalarm
+0303422,BRW,Leeuwarden,Beroeps
+0303424,BRW,Leeuwarden Hoofdpost,Kazernealarm
+0303425,BRW,Leeuwarden Hoofdpost,Bevelvoerder van Dienst
+0303426,BRW,Leeuwarden Hoofdpost,Duikerploeg
+0303427,BRW,Leeuwarden Hoofdpost,Herbezettingscode Duikploeg
+0303428,BRW,Leeuwarden Hoofdpost,Kleine Logistiek & Verzorging
+0303444,BRW,Leeuwarden Noord,Ploeg 1A
+0303445,BRW,Leeuwarden Noord,Ploeg 1B
+0303446,BRW,Leeuwarden Noord,Ploeg 2A
+0303447,BRW,Leeuwarden Noord,Ploeg 2B
+0303457,BRW,Stiens,Postalarm
+0303461,BRW,Stiens,Decontaminatieploeg
+0303467,BRW,Echten,Postalarm
+0303470,BRW,Echten,Schipper
+0303477,BRW,Lemmer,Postalarm
+0303484,BRW,Lemmer,Verkenningseenheid
+0303487,BRW,Mantgum,Postalarm
+0303494,BRW,Mantgum,Kazernetechniek
+0303497,BRW,Wommels,Postalarm
+0303507,BRW,Marssum,Bezetting TS Ploeg 1
+0303508,BRW,Marssum,Bezetting TS Ploeg 2
+0303518,BRW,Menaam,Ploeg 1
+0303519,BRW,Menaam,Ploeg 2
+0303538,BRW,Koudum,Postalarm
+0303547,BRW,Stavoren,Postalarm
+0303556,BRW,Workum,Bevelvoerder van Dienst
+0303557,BRW,Workum,Postalarm
+0303568,BRW,Appelscha,Postalarm
+0303578,BRW,Haulerwijk,Postalarm
+0303588,BRW,Oldeberkoop,Bezetting TS
+0303589,BRW,Oldeberkoop,Bezetting WT
+0303604,BRW,Oosterwolde,Bezetting HV-KR
+0303605,BRW,Oosterwolde,Postalarm
+0303609,BRW,Appelscha,Verkenningseenheid
+0303611,BRW,Beetsterzwaag,Postcoordinator
+0303612,BRW,Beetsterzwaag,Postcoordinator
+0303613,BRW,Beetsterzwaag,Postalarm
+0303623,BRW,Gorredijk,Postalarm
+0303633,BRW,Ureterp,Postalarm
+0303642,BRW,Schiermonnikoog,Postcoordinator
+0303643,BRW,Schiermonnikoog,Postalarm
+0303647,BRW,Schiermonnikoog,Coordinatieteam Waddeneilanden
+0303649,BRW,Schiermonnikoog,Ondersteuningspeloton
+0303651,BRW,Joure,Ploeg 1
+0303652,BRW,Joure,Ploeg 2
+0303660,BRW,Joure,Chauffeurs Ploeg 1
+0303661,BRW,Joure,Chauffeurs Ploeg 2
+0303662,BRW,Joure,Chauffeurs Ploeg 3
+0303673,BRW,Langweer,Postalarm
+0303683,BRW,Sint Nicolaasga,Postalarm
+0303690,BRW,Regionaal,Arbeidshygiene Noord-Oost
+0303695,BRW,Drachten,Bezetting HW Ploeg 1
+0303696,BRW,Drachten,Bezetting HW Ploeg 2
+0303697,BRW,Drachten,Bezetting HV-KR Ploeg 1
+0303698,BRW,Drachten,Bezetting HV-KR Ploeg 2
+0303701,BRW,Drachten,Bezetting TS Ploeg 1
+0303702,BRW,Drachten,Bezetting TS Ploeg 2
+0303703,BRW,Drachten,Bezetting TS Ploeg 3
+0303704,BRW,Drachten,Bezetting TS Ploeg 4
+0303705,BRW,Drachten,Bezetting TS Ploeg 5
+0303706,BRW,Drachten,Dagcode
+0303709,BRW,Drachten,Kazernekechniek
+0303710,BRW,Drachten,Chauffeurs Ploeg 1
+0303711,BRW,Drachten,Chauffeurs Ploeg 2
+0303715,BRW,Drachten,Logistiek
+0303719,BRW,Drachten,Bezetting MCU
+0303722,BRW,Sneek,Bevelvoerders Ploeg 1
+0303723,BRW,Sneek,Bevelvoerders Ploeg 2
+0303724,BRW,Sneek,Bevelvoerders Ploeg 3
+0303725,BRW,Sneek,Bezetting TS Ploeg 1
+0303726,BRW,Sneek,Bezetting TS Ploeg 2
+0303727,BRW,Sneek,Bezetting TS Ploeg 3
+0303728,BRW,Sneek,Chauffeurs Ploeg 1
+0303729,BRW,Sneek,Chauffeurs Ploeg 2
+0303730,BRW,Sneek,Chauffeurs Ploeg 3
+0303740,BRW,Sneek,Dag- en Vakantieondersteuning
+0303741,BRW,Sneek,Duikploegleider
+0303742,BRW,Sneek,Duikerploeg
+0303743,BRW,Sneek,Chauffeurs dagdienst
+0303752,BRW,Midsland,Postalarm
+0303762,BRW,West Terschelling,Postalarm
+0303766,BRW,Terschelling,Staatsbosbeheer
+0303767,BRW,Terschelling,Coordinatieteam Waddeneilanden
+0303776,BRW,Burgum,Ploeg 1
+0303777,BRW,Burgum,Ploeg 2
+0303778,BRW,Burgum,Ploeg 3
+0303779,BRW,Burgum,Ploeg 4
+0303780,BRW,Burgum,Bezetting HA
+0303789,BRW,Bergum,Monitorcode
+0303791,BRW,Giekerk,Bevelvoerder van Dienst
+0303792,BRW,Giekerk,Postalarm
+0303802,BRW,Vlieland,Postalarm
+0303805,BRW,Vlieland,Postcoordinator
+0303806,BRW,Vlieland,Postcoordinator
+0303807,BRW,Vlieland,Coordinatieteam Waddeneilanden
+0303812,BRW,Noordwolde,Postalarm
+0303822,BRW,Scherpenzeel-Fryslan,Postalarm
+0303833,BRW,Wolvega,Ploeg 1
+0303836,BRW,Wolvega,Ploeg 2
+0303846,BRW,Wolvega,Postalarm
+0303852,BRW,Makkum,Postalarm
+0303855,BRW,Makkum,Brugwachter
+0303862,BRW,Parrega,Postalarm
+0303872,BRW,Witmarsum,Postalarm
+0303875,BRW,Witmarsum,Verkenningseenheid
+0303882,BRW,Heeg,Postalarm
+0303893,BRW,IJlst,Postalarm
+0303902,BRW,Woudsend,Postalarm
+0303911,BRW,Sneek,Bedrijfsbrandweer Touwfabriek Lankhorst
+0303916,BRW,Joure,Bedrijfsbrandweer Douwe Egberts Ploeg 1
+0303917,BRW,Joure,Bedrijfsbrandweer Douwe Egberts Ploeg 2
+0303920,BRW,Drachten,Bedrijfsbrandweer Philips DAP
+0303931,BRW,Oudega,Postalarm
+0303940,BRW,Heerenveen,Team Digitale Verkenning Coordinator
+0303941,BRW,Heerenveen,Team Digitale Verkenning Leden
+0320000,AMBU,MKA Noord-Nederland,Proefalarm Friesland
+0320462,KNRM,KNRM Reddingstation Vlieland,Patientenvervoer
+0320468,KNRM,KNRM Reddingstation West Terschelling,Bemanning Reddingboot Arie Visser (Patientenvervoer)
+0320475,KNRM,KNRM Reddingstation Ameland Ballum,Patientenvervoer Anna Margaretha
+0320482,KNRM,KNRM Reddingstation Schiermonnikoog,Reddingboot Koning Willem 1 (Patientenvervoer)
+0320499,KNRM,GMK Friesland,Monitorcode KNRM
+0320503,AMBU,Regionaal,Ambulance 02-114
+0320511,AMBU,Regionaal,Ambulance 02-116
+0320530,AMBU,Regionaal,Ambulance 02-148
+0320540,AMBU,Regionaal,Ambulance 02-146
+0320541,AMBU,Regionaal,Ambulance 02-152
+0320552,AMBU,Regionaal,Ambulance 02-118
+0320560,AMBU,Regionaal,Ambulance 02-132
+0320561,AMBU,Regionaal,Ambulance 02-133
+0320570,AMBU,Regionaal,Ambulance 02-154
+0320580,AMBU,Regionaal,Ambulance 02-141
+0320582,AMBU,Regionaal,Ambulance 02-143
+0320591,AMBU,KLu Vliegbasis Leeuwarden,Toren - Info code inzet Ambulancehelikopter (WaddenHeli)
+0320592,AMBU,KLu Vliegbasis Leeuwarden,Brandweer ploeg - Info code inzet Ambulancehelikopter (WaddenHeli)
+0320593,AMBU,Regionaal,Ambulance 02-126
+0320600,AMBU,Regionaal,Ambulance 02-134
+0320601,AMBU,Regionaal,Ambulance 02-135
+0320631,AMBU,Regionaal,Ambulance 02-129
+0320640,AMBU,Regionaal,Ambulance 02-136
+0320669,AMBU,Terschelling,Reddingboot Hurricane - Patiëntenvervoer
+0320701,AMBU,Regionaal,Rode Kruis Noodhulpteam (UGS Drachten)
+0320704,AMBU,Regionaal,Rode Kruis Noodhulpteam (UGS Heerenveen)
+0320706,AMBU,Regionaal,Rode Kruis Noodhulpteam (UGS Dronrijp)
+0320880,AMBU,Regionaal,Operationeel Medewerker Actiecentrum GHOR
+0320901,AMBU,GHOR Friesland,Proefalarm
+0320908,AMBU,GHOR Friesland,OVD-G
+0320909,AMBU,GHOR Friesland,OVD-G`s - Groepscode
+0320911,AMBU,GHOR Friesland,Algemeen Commandant Geneeskundige Zorg
+0320912,AMBU,De Fryske Marren,gemeente De Fryske Marren
+0320950,AMBU,NRK Friesland,NoodHulpTeam Ameland
+0320960,AMBU,NRK Friesland,NoodHulpTeam Vlieland
+0320970,AMBU,NRK Friesland,NoodHulpTeam Schiermonnikoog
+0320980,AMBU,NRK Friesland,NoodHulpTeam Terschelling
+0302800,POL,District Fryslân,Proef Alarm
+0302810,POL,District Fryslân,SGBO (Piketcoordinator)
+0302821,POL,District Fryslân,Beleids Team Dokkum Harlingen en Leeuwarden) (OvD-P)
+0302822,POL,District Fryslân,Beleids Team Drachten Heerenveen en Sneek) (OvD-P)
+0302840,POL,District Fryslân,Persvoorlichter
+0303037,POL,District Fryslân,Beleids Team Dokkum Harlingen en Leeuwarden (Informatiemanager CoPI)
+0303038,POL,District Fryslân,Beleids Team Drachten Heerenveen en Sneek (Informatiemanager CoPI)
+0330112,POL,OC-P,Persinformatie
+0331112,BRW,OC-B,Persinformatie

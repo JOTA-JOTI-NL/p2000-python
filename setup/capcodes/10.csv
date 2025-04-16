@@ -1,0 +1,434 @@
+capcode,discipline,locatie/divisie,beschrijving
+0200000,BRW,BRW Noord Holland Noord,Proefalarm / Infocode
+0200098,KNRM,MKB Noord-Holland Noord,Monitorcode Reddingsbrigade
+0200099,KNRM,MKB Noord-Holland Noord,Monitorcode KNRM
+0200103,BRW,Alkmaar,Dynamische afsluiting
+0200120,BRW,?,Code schakeling/activering
+0200125,BRW,Alkmaar Centrum,Kazernetechniek
+0200132,BRW,Hoorn,Dynamische afsluiting
+0200134,BRW,dynamische afsluiting,Dynamische afsluiting
+0200137,BRW,dynamische afsluiting,Dynamische afsluiting
+0200138,BRW,dynamische afsluiting,Dynamische afsluiting
+0200139,BRW,Zwaag,Dynamische afsluiting
+0200146,BRW,Schagen,Kazernetechniek
+0200147,BRW,Warmenhuizen,Dynamische afsluiting
+0200150,BRW,Langedijk,Dynamische afsluiting
+0200153,BRW,Den Helder,Dynamische afsluiting
+0200155,BRW,Castricum,Dynamische afsluiting
+0200160,BRW,Heerhugowaard,Dynamische afsluiting
+0200163,BRW,Enkhuizen,Dynamische afsluiting Kruitmolen
+0200164,BRW,Enkhuizen,Dynamische afsluiting Westerstraat/Melkmarkt
+0200165,BRW,Enkhuizen,Dynamische afsluiting Westerstraat/Nieuwstraat
+0200166,BRW,Enkhuizen,Dynamische afsluiting Zuiderkerkplein/Torenstraat
+0200171,BRW,Alkmaar,Dynamische afsluiting Binnenstad
+0200172,BRW,Alkmaar,Dynamische afsluiting Frieseweg
+0200176,BRW,Hoorn,Dynamische afsluiting
+0200177,BRW,Winkel,Dynamische afsluiting
+0200178,BRW,Zuid-Scharwoude,Dynamische afsluiting
+0200181,BRW,Schagen,Dynamische afsluiting
+0200185,BRW,Castricum,Dynamische afsluiting
+0200187,BRW,Enkhuizen,Dynamische afsluiting Binnenstad
+0200203,BRW,Wognum,Dynamische afsluiting
+0200204,BRW,Blokker,Dynamische afsluiting
+0200258,KNRM,Egmond aan Zee,Reddingboot Adriaan Hendrik
+0200260,KNRM,Egmond aan Zee,Walploeg
+0200268,KNRM,Petten,Reddingboot Dolfijn
+0200270,KNRM,Petten,Kusthulpverleningsvoertuig
+0200278,KNRM,Callantsoog,Reddingboot Koen Oberman
+0200280,KNRM,Callantsoog,Walploeg
+0200288,KNRM,Den Helder,Reddingboot Joke Dijkstra
+0200298,KNRM,De Koog (Texel),Walploeg A
+0200299,KNRM,Texel Oudeschild (Texel),Reddingboot Cornelis Dito
+0200300,KNRM,De Koog (Texel),Walploeg B
+0200308,KNRM,De Cocksdorp (Texel),Reddingboot Beursplein 5
+0200448,KNRM,Reddingstation Wijdenes,Reddingboten De Arend en De Gooier
+0200458,KNRM,Medemblik,Reddingsboot Bernadine
+0200468,KNRM,Andijk,Reddingboot t'Span
+0200478,KNRM,Enkhuizen,Reddingboten Watersport KNWV en Corrie Dijkstra-Van Elk
+0200488,KNRM,Den Oever,Reddingboot Op Dreef
+0200498,KNRM,Reddingsbrigade Hoorn,Reddingboot Hayo
+0201131,KNRM,Andijk,Lichtkrant Boothuis reddingsboot 't Span
+0201241,RB,Reddingsbrigade Schoorl,Strandploeg
+0201244,RB,Reddingsbrigade Egmond aan Zee,Strandploeg
+0201247,RB,Reddingsbrigade Bergen,Strandploeg
+0201251,RB,Reddingsbrigade Schoorl,Alarmploeg
+0201252,RB,Reddingsbrigade Schoorl,Lichtkrant
+0201254,RB,Reddingsbrigade Egmond aan Zee,Alarmploeg
+0201255,RB,Reddingsbrigade Egmond aan Zee,Lichtkrant
+0201258,RB,Reddingsbrigade Bergen,Monitor
+0201347,RB,Reddingsbrigade Castricum,Strandploeg
+0201357,RB,Reddingsbrigade Castricum,Alarmploeg
+0201358,RB,Reddingsbrigade Castricum,Lichtkrant
+0201447,RB,Reddingsbrigade Den Helder,Strandploeg
+0201457,RB,Reddingsbrigade Den Helder,Alarmploeg
+0201458,RB,Reddingsbrigade Den Helder,Monitor
+0202841,RB,Reddingsbrigade Sint Maartenszee,Strandploeg
+0202842,RB,Reddingsbrigade Petten,Strandploeg
+0202843,RB,Reddingsbrigade Callantsoog,Strandploeg
+0202852,RB,Reddingsbrigade Petten,Alarmploeg
+0202853,RB,Reddingsbrigade Callantsoog,Alarmploeg
+0202881,RB,Reddingsbrigade Sint Maartenszee,Monitor
+0202882,RB,Reddingsbrigade Petten,Monitor
+0202883,RB,Reddingsbrigade Callantsoog,Monitor
+0202997,BRW,OCB Noord-Holland Noord,GMS koppelingscode
+0202999,BRW,OCB Noord-Holland Noord,Monitorcode
+0203700,BRW,Alkmaar,Burgemeester
+0203703,BRW,Alkmaar,Ambtenaar openbare orde en veiligheid
+0203730,BRW,Bergen,Burgemeester
+0203733,BRW,Bergen,Ambtenaar openbare orde en veiligheid
+0203740,BRW,Castricum,Burgemeester
+0203750,BRW,Den Helder,Burgemeester
+0203753,BRW,Den Helder,Ambtenaar openbare orde en veiligheid
+0203760,BRW,Drechterland,Burgemeester
+0203763,BRW,Drechterland,Ambtenaar openbare orde en veiligheid
+0203770,BRW,Enkhuizen,Burgemeester
+0203773,BRW,Enkhuizen,Ambtenaar openbare orde en veiligheid
+0203800,BRW,Hoorn,Burgemeester
+0203803,BRW,Hoorn,Ambtenaar openbare orde en veiligheid
+0203810,BRW,gemeente Dijk en Waard,Burgemeester
+0203813,BRW,gemeente Dijk en Waard,Ambtenaar openbare orde en veiligheid
+0203820,BRW,Heiloo,Burgemeester
+0203840,BRW,Medemblik,Burgemeester
+0203843,BRW,Medemblik,Ambtenaar openbare orde en veiligheid
+0203880,BRW,Opmeer,Burgemeester
+0203890,BRW,Schagen,Burgemeester
+0203893,BRW,Schagen,Ambtenaar openbare orde en veiligheid
+0203910,BRW,Bovenkarspel,Burgemeester
+0203913,BRW,Bovenkarspel,Ambtenaar Openbare Veiligheid
+0203920,BRW,Texel,Burgemeester
+0203940,BRW,Koggenland,Burgemeester
+0203943,BRW,Koggenland,Ambtenaar openbare orde en veiligheid
+0203950,BRW,Hollands Kroon,Burgemeester
+0203953,BRW,Hollands Kroon,Ambtenaar openbare orde en veiligheid
+0204001,BRW,Alkmaar Centrum,Kazernecoordinator
+0204002,BRW,Koedijk,Kazernecoordinator
+0204003,BRW,Graft-de-Rijp,Kazernecoordinator
+0204005,BRW,Stompetoren,Kazernecoordinator
+0204006,BRW,Castricum,Kazernecoordinator
+0204007,BRW,Akersloot,Kazernecoordinator
+0204008,BRW,Limmen,Kazernecoordinator
+0204010,BRW,Bergen,Kazernecoordinator
+0204011,BRW,Schoorl,Kazernecoordinator
+0204012,BRW,Groet,Kazernecoordinator
+0204013,BRW,Egmond aan Zee,Kazernecoordinator
+0204014,BRW,Heiloo,Kazernecoordinator
+0204041,BRW,Alkmaar,Coordinator Verzorgingsploeg
+0204101,BRW,Alkmaar-Centrum,Bezetting TS Beroeps
+0204102,BRW,Koedijk,Bezetting TS
+0204103,BRW,De Rijp,Bezetting TS
+0204105,BRW,Stompetoren,Bezetting TS
+0204106,BRW,Castricum,Bezetting TS
+0204107,BRW,Akersloot,Bezetting TS
+0204108,BRW,Limmen,Bezetting TS
+0204110,BRW,Bergen,Bezetting TS
+0204111,BRW,Schoorl,Bezetting TS
+0204112,BRW,Groet,Bezetting TS
+0204113,BRW,Egmond aan Zee,Bezetting TS
+0204114,BRW,Heiloo,Bezetting TS
+0204121,BRW,Alkmaar-Centrum,Bezetting TS Vrijwilligers
+0204123,BRW,De Rijp,Bezetting SI
+0204130,BRW,Bergen,Dagdienst
+0204131,BRW,Schoorl,Dagdienst
+0204133,BRW,Egmond aan Zee,Dagdienst
+0204361,BRW,Alkmaar-Centrum,Lichtkrant
+0204362,BRW,Koedijk,Lichtkrant
+0204363,BRW,De Rijp,Lichtkrant
+0204365,BRW,Stompetoren,Lichtkrant
+0204366,BRW,Castricum,Lichtkrant
+0204367,BRW,Akkersloot,Lichtkrant
+0204368,BRW,Limmen,Lichtkrant
+0204370,BRW,Bergen,Lichtkrant
+0204371,BRW,Schoorl,Lichtkrant
+0204372,BRW,Groet,Lichtkrant
+0204373,BRW,Egmond aan Zee,Lichtkrant
+0204374,BRW,Heiloo,Lichtkrant
+0204401,BRW,Den Helder,Kazernecoordinator
+0204402,BRW,Julianadorp,Kazernecoordinator
+0204403,BRW,Wieringerwerf,Kazernecoordinator
+0204404,BRW,Anna Paulowna,Kazernecoordinator
+0204405,BRW,Breezand,Kazernecoordinator
+0204406,BRW,Den Oever,Kazernecoordinator
+0204407,BRW,Hippolytushoef,Kazernecoordinator
+0204408,BRW,Middenmeer,Kazernecoordinator
+0204409,BRW,Slootdorp,Kazernecoordinator
+0204410,BRW,Anna Paulowna,Kazernecoordinator
+0204411,BRW,Winkel,Kazernecoordinator
+0204412,BRW,Den Burg,Kazernecoordinator
+0204413,BRW,De Cocksdorp,Kazernecoordinator
+0204439,BRW,Korps Marine Brandweer,Sectie Nieuwe Haven Den Helder Piket Officier
+0204472,BRW,Texel,Staatsbosbeheer
+0204501,BRW,Den Helder,Bezetting TS Beroeps
+0204502,BRW,Julianadorp,Bezetting TS
+0204503,BRW,Wieringerwerf,Bezetting TS
+0204504,BRW,Anna Paulowna,Bezetting TS
+0204505,BRW,Breezand,Bezetting TS
+0204506,BRW,Den Oever,Bezetting TS
+0204507,BRW,Hippolytushoef,Bezetting TS
+0204508,BRW,Middenmeer,Bezetting TS
+0204509,BRW,Slootdorp,Bezetting TS
+0204510,BRW,Wieringerwaard,Bezetting TS
+0204511,BRW,Winkel,Bezetting TS
+0204512,BRW,Den Burg,Bezetting TS
+0204513,BRW,De Cocksdorp,Bezetting TS
+0204518,BRW,Texel,Texels Eigen Stoomboot Onderneming (Patientenvervoer)
+0204519,BRW,Korps Marinebrandweer Den Helder,Sectie Nieuwe Haven (Kazernealarm + Bezetting TS)
+0204521,BRW,Den Helder,Bezetting TS Vrijwilligers
+0204532,BRW,Den Burg,Bezetting TST-NB
+0204801,BRW,Heerhugowaard-Centrum,Kazernecoordinator ANW Ploeg
+0204802,BRW,Heerhugowaard De Noord,Kazernecoordinator
+0204803,BRW,Schagen,Kazernecoordinator
+0204804,BRW,Callantsoog,Kazernecoordinator
+0204805,BRW,Dirkshorn,Kazernecoordinator
+0204806,BRW,Schagerbrug,Kazernecoordinator
+0204807,BRW,Harenkarspel,Kazernecoordinator
+0204808,BRW,Avenhorn,Kazernecoordinator
+0204809,BRW,Berkhout,Kazernecoordinator
+0204810,BRW,Obdam,Kazernecoordinator
+0204811,BRW,Ursem,Kazernecoordinator
+0204812,BRW,Zuid-Scharwoude,Kazernecoordinator
+0204813,BRW,Noord-Scharwoude,Kazernecoordinator
+0204814,BRW,Opmeer,Kazernecoordinator
+0204821,BRW,Heerhugowaard-Centrum,Kazernecoordinator Dagdienst Ploeg
+0204901,BRW,Heerhugowaard-Centrum,Bezetting TS ANW
+0204902,BRW,Heerhugowaard De Noord,Bezetting TS
+0204903,BRW,Schagen,Bezetting TS
+0204904,BRW,Callantsoog,Bezetting TS
+0204905,BRW,Dirkshorn,Bezetting TS
+0204906,BRW,Schagerbrug,Bezetting TS
+0204907,BRW,Warmenhuizen,Bezetting TS
+0204908,BRW,Avenhorn,Bezetting TS
+0204909,BRW,Berkhout,Bezetting TS
+0204910,BRW,Obdam,Bezetting TS
+0204911,BRW,Ursem,Bezetting TS
+0204912,BRW,Zuid-Scharwoude,Bezetting TS
+0204913,BRW,Noord-Scharwoude,Bezetting TS
+0204914,BRW,Opmeer,Bezetting TS
+0204921,BRW,Heerhugowaard-Centrum,Bezetting TS dagdienst
+0204941,BRW,Heerhugowaard-Centrum,Bezetting 2e TS
+0205061,BRW,Middenmeer,Brug bediening Schagerbrug N248
+0205161,BRW,Heerhugowaard-Centrum,Lichtkrant
+0205162,BRW,Heerhugowaard De Noord,Lichtkrant
+0205172,BRW,Zuid-Scharwoude,Lichtkrant
+0205173,BRW,Noord-Scharwoude,Lichtkrant
+0205201,BRW,Hoorn,Kazernecoordinator ANW Ploeg
+0205202,BRW,Blokker,Kazernecoordinator
+0205203,BRW,Zwaag,Kazernecoordinator
+0205204,BRW,Medenblik,Kazernecoordinator
+0205205,BRW,Abbekerk,Kazernecoordinator
+0205206,BRW,Andijk,Kazernecoordinator
+0205207,BRW,Nibbixwoud,Kazernecoordinator
+0205208,BRW,Wervershoof,Kazernecoordinator
+0205209,BRW,Wognum,Kazernecoordinator
+0205210,BRW,Bovenkarspel,Kazernecoordinator
+0205211,BRW,Hen/Venhuizen,Kazernecoordinator
+0205212,BRW,Westwoud,Kazernecoordinator
+0205213,BRW,Enkhuizen,Kazernecoordinator
+0205221,BRW,Hoorn,Kazernecoordinator Dagdienst Ploeg
+0205301,BRW,Hoorn,Bezetting TS - ANW Ploeg
+0205302,BRW,Blokker,Bezetting TS - ANW Ploeg
+0205303,BRW,Zwaag,Bezetting TS - ANW Ploeg
+0205304,BRW,Medenblik,Bezetting TS
+0205305,BRW,Abbekerk,Bezetting TS
+0205306,BRW,Andijk,Bezetting TS
+0205307,BRW,Nibbixwoud,Bezetting TS
+0205308,BRW,Wervershoof,Bezetting TS
+0205309,BRW,Wognum,Bezetting TS
+0205310,BRW,Bovenkarspel,Bezetting TS
+0205311,BRW,Hen/Venhuizen,Bezetting TS
+0205312,BRW,Westwoud,Bezetting TS
+0205313,BRW,Enkhuizen,Bezetting TS
+0205321,BRW,Hoorn,Bezetting TS dagdienst
+0205323,BRW,Zwaag,Bezetting TS dagdienst
+0205563,BRW,Zwaag,Lichtkrant
+0205564,BRW,Medenblik,Lichtkrant
+0205565,BRW,Abbekerk,Lichtkrant
+0205566,BRW,Andijk,Lichtkrant
+0205567,BRW,Nibbixwoud,Lichtkrant
+0205568,BRW,Wervershoof,Lichtkrant
+0205569,BRW,Wognum,Lichtkrant
+0205570,BRW,Bovenkarspel,Lichtkrant
+0205571,BRW,Hen/Venhuizen,Lichtkrant
+0205572,BRW,Westwoud,Lichtkrant
+0205573,BRW,Enkhuizen,Lichtkrant
+0205601,BRW,Regionaal,CoPI (GRIP 1)
+0205602,BRW,Regionaal,CoPI (GRIP 2)
+0205613,BRW,Regionaal,Omgevingsdienst Oost Milieupiket
+0205614,BRW,Regionaal,Omgevingsdienst West Milieupiket
+0205615,BRW,Regionaal,Omgevingsdienst Oost
+0205616,BRW,Regionaal,Omgevingsdienst West
+0205617,BRW,Regionaal,Piket ICT
+0205620,BRW,Regionaal,Directeur van Dienst
+0205621,BRW,Regionaal,Piket Operationeel Leider
+0205622,BRW,Regionaal,Stafsectie Brandweerzorg
+0205623,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0205625,BRW,Regionaal,Voorlichter van Dienst
+0205627,BRW,Regionaal,Team Brandonderzoek
+0205628,BRW,Regionaal,Informatiemanager CoPI
+0205629,BRW,Regionaal,Informatiemanager Bevolkingszorg
+0205630,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+0205632,BRW,Regionaal,GEO Informatie Manager CoPI
+0205636,BRW,Regionaal,Teammanager Regio Alkmaar
+0205637,BRW,Regionaal,Teammanager Noord
+0205639,BRW,Regionaal,Teammanager West-Friesland
+0205641,BRW,Regionaal,Leider CoPI West
+0205642,BRW,Regionaal,Leider CoPI Oost
+0205651,BRW,Regionaal,OvD (Texel)
+0205652,BRW,Regionaal,OvD (Noord)
+0205653,BRW,Regionaal,OvD (Centrum)
+0205654,BRW,Regionaal,OvD (Oost)
+0205655,BRW,Regionaal,OvD (Zuid)
+0205657,BRW,Regionaal,OvD Bevolkingszorg Oost
+0205658,BRW,Regionaal,OvD Bevolkingszorg West
+0205669,BRW,Regionaal,Coordinator Acute Herstelzorg
+0205674,BRW,Regionaal,Pelotonscommandant IBGS 600
+0205675,BRW,Regionaal,Pelotonscommandant Logistiek
+0205683,BRW,Dirkshorn,Verkenningseenheid
+0205684,BRW,Heiloo,Verkenningseenheid
+0205686,BRW,Westwoud,Verkenningseenheid
+0205687,BRW,Anna Paulowna,Verkenningseenheid
+0205688,BRW,Berkhout,Verkenningseenheid
+0205695,BRW,Regionaal,Adviseur Gevaarlijke Stoffen 10-6521
+0205696,BRW,Regionaal,Coordinator Verkenningseenheden
+0205701,BRW,Den Burg,Bemanning HA
+0205702,BRW,Den Helder,Transportploeg
+0205703,BRW,Winkel,Transportploeg
+0205704,BRW,Enkhuizen,Transportploeg
+0205705,BRW,Blokker,Transportploeg ANW
+0205706,BRW,Stompetoren,Bezetting HA
+0205707,BRW,Alkmaar Centrum,Transportploeg
+0205708,BRW,Zuid-Scharwoude,Bezetting HA
+0205711,BRW,Den Burg,Bezetting HW
+0205712,BRW,Den Helder,Bezetting HW
+0205713,BRW,Enkhuizen,Bezetting HW
+0205714,BRW,Hoorn,Bezetting HW ANW
+0205715,BRW,Heerhugowaard-Centrum,Bezetting HW
+0205716,BRW,Alkmaar Centrum,Bezetting HW
+0205721,BRW,Schagen,Bezetting HV-KR
+0205722,BRW,Wognum,Chauffeurs/Kraanbedieners HV-KR
+0205723,BRW,Alkmaar Centrum,Bezetting HV-KR
+0205725,BRW,Blokker,Bezetting HA Dagdienst Ploeg
+0205731,BRW,Hoorn,Duikploeg
+0205732,BRW,Heerhugowaard-Centrum,Duikploeg
+0205734,BRW,Hoorn,Bezetting HW Dagdienst
+0205740,BRW,Opmeer,Bezetting SB-BA
+0205741,BRW,Den Burg,Bezetting WT
+0205742,BRW,Egmond aan Zee,Bezetting WT
+0205764,BRW,Blokker,Ondersteuningsteam Grootschalige Watervoorziening
+0205771,BRW,Zuid-Scharwoude,Ondersteuningsteam Grootschalige Watervoorziening
+0205772,BRW,Den Helder,Ondersteuningsteam Grootschalige Watervoorziening
+0205773,BRW,Winkel,Ondersteuningsteam Grootschalige Watervoorziening
+0205774,BRW,Hoorn,Ondersteuningsteam Grootschalige Watervoorziening
+0205775,BRW,Koedijk,Ondersteuningsteam Grootschalige Watervoorziening
+0205776,BRW,Bovenkarspel,Ondersteuningsteam Grootschalige Watervoorziening
+0205777,BRW,Den Burg,Ondersteuningsteam Grootschalige Watervoorziening
+0205781,BRW,Den Helder,Opbouwploeg WTS
+0205782,BRW,Alkmaar Centrum,Bezetting HA + DPH-GW
+0205785,BRW,Den Burg,Opbouwploeg WTS
+0205786,BRW,Winkel,Opbouwploeg WTS
+0205787,BRW,Bovenkarspel,Bezetting HA + DPH-GW
+0205788,BRW,Blokker,Bezetting HA + DPH-GW
+0205789,BRW,Zuid-Scharwoude,Bezetting HA + DPH-GW
+0205799,BRW,Zuid-Scharwoude,Bemanning HA/SO
+0205805,BRW,Stompetoren,Adembeschermingshaakarmbak
+0205807,BRW,Den Helder,Schuimblus container haakarmbak
+0205814,BRW,Obdam,Bezetting MCU
+0205821,BRW,Alkmaar Centrum,Verzorgingsploeg
+0205829,BRW,Regionaal,Piket Technische Dienst
+0205830,BRW,Texel,Ademlucht- en Arbeidshygienedienst
+0205831,BRW,Team Noordkop,Ademlucht- en Arbeidshygienedienst
+0205832,BRW,Team Westfriesland,Ademlucht- en Arbeidshygienedienst
+0205833,BRW,Team Alkmaar,Ademlucht- en Arbeidshygienedienst
+0205837,BRW,Alkmaar,Plotters
+0205861,BRW,Zuid-Scharwoude,Schippers Brandweer Vaartuig (BRV)
+0205862,BRW,Akersloot,Brandweer Vaartuig (BRV)
+0205881,BRW,Den Burg,Natuurbrandverkenners
+0205883,BRW,Bergen,Natuurbrandverkenners
+0205884,BRW,Castricum,Natuurbrandverkenners
+0205885,BRW,Egmond aan Zee,Natuurbrandverkenners
+0205886,BRW,Schoorl,Natuurbrandverkenners
+0205887,BRW,Den Helder,Natuurbrandverkenners
+0205888,BRW,Callantsoog,Natuurbrandverkenners
+0205892,BRW,Den Helder,Bezetting SAA
+0205896,BRW,Team Alkmaar,Monitor
+0220000,AMBU,MKA,Proefalarm
+0220101,AMBU,Regionaal,Ambulance 10-101
+0220102,AMBU,Regionaal,Ambulance 10-102
+0220103,AMBU,Regionaal,Ambulance 10-103
+0220104,AMBU,Regionaal,Ambulance 10-104
+0220105,AMBU,Regionaal,Ambulance 10-105
+0220106,AMBU,Regionaal,Ambulance 10-106
+0220107,AMBU,Regionaal,Ambulance 10-107
+0220108,AMBU,Regionaal,Ambulance 10-108
+0220109,AMBU,Regionaal,Ambulance 10-109
+0220110,AMBU,Regionaal,Ambulance 10-110
+0220111,AMBU,Regionaal,Ambulance 10-111
+0220112,AMBU,Regionaal,Ambulance 10-112
+0220113,AMBU,Regionaal,Ambulance 10-113
+0220114,AMBU,Regionaal,Ambulance 10-114
+0220115,AMBU,Regionaal,Ambulance 10-115
+0220116,AMBU,Regionaal,Ambulance 10-116
+0220117,AMBU,Regionaal,Ambulance 10-117
+0220118,AMBU,Regionaal,Ambulance 10-118
+0220119,AMBU,Regionaal,Ambulance 10-119
+0220180,AMBU,Regionaal,Ambulance 10-180
+0220181,AMBU,Regionaal,Ambulance 10-181
+0220182,AMBU,Regionaal,Ambulance 10-182
+0220183,AMBU,Regionaal,Ambulance 10-183
+0220184,AMBU,Regionaal,Ambulance 10-184
+0220185,AMBU,Regionaal,Ambulance 10-185
+0220186,AMBU,Regionaal,Ambulance 10-186
+0220187,AMBU,Regionaal,Ambulance 10-187
+0220188,AMBU,Regionaal,Ambulance 10-188
+0220189,AMBU,Regionaal,Ambulance 10-189
+0220190,AMBU,Regionaal,Ambulance 10-190
+0220191,AMBU,Regionaal,Ambulance 10-191
+0220192,AMBU,Regionaal,Ambulance 10-192
+0220201,AMBU,Regionaal,Middencomplexe zorg 10-201
+0220202,AMBU,Regionaal,Middencomplexe zorg 10-202
+0220211,AMBU,Regionaal,Middencomplexe zorg 10-211
+0220212,AMBU,Regionaal,Middencomplexe zorg 10-212
+0220270,AMBU,Regionaal,Middencomplexe zorg 10-270
+0220271,AMBU,Regionaal,Middencomplexe zorg 10-271
+0220272,AMBU,Regionaal,Middencomplexe zorg 10-272
+0220280,AMBU,Regionaal,Middencomplexe zorg 10-280
+0220281,AMBU,Regionaal,Middencomplexe zorg 10-281
+0220294,AMBU,Dutch Medical Group,Zwaarlijvigen Vervoer Ambulance 10-294
+0220295,AMBU,Dutch Medical Group,Middencomplexe zorg 10-295
+0220340,AMBU,Regionaal,Rapid Responder (10-340)
+0220341,AMBU,Regionaal,Rapid Responder (10-341)
+0220342,AMBU,Regionaal,Rapid Responder (10-342)
+0220343,AMBU,Regionaal,Rapid Responder (10-343)
+0220344,AMBU,Regionaal,Rapid Responder (10-344)
+0220345,AMBU,Regionaal,Rapid Responder (10-345)
+0220431,AMBU,Regionaal,Laagcomplexe zorg 10-431
+0220432,AMBU,Regionaal,Laagcomplexe zorg 10-432
+0220433,AMBU,Regionaal,Laagcomplexe zorg 10-433
+0220434,AMBU,Regionaal,Laagcomplexe zorg 10-434
+0220731,AMBU,Regionaal,Broeder de Vries Doktersdiensten (HAP Ambulance 10-701)
+0220732,AMBU,Regionaal,Broeder de Vries Doktersdiensten (HAP Ambulance 10-702)
+0220735,AMBU,Regionaal,Broeder de Vries Doktersdiensten (HAP Ambulance 10-705)
+0220741,AMBU,Regionaal,Achterwacht Ambulancezorg
+0220742,AMBU,Regionaal,Achterwacht Witte kruis
+0220800,AMBU,GHOR Noord-Holland Noord,OvD-G
+0220810,AMBU,GHOR Noord-Holland Noord,OvD-G 10-810
+0220811,AMBU,GHOR Noord-Holland Noord,OvD-G 10-811
+0220812,AMBU,GHOR Noord-Holland Noord,OvD-G 10-812
+0220813,AMBU,GHOR Noord-Holland Noord,OvD-G 10-813
+0220814,AMBU,GHOR Noord-Holland Noord,OvD-G 10-814
+0220815,AMBU,GHOR Noord-Holland Noord,OvD-G 10-815
+0220831,AMBU,Regionaal,NRK Noodhulp-Team
+0220832,AMBU,Regionaal,NRK Noodhulp-Team UGS Schagerbrug
+0220833,AMBU,Regionaal,NRK Noodhulp-Team Hoorn
+0220834,AMBU,Regionaal,NRK Noodhulp-Team UGS Den Burg Texel
+0220841,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg
+0220856,AMBU,Regionaal,Hoofd Actie Centrum
+0220857,AMBU,Regionaal,Operationeel Medewerker Actie Centrum
+0220889,AMBU,Regionaal,Infocode OvD-G Noord-Holland Noord
+0220899,AMBU,Regionaal,Monitor GHOR
+0220998,AMBU,Meldkamer Ambulancezorg,Info Dienstdoende Ambulance`s - Rapid Responders- OvD-G`s
+0220999,AMBU,Meldkamer Ambulancezorg,Monitor
+0136091,POL,OCP,BHV inzet OC
+0136999,POL,OCP,Monitor
+0230106,POL,Regionaal,Funcionaris GBT Gemeentelijk Beleids team
+0230111,POL,Regionaal,Funcionaris CMT Crisismanagement team
+0230116,POL,Regionaal,Funcionaris ROT Regionaal Operatrioneel team

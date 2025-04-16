@@ -1,0 +1,157 @@
+capcode,discipline,locatie/divisie,beschrijving
+0703000,BRW,Huizen Eemlandweg,Bezetting HW
+0703001,BRW,Huizen Eemlandweg,Bezetting TS Dagdienst
+0703002,BRW,Huizen Bovenmaatweg,Bezetting TS ANW
+0703003,BRW,Huizen Eemlandweg,Bezetting TS ANW
+0703004,BRW,Huizen Eemlandweg,Bezetting HA
+0703005,BRW,Huizen Eemlandweg,Verkenningseenheid
+0703006,BRW,Huizen Bovenmaatweg,Bezetting HW
+0703010,BRW,Huizen Eemlandweg,Bevelvoerder van Dienst (Dagdienst)
+0703011,BRW,Huizen Eemlandweg,Bevelvoerder van Dienst ANW
+0703012,BRW,Huizen Bovenmaatweg,Bevelvoerder van Dienst ANW
+0703029,KNRM,Reddingstation Huizen,Bemanning Reddingboot Nikolaas Wijsenbeek
+0703052,BRW,Blaricum,Bevelvoerder van Dienst
+0703055,BRW,Blaricum,Postalarm
+0703103,BRW,Laren,Bevelvoerder van Dienst
+0703104,BRW,Laren,Bezetting DVT-Patiëntenvervoer
+0703105,BRW,Laren,Bezetting HA + SBH
+0703106,BRW,Regionaal,Team Brandonderzoek (TBO)
+0703107,BRW,Laren,Bezetting Specialistische Voertuigen
+0703109,BRW,Laren,Postalarm
+0703153,BRW,Hilversum,Bevelvoerder van Dienst
+0703154,BRW,Hilversum,Ondersteuningsgroep
+0703160,BRW,Flevoland/Gooi en Vechtstreek,Functionaris Logistiek (Infocode)
+0703161,BRW,Flevoland/Gooi en Vechtstreek,Functionaris Logistiek) (Alarmcode)
+0703164,BRW,Hilversum,Logistiek & Ondersteuning
+0703165,BRW,Hilversum,Chauffeurs QRT
+0703170,BRW,Hilversum,Piket Bezetting Logistiek
+0703171,BRW,Hilversum,Kazernealarm
+0703200,BRW,Loosdrecht,Ploeg 1
+0703201,BRW,Loosdrecht,Ploeg 2
+0703203,BRW,Loosdrecht,Bevelvoerder van Dienst
+0703204,BRW,Loosdrecht,Chauffeurs
+0703205,BRW,Loosdrecht,Schippers
+0703212,BRW,Loosdrecht,Postalarm
+0703214,BRW,Loosdrecht,Bezetting BRV-M
+0703215,BRW,'s-Graveland,Ploeg 1
+0703216,BRW,'s-Graveland,Ploeg 2
+0703218,BRW,'s-Graveland,Bevelvoerder van Dienst
+0703219,BRW,'s-Graveland,Chauffeurs
+0703220,BRW,'s-Graveland,Schipper
+0703223,BRW,'s-Graveland,Kinderopvang
+0703229,BRW,Nederhorst den Berg,Ploeg 1
+0703230,BRW,Nederhorst den Berg,Ploeg 2
+0703232,BRW,Nederhorst den Berg,Bevelvoerder van Dienst
+0703233,BRW,Nederhorst den Berg,Chauffeurs
+0703234,BRW,Nederhorst den Berg,Schippers
+0703237,BRW,Nederhorst den Berg,Kinderopvang
+0703239,BRW,Nederhorst den Berg,First Responders
+0703250,BRW,Bussum,Ploeg 1
+0703251,BRW,Bussum,Chauffeurs Ploeg 1
+0703252,BRW,Bussum,Ploeg 2
+0703253,BRW,Bussum,Chauffeurs Ploeg 2
+0703254,BRW,Bussum,Ploeg 3
+0703256,BRW,Bussum,Bevelvoerder van Dienst
+0703257,BRW,Bussum,Chauffeurs Ploeg 3
+0703258,BRW,Bussum,Dienstwisselcode TS
+0703259,BRW,Bussum,Dienstwisselcode Chauffeurs
+0703266,BRW,Bussum,Postalarm
+0703302,BRW,Naarden,Bevelvoerder van Dienst
+0703303,BRW,Naarden,Chauffeurs
+0703304,BRW,Naarden,Bezetting BRV
+0703310,BRW,Naarden,Postalarm
+0703351,BRW,Muiden,Postalarm
+0703352,BRW,Muiderberg,Postalarm
+0703354,BRW,Muiden,Bevelvoerder van Dienst
+0703355,BRW,Muiderberg,Bevelvoerder van Dienst
+0703450,BRW,Flevoland/Gooi en Vechtstreek,Reserve OvD (Alarmcode)
+0703451,BRW,Flevoland/Gooi en Vechtstreek,OvD Zuid (Alarmcode)
+0703452,BRW,Flevoland/Gooi en Vechtstreek,OvD`s (Groepscode)
+0703453,BRW,Flevoland/Gooi en Vechtstreek,HOvD/TCB (Alarmcode)
+0703455,BRW,Flevoland/Gooi en Vechtstreek,Informatiemanager CoPI
+0703456,BRW,MKB Flevoland/Gooi en Vechtstreek,Piket Centralisten
+0703457,BRW,GMK Flevoland/Gooi en Vechtstreek,Calamiteitencoordinator (Infocode)
+0703458,BRW,GMK Flevoland/Gooi en Vechtstreek,Calamiteitencoordinator (Alarmcode)
+0703459,BRW,BRW Flevoland/Gooi en Vechtstreek,HOvD/TCB (Infocode)
+0703461,BRW,Regionaal,Catering
+0703481,BRW,Regionaal,Duikploegleider
+0703483,BRW,'s-Graveland,Verzorgingsploeg
+0703485,BRW,Regionaal,Voorlichting (Infocode)
+0703486,BRW,BRW Flevoland/Gooi en Vechtstreek,Reserve OvD (Infocode)
+0703487,BRW,BRW Flevoland/Gooi en Vechtstreek,OvD Zuid (Infocode)
+0703489,BRW,Regionaal,Technische dienst
+0703490,BRW,Nederhorst den Berg,Duikploeg
+0703494,BRW,Regionaal,Coordinator Verkenningseenheden
+0703497,BRW,BRW Flevoland/Gooi en Vechtstreek,Team Digitale Verkenning Teamleider
+0703498,BRW,BRW Flevoland/Gooi en Vechtstreek,Team Digitale Verkenning Teamleden
+0703500,BRW,Regionaal,OvD-Bevolkingszorg (Alarmcode)
+0703501,BRW,Regionaal,OvD-Bevolkingszorg (Infocode)
+0703505,BRW,Regionaal,Logboekschrijvers
+0703901,BRW,Huizen Eemlandweg,Lichtkrant
+0703902,BRW,Blaricum,Lichtkrant
+0703903,BRW,Laren,Lichtkrant
+0703904,BRW,Hilversum,Lichtkrant
+0703905,BRW,Loosdrecht,Lichtkrant
+0703906,BRW,'s-Graveland,Lichtkrant
+0703907,BRW,Nederhorst den Berg,Lichtkrant
+0703908,BRW,Bussum,Lichtkrant
+0703909,BRW,Naarden,Lichtkrant
+0703910,BRW,Muiden,Lichtkrant
+0703911,BRW,Muiderberg,Lichtkrant
+0703912,BRW,Huizen Bovenmaat,Lichtkrant
+0703924,BRW,Regionaal,TCO Coordinator
+0703925,BRW,Regionaal,Vrije Instroom
+0703999,BRW,GMK Gooi en Vechtstreek,Proefalarm
+0704137,BRW,Blaricum,Persoonlijkecode
+0704213,BRW,Laren,Postcommandant
+0704218,BRW,Laren,Persoonlijkecode
+0704303,BRW,Hilversum,Centralist Persoonlijkecode
+0704348,BRW,GMK,Beheer GMS
+0704358,BRW,Hilversum,Persoonlijkecode
+0704460,BRW,GMK,Piketcentralist
+0704599,BRW,Naarden,Brugwachters
+0704600,BRW,Muiden - Muidenberg,Persoonlijk
+0704619,BRW,Muiden - Muidenberg,Persoonlijk
+0704633,BRW,Muiden,Brugwachter Groote Zeesluis
+0704636,BRW,Muiden,Brugwachter Spieringbrug
+0704652,BRW,Weesp,Persoonlijkecode
+0704715,BRW,Regionaal,Persoonlijkecode
+0704716,BRW,Regionaal,Persoonlijkecode
+0704720,BRW,Regionaal,Persoonlijkecode
+0704726,BRW,Regionaal,Persoonlijke code OvD-B
+0704739,BRW,GMK,Beheer OMS
+0704997,BRW,Regionaal,Boswachter Goois Natuurreservaat
+0704998,BRW,MKB Flevoland/Gooi en Vechtstreek,Alarmcode Meldkamer Bergingsdienst
+0704999,BRW,GMK,Lichtkrant
+0723002,AMBU,GHOR Gooi en Vechtstreek,OvD-G
+0723010,AMBU,MKA Gooi en Vechtstreek,Proefalarm RAV - GHOR
+0723011,AMBU,MKA Flevoland/Gooi en Vechtstreek,Infocode GRIP 1
+0723012,AMBU,MKA Flevoland/Gooi en Vechtstreek,Infocode GRIP 2
+0723013,AMBU,MKA Flevoland/Gooi en Vechtstreek,Infocode GRIP 3
+0723014,AMBU,MKA Flevoland/Gooi en Vechtstreek,Infocode GRIP 4
+0723083,AMBU,Gooi&Vechtstreek,Ambulance 14-183
+0723084,AMBU,Gooi&Vechtstreek,Ambulance 14-184
+0723085,AMBU,Gooi&Vechtstreek,Ambulance 14-185
+0723086,AMBU,Gooi&Vechtstreek,Ambulance 14-186
+0723087,AMBU,Gooi&Vechtstreek,Ambulance 14-187
+0723088,AMBU,Gooi&Vechtstreek,Ambulance 14-188
+0723089,AMBU,Gooi&Vechtstreek,Ambulance 14-189
+0723092,AMBU,Gooi&Vechtstreek,Ambulance 14-192
+0723159,AMBU,Gooi&Vechtstreek,Middencomplexe zorg 14-211
+0723190,AMBU,Gooi&Vechtstreek,Ambulance 14-190
+0723191,AMBU,Gooi&Vechtstreek,Ambulance 14-191
+0723192,AMBU,Gooi&Vechtstreek,Ambulance 14-192
+0723193,AMBU,Gooi&Vechtstreek,Ambulance 14-193
+0723213,AMBU,Gooi&Vechtstreek,Middencomplexe zorg 14-213
+0723214,AMBU,Gooi&Vechtstreek,Middencomplexe zorg 14-214
+0723215,AMBU,Gooi&Vechtstreek,Middencomplexe zorg 14-215
+0723381,AMBU,Gooi&Vechtstreek,OvD-G-Rapid Responder 14-381
+0723382,AMBU,Gooi&Vechtstreek,OvD-G-Rapid Responder 14-382
+0723412,AMBU,Gooi&Vechtstreek,Middencomplexe zorg 14-212
+0723800,AMBU,MKA Gooi&Vechtstreek/Flevoland,Info alle Ambulances
+0723901,AMBU,Gooi&Vechtstreek,Noodhulpteam - UGS 1
+0723902,AMBU,Gooi&Vechtstreek,Noodhulpteam - UGS 2
+0723904,AMBU,Gooi&Vechtstreek,Noodhulpteam - UGS 4
+0723913,AMBU,Gooi&Vechtstreek,Noodhulpteam - Monitor
+0733401,POL,Politie Eenheid Midden-Nederland,Mediadesk Gooi en Vechtstreek
+0733404,POL,OC-P,Persinformatie

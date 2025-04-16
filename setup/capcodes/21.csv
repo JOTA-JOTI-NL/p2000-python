@@ -1,0 +1,790 @@
+capcode,discipline,locatie/divisie,beschrijving
+1100000,BRW,GMK Oost-Brabant,Beheer
+1100016,BRW,Regionaal,IM-CoPI/OIV (Persoonlijk)
+1100017,BRW,Regionaal,Persoonlijkecode
+1100027,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100100,BRW,Regionaal,Proefalarm Centralisten
+1100101,BRW,Regionaal,Centralisten
+1100108,BRW,Regionaal,AGS (Persoonlijkecode)
+1100116,BRW,MKB Oost-Brabant,Monitorcode Centralisten Brabant-Noord
+1100164,BRW,Regionaal,Officier Defensie (Persoonlijk)
+1100165,BRW,Regionaal,Officier Defensie (Persoonlijk)
+1100166,BRW,Regionaal,Officier Defensie (Persoonlijk)
+1100167,BRW,Regionaal,Officier Defensie (Persoonlijk)
+1100168,BRW,Regionaal,Officier Defensie (Persoonlijk)
+1100169,BRW,Regionaal,Informatiemanager-CoPI/Operationele Informatie Voorziening (Persoonlijk)
+1100170,BRW,Regionaal,Officieren informatie voorziening
+1100171,BRW,Regionaal,Officieren informatie voorziening
+1100175,BRW,Regionaal,Informatiemanager-CoPI/Operationele Informatie Voorziening (Persoonlijk)
+1100176,BRW,Regionaal,Officieren informatie voorziening
+1100179,BRW,Regionaal,Officier Defensie (Persoonlijk)
+1100181,BRW,Regionaal,Informatiemanager-CoPI/Operationele Informatie Voorziening (Persoonlijk)
+1100182,BRW,Regionaal,Informatiemanager-CoPI/Operationele Informatie Voorziening (Persoonlijk)
+1100191,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100192,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100193,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100194,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100195,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100196,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100197,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1100381,BRW,Regionaal,Persoonlijkecode
+1100612,BRW,Regionaal,Persoonlijkecode
+1100617,BRW,Regionaal,Informatiemanager-CoPI/Operationele Informatie Voorziening (Persoonlijk)
+1100619,BRW,Regionaal,Persoonlijkecode
+1100631,BRW,Regionaal,Persoonlijkecode
+1100635,BRW,Regionaal,Persoonlijkecode
+1100642,BRW,Regionaal,Persoonlijkecode
+1100806,BRW,Regionaal,Ondersteuningsteam (Persoonlijke code)
+1101017,BRW,Regionaal,Persoonlijkecode
+1101056,BRW,Regionaal,TCO (Persoonlijkecode)
+1101181,BRW,Regionaal,Persoonlijkecode
+1101215,BRW,Regionaal,Persoonlijkecode
+1101268,BRW,Regionaal,Persoonlijkecode
+1101306,BRW,Regionaal,TCO (Persoonlijkecode)
+1101354,BRW,Regionaal,TCO (Persoonlijkecode)
+1101362,BRW,Regionaal,Persoonlijkecode
+1101553,BRW,Regionaal,Persoonlijkecode
+1101676,BRW,Regionaal,Persoonlijkecode
+1101756,BRW,Regionaal,Persoonlijkecode
+1101757,BRW,Regionaal,Persoonlijkecode
+1101811,BRW,Regionaal,Persoonlijkecode
+1101815,BRW,Regionaal,Persoonlijkecode
+1101851,BRW,Regionaal,Persoonlijkecode
+1101909,BRW,Regionaal,Persoonlijkecode
+1101970,BRW,Regionaal,Persoonlijkecode
+1101985,BRW,Regionaal,Persoonlijkecode
+1102051,BRW,Regionaal,Persoonlijkecode
+1102102,BRW,Regionaal,TCO (Persoonlijkecode)
+1102113,BRW,Regionaal,Persoonlijkecode
+1102132,BRW,Regionaal,Persoonlijkecode
+1102165,BRW,Regionaal,Persoonlijkecode
+1102176,BRW,Regionaal,Persoonlijkecode
+1102201,BRW,Regionaal,Informatiemanager-CoPI/Operationele Informatie Voorziening (Persoonlijk)
+1102477,BRW,Regionaal,Persoonlijkecode
+1102566,BRW,Regionaal,Persoonlijkecode
+1102613,BRW,Regionaal,Persoonlijkecode
+1102653,BRW,Regionaal,Persoonlijkecode
+1102702,BRW,Regionaal,TCO (Persoonlijkecode)
+1103000,BRW,GMK Oost-Brabant,Beheer
+1130000,BRW,GMK Oost-Brabant,Beheer
+1140000,BRW,GMK Oost-Brabant,Beheer
+1150000,BRW,GMK Oost-Brabant,Beheer
+1160000,BRW,GMK Oost-Brabant,Beheer
+1160201,BRW,Berghem,PreCom Telling 1e TS
+1160251,BRW,Berlicum,PreCom Telling 1e TS
+1160263,BRW,Berlicum,PreCom Telling VI
+1160301,BRW,Boekel,PreCom Telling 1e TS
+1160313,BRW,Boekel,PreCom Telling VI
+1160351,BRW,Boxmeer,PreCom Telling 1e TS
+1160352,BRW,Boxmeer,PreCom Telling 2e TS
+1160357,BRW,Boxmeer,PreCom Telling HV
+1160401,BRW,Boxtel,PreCom Telling 1e TS
+1160402,BRW,Boxtel,PreCom Telling 2e TS
+1160407,BRW,Boxtel,PreCom Telling VK-GS
+1160451,BRW,Cuijk,PreCom Telling 1e TS
+1160452,BRW,Cuijk,PreCom Telling 2e TS
+1160454,BRW,Cuijk,PreCom Telling HW
+1160460,BRW,Cuijk,PreCom Telling OR
+1160462,BRW,Cuijk,PreCom Telling VKE
+1160501,BRW,Geffen,PreCom Telling 1e TS
+1160507,BRW,Geffen,PreCom Telling HV
+1160551,BRW,Grave,PreCom Telling 1e TS
+1160552,BRW,Grave,PreCom Telling 2e TS
+1160560,BRW,Grave,PreCom Telling BRV
+1160562,BRW,Grave,PreCom Telling VKE
+1160651,BRW,Haps,PreCom Telling 1e TS
+1160701,BRW,Heesch,PreCom Telling 1e TS
+1160705,BRW,Heesch,PreCom Telling WT
+1160751,BRW,Heeswijk-Dinther,PreCom Telling TS
+1160762,BRW,Heeswijk-Dinther,PreCom Telling VK-GS
+1160801,BRW,Helvoirt,PreCom Telling 1e TS
+1160805,BRW,Helvoirt,PreCom Telling WT
+1160901,BRW,s-Hertogenbosch,PreCom Telling 1e TS Vrijwilligers
+1160911,BRW,s-Hertogenbosch,PreCom Telling AH Vrijwilligers
+1160915,BRW,s-Hertogenbosch,PreCom Telling Herbezetting
+1160951,BRW,Liempde,PreCom Telling 1e TS
+1161001,BRW,Lith,PreCom Telling 1e TS
+1161010,BRW,Lith,PreCom Telling BRV
+1161051,BRW,Rosmalen,PreCom Telling 1e TS
+1161052,BRW,Rosmalen,PreCom Telling 2e TS
+1161058,BRW,Rosmalen,PreCom Telling HA
+1161059,BRW,Rosmalen,PreCom Telling GW
+1161101,BRW,Megen,PreCom Telling 1e TS
+1161115,BRW,Megen,PreCom Telling Hand Crew
+1161151,BRW,Mill,PreCom Telling 1e TS
+1161157,BRW,Mill,PreCom Telling HV
+1161161,BRW,Mill,PreCom Telling OR
+1161201,BRW,Nistelrode,PreCom Telling 1e TS
+1161214,BRW,Nistelrode,PreCom Telling Ondersteuners AH
+1161215,BRW,Nistelrode,PreCom Telling CO-MU
+1161251,BRW,Wanroij,PreCom Telling 1e TS
+1161256,BRW,Wanroij,PreCom Telling SBH
+1161258,BRW,Wanroij,PreCom Telling HA
+1161259,BRW,Wanroij,PreCom Telling GW
+1161301,BRW,Oeffelt,PreCom Telling 1e TS
+1161314,BRW,Oeffelt,PreCom Telling AH
+1161351,BRW,Sint Anthonis,PreCom Telling 1e TS
+1161355,BRW,Sint Anthonis,PreCom Telling WT
+1161401,BRW,Oss,PreCom Telling 1e TS
+1161402,BRW,Oss,PreCom Telling 2e TS
+1161404,BRW,Oss,PreCom Telling HW
+1161408,BRW,Oss,PreCom Telling HA
+1161412,BRW,Oss,PreCom Telling VKE
+1161416,BRW,Oss,PreCom Telling ABH
+1161451,BRW,Ravenstein,PreCom Telling 1e TS
+1161501,BRW,Zeeland,PreCom Telling 1e TS
+1161509,BRW,Zeeland,PreCom Telling GW
+1161551,BRW,Schaijk,PreCom Telling 1e TS
+1161557,BRW,Schaijk,PreCom Telling HV
+1161601,BRW,Schijnel,PreCom Telling 1e TS
+1161602,BRW,Schijnel,PreCom Telling 2e TS
+1161605,BRW,Schijnel,PreCom Telling WT
+1161651,BRW,Sint-Michielsgestel,PreCom Telling 1e TS
+1161701,BRW,Sint-Oederode,PreCom Telling 1e TS
+1161707,BRW,Sint-Oederode,PreCom Telling HV
+1161751,BRW,Uden,PreCom Telling 1e TS
+1161752,BRW,Uden,PreCom Telling 2e TS
+1161754,BRW,Uden,PreCom Telling AL
+1161755,BRW,Uden,PreCom Telling WT
+1161801,BRW,Veghel,PreCom Telling 1e TS
+1161802,BRW,Veghel,PreCom Telling 2e TS
+1161804,BRW,Veghel,PreCom Telling HW
+1161808,BRW,Veghel,PreCom Telling HA
+1161812,BRW,Veghel,PreCom Telling VK-GS
+1161851,BRW,Vierlingsbeek,PreCom Telling 1e TS
+1161860,BRW,Vierlingsbeek,PreCom Telling OR
+1161901,BRW,Erp,PreCom Telling 1e TS
+1161915,BRW,Erp,PreCom Telling Verzorgingsploeg
+1161951,BRW,Vught,PreCom Telling 1e TS
+1161952,BRW,Vught,PreCom Telling 2e TS
+1161958,BRW,Vught,PreCom Telling HA
+1161965,BRW,Vught,PreCom Telling LIH
+1162001,BRW,Vlijmen,PreCom Telling 1e TS
+1162007,BRW,Vlijmen,PreCom Telling HV
+1162012,BRW,Vlijmen,PreCom Telling VKE
+1162051,BRW,Drunen,PreCom Telling 1e TS
+1162052,BRW,Drunen,PreCom Telling 2e TS
+1162065,BRW,Drunen,PreCom Telling DAT
+1162101,BRW,Heusden,PreCom Telling 1e TS
+1162110,BRW,Heusden,PreCom Telling OR
+1162151,BRW,Cromvoirt,PreCom Telling 1e TS
+1170000,BRW,GMK Oost-Brabant,Beheer
+1170001,BRW,Regio,Operationeel Leider ROT
+1170005,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1170006,BRW,Regio,OvD-Bevolkingszorg Regio
+1170007,BRW,Regio,OvD-Bevolkingszorg Den Bosch
+1170008,BRW,Regio,Mediapiket
+1170009,BRW,Regio,Communicatieadviseur CoPI
+1170010,BRW,Regionaal,Regionaal Militair Operationeel Adviseur
+1170011,BRW,Regionaal,OvD Noord
+1170012,BRW,Regionaal,OvD Noord (Aflossing)
+1170021,BRW,Regionaal,OvD Oost
+1170022,BRW,Regionaal,OvD Oost (Aflossing)
+1170031,BRW,Regionaal,OvD Zuid
+1170032,BRW,Regionaal,OvD Zuid (Aflossing)
+1170041,BRW,Regionaal,OvD West
+1170042,BRW,Regionaal,OvD West (Aflossing)
+1170050,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1170051,BRW,Regionaal,Coordinator Verkenningseenheden
+1170052,BRW,Regionaal,HOvD (Aflossing)
+1170061,BRW,Regionaal,HOvD Oost (Rol: Taakcommandant)
+1170062,BRW,Regionaal,HOvD West (Rol: Taakcommandant)
+1170071,BRW,Regionaal,HOvD/Leider CoPI
+1170072,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+1170073,BRW,Regionaal,HOvD/ACB Hoofd Bron- en Effectbestrijding
+1170081,BRW,Regio,Informatiemanager-CoPI/Operationele Informatie Voorziening (Piket)
+1170082,BRW,Regionaal,Tean Collegiale Ondersteuning
+1170083,BRW,Regionaal,Team Brandonderzoek
+1170084,BRW,GMK Oost-Brabant,Calamiteiten Coördinator
+1170085,BRW,GMK Oost-Brabant,Initieel Respons Team
+1170090,BRW,Regionaal,Teamleider Handcrew
+1170094,BRW,Regionaal,Calamiteitenteam A
+1170095,BRW,Regionaal,Calamiteitenteam B
+1170097,BRW,Regionaal,Infocode/Proefalarm Regiopersoneel
+1170200,BRW,Berghem,Bevelvoerder van Dienst
+1170201,BRW,Berghem,Postalarm
+1170205,BRW,Berghem,Postalarm
+1170247,BRW,Berghem,Infocode/Proefalarm
+1170248,BRW,Berghem,Noodalarmering
+1170249,BRW,Berghem,Monitorcode
+1170250,BRW,Berlicum,Bevelvoerder van Dienst
+1170251,BRW,Berlicum,Ploeg A
+1170252,BRW,Berlicum,Ploeg B
+1170255,BRW,Berlicum,Postalarm
+1170275,BRW,Berlicum,Postalarm Veetakelploeg
+1170297,BRW,Berlicum,Infocode/Proefalarm
+1170298,BRW,Berlicum,Noodalarmering
+1170299,BRW,Berlicum,Monitorcode
+1170300,BRW,Boekel,Bevelvoerder van Dienst
+1170305,BRW,Boekel,Postalarm
+1170325,BRW,Boekel,Postalarm Veetakelploeg
+1170347,BRW,Boekel,Infocode/Proefalarm
+1170348,BRW,Boekel,Noodalarmering
+1170349,BRW,Boekel,Monitorcode
+1170350,BRW,Boxmeer,Bevelvoerder van Dienst
+1170351,BRW,Boxmeer,Ploeg A
+1170352,BRW,Boxmeer,Ploeg B
+1170355,BRW,Boxmeer,Postalarm
+1170371,BRW,Boxmeer,Bezetting HV Ploeg A
+1170372,BRW,Boxmeer,Bezetting HV Ploeg B
+1170375,BRW,Boxmeer,Postalarm HV
+1170397,BRW,Boxmeer,Infocode/Proefalarm
+1170398,BRW,Boxmeer,Noodalarmering
+1170399,BRW,Boxmeer,Monitorcode
+1170400,BRW,Boxtel,Bevelvoerder van Dienst
+1170401,BRW,Boxtel,Ploeg A
+1170402,BRW,Boxtel,Ploeg B
+1170405,BRW,Boxtel,Postalarm
+1170441,BRW,Boxtel,Verkenningseenheid IBGS
+1170447,BRW,Boxtel,Infocode/Proefalarm
+1170448,BRW,Boxtel,Noodalarmering
+1170449,BRW,Boxtel,Monitorcode
+1170450,BRW,Cuijk,Bevelvoerder van Dienst
+1170451,BRW,Cuijk,Ploeg A
+1170452,BRW,Cuijk,Ploeg B
+1170453,BRW,Cuijk,Ploeg C
+1170455,BRW,Cuijk,Postalarm
+1170471,BRW,Cuijk,Bezetting HW Ploeg A
+1170472,BRW,Cuijk,Bezetting HW Ploeg B
+1170473,BRW,Cuijk,Bezetting HW Ploeg C
+1170475,BRW,Cuijk,Postalarm HW
+1170485,BRW,Cuijk,Postalarm ORT
+1170491,BRW,Cuijk,Verkenningseenheid
+1170497,BRW,Cuijk,Infocode/Proefalarm
+1170498,BRW,Cuijk,Noodalarmering
+1170499,BRW,Cuijk,Monitorcode
+1170500,BRW,Geffen,Bevelvoerder van Dienst
+1170501,BRW,Geffen,Ploeg A
+1170502,BRW,Geffen,Ploeg B
+1170505,BRW,Geffen,Postalarm
+1170521,BRW,Geffen,Bezetting HV Ploeg A
+1170522,BRW,Geffen,Bezetting HV Ploeg A
+1170525,BRW,Geffen,Postalarm HV
+1170547,BRW,Geffen,Infocode/Proefalarm
+1170548,BRW,Geffen,Noodalarmering
+1170549,BRW,Geffen,Monitorcode
+1170550,BRW,Grave,Bevelvoerder van Dienst
+1170551,BRW,Grave,Ploeg A
+1170552,BRW,Grave,Ploeg B
+1170555,BRW,Grave,Postalarm
+1170581,BRW,Grave,Bezetting BRV Ploeg A
+1170582,BRW,Grave,Bezetting BRV Ploeg B
+1170585,BRW,Grave,Postalarm BRV
+1170591,BRW,Grave,Verkenningseenheid
+1170597,BRW,Grave,Infocode/Proefalarm
+1170598,BRW,Grave,Noodalarmering
+1170599,BRW,Grave,Monitorcode
+1170650,BRW,Haps,Bevelvoerder van Dienst
+1170655,BRW,Haps,Postalarm
+1170697,BRW,Haps,Infocode/Proefalarm
+1170700,BRW,Heesch,Bevelvoerder van Dienst
+1170701,BRW,Heesch,Ploeg A-B
+1170702,BRW,Heesch,Ploeg B-C
+1170703,BRW,Heesch,Ploeg C-A
+1170705,BRW,Heesch,Postalarm
+1170721,BRW,Heesch,Bezetting WT Ploeg A
+1170722,BRW,Heesch,Bezetting WT Ploeg B
+1170723,BRW,Heesch,Bezetting WT Ploeg C
+1170725,BRW,Heesch,Postalarm WT
+1170747,BRW,Heesch,Infocode/Proefalarm
+1170748,BRW,Heesch,Noodalarmering
+1170749,BRW,Heesch,Monitorcode
+1170750,BRW,Heeswijk-Dinther,Bevelvoerder van Dienst
+1170755,BRW,Heeswijk-Dinther,Postalarm
+1170791,BRW,Heeswijk-Dinther,Verkenningseenheid IBGS
+1170797,BRW,Heeswijk-Dinther,Infocode/Proefalarm
+1170798,BRW,Heeswijk-Dinther,Noodalarmering
+1170799,BRW,Heeswijk-Dinther,Monitorcode
+1170800,BRW,Helvoirt,Bevelvoerder van Dienst
+1170805,BRW,Helvoirt,Postalarm
+1170821,BRW,Helvoirt,Bezetting WT Ploeg A
+1170822,BRW,Helvoirt,Bezetting WT Ploeg B
+1170823,BRW,Helvoirt,Bezetting WT Ploeg C
+1170825,BRW,Helvoirt,Postalarm WT
+1170830,BRW,Helvoirt,Koppelcode PreCom pagers
+1170847,BRW,Helvoirt,Infocode/Proefalarm
+1170848,BRW,Helvoirt,Noodalarmering
+1170849,BRW,Helvoirt,Monitorcode
+1170850,BRW,'s-Hertogenbosch,Bevelvoerder van Dienst
+1170851,BRW,'s-Hertogenbosch,24-uursdienst
+1170897,BRW,'s-Hertogenbosch,Infocode/Proefalarm
+1170898,BRW,'s-Hertogenbosch,Noodalarmering
+1170899,BRW,'s-Hertogenbosch,Monitorcode
+1170901,BRW,s-Hertogenbosch vrijwilligers,Ploeg E
+1170902,BRW,s-Hertogenbosch vrijwilligers,Ploeg F
+1170905,BRW,s-Hertogenbosch vrijwilligers,Postalarm
+1170911,BRW,s-Hertogenbosch vrijwilligers,Bezetting AH Ploeg E
+1170912,BRW,s-Hertogenbosch vrijwilligers,Bezetting AH Ploeg F
+1170915,BRW,s-Hertogenbosch vrijwilligers,Postalarm AH
+1170921,BRW,s-Hertogenbosch vrijwilligers,Herbezetting Ploeg E
+1170922,BRW,s-Hertogenbosch vrijwilligers,Herbezetting Ploeg F
+1170925,BRW,s-Hertogenbosch vrijwilligers,Postalarm Herbezetting
+1170947,BRW,s-Hertogenbosch vrijwilligers,Infocode/Proefalarm
+1170948,BRW,s-Hertogenbosch vrijwilligers,Noodalarmering
+1170949,BRW,s-Hertogenbosch vrijwilligers,Monitorcode
+1170950,BRW,Liempde,Bevelvoerder van Dienst
+1170955,BRW,Liempde,Postalarm
+1170975,BRW,Liempde,Handcrew-Zuid6
+1170997,BRW,Liempde,Infocode/Proefalarm
+1170998,BRW,Liempde,Noodalarmering
+1170999,BRW,Liempde,Monitorcode
+1171000,BRW,Lith,Bevelvoerder van Dienst
+1171005,BRW,Lith,Postalarm
+1171045,BRW,Lith,Bezetting BRV
+1171047,BRW,Lith,Infocode/Proefalarm
+1171048,BRW,Lith,Noodalarmering
+1171049,BRW,Lith,Monitorcode
+1171050,BRW,Rosmalen,Bevelvoerder van Dienst
+1171051,BRW,Rosmalen,Ploeg A
+1171052,BRW,Rosmalen,Ploeg B
+1171055,BRW,Rosmalen,Postalarm
+1171070,BRW,Rosmalen,Bevelvoerder van Dienst Dagploeg
+1171071,BRW,Rosmalen,Kazernebezetting TS Dagdienst
+1171081,BRW,Rosmalen,Bezetting GW Ploeg A
+1171082,BRW,Rosmalen,Bezetting GW Ploeg B
+1171085,BRW,Rosmalen,Postalarm GW
+1171097,BRW,Rosmalen,Infocode/Proefalarm
+1171098,BRW,Rosmalen,Noodalarmering
+1171099,BRW,Rosmalen,Monitorcode
+1171100,BRW,Megen,Bevelvoerder van Dienst
+1171105,BRW,Megen,Postalarm
+1171125,BRW,Megen,Hand Crew
+1171147,BRW,Megen,Infocode/Proefalarm
+1171148,BRW,Megen,Noodalarmering
+1171149,BRW,Megen,Monitorcode
+1171150,BRW,Mill,Bevelvoerder van Dienst
+1171151,BRW,Mill,Ploeg A
+1171152,BRW,Mill,Ploeg B
+1171155,BRW,Mill,Postalarm
+1171171,BRW,Mill,Bezetting HV Ploeg A
+1171172,BRW,Mill,Bezetting HV Ploeg B
+1171175,BRW,Mill,Postalarm HV
+1171185,BRW,Mill,Oppervlakte Redding Team
+1171197,BRW,Mill,Infocode/Proefalarm
+1171198,BRW,Mill,Noodalarmering
+1171199,BRW,Mill,Monitorcode
+1171200,BRW,Nistelrode,Bevelvoerder van Dienst
+1171205,BRW,Nistelrode,Postalarm
+1171215,BRW,Nistelrode,Postalarm Ondersteuners AH
+1171225,BRW,Nistelrode,Postalarm CO-MU
+1171247,BRW,Nistelrode,Infocode/Proefalarm
+1171248,BRW,Nistelrode,Noodalarmering
+1171249,BRW,Nistelrode,Monitorcode
+1171250,BRW,Wanroij,Bevelvoerder van Dienst
+1171255,BRW,Wanroij,Postalarm
+1171265,BRW,Wanroij,Postalarm SBH
+1171275,BRW,Wanroij,Postalarm HA
+1171285,BRW,Wanroij,Postalarm GW
+1171297,BRW,Wanroij,Infocode/Proefalarm
+1171298,BRW,Wanroij,Noodalarmering
+1171299,BRW,Wanroij,Monitorcode
+1171300,BRW,Oeffelt,Bevelvoerder van Dienst
+1171305,BRW,Oeffelt,Postalarm
+1171315,BRW,Oeffelt,Postalarm Ondersteuningsteam AH
+1171347,BRW,Oeffelt,Infocode/Proefalarm
+1171348,BRW,Oeffelt,Noodalarmering
+1171349,BRW,Oeffelt,Monitorcode
+1171350,BRW,Sint Anthonis,Bevelvoerder van Dienst
+1171355,BRW,Sint Anthonis,Postalarm
+1171371,BRW,Sint Anthonis,Bezetting WT
+1171375,BRW,Sint Anthonis,Postalarm WT
+1171397,BRW,Sint Anthonis,Infocode/Proefalarm
+1171398,BRW,Sint Anthonis,Noodalarmering
+1171399,BRW,Sint Anthonis,Monitorcode
+1171400,BRW,Oss,Bevelvoerder van Dienst
+1171401,BRW,Oss,Ploeg A
+1171402,BRW,Oss,Ploeg B
+1171403,BRW,Oss,Ploeg C
+1171405,BRW,Oss,Postalarm
+1171406,BRW,Oss,Bezetting HW Ploeg A
+1171407,BRW,Oss,Bezetting HW Ploeg B
+1171408,BRW,Oss,Bezetting HW Ploeg C
+1171411,BRW,Oss,Bezetting HA Ploeg A
+1171412,BRW,Oss,Bezetting HA Ploeg B
+1171413,BRW,Oss,Bezetting HA Ploeg C
+1171421,BRW,Oss,Bezetting ABH Ploeg A
+1171422,BRW,Oss,Bezetting ABH Ploeg B
+1171423,BRW,Oss,Bezetting ABH Ploeg C
+1171446,BRW,Oss,Verkenningseenheid
+1171447,BRW,Oss,Infocode/Proefalarm
+1171448,BRW,Oss,Noodalarmering
+1171449,BRW,Oss,Monitorcode
+1171450,BRW,Ravenstein,Bevelvoerder van Dienst
+1171455,BRW,Ravenstein,Potalarm
+1171497,BRW,Ravenstein,Infocode
+1171498,BRW,Ravenstein,Noodalarmering
+1171499,BRW,Ravenstein,Monitorcode
+1171500,BRW,Zeeland,Kader
+1171505,BRW,Zeeland,Potalarm
+1171525,BRW,Zeeland,Postalarm GW
+1171544,BRW,Zeeland,Bezetting GW
+1171547,BRW,Zeeland,Infocode/Proefalarm
+1171548,BRW,Zeeland,Noodalarmering
+1171549,BRW,Zeeland,Monitorcode
+1171550,BRW,Schaijk,Bevelvoerder van Dienst
+1171555,BRW,Schaijk,Postalarm
+1171575,BRW,Schaijk,Postalarm HV
+1171597,BRW,Schaijk,Infocode/Proefalarm
+1171598,BRW,Schaijk,Noodalarmering
+1171599,BRW,Schaijk,Monitorcode
+1171600,BRW,Schijndel,Bevelvoerder van Dienst
+1171601,BRW,Schijndel,Ploeg A
+1171602,BRW,Schijndel,Ploeg B
+1171621,BRW,Schijndel,Bezetting WT Ploeg A
+1171622,BRW,Schijndel,Bezetting WT Ploeg B
+1171623,BRW,Schijndel,Bezetting WT Ploeg C
+1171624,BRW,Schijndel,Bezetting WT Ploeg D
+1171625,BRW,Schijndel,Postalarm WT
+1171647,BRW,Schijndel,Infocode/Proefalarm
+1171648,BRW,Schijndel,Noodalarmering
+1171649,BRW,Schijndel,Monitorcode
+1171650,BRW,Sint-Michielsgestel,Bevelvoerder van Dienst
+1171651,BRW,Sint-Michielsgestel,Ploeg A
+1171652,BRW,Sint-Michielsgestel,Ploeg B
+1171655,BRW,Sint-Michielsgestel,Potalarm
+1171675,BRW,Sint-Michielsgestel,Hand Crew
+1171697,BRW,Sint-Michielsgestel,Infocode/Proefalarm
+1171698,BRW,Sint-Michielsgestel,Noodalarmering
+1171699,BRW,Sint-Michielsgestel,Monitorcode
+1171700,BRW,Sint-Oedenrode,Bevelvoerder van Dienst
+1171701,BRW,Sint-Oedenrode,Ploeg A
+1171702,BRW,Sint-Oedenrode,Ploeg B
+1171705,BRW,Sint-Oedenrode,Postalarm
+1171731,BRW,Sint-Oedenrode,Bezetting HV Ploeg A
+1171732,BRW,Sint-Oedenrode,Bezetting HV Ploeg B
+1171735,BRW,Sint-Oedenrode,Postalarm HV
+1171747,BRW,Sint-Oedenrode,Infocode/Proefalarm
+1171748,BRW,Sint-Oedenrode,Noodalarmering
+1171749,BRW,Sint-Oedenrode,Monitorcode
+1171750,BRW,Uden,Bevelvoerder van Dienst
+1171751,BRW,Uden,Ploeg A
+1171752,BRW,Uden,Ploeg B
+1171753,BRW,Uden,Ploeg C
+1171755,BRW,Uden,Postalarm
+1171761,BRW,Uden,Bezetting AL Ploeg A
+1171762,BRW,Uden,Bezetting AL Ploeg B
+1171763,BRW,Uden,Bezetting AL Ploeg C
+1171771,BRW,Uden,Bezetting WT Ploeg A
+1171772,BRW,Uden,Bezetting WT Ploeg B
+1171773,BRW,Uden,Bezetting WT Ploeg C
+1171797,BRW,Uden,Infocode/Proefalarm
+1171798,BRW,Uden,Noodalarmering
+1171799,BRW,Uden,Monitorcode
+1171800,BRW,Veghel,Bevelvoerder van Dienst
+1171801,BRW,Veghel,Ploeg A
+1171802,BRW,Veghel,Ploeg B
+1171803,BRW,Veghel,Ploeg C
+1171805,BRW,Veghel,Postalarm
+1171821,BRW,Veghel,Bezetting HW Ploeg A
+1171822,BRW,Veghel,Bezetting HW Ploeg B
+1171823,BRW,Veghel,Bezetting HW Ploeg C
+1171831,BRW,Veghel,Bezetting HA Ploeg A
+1171832,BRW,Veghel,Bezetting HA Ploeg B
+1171833,BRW,Veghel,Bezetting HA Ploeg C
+1171841,BRW,Veghel,Verkenningseenheid IBGS
+1171847,BRW,Veghel,Infocode/Proefalarm
+1171848,BRW,Veghel,Noodalarmering
+1171849,BRW,Veghel,Monitorcode
+1171850,BRW,Vierlingsbeek,Bevelvoerder van Dienst
+1171855,BRW,Vierlingsbeek,Postalarm
+1171897,BRW,Vierlingsbeek,Infocode/Proefalarm
+1171898,BRW,Vierlingsbeek,Noodalarmering
+1171899,BRW,Vierlingsbeek,Monitorcode
+1171900,BRW,Erp,Bevelvoerder van Dienst
+1171905,BRW,Erp,Postalarm
+1171925,BRW,Erp,Hand Crew
+1171945,BRW,Erp,Postalarm Verzorgingsploeg
+1171947,BRW,Erp,Infocode/Proefalarm
+1171948,BRW,Erp,Noodalarmering
+1171949,BRW,Erp,Monitorcode
+1171950,BRW,Vught,Bevelvoerder van Dienst
+1171951,BRW,Vught,Ploeg A
+1171952,BRW,Vught,Ploeg B
+1171955,BRW,Vught,Postalarm
+1171971,BRW,Vught,Bezetting LIH Ploeg A
+1171972,BRW,Vught,Bezetting LIH Ploeg B
+1171981,BRW,Vught,Bezetting HA Ploeg A
+1171982,BRW,Vught,Bezetting HA Ploeg B
+1171985,BRW,Vught,Postalarm HA
+1171991,BRW,Vught,Verkenningseenheid IBGS
+1171997,BRW,Vught,Infocode/Proefalarm
+1171998,BRW,Vught,Noodalarmering
+1171999,BRW,Vught,Monitorcode
+1172000,BRW,Vlijmen,Bevelvoerder van Dienst
+1172001,BRW,Vlijmen,Ploeg A
+1172002,BRW,Vlijmen,Ploeg B
+1172005,BRW,Vlijmen,Postalarm
+1172031,BRW,Vlijmen,Bezetting HV Ploeg A
+1172032,BRW,Vlijmen,Bezetting HV Ploeg B
+1172035,BRW,Vlijmen,Postalarm HV
+1172041,BRW,Vlijmen,Verkenningseenheid
+1172047,BRW,Vlijmen,Infocode/Proefalarm
+1172048,BRW,Vlijmen,Noodalarmering
+1172049,BRW,Vlijmen,Monitorcode
+1172050,BRW,Drunen,Bevelvoerder van Dienst
+1172055,BRW,Drunen,Postalarm
+1172060,BRW,Drunen,Postalarm Bezetting DAT
+1172097,BRW,Drunen,Infocode/Proefalarm
+1172098,BRW,Drunen,Noodalarmering
+1172099,BRW,Drunen,Monitorcode
+1172100,BRW,Heusden,Bevelvoerder van Dienst
+1172105,BRW,Heusden,Postalarm
+1172135,BRW,Heusden,Oppervlaktewater Redteam
+1172147,BRW,Heusden,Infocode
+1172148,BRW,Heusden,Noodalarmering
+1172149,BRW,Heusden,Monitorcode
+1172150,BRW,Cromvoirt,Bevelvoerder van Dienst
+1172155,BRW,Cromvoirt,Postalarm
+1172197,BRW,Cromvoirt,Infocode/Proefalarm
+1172198,BRW,Cromvoirt,Noodalarmering
+1172199,BRW,Cromvoirt,Monitorcode
+1180000,BRW,GMK,5 Minuten TESTOPROEP HOOFDSYSTEEM MKOB DEN BOSCH
+1180001,BRW,GMK,Systeem beheer TEST CODE (1)
+1180002,BRW,GMK,Systeem beheer TEST CODE (2)
+1180003,BRW,GMK,Systeem beheer TEST CODE (3)
+1180004,BRW,GMK,Systeem beheer TEST CODE (4)
+1180005,BRW,GMK,Systeem beheer TEST CODE (5)
+1180006,BRW,GMK,Systeem beheer TEST CODE
+1180007,BRW,GMK,Systeem beheer TEST CODE
+1180008,BRW,GMK,Systeem beheer TEST CODE
+1180009,BRW,GMK,Systeem beheer TEST CODE
+1180010,BRW,GMK,Systeem beheer TEST CODE
+1180011,BRW,GMK,Systeem beheer TEST CODE
+1180012,BRW,GMK,Systeem beheer TEST CODE
+1180013,BRW,GMK,Systeem beheer TEST CODE
+1180014,BRW,GMK,Systeem beheer TEST CODE
+1180015,BRW,GMK,Systeem beheer TEST CODE
+1180016,BRW,GMK,Systeem beheer TEST CODE
+1180017,BRW,GMK,Systeem beheer TEST CODE
+1180018,BRW,GMK,Systeem beheer TEST CODE
+1180019,BRW,GMK,Systeem beheer TEST CODE
+1180020,BRW,GMK,Systeem beheer TEST CODE
+1180021,BRW,GMK,Systeem beheer TEST CODE
+1180030,BRW,GMK,Systeem beheer TEST CODE
+1180031,BRW,GMK,Systeem beheer TEST CODE
+1180040,BRW,GMK,Systeem beheer TEST CODE
+1180041,BRW,GMK,Systeem beheer TEST CODE
+1180200,BRW,Berghem,Kazernetechniek
+1180240,BRW,Berghem,PreCom Koppelcode MKB Oost-Brabant
+1180247,BRW,Berghem,PreCom Koppelcode MKB ZeBra
+1180248,BRW,Berghem,Lihtkrant
+1180249,BRW,Berghem,Kazernetechniek
+1180290,BRW,Berlicum,PreCom Koppelcode MKB Oost-Brabant
+1180298,BRW,Berlicum,Lichtkrant
+1180299,BRW,Berlicum,Kazernetechniek
+1180340,BRW,Boekel,PreCom Koppelcode MKB Oost-Brabant
+1180348,BRW,Boekel,Lichtkrant
+1180349,BRW,Boekel,Kazernetechniek
+1180390,BRW,Boxmeer,PreCom Koppelcode MKB Oost-Brabant
+1180396,BRW,Boxmeer,PreCom Koppelcode MKB Limburg
+1180398,BRW,Boxmeer,Lichtkrant
+1180399,BRW,Boxmeer,Kazernetechniek
+1180440,BRW,Boxtel,PreCom Koppelcode MKB Oost-Brabant
+1180448,BRW,Boxtel,Lichtkrant
+1180449,BRW,Boxtel,Kazernetechniek
+1180490,BRW,Cuijk,PreCom Koppelcode MKB Oost-Brabant
+1180495,BRW,Cuijk,PreCom Koppelcode MKB Oost-Nederland
+1180496,BRW,Cuijk,PreCom Koppelcode MKB Limburg
+1180498,BRW,Cuijk,Lichtkrant
+1180499,BRW,Cuijk,Kazernetechniek
+1180540,BRW,Geffen,PreCom Koppelcode MKB Oost-Brabant
+1180548,BRW,Geffen,Lichtkrant
+1180549,BRW,Geffen,Kazernetechniek
+1180590,BRW,Grave,PreCom Koppelcode MKB Oost-Brabant
+1180598,BRW,Grave,Lichtkrant
+1180599,BRW,Grave,Kazernetechniek
+1180690,BRW,Haps,PreCom Koppelcode MKB Oost-Brabant
+1180698,BRW,Haps,Lichtkrant
+1180699,BRW,Haps,Kazernetechniek
+1180740,BRW,Heesch,PreCom Koppelcode MKB Oost-Brabant
+1180745,BRW,Heesch,PreCom Koppelcode MKB Oost-Nederland
+1180748,BRW,Heesch,Lichtkrant
+1180749,BRW,Heesch,Kazernetechniek
+1180790,BRW,Heeswijk-Dinther,PreCom Koppelcode MKB Oost-Brabant
+1180798,BRW,Heeswijk-Dinther,Lichtkrant
+1180799,BRW,Heeswijk-Dinther,Kazernetechniek
+1180840,BRW,Helvoirt,PreCom Koppelcode MKB Oost-Brabant
+1180847,BRW,Helvoirt,PreCom Koppelcode MKB ZeBra
+1180848,BRW,Helvoirt,Lichtkrant
+1180849,BRW,Helvoirt,Kazernetechniek
+1180897,BRW,s-Hertogenbosch,Interregionale Alarmering door MKB ZeBra
+1180898,BRW,s-Hertogenbosch,Lichtkrant
+1180899,BRW,s-Hertogenbosch,Kazernetechniek
+1180940,BRW,s-Hertogenbosch,PreCom Koppelcode MKB Oost-Brabant
+1180990,BRW,Liempde,PreCom Koppelcode MKB Oost-Brabant
+1180998,BRW,Liempde,Lichtkrant
+1180999,BRW,Liempde,Kazernetechniek
+1181040,BRW,Lith,PreCom Koppelcode MKB Oost-Brabant
+1181048,BRW,Lith,Lichtkrant
+1181049,BRW,Lith,Kazernetechniek
+1181090,BRW,Rosmalen,PreCom Koppelcode MKB Oost-Brabant
+1181095,BRW,Rosmalen,PreCom Koppelcode MKB Oost-Nederland
+1181098,BRW,Rosmalen,Lichtkrant
+1181099,BRW,Rosmalen,Kazernetechniek
+1181140,BRW,Megen,PreCom Koppelcode MKB Oost-Brabant
+1181148,BRW,Megen,Lichtkrant
+1181149,BRW,Megen,Kazernetechniek
+1181190,BRW,Mill,PreCom Koppelcode MKB Oost-Brabant
+1181198,BRW,Mill,Lichtkrant
+1181199,BRW,Mill,Kazernetechniek
+1181240,BRW,Nistelrode,PreCom Koppelcode MKB Oost-Brabant
+1181248,BRW,Nistelrode,Lichtkrant
+1181249,BRW,Nistelrode,Kazernetechniek
+1181290,BRW,Wanroij,PreCom Koppelcode MKB Oost-Brabant
+1181298,BRW,Wanroij,Lichtkrant
+1181299,BRW,Wanroij,Kazernetechniek
+1181340,BRW,Oeffelt,PreCom Koppelcode MKB Oost-Brabant
+1181348,BRW,Oeffelt,Lichtkrant
+1181349,BRW,Oeffelt,Kazernetechniek
+1181390,BRW,Sint-Anthonis,PreCom Koppelcode MKB Oost-Brabant
+1181396,BRW,Sint-Anthonis,PreCom Koppelcode MKB Limburg
+1181398,BRW,Sint-Anthonis,Lichtkrant
+1181399,BRW,Sint-Anthonis,Kazernetechniek
+1181440,BRW,Oss,PreCom Koppelcode MKB Oost-Brabant
+1181448,BRW,Oss,Lichtkrant
+1181449,BRW,Oss,Kazernetechniek
+1181490,BRW,Ravenstein,PreCom Koppelcode MKB Oost-Brabant
+1181495,BRW,Ravenstein,PreCom Koppelcode MKB Oost-Nederland
+1181498,BRW,Ravenstein,Lichtkrant
+1181499,BRW,Ravenstein,Kazernetechniek
+1181540,BRW,Zeeland,PreCom Koppelcode MKB Oost-Brabant
+1181548,BRW,Zeeland,Lichtkrant
+1181549,BRW,Zeeland,Kazernetechniek
+1181590,BRW,Schaijk,Koppelcode PreCom OCB Oost-Brabant
+1181598,BRW,Schaijk,Lichtkrant
+1181599,BRW,Schaijk,Kazernetechniek
+1181648,BRW,Schijdel,Lichtkrant
+1181649,BRW,Schijdel,Kazernetechniek
+1181690,BRW,Sint-Michielsgestel,PreCom Koppelcode MKB Oost-Brabant
+1181698,BRW,Sint-Michielsgestel,Lichtkrant
+1181699,BRW,Sint-Michielsgestel,Kazernetechniek
+1181740,BRW,Sint-Oedenrode,PreCom Koppelcode MKB Oost-Brabant
+1181748,BRW,Sint-Oedenrode,Lichtkrant
+1181749,BRW,Sint-Oedenrode,Kazernetechniek
+1181790,BRW,Uden,PreCom Koppelcode MKB Oost-Brabant
+1181798,BRW,Uden,Lichtkrant
+1181799,BRW,Uden,Kazernetechniek
+1181840,BRW,Veghel,PreCom Koppelcode MKB Oost-Brabant
+1181848,BRW,Veghel,Lichtkrant
+1181849,BRW,Veghel,Kazernetechniek
+1181890,BRW,Vierlingsbeek,PreCom Koppelcode MKB Oost-Brabant
+1181896,BRW,Vierlingsbeek,PreCom Koppelcode MKB Limburg
+1181898,BRW,Vierlingsbeek,Lichtkrant
+1181899,BRW,Vierlingsbeek,Kazernetechniek
+1181940,BRW,Erp,PreCom Koppelcode MKB Oost-Brabant
+1181948,BRW,Erp,Lichtkrant
+1181949,BRW,Erp,Kazernetechniek
+1181990,BRW,Vught,PreCom Koppelcode MKB Oost-Brabant
+1181998,BRW,Vught,Lichtkrant
+1181999,BRW,Vught,Kazernetechniek
+1182040,BRW,Vlijmen,PreCom Koppelcode MKB Oost-Brabant
+1182048,BRW,Vlijmen,Lichtkrant
+1182049,BRW,Vlijmen,Kazernetechniek
+1182090,BRW,Drunen,PreCom Koppelcode MKB Oost-Brabant
+1182097,BRW,Drunen,PreCom Koppelcode tbv MKB ZeBra
+1182098,BRW,Drunen,Lichtkrant
+1182099,BRW,Drunen,Kazernetechniek
+1182140,BRW,Heusden,PreCom Koppelcode MKB Oost-Brabant
+1182147,BRW,Heusden,PreCom Koppelcode MKB ZeBra
+1182148,BRW,Heusden,Lichtkrant
+1182149,BRW,Heusden,Kazernetechniek
+1182190,BRW,Cromvoirt,PreCom Koppelcode MKB Oost-Brabant
+1182198,BRW,Cromvoirt,Lichtkrant
+1182199,BRW,Cromvoirt,Kazernetechniek
+1120000,AMBU,MKA Oost-Brabant,Beheer
+1120101,AMBU,Regionaal,Ambulance 21-101 (Den Bosch)
+1120102,AMBU,Regionaal,Ambulance 21-102 (Den Bosch)
+1120103,AMBU,Regionaal,Ambulance 21-103 (Den Bosch)
+1120104,AMBU,Regionaal,Ambulance 21-104 (Den Bosch)
+1120105,AMBU,Regionaal,Ambulance 21-105 (Den Bosch)
+1120106,AMBU,Regionaal,Ambulance 21-106 (Den Bosch)
+1120107,AMBU,Regionaal,Ambulance 21-107 (Den Bosch)
+1120108,AMBU,Regionaal,Ambulance 21-108 (Den Bosch)
+1120109,AMBU,Regionaal,Ambulance 21-109 (Den Bosch)
+1120111,AMBU,Regionaal,Ambulance 21-111 (Den Bosch)
+1120112,AMBU,Regionaal,Ambulance 21-112 (Den Bosch)
+1120113,AMBU,Regionaal,Ambulance 21-113 (Oss)
+1120114,AMBU,Regionaal,Ambulance 21-114 (Oss)
+1120115,AMBU,Regionaal,Ambulance 21-115 (Oss)
+1120116,AMBU,Regionaal,Ambulance 21-116 (Oss)
+1120121,AMBU,Regionaal,Ambulance 21-121 (Uden)
+1120122,AMBU,Regionaal,Ambulance 21-122 (Uden)
+1120123,AMBU,Regionaal,Ambulance 21-123 (Uden)
+1120124,AMBU,Regionaal,Ambulance 21-124 (Uden)
+1120125,AMBU,Regionaal,Ambulance 21-125 (Uden)
+1120126,AMBU,Regionaal,Ambulance 21-126 (Uden)
+1120128,AMBU,Regionaal,Ambulance 21-128 (Haps)
+1120129,AMBU,Regionaal,Ambulance 21-129 (Haps)
+1120131,AMBU,Regionaal,Ambulance 21-131 (Haps)
+1120132,AMBU,Regionaal,Ambulance 21-132 (Haps)
+1120133,AMBU,Regionaal,Ambulance 21-133 (Haps)
+1120241,AMBU,Regionaal,Middencomplexe zorg 21-241 (Den Bosch)
+1120242,AMBU,Regionaal,Middencomplexe zorg 21-242 (Den Bosch)
+1120243,AMBU,Regionaal,Middencomplexe zorg 21-243 (Den Bosch)
+1120244,AMBU,Regionaal,Middencomplexe zorg 21-244 (Den Bosch)
+1120245,AMBU,Regionaal,Middencomplexe zorg 21-245 (Den Bosch)
+1120341,AMBU,Regionaal,Rapid Responder 21-341 (Den Bosch)
+1120342,AMBU,Regionaal,Rapid Responder 21-342 (Den Bosch)
+1120343,AMBU,Regionaal,Rapid Responder 21-343 (Den Bosch)
+1120344,AMBU,Regionaal,Rapid Responder 21-344 (Den Bosch)
+1120402,AMBU,Regionaal,Regionaal Proefalarm
+1120410,AMBU,RAV Brabant Midden-West-Noord,TCO Brabant-Noord
+1120801,AMBU,Regionaal,OVD-G 21-801
+1120802,AMBU,Regionaal,OVD-G 21-802
+1121517,AMBU,Regionaal,Officier Informatie Voorziening OIV
+1122000,AMBU,GHOR Brabant-Noord,Algemeen Commandant Geneeskundige Zorg (Alarmcode)
+1122001,AMBU,GHOR Brabant-Noord,Algemeen Commandant Geneeskundige Zorg (Infocode)
+1122020,AMBU,GHOR Brabant-Noord,Adviseur Gemeentelijk Beleidsteam (Alarmcode)
+1122021,AMBU,GHOR Brabant-Noord,Adviseur Gemeentelijk Beleidsteam (Infocode)
+1122040,AMBU,GHOR Brabant-Noord,HIN+HON Alarmcode
+1122041,AMBU,GHOR Brabant-Noord,HIN+HON Infocode
+1122050,AMBU,RAV Brabant Midden-West-Noord,Incident Response Team
+1122601,AMBU,Regionaal,NRK Noodhulp-Team UGS Rode Kruis Evertsenstraat Veghel (Chauffeurs-code)
+1122602,AMBU,Regionaal,NRK Noodhulp-Team UGS HAWK International de Amert Veghel
+1122603,AMBU,Regionaal,NRK Noodhulp-Team UGS CSU Veghelsedijk Uden
+1122604,AMBU,Regionaal,NRK Noodhulp-Team UGS Carpool Rijkswaterstaat Hoge Poeldonk Den Bosch
+1122605,AMBU,Regionaal,NRK Noodhulp-Team UGS van der Valk Bosscheweg Vught
+1122606,AMBU,Regionaal,NRK Noodhulp-Team UGS Mc Donalds Cereslaan Heesch
+1122607,AMBU,Regionaal,NRK Noodhulp-Team UGS Truckwash Schuttersweg Haps
+1122608,AMBU,MKA Brabant Noord Rode Kruis Noodhulpteam,Proefalarm
+1130051,POL,Politie Eenheid Oost-Brabant,Mobile Eenheid (ME) Piketsectie
+1130550,POL,Politie Eenheid Oost-Brabant,Algemeen Commandant
+1130551,POL,Politie Eenheid Oost-Brabant,Algemeen Commandant Taak commandant
+1130552,POL,Politie Eenheid Oost-Brabant,Algemeen Commandant Ondersteuning
+1130555,POL,Politie Eenheid Oost-Brabant,SGBO HIN Hoofd Informatie
+1130556,POL,Politie Eenheid Oost-Brabant,SGBO HIN Hoofd Informatie Taakcommandant
+1130557,POL,Politie Eenheid Oost-Brabant,SGBO HIN Hoofd Informatie Ondersteuning
+1130560,POL,Politie Eenheid Oost-Brabant,SGBO HON Hoofd Ondersteuning
+1130561,POL,Politie Eenheid Oost-Brabant,SGBO HON Hoofd Ondersteuning Taakcommandant
+1130562,POL,Politie Eenheid Oost-Brabant,SGBO HON Hoofd Ondersteuning secretariaat Ondersteuning
+1130565,POL,Politie Eenheid Oost-Brabant,SGBO HOHA Hoofd Handhaving
+1130566,POL,Politie Eenheid Oost-Brabant,SGBO HOHA Hoofd Handhaving Taakcommandant
+1130567,POL,Politie Eenheid Oost-Brabant,SGBO HOHA Hoofd Handhaving Ondersteuning
+1130570,POL,Politie Eenheid Oost-Brabant,SGBO HOPS Hoofd Opsporing
+1130571,POL,Politie Eenheid Oost-Brabant,SGBO HOPS Hoofd Opsporing Taakcommandant
+1130572,POL,Politie Eenheid Oost-Brabant,SGBO HOPS Hoofd Opsporing Ondersteuning
+1130575,POL,Politie Eenheid Oost-Brabant,SGBO HOPEX Hoofd Opsporingsexpertise
+1130576,POL,Politie Eenheid Oost-Brabant,SGBO HOPEX Hoofd Opsporingsexpertise Taakcommandant
+1130577,POL,Politie Eenheid Oost-Brabant,SGBO HOPEX Hoofd Opsporingsexpertise Ondersteuning
+1130580,POL,Politie Eenheid Oost-Brabant,SGBO HBB Hoofd Bewaken & Beveiligen
+1130581,POL,Politie Eenheid Oost-Brabant,SGBO HBB Hoofd Bewaken & Beveiligen Taakcommandant
+1130582,POL,Politie Eenheid Oost-Brabant,SGBO HBB Hoofd Bewaken & Beveiligen Ondersteuning
+1130585,POL,Politie Eenheid Oost-Brabant,SGBO HMOB Hoofd Mobiliteit
+1130586,POL,Politie Eenheid Oost-Brabant,SGBO HMOB Hoofd Mobiliteit Taakcommandant
+1130587,POL,Politie Eenheid Oost-Brabant,SGBO HMOB Hoofd Mobiliteit Ondersteuning
+1130590,POL,Politie Eenheid Oost-Brabant,SGBO HNN Hoofd Handhaven & Netwerken
+1130591,POL,Politie Eenheid Oost-Brabant,SGBO HNN Hoofd Handhaven & Netwerken Taakcommandant
+1130592,POL,Politie Eenheid Oost-Brabant,SGBO HNN Hoofd Handhaven & Netwerken Ondersteuning
+1130595,POL,Politie Eenheid Oost-Brabant,SGBO HINT Hoofd Interventie
+1130596,POL,Politie Eenheid Oost-Brabant,SGBO HINT Hoofd Interventie Taakcommandant
+1130597,POL,Politie Eenheid Oost-Brabant,SGBO HINT Hoofd Interventie Ondersteuning
+1130600,POL,Politie Eenheid Oost-Brabant,SGBO HCOM Hoofd Communicatie
+1130610,POL,Politie Eenheid Oost-Brabant,SGBO HIN-PLOT Hoofd Informatie Plot
+1130615,POL,Politie Eenheid Oost-Brabant,SGBO RCCB Regionaal Conflict- en Crisisbeheersing
+1130620,POL,Politie Eenheid Oost-Brabant,SGBO Hoofd Informatie (Informatiemanager)
+1130625,POL,Politie Eenheid Oost-Brabant,SGBO Beleidsondersteuner
+1130671,POL,Politie Eenheid Oost-Brabant,Mediadesk Brabant Noord
+1130981,POL,Politie Eenheid Oost-Brabant,Infocode GRIP-1
+1130982,POL,Politie Eenheid Oost-Brabant,Infocode GRIP-2
+1130983,POL,Politie Eenheid Oost-Brabant,Infocode GRIP-3
+1130999,POL,OC-P,Persinformatie (District ’s Hertogenbosch)

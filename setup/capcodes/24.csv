@@ -1,0 +1,262 @@
+capcode,discipline,locatie/divisie,beschrijving
+1003002,BRW,Regionaal,Leider CoPI West
+1003004,BRW,Regionaal,Leider CoPI Oost
+1003055,BRW,Beek,Postalarm
+1003060,BRW,Beek,Verkenningseenheid
+1003098,BRW,Beek,Bevelvoerder van Dienst
+1003099,BRW,Beek,Kazernebezetting TS Dagdienst
+1003100,BRW,Meerssen,Bevelvoerder van Dienst
+1003101,BRW,Meerssen,Ploeg A
+1003102,BRW,Meerssen,Ploeg B
+1003105,BRW,Meerssen,Postalarm
+1003109,BRW,Meerssen,Chauffeurs HA
+1003112,BRW,Meerssen,Plotters COH
+1003200,BRW,Valkenburg,Bevelvoerder van Dienst
+1003201,BRW,Valkenburg,Bezetting TS ANW
+1003205,BRW,Valkenburg,Postalarm
+1003206,BRW,Valkenburg,Bezetting AL ANW
+1003209,BRW,Valkenburg,Bezetting AL Dagdienst
+1003210,BRW,Valkenburg,Verkenningseenheid
+1003211,BRW,Valkenburg,Bezetting SIV
+1003215,BRW,Valkenburg,Dienstwisselcode
+1003250,BRW,Bocholtz,Bevelvoerder van Dienst
+1003255,BRW,Bocholtz,Postalarm
+1003300,BRW,Simpelveld,Bevelvoerder van Dienst
+1003305,BRW,Simpelveld,Postalarm
+1003350,BRW,Born,Bevelvoerder van Dienst
+1003351,BRW,Born,Ploeg A
+1003352,BRW,Born,Ploeg B
+1003353,BRW,Born,Ploeg C
+1003355,BRW,Born,Postalarm
+1003356,BRW,Born,Bezetting HA Ploeg A
+1003357,BRW,Born,Bezetting HA Ploeg B
+1003358,BRW,Born,Bezetting HA Ploeg C
+1003359,BRW,Born,Bezetting HA Totaal
+1003400,BRW,Geleen,Bevelvoerder van Dienst
+1003405,BRW,Geleen,Postalarm
+1003409,BRW,Geleen,Bezetting HV-KR
+1003410,BRW,Geleen,Bezetting HA
+1003501,BRW,Westelijke Mijnstreek,OvD-Bevolkingszorg
+1003550,BRW,Sittard-Oost,Bevelvoerder van Dienst
+1003555,BRW,Sittard-Oost,Postalarm
+1003560,BRW,Sittard-Oost,Verkenningseenheid
+1003658,BRW,Brunssum,Bezetting TS
+1003660,BRW,Brunssum,Bevelvoerder van Dienst
+1003662,BRW,Brunssum,Bezetting HV-KR
+1003664,BRW,Brunssum,Bezetting HA + WTH-WK
+1003749,BRW,Brunssum,Postalarm
+1003750,BRW,Regionaal,Hoofd Crisiscommunicatie
+1003751,BRW,Regionaal,Communicatieadviseur CoPI
+1003752,BRW,Regionaal,Communicatieadviseur ROT
+1003753,BRW,Regionaal,Communicatieadviseur GBT + RBT
+1003760,BRW,Regionaal,Sectie Communicatie
+1003775,BRW,Regionaal,Hoofd taakorganisatie Bevolkingszorg
+1003781,BRW,Regionaal,2e OvD-Bevolkingszorg Maastricht/Heuvelland
+1003800,BRW,Regionaal,Geo Informatie Medewerker ROT
+1003850,BRW,Hulsberg,Bevelvoerder van Dienst
+1003855,BRW,Hulsberg,Postalarm
+1003862,BRW,Hulsberg,Geo Informatie Medewerker CoPI
+1003950,BRW,Cadier en Keer,Bevelvoerder van Dienst
+1003955,BRW,Cadier en Keer,Postalarm
+1004000,BRW,Mheer-Banholt,Bevelvoerder van Dienst
+1004005,BRW,Mheer-Banholt,Postalarm
+1004010,BRW,Mheer-Banholt,Verkenningseenheid
+1004050,BRW,Margraten,Bevelvoerder van Dienst
+1004055,BRW,Margraten,Postalarm
+1004059,BRW,Margraten,Bezetting HA + WTH-WK
+1004101,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+1004103,BRW,Regionaal,Notulist GBT
+1004105,BRW,Regionaal,Notulist RBT
+1004150,BRW,Eijsden,Bevelvoerder van Dienst
+1004155,BRW,Eijsden,Postalarm
+1004161,BRW,Eijsden,Duikers
+1004270,BRW,Sittard-West,Bezetting TS
+1004271,BRW,Sittard-West,Herbezettingsploeg
+1004272,BRW,Sittard-West,Bezetting AL
+1004273,BRW,Sittard-West,Bevelvoerder van Dienst
+1004275,BRW,Sittard-West,Herbezettingsploeg
+1004276,BRW,Sittard-West,Kazernetechniek
+1004300,BRW,Gulpen,Bevelvoerder van Dienst
+1004305,BRW,Gulpen,Postalarm
+1004310,BRW,Gulpen,Verkenningseenheid
+1004350,BRW,Mechelen,Bevelvoerder van Dienst
+1004355,BRW,Mechelen,Postalarm
+1004359,BRW,Mechelen,Bezetting HV-KR
+1004366,BRW,Nijswiller,Bezetting SIV
+1004401,BRW,Maastricht/Heuvelland,OvD-Bevolkingszorg
+1004403,BRW,Regionaal,Algemeen Commandant Brandweerzorg Oost
+1004404,BRW,Maastricht-Noord,Herbezetting
+1004405,BRW,Maastricht-Noord,Herbezetting Operationele Basissterkte Ploeg 1
+1004411,BRW,Maastricht-Zuid,Bevelvoerder van Dienst
+1004415,BRW,Maastricht-Zuid,Herbezetting
+1004422,BRW,Maastricht-Noord,Bevelvoerder van Dienst
+1004424,BRW,Maastricht-Noord,Bezetting TS
+1004426,BRW,Maastricht-Zuid,Bezetting TS
+1004430,BRW,Maastricht-Noord,Bezetting AL
+1004432,BRW,Maastricht-Zuid,Bezetting HV-KR
+1004435,BRW,Maastricht-Noord,Bezetting Waterscooter
+1004550,BRW,Schinveld,Bevelvoerder van Dienst
+1004555,BRW,Schinveld,Postalarm
+1004600,BRW,Regionaal,Commandant van Dienst
+1004601,BRW,Regionaal,Regionaal Operationeel Leider
+1004604,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1004610,BRW,GMK Limburg,Piket Centralisten
+1004614,BRW,Regionaal,Verslaglegger LCMS
+1004616,BRW,Regionaal,Voorlichting (Piket)
+1004620,BRW,Regionaal,HOvD West (Alarmcode)
+1004624,BRW,Regionaal,Piket Functionaris Logistiek (Infocode)
+1004625,BRW,Regionaal,Piket Functionaris Logistiek (Alarmcode)
+1004630,BRW,Regionaal,Team Brandonderzoek
+1004634,BRW,Regionaal,HOvD West (Infocode)
+1004635,BRW,Regionaal,HOvD Oost (Infocode)
+1004642,BRW,Regionaal,Adviseur
+1004645,BRW,Regionaal,Bedrijfsbrandweer Chemelot (Droneteam)
+1004657,BRW,Regionaal,Team Collegiale Ondersteuning
+1004670,BRW,MKB Limburg,Centralist - Persoonlijk
+1004671,BRW,MKB Limburg,Centralist - Persoonlijk
+1004672,BRW,MKB Limburg,Centralist - Persoonlijk
+1004673,BRW,MKB Limburg,Centralist - Persoonlijk
+1004674,BRW,MKB Limburg,Centralist - Persoonlijk
+1004675,BRW,MKB Limburg,Centralist - Persoonlijk
+1004676,BRW,MKB Limburg,Centralist - Persoonlijk
+1004677,BRW,MKB Limburg,Centralist - Persoonlijk
+1004678,BRW,MKB Limburg,Centralist - Persoonlijk
+1004679,BRW,MKB Limburg,Centralist - Persoonlijk
+1004680,BRW,MKB Limburg,Centralist - Persoonlijk
+1004681,BRW,MKB Limburg,Centralist - Persoonlijk
+1004682,BRW,MKB Limburg,Centralist - Persoonlijk
+1004683,BRW,MKB Limburg,Centralist - Persoonlijk
+1004684,BRW,MKB Limburg,Centralist - Persoonlijk
+1004685,BRW,MKB Limburg,Centralist - Persoonlijk
+1004686,BRW,MKB Limburg,Centralist - Persoonlijk
+1004688,BRW,MKB Limburg,Centralist - Persoonlijk
+1004689,BRW,MKB Limburg,Centralist - Persoonlijk
+1004690,BRW,MKB Limburg,Centralist - Persoonlijk
+1004691,BRW,MKB Limburg,Centralist - Persoonlijk
+1004692,BRW,MKB Limburg,Centralist - Persoonlijk
+1004695,BRW,MKB Limburg,Centralist - Persoonlijk
+1004696,BRW,MKB Limburg,Centralist - Persoonlijk
+1004697,BRW,MKB Limburg,Centralist - Persoonlijk
+1004699,BRW,MKB Limburg,Centralist - Persoonlijk
+1004700,BRW,Schinnen,Bevelvoerder van Dienst
+1004705,BRW,Schinnen,Postalarm
+1004709,BRW,Schinnen,Bezetting HA + WTH-WK
+1004771,BRW,Regionaal,Medewerker Sectie Bevolkingszorg Parkstad Zuid
+1004773,BRW,Regionaal,Medewerker Sectie BZ Westelijke Mijnstreek
+1004801,BRW,Regionaal,Liaison Defensie ROT
+1004850,BRW,Stein,Bevelvoerder van Dienst
+1004855,BRW,Stein,Postalarm
+1004859,BRW,Stein,Bezetting HA
+1004861,BRW,Stein,Duikploeg
+1004902,BRW,Regionaal,Informatiemanager Regionaal Operationeel Team
+1004930,BRW,Regionaal,Informatiemanager CoPI District 3 Noord
+1004931,BRW,Regionaal,Informatiemanager CoPI District 3 Zuid
+1004932,BRW,Regionaal,Informatiemanager CoPI - District 1
+1004933,BRW,Regionaal,Informatiemanager CoPI - District 2
+1004935,BRW,Regionaal,Pelotonscommandant GW Cluster Westelijke Mijnstreek
+1004936,BRW,Regionaal,Pelotonscommandant GW Cluster Maastricht
+1004937,BRW,Regionaal,Pelotonscommandant GW Cluster Parkstad Zuid
+1004940,BRW,Regionaal,OvD Cluster Oost
+1004941,BRW,Regionaal,OvD Cluster Zuid
+1004942,BRW,Regionaal,OvD Cluster Maastricht
+1004943,BRW,Regionaal,OvD Cluster Westelijke Mijnstreek
+1005000,BRW,Vaals,Bevelvoerder van Dienst
+1005001,BRW,Vaals,Ploeg 1
+1005002,BRW,Vaals,Ploeg 2
+1005003,BRW,Vaals,Ploeg 3
+1005005,BRW,Vaals,Ploeg Dagdienst
+1005011,BRW,Vaals,Chauffeurs HA Ploeg 1
+1005012,BRW,Vaals,Chauffeurs HA Ploeg 2
+1005013,BRW,Vaals,Chauffeurs HA Ploeg 3
+1005014,BRW,Vaals,Chauffeurs HA Dagdienst
+1005060,BRW,GMK Limburg,Waterleiding Maatschappij Limburg
+1005061,BRW,GMK Limburg,GMK Limburg (Rijkswaterstaat Meldpunt Water
+1005065,BRW,Regionaal,Maastricht Aachen Airport (On Scene Commander)
+1005070,BRW,Regionaal,Regionaal adviseur natuurbrand D.D. Boswachter
+1005080,BRW,Regionaal,Infocode Verkeersleider Rijkswaterstaat Dienst Rijkswegen
+1005090,BRW,Regionaal,Tunneltoezicht Markt-Maastunnel
+1005101,BRW,Regionaal,OvD-Bevolkingszorg Parkstad-Zuid
+1005110,BRW,Kerkrade,Bevelvoerder van Dienst
+1005112,BRW,Kerkrade,Bezetting TS
+1005114,BRW,Kerkrade,Bezetting AL
+1005116,BRW,Kerkrade,Bezetting HA
+1005249,BRW,Kerkrade,Postalarm
+1005250,BRW,Heerlen,Postalarm
+1005251,BRW,Regionaal,OvD-Bevolkingszorg Parkstad-Noord
+1005253,BRW,Regionaal,Algemeen Commandant Brandweerzorg West
+1005256,BRW,Regionaal,HOvD Oost (Alarmcode)
+1005258,BRW,Heerlen,Bezetting TS
+1005260,BRW,Heerlen,Bezetting AL
+1005261,BRW,Regionaal,Hoofd Informatie Bevolkingszorg
+1005264,BRW,Heerlen,Bevelvoerder van Dienst
+1005266,BRW,Heerlen,Kazernealarm + Bezetting AH
+1005270,BRW,Heerlen,Herbezetting
+1005400,BRW,Regionaal,Piket Provincie Openbare Orde en Veiligheid
+1005500,BRW,Beek,Burgemeester
+1005501,BRW,Beek,Gemeentesecretaris
+1005540,BRW,Heerlen,Burgemeester
+1005546,BRW,Heerlen,Openbare werken
+1005556,BRW,Regionaal,Hoofd Crisiscommunicatie
+1005559,BRW,Kerkrade,Coördinerend Burgemeester
+1005560,BRW,Kerkrade,Burgemeester
+1005563,BRW,Kerkrade,Voorlichting
+1005570,BRW,Landgraaf,Burgemeester
+1005573,BRW,Landgraaf,Voorlichting
+1005577,BRW,GMK,Calamiteiten Coördinator
+1005580,BRW,Maastricht,Burgemeester
+1005581,BRW,Maastricht,Gemeentesecretaris
+1005584,BRW,Maastricht,Gemeentelijk Beleids Team
+1005600,BRW,Meerssen,Burgemeester
+1005643,BRW,Simpelveld,Voorlichting
+1005650,BRW,Sittard,Burgemeester
+1005651,BRW,Sittard,Gemeentesecretaris
+1005680,BRW,Vaals,Burgemeester
+1005700,BRW,Valkenburg,Burgemeester
+1005997,BRW,MKB Limburg,Aansturing Lichtkranten
+1005998,BRW,BRW Zuid-Limburg,Monitorcode
+1005999,BRW,BRW Zuid-Limburg,Infocode/Proefalarm
+1023001,AMBU,AmbulanceZorg Limburg,MICU 24-301
+1023102,AMBU,Duitsland,Stadteregion Aachen (Lichtkrant)
+1023104,AMBU,Duitsland,Kreis Heinsberg (Lichtkrant)
+1023502,AMBU,MKA Zuid-Limburg,Proefalarm
+1023505,AMBU,MKA Zuid-Limburg,GRIP-1
+1023506,AMBU,MKA Zuid-Limburg,GRIP-2
+1023507,AMBU,MKA Zuid-Limburg,GRIP-3
+1023508,AMBU,MKA Zuid-Limburg,GRIP-4
+1023509,AMBU,MKA Zuid-Limburg,RGF
+1023510,AMBU,GHOR Zuid-Limburg,Algemeen Commandant Geneeskundige Zorg
+1023511,AMBU,GHOR Zuid-Limburg,Hoofd Ondersteuning
+1023514,AMBU,GHOR Zuid-Limburg,OvD-G
+1023532,AMBU,GHOR Zuid-Limburg,GAGS Zuid Nederland
+1023703,AMBU,MKA Zuid-Limburg,Hoofd Informatie
+1023950,AMBU,NRK Zuid-Limburg,Noodhulp-Team UGS Sittard
+1023951,AMBU,NRK Zuid-Limburg,Noodhulp-Team UGS Geleen
+1023952,AMBU,NRK Zuid-Limburg,Noodhulp-Team UGS Buchten
+1023953,AMBU,NRK Zuid-Limburg,Noodhulp-Team UGS Heerlen
+1023954,AMBU,NRK Zuid-Limburg,Noodhulp-Team UGS Maastricht
+1023955,AMBU,NRK Zuid-Limburg,Proefalarm
+1033000,POL,Politie Eenheid Limburg,GMK Beheer
+1033002,POL,Politie Eenheid Limburg,GMK Calamiteitencoordinator
+1033025,POL,Politie Eenheid Limburg,Onbekende code
+1033070,POL,Politie Eenheid Limburg,OvD Recherche Zuid-West
+1033090,POL,Politie Eenheid Limburg,OvD Recherche Parkstad
+1033138,POL,Politie Eenheid Limburg,Forensische Opsporing
+1033140,POL,Politie Eenheid Limburg,Coördinator Forensische Opsporing
+1033150,POL,Politie Eenheid Limburg,Zedenpolitie Zuid
+1033151,POL,Politie Eenheid Limburg,Zedenpolitie
+1033155,POL,Politie Eenheid Limburg,Vrijwillige Politie
+1033160,POL,Politie Eenheid Limburg,Team Grootschalige Opsporing
+1033180,POL,Politie Eenheid Limburg,Teamleider Explosieven Veiligheid
+1033190,POL,Politie Eenheid Limburg,Team Crisisbeheersing
+1033198,POL,Politie Eenheid Limburg,Aanhoudingseenheid (Noord)
+1033199,POL,Politie Eenheid Limburg,Aanhoudingseenheid (Zuid)
+1033200,POL,Politie Eenheid Limburg,EC Leiding
+1033205,POL,Politie Eenheid Limburg,OvJ (Piket)
+1033210,POL,Politie Eenheid Limburg,Voorlichting
+1033215,POL,OC-P,Persinformatie (Zuid-Limburg)
+1033216,POL,OC-P,Persinformatie (Noord-en-Midden-Limburg)
+1033231,POL,Politie Eenheid Limburg,TCO District Noord en Midden Limburg
+1033232,POL,Politie Eenheid Limburg,TCO District Parkstad-Limburg
+1033233,POL,Politie Eenheid Limburg,TCO District Zuid-West-Limburg
+1033239,POL,Politie Eenheid Limburg,Urgente Persoonsvermissingen
+1033280,POL,Politie Eenheid Limburg,BHV (Monitorcode)

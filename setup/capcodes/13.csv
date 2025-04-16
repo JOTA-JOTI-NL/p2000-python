@@ -1,0 +1,431 @@
+capcode,discipline,locatie/divisie,beschrijving
+0100000,BRW,Aalsmeer,Postalarm
+0100010,BRW,Aalsmeer,Bevelvoerder van dienst
+0100011,BRW,Aalsmeer,Bezetting TS
+0100012,BRW,Aalsmeer,Bezetting HA
+0100091,BRW,Aalsmeer,Lichtkrant
+0100099,BRW,Aalsmeer,Noodprocedure
+0100100,BRW,Amstelveen,Vrijwilligers Postalarm
+0100108,BRW,Amstelveen,Verkenningseenheid
+0100110,BRW,Amstelveen,Beroeps (Bevelvoerder)
+0100111,BRW,Amstelveen,Beroeps (Bezetting TS/WO)
+0100112,BRW,Amstelveen,Beroeps (Bezetting AL/HV)
+0100120,BRW,Amstelveen,Vrijwilligers (Bevelvoerder van Dienst)
+0100121,BRW,Amstelveen,Vrijwilligers (Bezetting TS/HV/WO)
+0100122,BRW,Amstelveen,Vrijwilligers (Hebezetting)
+0100131,BRW,Amstelveen,Beroeps (Bezetting AB)
+0100181,BRW,Amstelveen,Vrijwilligers (Kazernetechniek)
+0100191,BRW,Amstelveen,Beroeps (Lichtkrant)
+0100192,BRW,Amstelveen,Vrijwilligers (Lichtkrant)
+0100193,BRW,Amstelveen,Beroeps (Lichtkrant Werkplaats AB)
+0100200,BRW,Anton,Kazernealarm noodprocedure
+0100210,BRW,Anton,Bevelvoerder
+0100211,BRW,Anton,Bezetting TS
+0100212,BRW,Anton,Bezetting AL
+0100291,BRW,Anton,Lichtkrant
+0100300,BRW,Dirk,Kazernealarm noodprocedure
+0100310,BRW,Dirk,Bevelvoerder
+0100311,BRW,Dirk,Bezetting TS
+0100312,BRW,Dirk,AL groep
+0100391,BRW,Dirk,Lichtkrant
+0100400,BRW,Driemond,Postalarm
+0100408,BRW,Driemond,Verkenningseenheid
+0100409,BRW,Driemond,Bezetting TS-SK
+0100410,BRW,Driemond,Bevelvoerder van Dienst
+0100411,BRW,Driemond,Bezetting TS
+0100412,BRW,Driemond,Bezetting AB
+0100491,BRW,Driemond,Lichtkrant
+0100500,BRW,Hendrik,Kazernealarm noodprocedure
+0100510,BRW,Hendrik,Bevelvoerder van Dienst
+0100511,BRW,Hendrik,Bezetting TS
+0100512,BRW,Hendrik,Bezetting AL
+0100591,BRW,Hendrik,Lichtkrant
+0100600,BRW,IJsbrand,Kazernealarm noodprocedure
+0100610,BRW,IJsbrand,Bevelvoerder
+0100611,BRW,IJsbrand,Bezetting TS
+0100691,BRW,IJsbrand,Lichtkrant
+0100700,BRW,Nico,Kazernealarm noodprocedure
+0100710,BRW,Nico,Bevelvoerder van Dienst
+0100711,BRW,Nico,Bezetting TS / Duikploeg
+0100712,BRW,Nico,Bezetting AL
+0100791,BRW,Nico,Lichtkrant
+0100800,BRW,Osdorp,Kazernealarm noodprocedure
+0100810,BRW,Osdorp,Bevelvoerder van Dienst
+0100811,BRW,Osdorp,Bezetting TS
+0100891,BRW,Osdorp,Lichtkrant
+0100900,BRW,Pieter,Kazernealarm Noodprocedure
+0100910,BRW,Pieter,Bevelvoerder
+0100911,BRW,Pieter,Bezetting TS
+0100912,BRW,Pieter,Bezetting AL
+0100991,BRW,Pieter,Lichtkrant
+0101000,BRW,Galwin,Postalarm Gezamenlijke Brandweer
+0101010,BRW,Sloterdijk GBA,Bevelvoerder
+0101011,BRW,Sloterdijk GBA,Bezetting TS-UHD
+0101012,BRW,Sloterdijk GBA,Bezetting AS-IB (Industriële brandbestrijding)
+0101091,BRW,Sloterdijk GBA,Lichtkrant
+0101100,BRW,Teunis,Kazernealarm noodprocedure
+0101110,BRW,Teunis,Bevelvoerder
+0101111,BRW,Teunis,Bezetting TS
+0101112,BRW,Teunis,Bezetting AL /HV-KR
+0101191,BRW,Teunis,Lichtkrant
+0101200,BRW,Victor,Kazernealarm noodprocedure
+0101210,BRW,Victor,Bevelvoerder
+0101211,BRW,Victor,Bezetting TS
+0101212,BRW,Victor,Bezetting AL
+0101291,BRW,Victor,Lichtkrant
+0101300,BRW,Weesp,Postalarm
+0101306,BRW,Weesp,Bezetting CO-MCU
+0101307,BRW,Weesp,Oppervlaktewater Redteam
+0101308,BRW,Weesp,Verkenningseenheid
+0101309,BRW,Weesp,Bezetting TS-SK
+0101310,BRW,Weesp,Bevelvoerder van Dienst
+0101311,BRW,Weesp,Bezetting TS
+0101381,BRW,Weesp,Kazernetechniek
+0101391,BRW,Weesp,Lichtkrant
+0101400,BRW,Willem,Kazernealarm noodprocedure
+0101410,BRW,Willem,Bevelvoerder van dienst
+0101411,BRW,Willem,Bezetting TS
+0101412,BRW,Willem,Bezetting AL
+0101491,BRW,Willem,Lichtkrant
+0101500,BRW,Zebra,Postalarm
+0101510,BRW,Zebra,Bevelvoerder
+0101511,BRW,Zebra,Bezetting TS -> 132231 + Quick Response Team -> 132281
+0101591,BRW,Zebra,Lichtkrant
+0101600,BRW,Diemen,Postalarm
+0101609,BRW,Diemen,Bezetting TS-SK
+0101610,BRW,Diemen,Bevelvoerders
+0101611,BRW,Diemen,Bezetting TS
+0101612,BRW,Diemen,Bezetting HV-KR
+0101613,BRW,Diemen,Bezetting MCU
+0101691,BRW,Diemen,Lichtkrant
+0101700,BRW,Duivendrecht,Postalarm
+0101708,BRW,Duivendrecht,Verkenningseenheid IBGS
+0101709,BRW,Duivendrecht,Bezetting TS-SK
+0101710,BRW,Duivendrecht,Bevelvoerder van Dienst
+0101711,BRW,Duivendrecht,Bezetting TS
+0101712,BRW,Duivendrecht,Bezetting HA
+0101719,BRW,Duivendrecht,Pompbedieners Blusponton Cerberus 13-8062
+0101791,BRW,Duivendrecht,Lichtkrant
+0101800,BRW,Uithoorn,Postalarm
+0101809,BRW,Uithoorn,Bezetting TS-SK
+0101810,BRW,Uithoorn,Bevelvoerder van Dienst
+0101811,BRW,Uithoorn,Bezetting TS
+0101812,BRW,Uithoorn,Bemanning BRB Blusrobot
+0101891,BRW,Uithoorn,Lichtkrant
+0101900,BRW,Galwin,Postalarm Logistiek
+0101902,BRW,Galwin,Piketfunctionaris Centraal Logistiek Transport
+0101910,BRW,Logistiek Galwin,Ploegleider Ploeg 1
+0101911,BRW,Galwin,Logistiekploeg 1
+0101920,BRW,Galwin,Functionaris Logistiek Ploeg 2
+0101921,BRW,Logistiek Galwin,Ploeg 2
+0101930,BRW,Galwin,Functionaris Logistiek Ploeg 3
+0101931,BRW,Logistiek Galwin,Ploeg 3
+0101940,BRW,Jan van der Heijden,Bevelvoerder/Schipper BRV-G
+0101941,BRW,Jan van der Heijden,Bezetting BRV-G
+0101991,BRW,Logistiek Galwin,Lichtkrant
+0101992,BRW,Jan van der Heijden Boothuis,Lichtkrant Boothuis
+0102000,BRW,Regionaal,HOvD (Infocode)
+0102001,BRW,Regionaal,HOvD / Taakcommandant (Alarmcode)
+0102003,BRW,Regionaal,Taakcommandant (Alarmcode)
+0102004,BRW,Regionaal,OvD-Noord (Infocode)
+0102005,BRW,Regionaal,OvD-Noord (Alarmcode)
+0102006,BRW,Regionaal,OvD-Zuid (Infocode)
+0102007,BRW,Regionaal,OvD-Zuid (Alarmcode)
+0102008,BRW,Regionaal,OvD-Regio (Infocode)
+0102009,BRW,Regionaal,OvD-Regio (Alarmcode)
+0102010,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (Infocode)
+0102011,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (Alarmcode)
+0102014,BRW,Regionaal,Coordinator Verkenningseenheden
+0102020,BRW,Regionaal,Tactisch Officier Alarmcentrale) (Infocode)
+0102021,BRW,Regionaal,Tactisch Officier Alarmcentrale
+0102022,BRW,Regionaal,Team Brandonderzoek (TBO)
+0102023,BRW,Regionaal,Voorlichter
+0102024,BRW,Regionaal,Coördinator Team Collegiale Opvang
+0102025,BRW,Regionaal,Pelotonscommandant Logistiek
+0102028,BRW,Regionaal,Team Brandonderzoek Infocode
+0102029,BRW,Regionaal,Team Brandonderzoek Alarmcode
+0102030,BRW,Regionaal,DCU Actiecentrum
+0102031,BRW,Regionaal,DCU Zuid - Kazerne
+0102032,BRW,Regionaal,DCU Noord - Kazerne Nico
+0102033,BRW,Regionaal,DCU Zuidoost - Kazerne
+0102040,BRW,Regionaal,Commandant van Dienst (Infocode)
+0102041,BRW,Regionaal,Commandant van Dienst (Alarmercode)
+0102049,BRW,Regionaal,Escalatiepiket Meldkamer
+0102050,BRW,Regionaal,Leider CoPI
+0102051,BRW,Regionaal,Informatiemanager CoPI
+0102052,BRW,Regionaal,Persvoorlichter CoPI
+0102053,BRW,Regionaal,Geo Infomatiemedewerker CoPI
+0102059,BRW,GMK Amsterdam,Calamiteitencoordinator
+0102060,BRW,Regionaal,Operationeel Leider ROT
+0102061,BRW,Regionaal,Incidentmanager ROT
+0102062,BRW,Regionaal,Incidentcoordinator ROT
+0102063,BRW,Regionaal,Geo Informatiemedewerker ROT
+0102064,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0102065,BRW,Regionaal,Regionaal Militair Operationeel Adviseur
+0102070,BRW,Regionaal,Adviseur Brandweer BT
+0102073,BRW,Regionaal,Informatiecoordinator BT
+0102080,BRW,AYMA,Coordinator
+0102082,BRW,AYMA,Pompbedieners
+0102083,BRW,AYMA,Monitorbedieners
+0102084,BRW,AYMA,Logistiek
+0102088,BRW,AYMA,Lichtkrant Amsterdam
+0102411,KNRM,KNRM,Reddingsbrigade Amsterdam (Strandgroep)
+0102428,BRW,Bedrijfsbrandweer FloraHolland Aalsmeer,Beveiliging
+0102491,BRW,BRW Amsterdam-Amstelland,Persoonlijkecode
+0102502,BRW,BRW Amsterdam-Amstelland,Aansturing rampenzender RTVNH
+0102539,BRUG,Driemond,Brugwachter
+0102540,BRUG,Weesp,Brugwachter
+0102560,BRUG,Ouderkerk aan de Amstel,Brugwachter N522
+0102561,BRUG,Ouderkerk aan de Amstel,Brugwachter J. Benninghbrug
+0102600,BRW,Regionaal,Adviseur OOV
+0102601,BRW,Regionaal,Technisch Voorzitter Amsterdam
+0102610,BRW,Regionaal,Procescoördinator Bevolkingszorg
+0102611,BRW,Regionaal,Hoofd Sectie Bevolkingszorg
+0102612,BRW,Regionaal,Ondersteuner Hoofd Sectie Bevolkingszorg
+0102613,BRW,Regionaal,OvD-Bevolkingszorg
+0102614,BRW,Regionaal,Hoofd RAC Publieke Zaken
+0102615,BRW,Regionaal,Adviseur Schademanagement
+0102616,BRW,Regionaal,Adviseur Slachtofferregistratie
+0102617,BRW,Regionaal,"Coördinator Evacuatie, opvang en Verzorging"
+0102618,BRW,Regionaal,Coördinator Verbindingen RAC Publieke Zaken
+0102619,BRW,Regionaal,Informatiecoordinator RAC Publieke Zaken
+0102620,BRW,Regionaal,Ondersteuner Verbindingen RAC Publieke Zaken
+0102621,BRW,Regionaal,Verslaglegger RAC Publieke Zaken
+0102622,BRW,Regionaal,Ondersteuner Evacuatie Opvang en Verzorging
+0102623,BRW,Regionaal,Hoofd Opvangcentrum
+0102624,BRW,Regionaal,Assistent Hoofd Opvangcentrum
+0102625,BRW,Regionaal,Teamleider Opvangcentrum
+0102626,BRW,Regionaal,Hoofd Verzamelplaats
+0102630,BRW,Regionaal,Communicatieadviseur BT
+0102631,BRW,Regionaal,Communicatieadviseur ROT
+0102632,BRW,Regionaal,Hoofd RAC Communicatie
+0102633,BRW,Regionaal,Media & Analyse
+0102640,BRW,Regionaal,Regionaal Procescoördinator Omgevingszorg
+0102641,BRW,Regionaal,Hoofd Milieu RAC Omgevingsdienst
+0102642,BRW,Regionaal,Inspecteur Milieu RAC Omgevingsdienst
+0102643,BRW,Regionaal,Hoofd RAC Omgevingsdienst
+0102644,BRW,Regionaal,Informatiecoördinator RAC Omgevingsdienst
+0102645,BRW,Regionaal,Verslaglegger RAC Omgevingsdienst
+0102650,BRW,Regionaal,Adviseur OOV Amstelland
+0102651,BRW,Regionaal,Gemeente Secretaris Amstelland
+0102660,BRW,Regionaal,Lokaal Coördinatie Punt Diemen (Coördinator)
+0102661,BRW,Regionaal,Informatiemanager CoPI
+0102670,BRW,Regionaal,Lokaal Coördinatie Punt Ouder-Amstel (Coördinator)
+0102671,BRW,Regionaal,Lokaal Coördinatie Punt Ouder-Amstel (Voorlichter)
+0102680,BRW,Regionaal,Lokaal Coördinatie Punt Aalsmeer & Amstelveen (Coördinator)
+0102681,BRW,Regionaal,Lokaal Coördinatie Punt Aalsmeer & Amstelveen (Voorlichter)
+0102690,BRW,Regionaal,Lokaal Coördinatie Punt Uithoorn (Coördinator)
+0102691,BRW,Regionaal,Lokaal Coördinatie Punt Uithoorn (Voorlichter)
+0102700,BRW,Regionaal,Liaison Gemeente Amsterdam
+0102705,BRW,Regionaal,Hoofd Actiecentrum Amsterdam
+0102706,BRW,Regionaal,Communicatie Adviseur Actiecentrum
+0102711,BRW,Gemeentelijk Actie Centrum,Amsterdam Centrum (Beleidsmedewerker)
+0102721,BRW,Gemeentelijk Actie Centrum,Nieuw West (Beleidsmedewerker)
+0102731,BRW,Gemeentelijk Actie Centrum,Amsterdam Noord (Beleidsmedewerker)
+0102741,BRW,Gemeentelijk Actie Centrum,Amsterdam Oost (Beleidsmedewerker)
+0102751,BRW,Gemeentelijk Actie Centrum,Amsterdam West (Beleidsmedewerker)
+0102761,BRW,Gemeentelijk Actie Centrum,Amsterdam Zuid (Beleidsmedewerker)
+0102771,BRW,Gemeentelijk Actie Centrum,Amsterdam Zuid-Oost (Beleidsmedewerker)
+0102799,BRW,VR Amsterdam-Amstelland,Gemeentelijk Proefalarm
+0102800,BRW,VR Amsterdam-Amstelland,OvD Bevolkingszorg Noord
+0102801,BRW,VR Amsterdam-Amstelland,OvD Bevolkingszorg Zuid
+0102901,BRW,Regionaal,Vakbekwaamheid
+0102902,BRW,Regionaal,Vakbekwaamheid
+0102903,BRW,Regionaal,Vakbekwaamheid
+0102904,BRW,Regionaal,Vakbekwaamheid
+0102905,BRW,Regionaal,Vakbekwaamheid
+0102906,BRW,Regionaal,Vakbekwaamheid
+0102907,BRW,Regionaal,Vakbekwaamheid
+0102908,BRW,Regionaal,Vakbekwaamheid
+0102909,BRW,Regionaal,Vakbekwaamheid
+0102910,BRW,Regionaal,Vakbekwaamheid
+0102981,BRW,Regionaal,GRIP 1
+0102982,BRW,Regionaal,GRIP 2
+0102983,BRW,Regionaal,GRIP 3
+0102991,BRW,Regionaal,Infocode Bevelvoerders Vrijwillig
+0102993,BRW,Regionaal,Infocode MKB Den Haag
+0102994,BRW,Regionaal,Infocode MKB Zaanstreek-Waterland
+0102995,BRW,Regionaal,Infocode MKB Noord-Holland
+0102996,BRW,Regionaal,Infocode MKB Utrecht
+0102997,BRW,Regionaal,Infocode MKB Gooi & Vechtstreek
+0102998,BRW,OCB Amsterdam,Lichtkrant/Monitor
+0102999,BRW,OCB Amsterdam,Proefalarm
+0120002,AMBU,Regionaal,Algemeen Directeur
+0120004,MKA,Regionaal,Expert Opgeschaalde Zorg
+0120030,AMBU,Regionaal,Piket TCO Functionaris
+0120037,AMBU,Regionaal,Medisch Manager Ambulancezorg
+0120046,AMBU,Uithoorn,AED groep
+0120050,AMBU,Marken,AED groep
+0120061,AMBU,Landsmeer,AED groep
+0120062,AMBU,Purmerland / Den Ilp,AED groep
+0120063,AMBU,Oosthuizen / Schardam / Beets / Warder,AED groep
+0120064,AMBU,Monnickendam,AED groep
+0120066,AMBU,Watergang / Ilpendam,AED groep
+0120067,AMBU,Middelie / Hobrede / Kwadijk,AED groep
+0120068,AMBU,Krommenie,AED groep
+0120069,AMBU,Wijdewormer,AED groep
+0120070,AMBU,Regionaal,TCO Noord/Oost
+0120071,AMBU,Regionaal,TCO Zuid/West
+0120072,AMBU,De Kwakel,AED groep
+0120073,AMBU,Regionaal,TCO Zaanstreek-Waterland
+0120075,AMBU,Regionaal,Waarnemend Algemeen Commandant GHOR
+0120076,AMBU,Wormer,AED groep
+0120077,AMBU,Jisp,AED groep
+0120078,AMBU,Oostknollendam,AED groep
+0120081,AMBU,Aalsmeer,AED groep
+0120082,AMBU,Kudelstaart,AED groep
+0120084,AMBU,Oostzaan,AED groep
+0120086,AMBU,MKA,Operationeel Management MKA
+0120088,AMBU,GHOR Amsterdam,OvD-G
+0120089,AMBU,GHOR Amsterdam,Algemeen Commandant Geneeskundige Zorg
+0120090,AMBU,MKA,Directeur Publieke Gezondheidszorg
+0120091,AMBU,GHOR Amsterdam,Hoofd Actiecentrum GHOR
+0120092,AMBU,GHOR Amsterdam,Geneeskundig Adviseur Gevaarlijke Stoffen
+0120093,AMBU,GHOR Amsterdam,Hoofd Informatie
+0120095,AMBU,MKA,Regionale Infocode
+0120097,AMBU,Regionaal,Achterwacht Noord/Oost
+0120098,AMBU,Regionaal,?
+0120099,AMBU,MKA,Piketcentralist
+0120101,AMBU,Regionaal,Ambulance 13-101
+0120102,AMBU,Regionaal,Ambulance 13-102
+0120103,AMBU,Regionaal,Ambulance 13-103
+0120104,AMBU,Regionaal,Ambulance 13-104
+0120105,AMBU,Regionaal,Ambulance 13-105
+0120106,AMBU,Regionaal,Ambulance 13-106
+0120107,AMBU,Regionaal,Ambulance 13-107
+0120108,AMBU,Regionaal,Ambulance 13-108
+0120109,AMBU,Regionaal,Ambulance 13-109
+0120110,AMBU,Regionaal,Ambulance 13-110
+0120111,AMBU,Regionaal,Ambulance 13-111
+0120112,AMBU,Regionaal,Ambulance 13-112
+0120113,AMBU,Regionaal,Ambulance 13-113
+0120114,AMBU,Regionaal,Ambulance 13-114
+0120115,AMBU,Regionaal,Ambulance 13-115
+0120116,AMBU,Regionaal,Ambulance 13-116
+0120117,AMBU,Regionaal,Ambulance 13-117
+0120118,AMBU,Regionaal,Ambulance 13-118
+0120119,AMBU,Regionaal,Ambulance 13-119
+0120120,AMBU,Regionaal,Ambulance 13-120
+0120121,AMBU,Regionaal,Ambulance 13-121
+0120122,AMBU,Regionaal,Ambulance 13-122
+0120123,AMBU,Regionaal,Ambulance 13-123
+0120124,AMBU,Regionaal,Ambulance 13-124
+0120140,AMBU,Regionaal,Piket Chauffeur Mobiele Intensive Care Unit
+0120150,AMBU,Regionaal,Ambulance 13-150
+0120152,AMBU,Regionaal,Ambulance 13-152
+0120153,AMBU,Regionaal,Ambulance 13-153
+0120156,AMBU,Regionaal,Ambulance 13-156
+0120157,AMBU,Regionaal,Ambulance 13-157
+0120158,AMBU,Regionaal,Ambulance 13-158
+0120159,AMBU,Regionaal,Ambulance 13-159
+0120160,AMBU,Regionaal,Ambulance 13-160
+0120161,AMBU,Regionaal,Ambulance 13-161
+0120162,AMBU,Regionaal,Ambulance 13-162
+0120163,AMBU,Regionaal,Special Care Ambulance 13-163
+0120168,AMBU,Regionaal,Ambulance 13-168
+0120169,AMBU,Regionaal,Ambulance 13-169
+0120170,AMBU,Regionaal,Ambulance 13-170
+0120171,AMBU,Regionaal,Ambulance 13-171
+0120173,AMBU,Regionaal,Ambulance 13-173
+0120174,AMBU,Regionaal,Ambulance 13-174
+0120175,AMBU,Regionaal,Ambulance 13-175
+0120176,AMBU,Regionaal,Ambulance 13-176
+0120177,AMBU,Regionaal,Ambulance 13-177
+0120178,AMBU,Regionaal,Ambulance 13-178
+0120179,AMBU,Regionaal,Ambulance 13-179
+0120180,AMBU,Regionaal,Ambulance 13-180
+0120201,AMBU,Regionaal,Middencomplexe zorg 13-201
+0120202,AMBU,Regionaal,Middencomplexe zorg 13-202
+0120203,AMBU,Regionaal,Middencomplexe zorg 13-203
+0120204,AMBU,Regionaal,Middencomplexe zorg 13-204
+0120205,AMBU,Regionaal,Middencomplexe zorg 13-205
+0120206,AMBU,Regionaal,Middencomplexe zorg 13-206
+0120207,AMBU,Regionaal,Middencomplexe zorg 13-207
+0120208,AMBU,Regionaal,Middencomplexe zorg 13-208
+0120209,AMBU,Regionaal,Middencomplexe zorg 13-209
+0120210,AMBU,Regionaal,Middencomplexe zorg 13-210
+0120211,AMBU,Regionaal,Middencomplexe zorg 13-211
+0120212,AMBU,Regionaal,Middencomplexe zorg 13-212
+0120213,AMBU,Regionaal,Middencomplexe zorg 13-213
+0120214,AMBU,Regionaal,Middencomplexe zorg 13-214
+0120215,AMBU,Regionaal,Middencomplexe zorg 13-215
+0120216,AMBU,Regionaal,Middencomplexe zorg 13-216
+0120217,AMBU,Regionaal,Middencomplexe zorg 13-217
+0120218,AMBU,Regionaal,Middencomplexe zorg 13-218
+0120219,AMBU,Regionaal,Middencomplexe zorg 13-219
+0120220,AMBU,Regionaal,Middencomplexe zorg 13-220
+0120250,AMBU,Regionaal,Vooralarm Leiding Nederlandse Rode Kruis
+0120251,AMBU,Regionaal,Opvang en Verzorging Rode Kruis Amsterdam
+0120262,AMBU,Volendam,AED groep
+0120263,AMBU,Edam,AED groep
+0120264,AMBU,Purmerend,AED groep
+0120265,AMBU,Middenbeemster,AED groep
+0120269,AMBU,Koog aan de Zaan,AED groep
+0120270,AMBU,Zaandam,AED groep
+0120271,AMBU,Zaandijk,AED groep
+0120272,AMBU,Westzaan,AED groep
+0120273,AMBU,Assendelft,AED groep
+0120274,AMBU,Westknollendam,AED groep
+0120301,AMBU,Regionaal,Mobiele Intensive Care Unit 13-301
+0120302,AMBU,Regionaal,Mobiele Intensive Care Unit 13-302
+0120340,AMBU,Regionaal,Rapid Responder 13-340
+0120341,AMBU,Regionaal,Rapid Responder 13-341
+0120342,AMBU,Regionaal,Rapid Responder 13-342
+0120343,AMBU,Regionaal,Rapid Responder 13-343
+0120344,AMBU,Regionaal,Rapid Responder 13-344
+0120422,AMBU,Ouderkerk aan de Amstel,AED groep
+0120423,AMBU,Wormerveer,AED groep
+0120430,AMBU,Regionaal,Special Operations Response Team
+0120450,AMBU,Regionaal,Special Operations Response Team (Coordinator)
+0120502,AMBU,Regionaal,Nederlandse Rode Kruis
+0120590,AMBU,Amsterdam,Special Operations Response Team 13-590
+0120591,AMBU,Amsterdam,Special Operations Response Team 13-591
+0120627,AMBU,Rode Kruis,Noodhulpteam Opkomstlocatie Amsterdam
+0120630,AMBU,Rode Kruis,Noodhulpteam Proefalarm
+0120632,AMBU,Rode Kruis,Noodhulpteam Opkomstlocatie Oostzaan
+0120671,AMBU,Regionaal,Psychosociale Hulp-ZaWa
+0120701,AMBU,Regionaal,HAP Ambu 13-701 (OLVG-Oost)
+0120702,AMBU,Regionaal,HAP Ambu 13-702 (OLVG-Oost)
+0120703,AMBU,Regionaal,HAP Ambu 13-703
+0120704,AMBU,Regionaal,HAP Ambu 13-704 (OLVG-Oost)
+0120705,AMBU,Regionaal,HAP Ambu 13-705 (OLVG-West)
+0120706,AMBU,Regionaal,HAP Ambu 13-706 (VUmc)
+0120707,AMBU,Regionaal,HAP Ambu 13-707
+0120739,BRUG,Weesp,Brugwachter Roskambrug
+0120740,BRUG,Zaanstad,Bruggen Zaanstad
+0120770,BRUG,Amsterdam,Schinkelbrug A10 Zuidkant
+0120772,BRUG,Amsterdam-West,Brug Overtoom
+0120773,BRUG,Schellingwoude,Brug Schellingwoude
+0120774,BRUG,Diemen,Bruggen Diemen
+0120775,BRUG,Aalsmeer,Brugwachter Aalsmeerderbrug
+0120776,BRUG,Vrouwenakker,Brug Vrouwenakker N231
+0120777,BRUG,Ouderkerk a/d Amstel,Brug Ouderkerk a/d Amstel
+0120778,BRUG,Aalsmeer,Bosrandbrug Aalsmeer
+0120779,BRUG,Uithoorn,Prinses Irenebrug N201 Uithoorn
+0120780,BRUG,Amsterdam,Brug IJdoornlaan Amsterdam
+0120800,AMBU,Regionaal,GHOR Amsterdam e.o. - Proefalarm
+0120810,AMBU,Regionaal,PSH Team Zuid
+0120811,AMBU,Regionaal,OvD-G 811
+0120812,AMBU,Regionaal,OvD-G 812
+0120813,AMBU,Regionaal,OvD-G 813
+0120814,AMBU,Regionaal,OvD-G 814
+0120830,AMBU,Regionaal,NRK Noodhulp-Team UGS Amsterdam
+0120831,AMBU,Regionaal,NRK Noodhulp-Team UGS Zaanstreek Waterland
+0120872,AMBU,Regionaal,Voorlichting GGD
+0120874,AMBU,Regionaal,Arts Infectieziekten
+0120901,LifeLiner,Regionaal,Traumahelikopter LifeLiner 1
+0120990,AMBU,MKA Zaanstreek-Waterland,AED Monitorcode
+0120998,AMBU,Meldkamer Ambulancezorg,Monitorcode piket functionarissen
+0120999,AMBU,Meldkamer Ambulancezorg,Monitorcode
+0130004,POL,Regionaal,Teamleider Explosieven Veiligheid
+0130005,POL,Regionaal,Team Explosieven Veiligheid
+0130007,POL,OC-P,PersInformatie
+0130700,POL,Regionaal,Hoofd Officier van Dienst
+0130750,POL,Dienst Regionale InformatieOrganisatie (DRIO),Officier van dienst intelligence - Real Time Intelligence Center
+0130980,POL,GMK,Piket Beheer Politie Amsterdam
+0130981,POL,GMK,Multidisciplinair adviseur C2000 (MAC GMK)
+0130900,POL,SGBO,Hoogsensitief Persoon
+0130990,POL,OC-P,Operationeel Coördinator Operationeel Centrum
+0130991,POL,Dienst Regionaal Operationeel Centrum (DROC),OvD Operationeel Centrum
+0130998,POL,OC-P,Lichtkrant
+0130999,POL,OC-P,Proefalarm

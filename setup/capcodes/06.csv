@@ -1,0 +1,779 @@
+capcode,discipline,locatie/divisie,beschrijving
+0803000,BRW,Regionaal,Proefalarm
+0803001,BRW,Aalten,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803002,BRW,Winterswijk,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803003,BRW,Oost Gelre,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803004,BRW,Berkelland,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803005,BRW,Oude IJsselstreek,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803006,BRW,Montferland,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803007,BRW,Doetinchem,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803008,BRW,Bronckhorst,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803009,BRW,Lochem,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803010,BRW,Zutphen,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803011,BRW,Brummen,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803012,BRW,Voorst,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803013,BRW,Epe,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803014,BRW,Apeldoorn Centrum,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803015,BRW,Ermelo,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803016,BRW,Harderwijk,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803017,BRW,Oldebroek,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803018,BRW,Hattem,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803019,BRW,Heerde,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803020,BRW,Putten,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803021,BRW,Nunspeet,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803022,BRW,Elburg,Bezetting Coordinatiepunt Decentrale Uitgifte
+0803041,BRW,Aalten,Postcoordinator
+0803042,BRW,Aalten,Postalarm
+0803043,BRW,Aalten,Bevelvoeder van Dienst
+0803045,BRW,Aalten,Kazernecode
+0803046,BRW,Aalten,Bezetting TS Ploeg 1
+0803047,BRW,Aalten,Bezetting TS Ploeg 2
+0803048,BRW,Aalten,Bezetting TS Ploeg 3
+0803055,BRW,Aalten,Bezetting WT Ploeg 1
+0803056,BRW,Aalten,Bezetting WT Ploeg 2
+0803057,BRW,Aalten,Bezetting WT Ploeg 3
+0803063,BRW,Aalten,First Responders
+0803068,BRW,Aalten,Verkenningseenheid
+0803070,BRW,Aalten,Lichtkrant
+0803075,BRW,Aalten,Procedure Lokaal Afhandelen
+0803081,BRW,Dinxperlo,Postcoordinator
+0803082,BRW,Dinxperlo,Postalarm
+0803083,BRW,Dinxperlo,Bevelvoeder van Dienst
+0803085,BRW,Dinxperlo,Kazernecode
+0803086,BRW,Dinxperlo,Bezetting TS Ploeg 1
+0803087,BRW,Dinxperlo,Bezetting TS Ploeg 2
+0803103,BRW,Dinxperlo,First-Responder
+0803110,BRW,Dinxperlo,Lichtkrant
+0803121,BRW,Winterswijk,Postcoordinator
+0803122,BRW,Winterswijk,Postalarm
+0803123,BRW,Winterswijk,Bevelvoeder van Dienst
+0803125,BRW,Winterswijk,Kazernecode
+0803126,BRW,Winterswijk,Bezetting TS Ploeg 1
+0803127,BRW,Winterswijk,Bezetting TS Ploeg 2
+0803128,BRW,Winterswijk,Bezetting TS Ploeg 3
+0803135,BRW,Winterswijk,Bezetting HA
+0803137,BRW,Winterswijk,Bezetting WTS-1500 Ploeg 3
+0803138,BRW,Winterswijk,Bezetting HW Ploeg 1
+0803139,BRW,Winterswijk,Bezetting HW Ploeg 2
+0803140,BRW,Winterswijk,Bezetting HW Ploeg 3
+0803141,BRW,Winterswijk,Bezetting WT Ploeg 1
+0803142,BRW,Winterswijk,Bezetting WT Ploeg 2
+0803143,BRW,Winterswijk,Bezetting WT Ploeg 3
+0803150,BRW,Winterswijk,Lichtkrant
+0803155,BRW,Winterswijk,Procedure Lokaal Afhandelen
+0803161,BRW,Groenlo,Postcoordinator
+0803162,BRW,Groenlo,Postalarm
+0803163,BRW,Groenlo,Bevelvoeder van Dienst
+0803165,BRW,Groenlo,Kazernecode
+0803166,BRW,Groenlo,Bezetting TS Ploeg 1
+0803167,BRW,Groenlo,Bezetting TS Ploeg 2
+0803173,BRW,Groenlo,Oppervlaktewater Redteam
+0803175,BRW,Groenlo,Bezetting WT Ploeg 1
+0803176,BRW,Groenlo,Bezetting WT Ploeg 2
+0803190,BRW,Groenlo,Lichtkrant
+0803195,BRW,Oost Gelre,Procedure Lokaal Afhandelen
+0803201,BRW,Lichtenvoorde,Postcoordinator
+0803202,BRW,Lichtenvoorde,Postalarm
+0803203,BRW,Lichtenvoorde,Bevelvoeder van Dienst
+0803205,BRW,Lichtenvoorde,Kazernecode
+0803206,BRW,Lichtenvoorde,Bezetting TS Ploeg 1
+0803207,BRW,Lichtenvoorde,Bezetting TS Ploeg 2
+0803208,BRW,Lichtenvoorde,Bezetting TS Ploeg 3
+0803215,BRW,Lichtenvoorde,Bezetting HV Ploeg 1
+0803216,BRW,Lichtenvoorde,Bezetting HV Ploeg 2
+0803217,BRW,Lichtenvoorde,Bezetting HV Ploeg 3
+0803218,BRW,Lichtenvoorde,Bezetting KW/WTS500 Ploeg 1
+0803219,BRW,Lichtenvoorde,Bezetting KW/WTS500 Ploeg 2
+0803220,BRW,Lichtenvoorde,Bezetting KW/WTS500 Ploeg 3
+0803221,BRW,Lichtenvoorde,Bezetting VI - Ploeg 1
+0803222,BRW,Lichtenvoorde,Bezetting VI - Ploeg 2
+0803223,BRW,Lichtenvoorde,Bezetting VI - Ploeg 3
+0803230,BRW,Lichtenvoorde,Lichtkrant
+0803241,BRW,Borculo,Postcoordinator
+0803242,BRW,Borculo,Postalarm
+0803243,BRW,Borculo,Bevelvoeder van Dienst
+0803245,BRW,Borculo,Kazernecode
+0803246,BRW,Borculo,Bezetting TS Ploeg 1
+0803247,BRW,Borculo,Bezetting TS Ploeg 2
+0803270,BRW,Borculo,Lichtkrant
+0803275,BRW,Berkelland,Procedure Lokaal Afhandelen
+0803281,BRW,Eibergen,Postcoordinator
+0803282,BRW,Eibergen,Postalarm
+0803283,BRW,Eibergen,Bevelvoeder van Dienst
+0803285,BRW,Eibergen,Kazernecode
+0803286,BRW,Eibergen,Bezetting TS
+0803293,BRW,Eibergen,Oppervlaktewater Redteam
+0803295,BRW,Eibergen,Bezetting WT Ploeg 1
+0803296,BRW,Eibergen,Bezetting WT Ploeg 2
+0803308,BRW,Eibergen,Verkenningseenheid
+0803310,BRW,Eibergen,Lichtkrant
+0803321,BRW,Neede,Postcoordinator
+0803322,BRW,Neede,Postalarm
+0803323,BRW,Neede,Bevelvoeder van Dienst
+0803325,BRW,Neede,Kazernecode
+0803326,BRW,Neede,Bezetting TS Ploeg 1
+0803327,BRW,Neede,Bezetting TS Ploeg 2
+0803335,BRW,Neede,Bezetting KW
+0803350,BRW,Neede,Lichtkrant
+0803361,BRW,Ruurlo,Postcoordinator
+0803362,BRW,Ruurlo,Postalarm
+0803363,BRW,Ruurlo,Bevelvoeder van Dienst
+0803365,BRW,Ruurlo,Kazernecode
+0803366,BRW,Ruurlo,Bezetting TS Ploeg 1
+0803367,BRW,Ruurlo,Bezetting TS Ploeg 2
+0803375,BRW,Ruurlo,Veetakelploeg 1
+0803376,BRW,Ruurlo,Veetakelploeg 2
+0803377,BRW,Ruurlo,Bezetting KW Ploeg 1
+0803378,BRW,Ruurlo,Bezetting KW Ploeg 2
+0803390,BRW,Ruurlo,Lichtkrant
+0803401,BRW,Gendringen,Postcoordinator
+0803402,BRW,Gendringen,Postalarm
+0803403,BRW,Gendringen,Bevelvoeder van Dienst
+0803405,BRW,Gendringen,Kazernecode
+0803406,BRW,Gendringen,Bezetting TS Ploeg 1
+0803407,BRW,Gendringen,Bezetting TS Ploeg 2
+0803408,BRW,Gendringen,Bezetting TS Ploeg 3
+0803412,BRW,Gendringen,Bezetting TS Ploeg 1 + 2 + 3
+0803413,BRW,Gendringen,Bezetting OR
+0803414,BRW,Gendringen,Bezetting BRV-K
+0803415,BRW,Gendringen,Veetakelploeg
+0803430,BRW,Gendringen,Lichtkrant
+0803435,BRW,Oude IJsselstreek,Procedure Lokaal Afhandelen
+0803441,BRW,Varsseveld,Postcoordinator
+0803442,BRW,Varsseveld,Postalarm
+0803443,BRW,Varsseveld,Bevelvoeder van Dienst
+0803445,BRW,Varsseveld,Kazernecode
+0803446,BRW,Varsseveld,Bezetting TS Ploeg 1
+0803447,BRW,Varsseveld,Bezetting TS Ploeg 2
+0803452,BRW,Varsseveld,Bezetting TS Ploeg 1+2
+0803455,BRW,Varsseveld,Bezetting KW Ploeg 1
+0803456,BRW,Varsseveld,Bezetting KW Ploeg 2
+0803470,BRW,Varsseveld,Lichtkrant
+0803481,BRW,Silvolde,Postcoordinator
+0803482,BRW,Silvolde,Postalarm
+0803483,BRW,Silvolde,Bevelvoeder van Dienst
+0803485,BRW,Silvolde,Kazernecode
+0803486,BRW,Silvolde,Bezetting TS Ploeg 1
+0803487,BRW,Silvolde,Bezetting TS Ploeg 2
+0803492,BRW,Silvolde,Bezetting TS Ploeg 1+2
+0803495,BRW,Silvolde,Bezetting KW Ploeg 1
+0803496,BRW,Silvolde,Bezetting KW Ploeg 2
+0803510,BRW,Silvolde,Lichtkrant
+0803521,BRW,Didam,Postcoordinator
+0803522,BRW,Didam,Postalarm
+0803523,BRW,Didam,Bevelvoeder van Dienst
+0803525,BRW,Didam,Kazernecode
+0803526,BRW,Didam,Bezetting TS Ploeg 1
+0803527,BRW,Didam,Bezetting TS Ploeg 2
+0803535,BRW,Didam,Bezetting KW
+0803543,BRW,Didam,First Responders
+0803550,BRW,Didam,Lichtkrant
+0803555,BRW,Montferland,Procedure Lokaal Afhandelen
+0803561,BRW,s-Heerenberg,Postcoordinator
+0803562,BRW,s-Heerenberg,Postalarm
+0803563,BRW,s-Heerenberg,Bevelvoeder van Dienst
+0803565,BRW,s-Heerenberg,Kazernecode
+0803566,BRW,s-Heerenberg,Bezetting TS Ploeg 1
+0803567,BRW,s-Heerenberg,Bezetting TS Ploeg 2
+0803575,BRW,s-Heerenberg,Bezetting WT Ploeg 1
+0803576,BRW,s-Heerenberg,Bezetting WT Ploeg 2
+0803583,BRW,s-Heerenberg,First-Responder
+0803588,BRW,s-Heerenberg,Verkenningseenheid
+0803590,BRW,s-Heerenberg,Lichtkrant
+0803601,BRW,Doetinchem,Postcoordinator
+0803602,BRW,Doetinchem,Postalarm
+0803603,BRW,Doetinchem,Bevelvoeder van Dienst van Dienst 2e TS
+0803604,BRW,Doetinchem,Bevelvoeder van Dienst van Dienst 1e TS
+0803605,BRW,Doetinchem,Kazernecode
+0803606,BRW,Doetinchem,Bezetting 2e TS Ploeg 1
+0803607,BRW,Doetinchem,Bezetting 2e TS Ploeg 2
+0803608,BRW,Doetinchem,Bezetting 2e TS Ploeg 3
+0803609,BRW,Doetinchem,Bezetting 2e TS Ploeg 4
+0803610,BRW,Doetinchem,Kazernebezetting 1e TS
+0803611,BRW,Doetinchem,Dagdienst 2e TS
+0803612,BRW,Doetinchem,Alle ploegen
+0803615,BRW,Doetinchem,Bezetting WT Ploeg 1
+0803616,BRW,Doetinchem,Bezetting WT Ploeg 2
+0803617,BRW,Doetinchem,Bezetting WT Ploeg 3
+0803618,BRW,Doetinchem,Bezetting WT Ploeg 4
+0803619,BRW,Doetinchem,Bezetting WTS-1500
+0803620,BRW,Doetinchem,Bezetting HW Ploeg 1
+0803621,BRW,Doetinchem,Bezetting HW Ploeg 2
+0803622,BRW,Doetinchem,Bezetting HW Ploeg 3
+0803623,BRW,Doetinchem,Bezetting HW Ploeg 4
+0803630,BRW,Doetinchem,Lichtkrant
+0803635,BRW,Doetinchem,Decentrale Uitgifte
+0803641,BRW,Wehl,Postcoordinator
+0803642,BRW,Wehl,Postalarm
+0803643,BRW,Wehl,Bevelvoeder van Dienst
+0803645,BRW,Wehl,Kazernecode
+0803646,BRW,Wehl,Bezetting TS Ploeg 1
+0803647,BRW,Wehl,Bezetting TS Ploeg 2
+0803655,BRW,Wehl,Bezetting VI Ploeg 1
+0803656,BRW,Wehl,Bezetting VI Ploeg 2
+0803670,BRW,Wehl,Lichtkrant
+0803681,BRW,Steenderen,Postcoordinator
+0803682,BRW,Steenderen,Postalarm
+0803683,BRW,Steenderen,Bevelvoeder van Dienst
+0803685,BRW,Steenderen,Kazernecode
+0803686,BRW,Steenderen,Bezetting TS Ploeg 1
+0803687,BRW,Steenderen,Bezetting TS Ploeg 2
+0803693,BRW,Steenderen,Oppervlaktewater Redteam
+0803695,BRW,Steenderen,Chauffeurs
+0803708,BRW,Steenderen,Verkenningseenheid IBGS
+0803710,BRW,Steenderen,Lichtkrant
+0803715,BRW,Bronckhorst,Procedure Lokaal Afhandelen
+0803721,BRW,Vorden,Postcoordinator
+0803722,BRW,Vorden,Postalarm
+0803723,BRW,Vorden,Bevelvoeder van Dienst
+0803725,BRW,Vorden,Kazernecode
+0803726,BRW,Vorden,Bezetting TS Ploeg 1
+0803727,BRW,Vorden,Bezetting TS Ploeg 2
+0803735,BRW,Vorden,Bezetting WT Ploeg 1
+0803736,BRW,Vorden,Bezetting WT Ploeg 2
+0803750,BRW,Vorden,Lichtkrant
+0803761,BRW,Hengelo,Postcoordinator
+0803762,BRW,Hengelo,Postalarm
+0803763,BRW,Hengelo,Bevelvoeder van Dienst
+0803765,BRW,Hengelo,Kazernecode
+0803766,BRW,Hengelo,Bezetting TS
+0803775,BRW,Hengelo,Bezetting KW
+0803790,BRW,Hengelo,Lichtkrant
+0803801,BRW,Zelhem,Postcoordinator
+0803802,BRW,Zelhem,Postalarm
+0803803,BRW,Zelhem,Bevelvoeder van Dienst
+0803805,BRW,Zelhem,Kazernecode
+0803806,BRW,Zelhem,Bezetting TS Ploeg 1
+0803807,BRW,Zelhem,Bezetting TS Ploeg 2
+0803815,BRW,Zelhem,Bezetting WT Ploeg 1
+0803816,BRW,Zelhem,Bezetting WT Ploeg 2
+0803817,BRW,Zelhem,Bezetting KW Ploeg 1
+0803818,BRW,Zelhem,Bezetting KW Ploeg 2
+0803830,BRW,Zelhem,Lichtkrant
+0803841,BRW,Lochem,Postcoordinator
+0803842,BRW,Lochem,Postalarm
+0803843,BRW,Lochem,Bevelvoeder van Dienst
+0803845,BRW,Lochem,Kazernecode
+0803846,BRW,Lochem,Bezetting TS
+0803853,BRW,Lochem,Oppervlaktewater Redteam
+0803855,BRW,Lochem,Chauffeursploeg
+0803870,BRW,Lochem,Lichtkrant
+0803875,BRW,Lochem,Procedure Lokaal Afhandelen
+0803881,BRW,Barchem,Postcoordinator
+0803882,BRW,Barchem,Postalarm
+0803883,BRW,Barchem,Bevelvoeder van Dienst
+0803885,BRW,Barchem,Kazernecode
+0803886,BRW,Barchem,Bezetting TS
+0803910,BRW,Barchem,Lichtkrant
+0803921,BRW,Laren,Postcoordinator
+0803922,BRW,Laren,Postalarm
+0803923,BRW,Laren,Bevelvoeder van Dienst
+0803925,BRW,Laren,Kazernecode
+0803926,BRW,Laren,Bezetting TS
+0803935,BRW,Laren,Bezetting WT
+0803936,BRW,Laren,Chauffeurs WT
+0803950,BRW,Laren,Lichtkrant
+0803961,BRW,Almen,Postcoordinator
+0803962,BRW,Almen,Postalarm
+0803963,BRW,Almen,Bevelvoeder van Dienst
+0803965,BRW,Almen,Kazernecode
+0803966,BRW,Almen,Postalarm
+0803973,BRW,Almen,Oppervlaktewater Redteam
+0803988,BRW,Almen,Verkenningseenheid IBGS
+0803990,BRW,Almen,Lichtkrant
+0804001,BRW,Gorssel,Postcoordinator
+0804002,BRW,Gorssel,Postalarm
+0804003,BRW,Gorssel,Bevelvoeder van Dienst
+0804005,BRW,Gorssel,Kazernecode
+0804006,BRW,Gorssel,Bezetting TS Ploeg 1
+0804007,BRW,Gorssel,Bezetting TS Ploeg 2
+0804013,BRW,Gorssel,Bezetting BRV
+0804014,BRW,Gorssel,Oppervlaktewater Redteam
+0804015,BRW,Gorssel,Bezetting KW
+0804030,BRW,Gorssel,Lichtkrant
+0804041,BRW,Zutphen,Postcoordinator
+0804042,BRW,Zutphen,Postalarm
+0804043,BRW,Zutphen,Bevelvoeder van Dienst
+0804045,BRW,Zutphen,Kazernecode
+0804046,BRW,Zutphen,Bezetting 2e TS Ploeg 1
+0804047,BRW,Zutphen,Bezetting 2e TS Ploeg 2
+0804048,BRW,Zutphen,Kazernebezetting TS dagdienst
+0804049,BRW,Zutphen,Kazernebezetting TS ANW
+0804053,BRW,Zutphen,Oppervlaktewater Redteam
+0804054,BRW,Zutphen,Schippers BRV
+0804055,BRW,Zutphen,Bezetting HW Ploeg 1
+0804056,BRW,Zutphen,Bezetting HW Ploeg 2
+0804057,BRW,Zutphen,Bezetting HV Ploeg 1
+0804058,BRW,Zutphen,Bezetting HV Ploeg 2
+0804070,BRW,Zutphen,Lichtkrant
+0804075,BRW,Zutphen,Decentrale Uitgifte
+0804081,BRW,Brummen,Postcoordinator
+0804082,BRW,Brummen,Postalarm
+0804083,BRW,Brummen,Bevelvoeder van Dienst
+0804085,BRW,Brummen,Kazernecode
+0804086,BRW,Brummen,Bezetting TS
+0804095,BRW,Brummen,Bezetting WT
+0804110,BRW,Brummen,Lichtkrant
+0804115,BRW,Brummen,Procedure Lokaal Afhandelen
+0804121,BRW,Eerbeek,Postcoordinator
+0804122,BRW,Eerbeek,Postalarm
+0804123,BRW,Eerbeek,Bevelvoeder van Dienst
+0804125,BRW,Eerbeek,Kazernecode
+0804126,BRW,Eerbeek,Bezetting TS
+0804135,BRW,Eerbeek,Bezetting KW
+0804150,BRW,Eerbeek,Lichtkrant
+0804161,BRW,Voorst,Postcoordinator
+0804162,BRW,Voorst,Postalarm
+0804163,BRW,Voorst,Bevelvoeder van Dienst
+0804165,BRW,Voorst,Kazernecode
+0804166,BRW,Voorst,Bezetting TS
+0804190,BRW,Voorst,Lichtkrant
+0804195,BRW,Voorst,Procedure Lokaal Afhandelen
+0804201,BRW,Terwolde,Postcoordinator
+0804202,BRW,Terwolde,Postalarm
+0804203,BRW,Terwolde,Bevelvoeder van Dienst
+0804205,BRW,Terwolde,Kazernecode
+0804206,BRW,Terwolde,Bezetting TS
+0804228,BRW,Terwolde,Verkenningseenheid
+0804230,BRW,Terwolde,Lichtkrant
+0804241,BRW,Twello,Postcoordinator
+0804242,BRW,Twello,Postalarm
+0804243,BRW,Twello,Bevelvoeder van Dienst
+0804245,BRW,Twello,Kazernecode
+0804246,BRW,Twello,Bezetting TS
+0804255,BRW,Twello,Bezetting KW
+0804270,BRW,Twello,Lichtkrant
+0804281,BRW,Oene,Postcoordinator
+0804282,BRW,Oene,Postalarm
+0804283,BRW,Oene,Bevelvoeder van Dienst
+0804285,BRW,Oene,Kazernecode
+0804286,BRW,Oene,Bezetting TS
+0804295,BRW,Oene,Veetakelploeg
+0804310,BRW,Oene,Lichtkrant
+0804315,BRW,Epe,Procedure Lokaal Afhandelen
+0804321,BRW,Vaassen,Postcoordinator
+0804322,BRW,Vaassen,Postalarm
+0804323,BRW,Vaassen,Bevelvoeder van Dienst
+0804325,BRW,Vaassen,Kazernecode
+0804326,BRW,Vaassen,Bezetting TS/TST-NB
+0804335,BRW,Vaassen,Bezetting KW
+0804350,BRW,Vaassen,Lichtkrant
+0804361,BRW,Epe,Postcoordinator
+0804362,BRW,Epe,Postalarm
+0804363,BRW,Epe,Bevelvoeder van Dienst
+0804365,BRW,Epe,Kazernecode
+0804366,BRW,Epe,Bezetting TS Ploeg 1
+0804367,BRW,Epe,Bezetting TS Ploeg 2
+0804375,BRW,Epe,Bezetting WT
+0804390,BRW,Epe,Lichtkrant
+0804401,BRW,Apeldoorn Centrum,Postcoordinator
+0804402,BRW,Apeldoorn Centrum,Postalarm
+0804403,BRW,Apeldoorn Centrum,Beroeps Bevelvoeder van Dienst
+0804405,BRW,Apeldoorn Centrum,Kazernecode
+0804406,BRW,Apeldoorn Centrum,Beroeps Bezetting TS
+0804415,BRW,Apeldoorn Centrum,Beroeps Bezetting HW
+0804425,BRW,Apeldoorn Centrum,Beroeps Herbezetting
+0804430,BRW,Apeldoorn Centrum,Lichtkrant
+0804435,BRW,Apeldoorn,Procedure Lokaal Afhandelen
+0804442,BRW,Apeldoorn Centrum,Postalarm Vrijwilligers
+0804443,BRW,Apeldoorn Centrum,Vrijwilligers Bevelvoeder van Dienst
+0804445,BRW,Apeldoorn Centrum,Vrijwilligers Kazernecode
+0804446,BRW,Apeldoorn Centrum,Vrijwilligers Bezetting TS
+0804455,BRW,Apeldoorn Centrum,Vrijwilligers Bezetting WT
+0804457,BRW,Apeldoorn Centrum,Basis Ontsmettings Eenheid
+0804465,BRW,Apeldoorn Centrum,Vrijwilligers Herbezetting
+0804467,BRW,Apeldoorn Centrum,Basis Ontsmettings Eenheid
+0804470,BRW,Apeldoorn Centrum,Lichtkrant
+0804481,BRW,Apeldoorn-Zuid,Postcoordinator
+0804482,BRW,Apeldoorn-Zuid,Postalarm
+0804483,BRW,Apeldoorn-Zuid,Beroeps Bevelvoeder van Dienst
+0804485,BRW,Apeldoorn-Zuid,Kazernecode
+0804486,BRW,Apeldoorn-Zuid,Bezetting TS Beroeps
+0804495,BRW,Apeldoorn-Zuid,Technische Dienst
+0804510,BRW,Apeldoorn-Zuid,Lichtkrant
+0804515,BRW,Apeldoorn-Zuid,Procedure Lokaal Afhandelen
+0804522,BRW,Apeldoorn-de Maten,Postalarm
+0804523,BRW,Apeldoorn-de Maten,Bevelvoeder van Dienst
+0804525,BRW,Apeldoorn-de Maten,Kazernecode
+0804526,BRW,Apeldoorn-de Maten,Bezetting TS
+0804547,BRW,Apeldoorn-de Maten,Ontsmettingsploeg
+0804550,BRW,Apeldoorn-de Maten,Lichtkrant
+0804561,BRW,Hoenderloo,Postcoordinator
+0804562,BRW,Hoenderloo,Postalarm
+0804563,BRW,Hoenderloo,Bevelvoeder van Dienst
+0804565,BRW,Hoenderloo,Kazernecode
+0804566,BRW,Hoenderloo,Bezetting TS
+0804590,BRW,Hoenderloo,Lichtkrant
+0804601,BRW,Hoog-Soeren,Postcoordinator
+0804602,BRW,Hoog-Soeren,Postalarm
+0804603,BRW,Hoog-Soeren,Bevelvoeder van Dienst
+0804605,BRW,Hoog-Soeren,Kazernecode
+0804606,BRW,Hoog-Soeren,Bezetting TS
+0804615,BRW,Hoog-Soeren,Bezetting NBT
+0804627,BRW,Hoog-Soeren,Ontsmettingsploeg
+0804630,BRW,Hoog-Soeren,Lichtkrant
+0804641,BRW,Loenen,Postcoordinator
+0804642,BRW,Loenen,Postalarm
+0804643,BRW,Loenen,Bevelvoeder van Dienst
+0804645,BRW,Loenen,Kazernecode
+0804646,BRW,Loenen,Bezetting TS
+0804670,BRW,Loenen,Lichtkrant
+0804681,BRW,Uddel,Postcoordinator
+0804682,BRW,Uddel,Postalarm
+0804683,BRW,Uddel,Bevelvoeder van Dienst
+0804685,BRW,Uddel,Kazernecode
+0804686,BRW,Uddel,Bezetting TS
+0804695,BRW,Uddel,Bezetting WT
+0804703,BRW,Uddel,First Responders
+0804710,BRW,Uddel,Lichtkrant
+0804721,BRW,Ugchelen,Postcoordinator
+0804722,BRW,Ugchelen,Postalarm
+0804723,BRW,Ugchelen,Bevelvoeder van Dienst
+0804725,BRW,Ugchelen,Kazernecode
+0804726,BRW,Ugchelen,Bezetting TS
+0804747,BRW,Ugchelen,Ontsmettingsploeg
+0804750,BRW,Ugchelen,Lichtkrant
+0804761,BRW,Klarenbeek,Postcoordinator
+0804762,BRW,Klarenbeek,Postalarm
+0804763,BRW,Klarenbeek,Bevelvoeder van Dienst
+0804765,BRW,Klarenbeek,Kazernecode
+0804766,BRW,Klarenbeek,Postalarm
+0804783,BRW,Klarenbeek,First Responders
+0804790,BRW,Klarenbeek,Lichtkrant
+0804801,BRW,Beekbergen,Postcoordinator
+0804802,BRW,Beekbergen,Postalarm
+0804803,BRW,Beekbergen,Bevelvoeder van Dienst
+0804805,BRW,Beekbergen,Kazernecode
+0804806,BRW,Beekbergen,Bezetting TS
+0804827,BRW,Beekbergen,Ontsmettingsploeg
+0804830,BRW,Beekbergen,Lichtkrant
+0804855,BRW,Apeldoorn Centrum,Chauffeurs CO-MU
+0804883,BRW,Regionaal,Pelotonscommandant Logistiek West
+0804895,BRW,Regionaal,Logistieke Eenheid West Ploeg 1
+0804896,BRW,Regionaal,Logistieke Eenheid West Ploeg 2
+0804897,BRW,Regionaal,Logistieke Eenheid West Ploeg 1+2
+0804921,BRW,Ermelo,Postcoordinator
+0804922,BRW,Ermelo,Postalarm
+0804923,BRW,Ermelo,Bevelvoeder van Dienst
+0804925,BRW,Ermelo,Kazernecode
+0804926,BRW,Ermelo,Bezetting TS Ploeg 1
+0804927,BRW,Ermelo,Bezetting TS Ploeg 2
+0804935,BRW,Ermelo,Bezetting WT
+0804936,BRW,Ermelo,Bezetting KW Ploeg 1
+0804937,BRW,Ermelo,Bezetting KW Ploeg 2
+0804938,BRW,Ermelo,WT groep 1
+0804948,BRW,Ermelo,Verkenningseenheid IBGS
+0804950,BRW,Ermelo,Lichtkrant
+0804955,BRW,Ermelo,Procedure Lokaal Afhandelen
+0804961,BRW,Harderwijk,Postcoordinator
+0804962,BRW,Harderwijk,Postalarm
+0804963,BRW,Harderwijk,Bevelvoeder van Dienst
+0804965,BRW,Harderwijk,Kazernecode
+0804966,BRW,Harderwijk,Bezetting TS Ploeg 1
+0804967,BRW,Harderwijk,Bezetting TS Ploeg 2
+0804973,BRW,Harderwijk,Bezetting WO
+0804974,BRW,Harderwijk,Bezetting OR
+0804975,BRW,Harderwijk,Bezetting HW/HV Ploeg 1
+0804976,BRW,Harderwijk,Bezetting HW/HV Ploeg 2
+0804977,BRW,Harderwijk,Bezetting HV-KR Ploeg 1
+0804978,BRW,Harderwijk,Bezetting HV-KR Ploeg 2
+0804979,BRW,Harderwijk,Bezetting BRV
+0804990,BRW,Harderwijk,Lichtkrant
+0804995,BRW,Harderwijk,Procedure Lokaal Afhandelen
+0805001,BRW,Hierden,Postcoordinator
+0805002,BRW,Hierden,Postalarm
+0805003,BRW,Hierden,Bevelvoeder van Dienst
+0805005,BRW,Hierden,Kazernecode
+0805006,BRW,Hierden,Bezetting TS
+0805030,BRW,Hierden,Lichtkrant
+0805041,BRW,Wezep,Postcoordinator
+0805042,BRW,Wezep,Postalarm
+0805043,BRW,Wezep,Bevelvoeder van Dienst
+0805045,BRW,Wezep,Kazernecode
+0805046,BRW,Wezep,Bezetting TS
+0805055,BRW,Wezep,Bezetting KW
+0805056,BRW,Wezep,Bezetting HV
+0805063,BRW,Wezep,First Responders
+0805070,BRW,Wezep,Lichtkrant
+0805075,BRW,Oldebroek,Procedure Lokaal Afhandelen
+0805081,BRW,Oldebroek,Postcoordinator
+0805082,BRW,Oldebroek,Postalarm
+0805083,BRW,Oldebroek,Bevelvoeder van Dienst
+0805085,BRW,Oldebroek,Kazernecode
+0805086,BRW,Oldebroek,Bezetting TS Ploeg 1
+0805087,BRW,Oldebroek,Bezetting TS Ploeg 2
+0805095,BRW,Oldebroek,Bezetting WT
+0805103,BRW,Oldebroek,First Responders
+0805108,BRW,Oldebroek,Verkenningseenheid
+0805110,BRW,Oldebroek,Lichtkrant
+0805121,BRW,Hattem,Postcoordinator
+0805122,BRW,Hattem,Postalarm
+0805123,BRW,Hattem,Bevelvoeder van Dienst
+0805125,BRW,Hattem,Kazernecode
+0805126,BRW,Hattem,Bezetting TS Ploeg 1
+0805127,BRW,Hattem,Bezetting TS Ploeg 2
+0805128,BRW,Hattem,Bezetting TS Ploeg 3
+0805135,BRW,Hattem,Bezetting WT Ploeg 1
+0805136,BRW,Hattem,Bezetting WT Ploeg 2
+0805137,BRW,Hattem,Bezetting WT Ploeg 3
+0805150,BRW,Hattem,Lichtkrant
+0805151,BRW,Hattem,Infocode Klein Incident
+0805152,BRW,Hattem,Infocode Middel Incident
+0805153,BRW,Hattem,Infocode Groot Incident
+0805154,BRW,Hattem,Infocode Zeer Groot Incident
+0805155,BRW,Hattem,Procedure Lokaal Afhandelen
+0805161,BRW,Heerde,Postcoordinator
+0805162,BRW,Heerde,Postalarm
+0805163,BRW,Heerde,Bevelvoeder van Dienst
+0805165,BRW,Heerde,Kazernecode
+0805166,BRW,Heerde,Bezetting TS
+0805173,BRW,Heerde,Bezetting BRV
+0805174,BRW,Heerde,Oppervlaktewater Redteam
+0805190,BRW,Heerde,Lichtkrant
+0805195,BRW,Heerde,Procedure Lokaal Afhandelen
+0805201,BRW,Wapenveld,Postcoordinator
+0805202,BRW,Wapenveld,Postalarm
+0805203,BRW,Wapenveld,Bevelvoeder van Dienst
+0805205,BRW,Wapenveld,Kazernecode
+0805206,BRW,Wapenveld,Bezetting TS
+0805215,BRW,Wapenveld,Bezetting KW
+0805216,BRW,Wapenveld,Bezetting KW
+0805230,BRW,Wapenveld,Lichtkrant
+0805241,BRW,Putten,Postcoordinator
+0805242,BRW,Putten,Postalarm
+0805243,BRW,Putten,Bevelvoeder van Dienst
+0805245,BRW,Putten,Kazernecode
+0805246,BRW,Ploeg 1,Ploeg 1
+0805247,BRW,Putten,Ploeg 2
+0805270,BRW,Putten,Lichtkrant
+0805275,BRW,Putten,Procedure Lokaal Afhandelen
+0805281,BRW,Nunspeet,Postcoordinator
+0805282,BRW,Nunspeet,Postalarm
+0805283,BRW,Nunspeet,Bevelvoeder van Dienst
+0805285,BRW,Nunspeet,Kazernecode
+0805286,BRW,Nunspeet,Bezetting TS Ploeg 1
+0805287,BRW,Nunspeet,Bezetting TS Ploeg 2
+0805295,BRW,Nunspeet,Bezetting WT Ploeg 1
+0805296,BRW,Nunspeet,Bezetting WT Ploeg 2
+0805297,BRW,Nunspeet,Bezetting WT Ploeg 3
+0805299,BRW,Nunspeet,Bezetting GW Ploeg 1
+0805300,BRW,Nunspeet,Bezetting GW Ploeg 2
+0805301,BRW,Nunspeet,Bezetting GW Ploeg 3
+0805310,BRW,Nunspeet,Lichtkrant
+0805315,BRW,Nunspeet,Procedure Lokaal Afhandelen
+0805321,BRW,Elspeet,Postcoordinator
+0805322,BRW,Elspeet,Postalarm
+0805323,BRW,Elspeet,Bevelvoeder van Dienst
+0805325,BRW,Elspeet,Kazernecode
+0805326,BRW,Elspeet,Bezetting TS
+0805335,BRW,Elspeet,Veetakelploeg
+0805343,BRW,Elspeet,First Responders
+0805350,BRW,Elspeet,Lichtkrant
+0805361,BRW,Elburg,Postcoordinator
+0805362,BRW,Elburg,Postalarm
+0805363,BRW,Elburg,Bevelvoeder van Dienst
+0805365,BRW,Elburg,Kazernecode
+0805366,BRW,Elburg,Bezetting TS Ploeg 1
+0805367,BRW,Elburg,Bezetting TS Ploeg 2
+0805375,BRW,Elburg,Bezetting HV Ploeg 1
+0805376,BRW,Elburg,Bezetting HV Ploeg 2
+0805377,BRW,Elburg,Bezetting HW Ploeg 1
+0805378,BRW,Elburg,Bezetting HW Ploeg 2
+0805379,BRW,Elburg,Bezetting KW Ploeg 1
+0805380,BRW,Elburg,Bezetting KW Ploeg 2
+0805390,BRW,Elburg,Lichtkrant
+0805395,BRW,Elburg,Procedure Lokaal Afhandelen
+0805465,BRW,ASK 't Harde,Infocode Defensiebrandweer ASK 't Harde
+0805483,BRW,Doetinchem,Logistieke Eenheid Oost (Pelotonscommandant)
+0805495,BRW,Doetinchem,Logistieke Eenheid Oost (Ploeg 1)
+0805496,BRW,Doetinchem,Logistieke Eenheid Oost (Ploeg 2)
+0805506,BRW,Duitsland,Suderwick (Bezetting TS)
+0805535,BRW,Doetinchem,Bezetting CO-MU Ploeg 1
+0805536,BRW,Doetinchem,Bezetting CO-MU Ploeg 2
+0805537,BRW,Doetinchem,Bezetting CO-MU Ploeg 3
+0805563,BRW,Waterlogistiek West,Bevelvoerders
+0805575,BRW,Waterlogistiek West,Bezetting WT Ploeg 1
+0805576,BRW,Waterlogistiek West,Bezetting WT Ploeg 2
+0805577,BRW,Waterlogistiek West,Ondersteuners GW Ploeg 1
+0805578,BRW,Waterlogistiek West,Ondersteuners GW Ploeg 2
+0805700,BRW,MKB Oost-Nederland,Piket Centralist
+0805706,BRW,MKB Oost-Nederland,Centralist (Persoonlijkecode)
+0805712,BRW,MKB Oost-Nederland,Centralist (Persoonlijkecode)
+0805713,BRW,MKB Oost-Nederland,Centralist (Persoonlijkecode)
+0805730,BRW,Regionaal,Team Brandonderzoek
+0805750,BRW,GMK Oost-Nederland,Calamiteitencoördinator
+0805760,BRW,GMK Oost-Nederland,Piket Hoofd MKB
+0805770,BRW,Regionaal,OvD (Veluwe)
+0805771,BRW,Regionaal,OvD Veluwe (Groepscode)
+0805810,BRW,Regionaal,OvD Midden
+0805811,BRW,Regionaal,OvD's (Epe-Voorst-Apeldoorn) (Groepscode)
+0805830,BRW,Regionaal,OvD Achterhoek Noord
+0805850,BRW,Regionaal,OvD Achterhoek Zuid
+0805851,BRW,Regionaal,OvD`s (Achterhoek West) (Groepscode)
+0805870,BRW,Regionaal,OvD Achterhoek Oost
+0805890,BRW,Defensie Brandweer ASK 't Harde,On Scene Commander
+0805910,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0805930,BRW,Regionaal,HOvD (West)
+0805931,BRW,Regionaal,HOvD's (West) (Groepscode)
+0805950,BRW,Regionaal,HOvD (Oost)
+0805951,BRW,Regionaal,HOvD's (Oost) (Groepscode)
+0805970,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+0805971,BRW,Regionaal,Adviseurs Gevaarlijke Stoffen (Groepscode)
+0805990,BRW,Regionaal,Regionaal Operationeel Leider
+0806030,BRW,Regionaal,Coordinator Operationele Informatie
+0806031,BRW,Regionaal,Ondersteuners ROT
+0806032,BRW,Regionaal,Operationele Informatie Voorziening) (Persoonlijk)
+0806050,BRW,Regionaal,Piket Woordvoerder
+0806072,BRW,Regionaal,Sectie BRW
+0806080,BRW,Regionaal,Communicatieadviseur Bevolkingszorg (GRIP)
+0806081,BRW,Regionaal,Omgevingsanalist
+0806082,BRW,Regionaal,Communicatieadviseur ROT
+0806083,BRW,Regionaal,Communicatieadviseur BT
+0806090,BRW,Regionaal,Coordinator Verkenningseenheden
+0806130,BRW,Regionaal,OvD (Defensie)
+0806150,BRW,Regionaal,Informatiemanager CoPI West
+0806170,BRW,Regionaal,Informatiemanager CoPI Oost
+0806190,BRW,Regionaal,Informatiemanager CoPI Midden
+0806200,BRW,Regionaal,GRIP (Infocode)
+0806201,BRW,Regionaal,GRIP 1 (Infocode)
+0806205,BRW,Regionaal,GRIP Monitorcode
+0806206,BRW,Regionaal,Multidisciplinair Adviseur C2000
+0806209,BRW,Oldebroek,Boswachter Oldebroekseheide
+0806210,BRW,Oldebroek,Boswachters
+0806226,BRW,MKB Oost Nederland,Leitstelle Borken (Lichtkrant)
+0806227,BRW,MKB Oost Nederland,Infocode naar MKB Kleve Duitsland
+0806240,BRW,MKB Oost-Nederland,Monitorcode
+0806241,BRW,MKB Oost-Nederland,Weeralarm
+0806242,BRW,MKB Oost-Nederland,Monitorcode Decentrale Uitgifte
+0806250,BRW,MKB Oost-Nederland,Middel Incident
+0806251,BRW,MKB Oost-Nederland,Groot Incident
+0806252,BRW,MKB Oost-Nederland,Zeer Groot Incident
+0806261,BRW,MKB Oost-Nederland,Fire Bucket Operations (Alarm)
+0806262,BRW,MKB Oost-Nederland,Fire Bucket Operations (Info)
+0806267,BRW,Regionaal,Waterschap Vallei en Veluwe
+0806268,BRW,Regionaal,Waterschap Drents Overijsselse delta
+0806269,BRW,Regionaal,Liaison Waterschap Vechtstromen
+0806270,BRW,Regionaal,Waterschap Rijn en Ijssel
+0806280,BRW,Regionaal,Natuurbrandbestrijding Grondverkenners
+0806281,BRW,Regionaal,Natuurbrandbestrijding Luchtverkenners
+0806282,BRW,Regionaal,Logistieke Ondersteuning ICT
+0806301,BRW,Ulft,Poller Centrum
+0806307,BRW,Nunspeet,Poller Laan / Eperweg
+0806340,BRW,Duitsland,Loschzug Oeding
+0806341,BRW,Duitsland,Loschzug Ammeloe
+0806350,BRW,Regionaal,OvD Bevolkingszorg Achterhoek Oost
+0806370,BRW,Regionaal,OvD Bevolkingszorg Achterhoek West
+0806390,BRW,Regionaal,OvD Bevolkingszorg Epe-Voorst-Apeldoorn
+0806410,BRW,Regionaal,OvD Bevolkingszorg Ijsselstreek
+0806430,BRW,Regionaal,OvD Bevolkingszorg Veluwe-West
+0806470,BRW,Regionaal,OvD Bevolkingszorg (GRIP)
+0806471,BRW,Regionaal,Communicatieadviseur Bevolkingszorg (GRIP)
+0806472,BRW,Regionaal,Algemeen Commandant Bevolkingszorg (GRIP)
+0820000,AMBU,MKA Noord- en Oost-Gelderland,Proefalarm
+0820020,AMBU,Regionaal,Rode Kruis Noodhulpteam (Coordinator)
+0820022,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS2 Zwolle-Zuid)
+0820029,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS Zelhem)
+0820030,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS Ruurlo)
+0820031,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS Hummelo)
+0820032,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS Apeldoorn)
+0820034,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS Zutphen)
+0820035,AMBU,Regionaal,Rode Kruis (Noodhulpteam UGS Epse)
+0820100,AMBU,Regionaal,Ambulances totaal
+0820102,AMBU,Apeldoorn,Ambulance 102
+0820121,AMBU,Apeldoorn,Ambulance 121
+0820122,AMBU,Apeldoorn,Ambulance 122
+0820123,AMBU,Apeldoorn,Ambulance 123
+0820124,AMBU,Apeldoorn,Ambulance 124
+0820125,AMBU,Apeldoorn,Ambulance 125
+0820126,AMBU,Apeldoorn,Ambulance 126
+0820127,AMBU,Apeldoorn,Ambulance 127
+0820128,AMBU,Apeldoorn,Ambulance 128
+0820129,AMBU,Apeldoorn,Ambulance 129
+0820150,AMBU,Doetinchem,Ambulance 150
+0820151,AMBU,Doetinchem,Ambulance 151
+0820152,AMBU,Doetinchem,Ambulance 152
+0820153,AMBU,Etten,Ambulance 153
+0820154,AMBU,Varsseveld,Ambulance 154
+0820155,AMBU,Borculo,Ambulance 155
+0820156,AMBU,Groenlo,Ambulance 156
+0820157,AMBU,Winterswijk,Ambulance 157
+0820158,AMBU,Winterswijk,Ambulance 158
+0820159,AMBU,Winterswijk,Ambulance 159
+0820160,AMBU,Zutphen,Ambulance 160
+0820161,AMBU,Zutphen,Ambulance 161
+0820162,AMBU,Zutphen,Ambulance 162
+0820163,AMBU,Zutphen,Ambulance 163
+0820164,AMBU,Zutphen,Ambulance 164
+0820165,AMBU,Zutphen,Ambulance 165
+0820180,AMBU,Harderwijk & Elburg,Ambulance 180
+0820181,AMBU,Harderwijk & Elburg,Ambulance 181
+0820182,AMBU,Harderwijk & Elburg,Ambulance 182
+0820183,AMBU,Harderwijk & Elburg,Ambulance 183
+0820184,AMBU,Harderwijk & Elburg,Ambulance 184
+0820185,AMBU,Harderwijk & Elburg,Ambulance 185
+0820186,AMBU,Harderwijk & Elburg,Ambulance 186
+0820187,AMBU,Harderwijk & Elburg,Ambulance 187
+0820188,AMBU,Harderwijk & Elburg,Ambulance 188
+0820189,AMBU,Harderwijk & Elburg,Ambulance 189
+0820190,AMBU,Harderwijk & Elburg,Ambulance 190
+0820191,AMBU,Harderwijk & Elburg,Ambulance 191
+0820202,AMBU,GHOR,Officier van Dienst Geneeskunde (West) 06-813
+0820203,AMBU,GHOR,Officier van Dienst Geneeskunde (Midden) 06-812
+0820204,AMBU,GHOR,Officier van Dienst Geneeskunde (Oost) 06-811
+0820205,AMBU,GHOR,Officier van Dienst Geneeskunde 06-814
+0820210,AMBU,GHOR,Directeur Publieke Gezondheidszorg
+0820215,AMBU,GHOR,Algemeen Commandant Geneeskundige Zorg
+0820220,AMBU,GHOR,Hoofd Ondersteuning
+0820225,AMBU,Meldkamer Ambulancezorg,Medisch Manager Ambulancezorg
+0820230,AMBU,Meldkamer Ambulancezorg,Team Collegiale Ondersteuning
+0820235,AMBU,Meldkamer Ambulancezorg,Leider Kernteam PSHOR
+0820301,AMBU,GHOR,Hoofd Ondersteuning/Informatie
+0820342,AMBU,Regionaal,Rapid Responder (06-342)
+0820343,AMBU,Regionaal,Rapid Responder (06-343)
+0820400,AMBU,Regionaal,Middencomplexe zorg 06-200
+0820401,AMBU,Regionaal,Middencomplexe zorg 06-201
+0820402,AMBU,Regionaal,Middencomplexe zorg 06-202
+0820403,AMBU,Regionaal,Middencomplexe zorg 06-203
+0820410,AMBU,Regionaal,Middencomplexe zorg 06-410
+0820601,AMBU,Regionaal,Infocode OvD-G Oost
+0820602,AMBU,Regionaal,Infocode OvD-G Midden
+0820603,AMBU,Regionaal,Infocode OvD-G West
+0826204,AMBU,Regionaal,Middencomplexe zorg 06-204
+0826205,AMBU,Regionaal,Middencomplexe zorg 06-205
+0826206,AMBU,Regionaal,Middencomplexe zorg 06-206
+0830000,POL,Politie Eenheid Oost-Nederland,Proefalarm
+0830050,POL,Politie Eenheid Oost-Nederland,Forensische Opsporing Verkeer
+0830052,POL,Politie Eenheid Oost-Nederland,Team Forensische Opsporing
+0830055,POL,Politie Eenheid Oost-Nederland,Bezetting Politieboot Harderwijk
+0830060,POL,Politie Eenheid Oost-Nederland,Leider CoPI Infocode
+0830061,POL,GMK,Dienst Regionaal Operationeel Centrum (OvD-OC)
+0830110,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Noordwest-Veluwe West
+0830111,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Noordwest-Veluwe Oost
+0830112,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Apeldoorn-Noord
+0830113,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Apeldoorn-Zuid
+0830114,POL,Politie Eenheid Oost-Nederland,Piketfunctionaris Staatsbosbeheer
+0830116,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid IJsselvallei
+0830117,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Voorst
+0830118,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Brummen
+0830119,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid IJsselstreek-Oost
+0830120,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Achterhoek West
+0830121,POL,Politie Eenheid Oost-Nederland,Wildbeheereenheid Achterhoek Oost
+0830200,POL,Politie Eenheid Oost-Nederland,BHV BT Apeldoorn
+0830211,POL,OC-P,Persinformatie
+0830300,POL,GMK,Beheer
+0830301,POL,GMK,Beheer
+0830302,POL,GMK,Beheer
+0830307,POL,GMK,Beheer
+0830500,POL,Politie Eenheid Oost-Nederland,Gelderland-Midden + Zuid GGD Arts Gebied 1
+0830501,POL,Politie Eenheid Oost-Nederland,Gelderland-Midden + Zuid GGD Verpleegkundige Gebied 1
+0830502,POL,Politie Eenheid Oost-Nederland,Gelderland-Midden + Zuid GGD Arts Arrestantenzorg Gebied 1
+0830510,POL,Politie Eenheid Oost-Nederland,Noord Oost Gelderland GGD Arts Gebied 2
+0830511,POL,Politie Eenheid Oost-Nederland,Noord Oost Gelderland GGD Verpleegkundige Gebied 2
+0830512,POL,Politie Eenheid Oost-Nederland,Noord Oost Gelderland GGD Arts Arrestantenzorg Gebied 2
+0830520,POL,Politie Eenheid Oost-Nederland,Twente GGD Arts Gebied 3
+0830521,POL,Politie Eenheid Oost-Nederland,Twente GGD Verpleegkundige Gebied 3
+0830522,POL,Politie Eenheid Oost-Nederland,Twente GGD Arts Arrestantenzorg Gebied 3
+0830530,POL,Politie Eenheid Oost-Nederland,IJsselland GGD Arts Gebied 4
+0830531,POL,Politie Eenheid Oost-Nederland,IJsselland GGD Verpleegkundige Gebied 4
+0830532,POL,Politie Eenheid Oost-Nederland,IJsselland GGD Arts Arrestantenzorg Gebied 4
+0830999,POL,Politie Eenheid Oost-Nederland,MON - MKP (Lichtkrant)

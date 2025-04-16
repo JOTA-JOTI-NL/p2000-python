@@ -1,0 +1,342 @@
+capcode,discipline,locatie/divisie,beschrijving
+1403000,BRW,BRW Zuid-Holland Zuid,Proefalarm/Infocode
+1403001,KNRM,MKB Rotterdam,Monitorcode KNRM Dordrecht
+1403003,BRW,BRW Zuid-Holland Zuid,Lichtkrant MKB
+1403005,KNRM,BRW Zuid-Holland Zuid,Lichtkrant Rijkswaterstaat Verkeerscentrale Dordrecht
+1403006,BRW,MKB Rotterdam,Lichtkranten Regio Zuid-Holland Zuid
+1403010,BRW,Regionaal,Adviseur Operationele Voorbereiding
+1403015,BRW,Regionaal,Infocode Midden- en West-Brabant
+1403020,BRW,Regionaal,Infocode Gelderland Zuid
+1403030,BRW,Regionaal,Persinformatie
+1403031,BRW,Regionaal,Infocode Groot Incident
+1403032,BRW,Regionaal,Infocode Zeer Groot Incident
+1403033,POL,OC Politie Eenheid Rotterdam,Infocode Verkeersleider Rijkswaterstaat Dienst Rijkswegen
+1403034,BRW,Regionaal,Piket Controleur Preventie
+1403035,BRW,Regionaal,Opschalingscode
+1403036,BRW,Regionaal,Cado Dordrecht Zuid
+1403037,BRW,Regionaal,Veerdienst Schoonhoven
+1403038,BRW,Regionaal,Aansturing Slagboom Jachthaven Westergoot Dordrecht
+1403050,BRW,Regionaal,Regionaal Operationeel Team (Operationeel Leider)
+1403053,BRW,Regionaal,Omgevingsdienst ZHZ (Milieuadviseur) (Piket)
+1403054,BRW,Regionaal,Omgevingsdienst ZHZ) (Milieuadviseur) (Achterwacht)
+1403058,BRW,Regionaal,OvD West (Alarmcode)
+1403059,BRW,Regionaal,OvD West (Infocode)
+1403062,BRW,Regionaal,OvD Midden (Alarmcode)
+1403063,BRW,Regionaal,OvD Midden (Infocode)
+1403066,BRW,Regionaal,OvD Oost (Alarmcode)
+1403067,BRW,Regionaal,OvD Oost (Infocode)
+1403072,BRW,Regionaal,OvD (Groepscode)
+1403073,BRW,Regionaal,OvD (Monitorcode)
+1403079,BRW,Regionaal,Leider CoPI
+1403081,BRW,Regionaal,Leider CoPI
+1403083,BRW,Regionaal,Regionaal Operationeel Team (Hoofd Sectie Brandweer
+1403085,BRW,Regionaal,Pelotonscommandant Logistiek
+1403086,BRW,Regionaal,Regionaal Operationeel Team (Informatiemanager)
+1403089,BRW,Regionaal,Monitorcode Verkenningseenheden
+1403090,BRW,Regionaal,Actiecentrum Brandweer
+1403091,BRW,Regionaal,Adviseur Gevaarlijke Stoffen
+1403092,BRW,Regionaal,Duikadviseurs Regio
+1403094,BRW,Regionaal,Persvoorlichting
+1403095,BRW,Regionaal,HOvD (Alarmcode)
+1403096,BRW,Regionaal,HOvD (Infocode)
+1403098,BRW,Regionaal,Informatiemanager CoPI
+1403172,OCB,MKB Rotterdam,Tactisch Officier Alarmcentrale (Persoonlijk)
+1403180,BRW,Alblasserdam,Schippers/Bezetting BRV-M
+1403181,BRW,Alblasserdam,Chauffeurs
+1403182,BRW,Alblasserdam,Bevelvoerder van Dienst
+1403183,BRW,Alblasserdam,Bezetting TS (Ploeg A)
+1403184,BRW,Alblasserdam,Bezetting TS (Ploeg B)
+1403185,BRW,Alblasserdam,Kazernetechniek
+1403189,BRW,Alblasserdam,Postalarm
+1403300,BRW,Mijnsherenland,Monitorcode
+1403301,BRW,Heinenoord,Monitorcode
+1403302,BRW,Maasdam,Monitorcode
+1403303,BRW,Mijnsherenland,Kazernetechniek
+1403304,BRW,Heinenoord,Kazernetechniek
+1403305,BRW,Maasdam,Kazernetechniek
+1403306,BRW,Mijnsheerenland,Bevelvoerder van Dienst
+1403307,BRW,Heinenoord,Bevelvoerder van Dienst
+1403308,BRW,Maasdam,Bevelvoerder van Dienst
+1403309,BRW,Mijnsheerenland,Verkenningseenheid
+1403310,BRW,Maasdam/Puttershoek,Postcoordinator
+1403317,BRW,Mijnsherenland,Postalarm
+1403318,BRW,Maasdam,Postalarm
+1403319,BRW,Heinenoord,Postalarm
+1403416,BRW,Numansdorp,Bevelvoerder van Dienst
+1403417,BRW,Klaaswaal,Bevelvoerder van Dienst
+1403419,BRW,Klaaswaal,Kazernetechniek
+1403420,BRW,Numansdorp,Kazernetechniek
+1403421,BRW,Klaaswaal,Bevelvoerder van Dienst
+1403422,BRW,Numansdorp,Monitorcode
+1403428,BRW,Numansdorp,Postalarm
+1403429,BRW,Klaaswaal,Postalarm
+1403577,BRW,Dordrecht,Technische Dienst
+1403586,BRW,Regionaal,Hoofd Ondersteuning (Infocode)
+1403587,BRW,Regionaal,Hoofd Ondersteuning (Alarmcode)
+1403589,BRW,Dordrecht-Noordendijk,Bevelvoerder van Dienst
+1403590,BRW,Dordrecht-Noordendijk,Kazernealarm
+1403597,BRW,Dordrecht-Noordendijk,Piket groep
+1403604,BRW,Dordrecht-Leerpark,Vrijewacht C
+1403609,BRW,Dordrecht-Leerpark,Repressieve Kantoor Dienst
+1403610,BRW,Dordrecht-Leerpark,Vrijwilligers
+1403614,BRW,Dordrecht-Leerpark,Bevelvoerder van Dienst
+1403615,BRW,Dordrecht-Noordendijk,Vrijewacht C
+1403616,BRW,Dordrecht-Leerpark,Kazernealarm
+1403620,BRW,Dordrecht-Leerpark,Vrijewacht B
+1403621,BRW,Dordrecht-Noordendijk,Vrijewacht B
+1403626,BRW,Dordrecht-Leerpark,Vrijewacht A
+1403627,BRW,Dordrecht-Noordendijk,Vrijewacht A
+1403628,BRW,Dordrecht-Noordendijk,Herbezetting Specialismen
+1403629,BRW,Dordrecht-Leerpark,Herbezetting Specialismen
+1403645,BRW,GMK,Planningsstaf
+1403729,BRW,Bleskensgraaf,Postcoordinator
+1403730,BRW,Brandwijk,Bevelvoerder van Dienst
+1403731,BRW,Brandwijk,Veetakelploeg
+1403732,BRW,Goudriaan,Postalarm
+1403733,BRW,Bleskensgraaf,Bezetting HA
+1403734,BRW,Bleskensgraaf/Brandwijk,Verzorgingsgroep
+1403735,BRW,Bleskensgraaf,Bevelvoerder van Dienst
+1403736,BRW,Brandwijk,Postalarm
+1403740,BRW,Bleskensgraaf,Postalarm
+1403751,BRW,Goudriaan,Kazernetechniek
+1403753,BRW,Brandwijk,Kazernetechniek
+1403755,BRW,Bleskensgraaf,Kazernetechniek
+1403757,BRW,Goudriaan-Ottoland,Postalarm
+1403758,BRW,Brandwijk,Postalarm
+1403759,BRW,Bleskensgraaf,Postalarm
+1403769,BRW,Arkel,Bevelvoerder van Dienst
+1403865,BRW,Hoornaar,Verkenningseenheid
+1403866,BRW,Arkel,Bevelvoerder van Dienst
+1403867,BRW,Giessenburg,Bevelvoerder van Dienst
+1403868,BRW,Hoornaar,Bevelvoerder van Dienst
+1403880,BRW,Hoornaar,Veetakelploeg
+1403881,BRW,Hoornaar,Monitorcode
+1403882,BRW,Hoornaar,Postalarm
+1403884,BRW,Giessenburg,Postalarm
+1403885,BRW,Giessenbrug,Monitorcode
+1403886,BRW,Arkel,Postalarm
+1403887,BRW,Hoornaar,Postalarm door MKB Utrecht
+1403889,BRW,Arkel,Postalarm door MKB Utrecht
+1403954,BRW,'s-Gravendeel,Kazernetechniek
+1403955,BRW,'s-Gravendeel,Monitorcode
+1403957,BRW,'s-Gravendeel,Bezetting IV
+1403963,BRW,'s-Gravendeel,Bezetting CO-MU
+1403965,BRW,'s-Gravendeel,Bevelvoerder van dienst
+1403969,BRW,'s-Gravendeel,Postalarm
+1403989,BRW,Gorinchem,Bevelvoeder van Dienst
+1404021,BRW,Gorinchem,Lichtkrant
+1404070,BRW,Gorinchem,Bezetting 1e TS
+1404074,BRW,Gorinchem,Oppervlaktewater Redteam
+1404075,BRW,Gorinchem,Bezetting TS (ANW Ploeg 1)
+1404076,BRW,Gorinchem,Bezetting TS (ANW Ploeg 2)
+1404077,BRW,Gorinchem,Bezetting AL (Ploeg 1)
+1404078,BRW,Gorinchem,Bezetting AL (Ploeg 2)
+1404085,BRW,Gorinchem,Pollers centrum
+1404094,BRW,Gorinchem,Nautische Bemanning Veertaxi Gorinchem X
+1404097,BRW,Gorinchem,Monitorcode
+1404099,BRW,Gorinchem,Postalarm
+1404192,BRW,Boven-Hardinxveld,Monitorcode
+1404193,BRW,Neder-Hardinxveld,Monitorcode
+1404194,BRW,Hardinxveld-Giessendam,Bevelvoerder van Dienst
+1404203,BRW,Boven-Hardinxveld,Bezetting TS
+1404205,BRW,Neder Hardinxveld,Bezetting TS
+1404206,BRW,Boven-Hardinxveld,Postalarm
+1404209,BRW,Neder-Hardinxveld,DCU
+1404214,BRW,VR Zuid-Holland Zuid,Piket OvD-Bevolkingszorg Drechtsteden-Zuid (Persoonlijk)
+1404239,BRW,VR Zuid-Holland Zuid,Piket OvD-Bevolkingszorg Drechtsteden-Zuid (Persoonlijk)
+1404279,BRW,Hendrik Ido Ambacht,Monitorcode
+1404280,BRW,Hendrik Ido Ambacht,Bezetting HA-KR
+1404285,BRW,Hendrik Ido Ambacht,Logistiek
+1404287,BRW,Hendrik Ido Ambacht,Multifunctioneel Terreinvoertuig
+1404289,BRW,Hendrik Ido Ambacht,Bevelvoerder van Dienst
+1404290,BRW,Hendrik Ido Ambacht,Bevelvoerder persoonlijke-code
+1404291,BRW,Hendrik Ido Ambacht,Kazernetechniek
+1404296,BRW,Hendrik Ido Ambacht,Ploeg B
+1404298,BRW,Hendrik Ido Ambacht,Ploeg A
+1404299,BRW,Hendrik Ido Ambacht,Postalarm
+1404404,BRW,Zuid Beijerland,Monitorcode
+1404406,BRW,Goudswaard,Monitorcode
+1404407,BRW,Zuid Beijerland,Kazernetechniek
+1404408,BRW,Nieuw-Beijerland,Kazernetechniek
+1404409,BRW,Goudswaard,Kazernetechniek
+1404414,BRW,Zuid Beijerland,Bevelvoerder van dienst
+1404415,BRW,Nieuw-Beijerland,Bevelvoerder van dienst
+1404416,BRW,Goudswaard,Bevelvoerder van dienst
+1404417,BRW,Zuid Beijerland,Postalarm
+1404418,BRW,Nieuw-Beijerland,Postalarm
+1404419,BRW,Goudswaard,Postalarm
+1404612,BRW,Nieuw-Lekkerland,Kazernetechniek
+1404615,BRW,Nieuw-Lekkerland,Bevelvoerder van Dienst
+1404616,BRW,Nieuw-Lekkerland,Verkenningseenheid
+1404617,BRW,Nieuw-Lekkerland,Oppervlaktewater Redteam
+1404618,BRW,Nieuw-Lekkerland,Postalarm
+1404619,BRW,Nieuw-Lekkerland,Postalarm
+1404721,BRW,Groot-Ammers,Postalarm
+1404723,BRW,Groot-Ammers,Bevelvoerder van Dienst
+1404724,BRW,Langerak-Nieuwpoort,Bevelvoerder van Dienst
+1404726,BRW,Langerak-Nieuwpoort,Postalarm
+1404730,BRW,Groot-Ammers,Bezetting TK-K + BSA
+1404734,BRW,Langerak-Nieuwpoort,Kazernetechniek
+1404736,BRW,Groot-Ammers,Kazernetechniek
+1404738,BRW,Langerak-Nieuwpoort,Postalarm
+1404739,BRW,Groot-Ammers,Postalarm
+1404754,BRW,GMK Zuid-Holland Zuid,Communicatieadviseur CoPI (Persoonlijk)
+1404778,BRW,Oud Beijerland,Postalarm
+1404815,BRW,Oud-Beijerland,Bezetting HA (Ploeg A)
+1404816,BRW,Oud-Beijerland,Bezetting HA (Ploeg B)
+1404817,BRW,Oud-Beijerland,Bezetting HA (Ploeg C)
+1404823,BRW,Oud-Beijerland,Kazernetechniek
+1404824,BRW,BRW Zuid-Holland Zuid,Arbeidshygiene Midden en West
+1404827,BRW,Oud-Beijerland,Bezetting HA - Monitorcode
+1404828,BRW,Oud-Beijerland,Bezetting AL (Ploeg A)
+1404829,BRW,Oud-Beijerland,Bezetting AL (Ploeg B)
+1404830,BRW,Oud-Beijerland,Bezetting AL (Ploeg C)
+1404831,BRW,Oud-Beijerland,Bevelvoerder van dienst
+1404832,BRW,Oud-Beijerland,Monitorcode
+1404833,BRW,Oud-Beijerland,Oppervlaktewater Redteam
+1404835,BRW,Oud-Beijerland,Bezetting TS (Ploeg A)
+1404836,BRW,Oud-Beijerland,Bezetting TS (Ploeg B)
+1404837,BRW,Oud-Beijerland,Bezetting TS (Ploeg C)
+1404839,BRW,Oud-Beijerland,Postalarm
+1404923,BRW,BRW Zuid-Holland Zuid,Arbeidshygiene Oost
+1404925,BRW,Papendrecht,Bezetting AL (Ploeg A)
+1404926,BRW,Papendrecht,Bezetting AL (Ploeg B)
+1404927,BRW,Papendrecht,Bevelvoerder van dienst
+1404928,BRW,Papendrecht,Bevelvoerders
+1404932,BRW,Papendrecht,Bezetting TS (Ploeg A)
+1404933,BRW,Papendrecht,Bezetting TS (Ploeg B)
+1404939,BRW,Papendrecht,Postalarm
+1405018,BRW,Alblasserdam,Monitorcode
+1405019,BRW,Bleskensgraaf,Monitorcode
+1405020,BRW,Brandwijk,Monitorcode
+1405021,BRW,Groot Ammers,Monitorcode
+1405022,BRW,Goudriaan,Monitorcode
+1405023,BRW,Langerak,Monitorcode
+1405024,BRW,Nieuw-Lekkerland,Monitorcode
+1405025,BRW,Papendrecht,Monitorcode
+1405026,BRW,Sliedrecht,Monitorcode
+1405028,BRW,Sliedrecht,Bevelvoerder van Dienst
+1405032,BRW,Sliedrecht,Verkenningseenheid
+1405033,BRW,Sliedrecht,Kazernetechniek
+1405034,BRW,Sliedrecht,Bezetting TS (Ploeg B)
+1405036,BRW,Sliedrecht,Bezetting HA
+1405038,BRW,Sliedrecht,Bezetting TS (Ploeg A)
+1405039,BRW,Sliedrecht,Postalarm
+1405112,BRW,Strijen,Bevelvoerder van Dienst
+1405115,BRW,Strijen,Kazernetechniek
+1405116,BRW,Strijen,Bevelvoerder van Dienst
+1405117,BRW,Strijen,Verkenningseenheid
+1405119,BRW,Strijen,Postalarm
+1405129,BRW,Regionaal,Piket Algemeen Commandant Bevolkingszorg (Persoonlijk)
+1405200,BRW,Regionaal,Brugwachter Bruggen Merwedekanaal
+1405273,BRW,GMK Rotterdam,Piket Beheer GMK/MAC (Persoonlijk)
+1405355,BRW,Zwijndrecht,Bezetting SB (Ploeg 1)
+1405356,BRW,Zwijndrecht,Bezetting SB (Ploeg 2)
+1405357,BRW,Zwijndrecht,Bezetting SB (Ploeg 3)
+1405362,BRW,Zwijndrecht,Bezetting HA (Ploeg 1)
+1405363,BRW,Zwijndrecht,Bezetting HA (Ploeg 2)
+1405364,BRW,Zwijndrecht,Bezetting HA (Ploeg 3)
+1405369,BRW,Heerjansdam,Bevelvoerder van Dienst
+1405370,BRW,Zwijndrecht,Bevelvoerder van Dienst
+1405371,BRW,Zwijndrecht,Bezetting ABH (Ploeg 1)
+1405372,BRW,Zwijndrecht,Bezetting ABH (Ploeg 2)
+1405373,BRW,Zwijndrecht,Bezetting ABH (Ploeg 3)
+1405377,BRW,Heerjansdam,Verkenningseenheid
+1405378,BRW,Heerjansdam,25 kV Team Spoor
+1405379,BRW,Heerjansdam,Postalarm
+1405382,BRW,Zwijndrecht,Bezetting AL (Ploeg 3)
+1405383,BRW,Zwijndrecht,Bezetting TS (Ploeg 3)
+1405384,BRW,Zwijndrecht,Bezetting AL (Ploeg 2)
+1405385,BRW,Zwijndrecht,Bezetting TS (Ploeg 2)
+1405386,BRW,Zwijndrecht,Bezetting AL (Ploeg 1)
+1405387,BRW,Zwijndrecht,Bezetting TS (Ploeg 1)
+1405388,BRW,Bedrijfsbrandweer ProRail Kijfhoek,Zwijndrecht (Bezetting TS Falck Brandweerzorg)
+1405389,BRW,Zwijndrecht,Piketgroep
+1405390,BRW,Zwijndrecht,Postalarm
+1405544,KNRM,Dordrecht,Schippers
+1405545,KNRM,Dordrecht-Noord,Bemanning Reddingboot Tjepke Ekkelboom
+1405546,KNRM,Dordrecht-Zuid,Bemanning Reddingboot KBW 1910
+1405596,BRW,Regionaal,Hoofd Meldkamer (Persoonlijk)
+1405600,BRW,Regionaal,OvD-Bevolkingszorg Alblasserwaard)
+1405601,BRW,Regionaal,OvD-Bevolkingszorg Drechtsteden Noord
+1405602,BRW,Regionaal,OvD-Bevolkingszorg Drechtsteden Zuid
+1405603,BRW,Regionaal,OvD-Bevolkingszorg Hoeksewaard
+1405604,BRW,Regionaal,OvD-Bevolkingszorg Dordrecht
+1405605,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405606,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405607,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405608,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405609,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405610,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405611,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405612,BRW,Regionaal,Strategisch Adviseur Bz (Persoonlijk)
+1405682,BRW,Regionaal,Piket OvD-Bevolkingszorg Alblasserwaard (Persoonlijk)
+1405873,BRW,Bedrijfsbrandweer Fokker Papendrecht,Bezetting TS
+1405925,BRW,Regionaal,Crisis Communicatie VRZHZ
+1405975,BRW,Regionaal,Liasson Defensie
+1405976,BRW,Regionaal,Regionaal Operationeel Team - Hoofd Sectie IM
+1405978,BRW,Regionaal,Regionaal Operationeel Team - Hoofd Sectie Ondersteuning
+1405980,BRW,Regionaal,Regionaal Operationeel Team - Voorlichting
+1405981,BRW,Regionaal,Waterschap Hollandse Delta
+1405982,BRW,Regionaal,Waterschap Rivierenland
+1405983,BRW,Regionaal,ICT
+1405990,BRW,Regionaal,Directeur
+1405991,BRW,Regionaal,Coordinator TCO Oost
+1405992,BRW,Regionaal,Coordinator TCO West
+1423000,AMBU,GHOR/RAV Zuid-Holland Zuid,Proefalarm
+1423001,AMBU,MKA Rotterdam,Monitorcode ZHZ
+1423002,AMBU,MKA Zuid-Holland Zuid,Regionale Infocode
+1423150,AMBU,MKA Zuid-Holland Zuid (Rode Kruis),Noodhulpteam
+1423254,AMBU,GHOR Zuid-Holland Zuid,Hoofd Informatie
+1423260,AMBU,GHOR Zuid-Holland Zuid,Hoofd Ondersteuning
+1423262,AMBU,GHOR Zuid-Holland Zuid,Algemeen Commandant Geneeskundige Zorg
+1423264,AMBU,GHOR Zuid-Holland Zuid,OvD-G Noord-Oost
+1423268,AMBU,GHOR Zuid-Holland Zuid,Operationeel Medewerker Actiecentrum
+1423272,AMBU,GHOR Zuid-Holland Zuid,Directeur Publieke Gezondheidszorg
+1423282,AMBU,GHOR Zuid-Holland Zuid,OvD-G Zuid-West
+1423285,AMBU,RAV Zuid-Holland Zuid,Coordinatie 18-550 (Chef van dienst)
+1423286,AMBU,RAV Zuid-Holland Zuid,Coordinatie 18-551 (Chef van dienst)
+1423292,AMBU,MKA Zuid-Holland Zuid,TCO
+1423306,AMBU,VR Rotterdam-Rijnmond/VR Zuid-Holland Zuid,Persoonlijke code
+1423340,AMBU,Regionaal,Rapid Responder 18-353
+1423341,AMBU,Regionaal,Middencomplexe zorg 18-271
+1423342,AMBU,Regionaal,Middencomplexe zorg 18-272
+1423343,AMBU,Regionaal,Opleidings Ambulance (18-543)
+1423345,AMBU,Regionaal,Rapid Responder 18-344 (reserve)
+1423350,AMBU,Dordrecht,Biker ambu 18-350
+1423351,AMBU,Dordrecht,Biker ambu 18-351
+1423352,AMBU,Dordrecht,Biker ambu 18-352
+1423353,AMBU,Dordrecht,Biker ambu 18-353
+1423360,AMBU,Klaaswaal,‘t Hellegat HAP-wagen 18-757
+1423361,AMBU,Dirksland,‘t Hellegat HAP-wagen 17-770
+1423371,AMBU,Klaaswaal,Ambulance 18-171
+1423372,AMBU,Klaaswaal,Ambulance 18-172
+1423374,AMBU,Dordrecht,Ambulance 18-174
+1423375,AMBU,Meerkerk,Ambulance 18-175
+1423376,AMBU,Dordrecht,Ambulance 18-176
+1423377,AMBU,Meerkerk,Ambulance 18-177
+1423381,AMBU,Dordrecht,Ambulance 18-181
+1423385,AMBU,Dordrecht,Ambulance 18-185
+1423386,AMBU,Zwijndrecht,Ambulance 18-186
+1423387,AMBU,Zwijndrecht,Ambulance 18-187
+1423390,AMBU,Dordrecht,Ambulance 18-190
+1423391,AMBU,Dordrecht,Ambulance 18-191
+1423392,AMBU,Dordrecht,Ambulance 18-192
+1423393,AMBU,Dordrecht,Ambulance 18-193
+1423394,AMBU,Dordrecht,Ambulance 18-194
+1423395,AMBU,Dordrecht,Ambulance 18-195
+1423396,AMBU,Papendrecht,Ambulance 18-196
+1423397,AMBU,Papendrecht,Ambulance 18-197
+1433000,POL,Politie Eenheid Rotterdam,Proefalarm ZHZ
+1433001,POL,Politie Eenheid Rotterdam,Lichtkrant GMK
+1433003,POL,Politie Eenheid Rotterdam,Proefalarm/Test GRIP
+1433005,POL,Regionaal  DARES,Regio Coördinator ZHZ
+1433006,POL,Regionaal  DARES,Deelnemers ZHZ
+1433020,POL,Politie Rotterdam,District Zuid-Holland-Zuid (GRIP-1)
+1433021,POL,Politie Rotterdam,District Zuid-Holland-Zuid (GRIP-2)
+1433023,POL,Politie Rotterdam,District Zuid-Holland-Zuid (GRIP-3)
+1433024,POL,Politie Rotterdam,District Zuid-Holland-Zuid (GRIP-4)
+1433218,POL,GMK Rotterdam,GMK Beheer (Persoonlijk)
+1433860,POL,Politie Rotterdam,District Zuid-Holland-Zuid (OvD-P)
+1433863,POL,Politie Eenheid Rotterdam,Persvoorlichting Zuid-Holland-Zuid
+1433865,POL,OC-P,Persinformatie (Zuid-Holland-Zuid) VERVALLEN

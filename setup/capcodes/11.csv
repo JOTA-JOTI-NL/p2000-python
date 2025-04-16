@@ -1,0 +1,281 @@
+capcode,discipline,locatie/divisie,beschrijving
+0103001,BRW,Regionaal,LTFO Logistiek
+0103002,BRW,Regionaal,LTFO Ontsmettingseenheid
+0103003,BRW,Krommenie,Decontaminatieploeg
+0103004,BRW,Oosthuizen,Ontsmettingsploeg
+0103009,BRW,Regionaal,Coordinator Verkennings Eenheden
+0103010,BRW,Regionaal,LTFO AGS
+0103011,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (AGS)
+0103013,BRW,Assendelft,IBGS ploeg
+0103015,BRW,Landsmeer,Verkenningseenheid
+0103016,BRW,Beemster,Verkenningseenheid
+0103017,BRW,Purmerend,Verkenningseenheid
+0103019,BRW,Oostzaan,Verkenningseenheid
+0103021,BRW,Zaandam Prins Bernhardplein,Duikploeg
+0103025,BRW,Zaandam,Duikadviseur
+0103026,BRW,Wormer,Chauffeurs MCU
+0103028,BRW,Regionaal,Geo Informatie Medewerker
+0103031,BRW,Krommenie,Bezetting HA
+0103032,BRW,Zaandam Houtveldweg,Bezetting HA
+0103033,BRW,Wormerveer,Bezetting HA
+0103036,BRW,Volendam,Bezetting HA
+0103037,BRW,Purmerend,Bezetting HA
+0103040,BRW,Zaandijk,Chauffeurs/Kraanbedieners HV-KR
+0103042,BRW,Edam,Chauffeurs/Kraanbedieners HV-KR
+0103044,BRW,Zaandam Botenmakersstraat,Bezetting AL
+0103045,BRW,Purmerend,Bezetting HW
+0103046,BRW,Wormerveer,Bezetting AL
+0103047,BRW,Zaandam Prins Bernhardplein,Bezetting AL
+0103048,BRW,Wormerveer/Zaanstad-Noord,Kazerneploeg AL Dagdienst
+0103051,BRW,Purmerend,Verzorgingsgroep
+0103052,BRW,Regionaal,Coordinator Onderhoud- en Verzorgingsgroep
+0103053,BRW,Regionaal,Logistiek functionaris
+0103055,BRW,Regionaal,Commandant
+0103057,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0103058,BRW,Regionaal,Officier van Dienst West
+0103059,BRW,Regionaal,Officier van Dienst Regio/Vrije instroom
+0103060,BRW,Regionaal,Officier van Dienst Oost
+0103061,BRW,Regionaal,Officier van Dienst (Regio)
+0103062,BRW,Regionaal,AC-B / HOvD
+0103063,BRW,Regionaal,Taakcommandant
+0103070,BRW,Regionaal,Team Brandonderzoek
+0103075,BRW,Regionaal,Coordinator TCO
+0103076,BRW,Regionaal,Team Collegiale Opvang (TCO)
+0103100,BRW,Oosthuizen,Bezetting TS
+0103104,BRW,Oosthuizen,Kazernecoordinator
+0103105,BRW,Oosthuizen,Lichtkrant
+0103107,BRW,Kwadijk,Bezetting TS
+0103111,BRW,Kwadijk,Kazernecoordinator
+0103112,BRW,Kwadijk,Lichtkrant
+0103117,KNBRD,Warder,Reddingboot De Beer Opstappers
+0103118,KNBRD,Zeevang,IJsreddingsteam
+0103165,BRW,Middenbeemster,Bezetting TS
+0103166,BRW,Middenbeemster,Lichtkrant
+0103169,BRW,Zuidoostbeemster,Bezetting TS
+0103172,BRW,Zuidoostbeemster,Kazernecoordinator
+0103175,BRW,Beemster,Kazernecoordinator
+0103176,BRW,Beemster,Bevelvoerder van Dienst
+0103230,BRW,Edam,Bezetting TS
+0103231,BRW,Edam,Lichtkrant
+0103232,BRW,Edam,Kazernetechniek
+0103237,BRW,Edam,Kazernecoordinator
+0103239,BRW,Volendam,Bezetting TS
+0103240,BRW,Volendam,Lichtkrant
+0103243,BRW,Volendam,Kazernetechniek
+0103246,BRW,Volendam,Kazernecoordinator
+0103248,BRW,Edam-Volendam,Bevelvoerder van dienst
+0103251,BRW,Edam-Volendam,Burgemeester
+0103330,BRW,Monnickendam,Bezetting TS
+0103333,BRW,Monnickendam,Lichtkrant
+0103336,BRW,Monnickendam,Kazernecoordinator
+0103338,BRW,Marken,Postalarm
+0103341,BRW,Marken,Lichtkrant
+0103344,BRW,Marken,Postcoordinator
+0103346,BRW,Broek in Waterland,Bezetting TS
+0103349,BRW,Broek in Waterland,Lichtkrant
+0103352,BRW,Broek in Waterland,Kazernecoordinator
+0103354,BRW,Ilpendam,Bezetting TS
+0103357,BRW,Ilpendam,Lichtkrant
+0103360,BRW,Ilpendam,Kazernecoordinator
+0103364,BRW,Waterland,Burgemeester
+0103366,KNRM,Marken,ReddingbootFrans Verkade en Hendrik Jacob
+0103367,KNRM,Zaanstreek Waterland,Monitor
+0103368,KNRM,Marken,IJsreddingsteam
+0103470,BRW,Landsmeer,Bezetting TS
+0103472,BRW,Landsmeer,Kazernecoordinator
+0103473,BRW,Landsmeer,Kazernetechniek
+0103540,BRW,Purmerend,Duikploeg
+0103546,BRW,Purmerend,Bezetting 2e TS Ploeg 1
+0103547,BRW,Purmerend,Bevelvoerders
+0103550,BRW,Purmerend,Bezetting 2e TS Ploeg 2
+0103560,BRW,Purmerend,Kazernecoordinator
+0103561,BRW,Purmerend,Bevelvoerder van dienst
+0103562,BRW,Purmerend,Kazernecoordinator Vrijwilligers
+0103566,BRW,Purmerend,Lichtkrant
+0103570,BRW,Purmerend,Burgemeester
+0103680,BRW,Assendelft,Bezetting TS
+0103683,BRW,Assendelft,Kazernetechniek
+0103684,BRW,Assendelft,Kazernecoordinator
+0103685,BRW,Assendelft,Lichtkrant
+0103742,BRW,Zaanstad,Teamleider West
+0103790,BRW,Krommenie,Bezetting TS
+0103792,BRW,Krommenie,Bezetting SB
+0103793,BRW,Krommenie,Kazernetechniek
+0103794,BRW,Krommenie,Lichtkrant
+0103800,BRW,Krommenie,Kazernecoordinator
+0103925,BRW,Wormerveer,Bezetting TS
+0103931,BRW,Wormerveer/Zaanstad-Noord,Lichtkrant
+0103932,BRW,Wormerveer,Kazernecoordinator
+0103995,BRW,Zaandam Vermiljoenweg,Bezetting TS
+0103998,BRW,Zaandam Vermiljoenweg,Kazernetechniek
+0103999,BRW,Zaandam Vermiljoenweg,Kazernecoordinator
+0104000,BRW,Zaandam Vermiljoenweg,Lichtkrant
+0104009,BRW,Zaandam Prins Bernhardplein,Bezetting TS
+0104010,BRW,Zaandam Prins Bernhardplein,Bezetting PM
+0104013,BRW,Zaandam Prins Bernhardplein,Kazernecoordinator
+0104014,BRW,Zaandam Prins Bernhardplein,Lichtkrant
+0104022,BRW,Zaandam Prins Bernhardplein,Kazernecoordinator
+0104023,BRW,Zaanstad-Noord,Kazernecoordinator Dagdienst
+0104110,BRW,Zaandam Botenmakersstraat,Bezetting TS
+0104111,BRW,Zaandam Botenmakersstraat,Bezetting PM
+0104117,BRW,Zaandam Botenmakersstraat,Kazernetechniek
+0104118,BRW,Zaandam Botenmakersstraat,Kazernecoordinator
+0104119,BRW,Zaandam Botenmakersstraat,Lichtkrant
+0104130,BRW,Zaandam Houtveldweg,Bezetting TS
+0104133,BRW,Zaandam Houtveldweg,Kazernetechniek
+0104134,BRW,Zaandam Houtveldweg,Kazernecoordinator
+0104135,BRW,Zaandam Houtveldweg,Lichtkrant
+0104136,BRW,Zaandam Houtveldweg,Schippers
+0104137,BRW,Zaandam Houtveldweg,Logistiek
+0104260,BRW,Zaandijk,Bezetting TS
+0104263,BRW,Zaandijk,Kazernetechniek
+0104264,BRW,Zaandijk,Lichtkrant
+0104265,BRW,Zaandijk,Kazernecoordinator
+0104310,BRW,Oostzaan Zuid,Bezetting TS
+0104314,BRW,Oostzaan Zuid,Lichtkrant
+0104316,BRW,Oostzaan,Kazernecoordinator
+0104321,BRW,Oostzaan,Bezetting BRV
+0104375,BRW,Wormer,Bezetting TS
+0104376,BRW,Wormer,Bezetting BRV-K
+0104377,BRW,Wormer,Bevelvoerder van Dienst
+0104380,BRW,Wormer,Lichtkrant
+0104384,BRW,Wormer,Kazernecoordinator
+0104388,BRW,Jisp,Burgerhulpverlening
+0104396,BRW,Spijkerboor,Bezetting TS
+0104400,BRW,Spijkerboor,Kazernecoordinator
+0104403,BRW,Oost-knollendam,Burgerhulpverlening
+0104412,BRW,Wormerland,Burgemeester
+0104510,BRW,Zaanstad,Burgemeester
+0104513,BRW,Wormerveer/Zaanstad-Noord,Kazerneploeg TS Dagdienst
+0104514,BRW,Zaandam Prins Bernhardplein,Kazerneploeg TS Dagdienst
+0104515,BRW,Zaandam Prins Bernhardplein,Weekendploeg
+0104516,BRW,Zaanstad-Noord,Weekendploeg
+0104517,BRW,Zaanstad,Wegwerkzaamheden
+0104520,BRW,Zaanstad,Havendienst Piket Functionaris
+0104524,BRW,Zaandam,Slagboom Heijermansstraat
+0104527,BRW,Zaandam,Monitor
+0104528,BRW,Waterland,Monitor
+0104529,BRW,Zaanstreek,Monitor
+0104657,BRW,Regionaal,Piket Leider CoPI
+0104667,BRW,Regionaal,Piket Informatiemanager CoPI
+0104668,BRW,Regionaal,Piket Informatiemanager Operationeaal Team
+0104669,BRW,Regionaal,Journaalschrijver ROT
+0104670,BRW,Regionaal,Piket Ondersteuner ROT
+0104671,BRW,Regionaal,Piket Operationeel Leider
+0104672,BRW,Regionaal,Algemeen Commandant Brandweerzorg
+0104677,BRW,Regionaal,Piket Sectiemedewerker Brandweerzorg ROT
+0104678,BRW,Regionaal,Piket Incidentcoordinator ROT
+0104680,BRW,Regionaal,Piket Hoofd Informatie
+0104681,BRW,Regionaal,Piket Hoofd Ondersteuning
+0104711,BRW,Zaandam Prins Bernhardplein,Arbeidshygiene
+0104712,BRW,Zaandam Prins Bernhardplein,Piket Technische Dienst
+0104739,BRUG,Havenkantoor Centrale brugbediening Zaanstad,Brugwachter Nauernasebrug Westzaan
+0104740,BRUG,Havenkantoor Centrale brugbediening Zaanstad,Lichtkant
+0104741,BRUG,Zaandam,Brugwachter Dr. J.M. den Uylbrug
+0104742,BRUG,Zaandam,Brugwachter Beatrixbrug
+0104743,BRUG,Zaandam,Brugwachter Prins Bernhardbrug/Wilhelminabrug
+0104744,BRUG,Zaandam,Brugwachter Prins Willem Alexanderbrug
+0104745,BRUG,Koog a/d Zaan,Brugwachter Coenbrug A8
+0104746,BRUG,Zaandijk,Julianabrug
+0104747,BRUG,Wormer,Brugwachter Zaanbrug
+0104748,BRUG,Wormer,Brugwachter Prins Clausbrug
+0104749,BRUG,Havenkantoor Centrale brugbediening Zaanstad,Prinses Amaliabrug Westknollendam
+0104750,BRUG,Krommenie,Brugwachter Vaartbrug
+0104751,BRUG,Krommenie,Provinciale Brug N203
+0104752,BRUG,Assendelft,Brugwachter Reint Laan Jr. Brug
+0104753,BRUG,Westzaan,Brug Vrouwenverdriet
+0104754,BRUG,Volendam-Edam,Brugwachter Jan Koningbrug
+0104756,BRUG,Monnickendam,Brugwachter Hefbrug
+0104757,BRUG,Broek in Waterland,Brug N247
+0104758,BRUG,Purmerend,Brugwachter Jan Blankenbrug
+0104759,BRUG,Purmerend,Brugwachter Sluisbrug
+0104760,BRUG,Purmerend,Brugwachter Beemsterbrug/Hoornsebrug
+0104761,BRUG,Purmerend,Brugwachter Kooimanbrug/Wheermolenbrug
+0104762,BRW,Assendelft,Bedrijfsbrandweer Forbo Flooring (Postalarm)
+0104764,BRW,Zaanstad,Bedrijfsbrandweer Forbo Linoleum (Bevelvoerder van Dienst)
+0104828,BRW,Koog aan de Zaan,Bedrijfsbrandweer Tate en Lyle
+0104852,BRW,Wormer,Bedrijfsbrandweer Olam Cocoa Bezetting TS
+0104854,BRW,Wormer,Bedrijfsbrandweer Olam Cocoa Commandant
+0104876,BRW,Zaandijk,Bedrijfsbrandweer Olam Cocoa
+0104901,BRW,Assendelft,First Responders
+0104902,BRW,Broek in Waterland,First Responders
+0104903,BRW,Edam,First Responders
+0104904,BRW,Ilpendam,First Responders
+0104905,BRW,Krommenie,First Responders
+0104906,BRW,Kwadijk,First Responders
+0104907,BRW,Landsmeer,First Responders
+0104908,BRW,Marken,First Responders
+0104909,BRW,Middenbeemster,First Responders
+0104910,BRW,Monnickendam,First Responders
+0104911,BRW,Oosthuizen,First Responders
+0104912,BRW,Oostzaan,First Responders
+0104914,BRW,Purmerend,First Responders
+0104916,BRW,Volendam,First Responders
+0104917,BRW,Wormer,First Responders
+0104918,BRW,Wormerveer,First Responders
+0104919,BRW,Zaanstad-Noord,First Responders
+0104920,BRW,Zaandijk,First Responders
+0104921,BRW,Zaandam Botenmakersstraat,First Responders
+0104922,BRW,Zaandam Houtveldweg,First Responders
+0104923,BRW,Zaandam Prins Bernhardplein,First Responders
+0104924,BRW,Zaanstreek Noord en Zuid,First Responders
+0104925,BRW,Zaandam Vermiljoenweg,First Responders
+0104931,BRW,Waterland-Noord,Decentrale Uitgifte
+0104932,BRW,Waterland-Zuid,Decentrale Uitgifte
+0104933,BRW,Zaanstreek,Decentrale Uitgifte
+0104952,BRW,Regionaal,RTV-NH Rampenzenderaansturing
+0104960,BRW,Regionaal,Strategisch Adviseur Bz GBT
+0104962,BRW,Regionaal,Informatiecoordinator Bevolkingszorg
+0104963,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+0104964,BRW,Regionaal,Medewerker Stafsectie Bevolkingszorg
+0104965,BRW,Regionaal,Communicatieadviseur ROT
+0104966,BRW,Regionaal,OvD Bevolkingszorg
+0104967,BRW,Regionaal,Hoofd Taakorganisatie Communicatie
+0104970,BRW,Regionaal,Teamleider Opvang&Verplaatsing
+0104972,BRW,Regionaal,Voorlichter van Dienst
+0104973,BRW,Regionaal,Voorlichters (Groepscode)
+0104974,BRW,Regionaal,Infocode GRIP 1
+0104975,BRW,Regionaal,Infocode GRIP 2
+0104976,BRW,Regionaal,Infocode GRIP 3
+0104979,BRW,Regionaal,Informatiemanager
+0104980,BRW,Regionaal,Proefalarm
+0104999,BRW,OC Brandweer,Monitor
+0123122,AMBU,Zaandam,Ambulance 11-122
+0123123,AMBU,Zaandam,Ambulance 11-123
+0123124,AMBU,Zaandam,Ambulance 11-124
+0123125,AMBU,Zaandam,Ambulance 11-125
+0123126,AMBU,Zaandam,Ambulance 11-126
+0123127,AMBU,Zaandam,Ambulance 11-127
+0123128,AMBU,Zaandam,Ambulance 11-128
+0123129,AMBU,Zaandam,Ambulance 11-129
+0123130,AMBU,Zaandam,Ambulance 11-130
+0123131,AMBU,Zaandam,Ambulance 11-131
+0123132,AMBU,Zaandam,Ambulance 11-132
+0123133,AMBU,Zaandam,Ambulance 11-133
+0123134,AMBU,Purmerend,Ambulance 11-134
+0123135,AMBU,Purmerend,Ambulance 11-135
+0123136,AMBU,Purmerend,Ambulance 11-136
+0123137,AMBU,Purmerend,Ambulance 11-137
+0123138,AMBU,Purmerend,Ambulance 11-138
+0123139,AMBU,Purmerend,Ambulance 11-139
+0123292,AMBU,Regionaal,Middencomplexe zorg 11-292
+0123293,AMBU,Regionaal,Middencomplexe zorg 11-293
+0123296,AMBU,Regionaal,Middencomplexe zorg 11-296
+0123297,AMBU,Regionaal,Middencomplexe zorg 11-297
+0123321,AMBU,Regionaal,Ambulancemotor 11-321 Witte Kruis
+0123322,AMBU,Regionaal,Ambulancemotor 11-322 Witte Kruis
+0123323,AMBU,Regionaal,Ambulancemotor 11-323 Witte Kruis
+0123631,AMBU,Regionaal,Noodhulpteam) (UGS Purmerend)
+0123632,AMBU,Regionaal,Noodhulpteam) (UGS Zaandam)
+0123633,AMBU,Regionaal,Noodhulpteam) (UGS Volendam)
+0123719,AMBU,Regionaal,Leider Kernteam Psychosociale Hulpverlening
+0123817,AMBU,Regionaal,Dienstvoertuig 11-817 OvD-G
+0123818,AMBU,Regionaal,Dienstvoertuig 11-818 OvD-G
+0123819,AMBU,Regionaal,Dienstvoertuig 11-819 OvD-G
+0123831,AMBU,Regionaal,Noodhulpteam)
+0123889,AMBU,Meldkamer Ambulancezorg,Opschalingscode Zaanstreek-Waterland
+0123999,AMBU,MKA Noord-Holland,Monitorcode Zaanstreek-Waterland
+0133200,POL,Regionaal,Leider OT
+0133204,POL,Regionaal,Algemeen Commandant Politie
+0133206,POL,Regionaal,Sectiemedewerker Politie
+0133212,POL,Regionaal,Informatiecoordinator (ROT)

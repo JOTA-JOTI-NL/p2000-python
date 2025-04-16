@@ -1,0 +1,368 @@
+capcode,discipline,locatie/divisie,beschrijving
+0106300,BRW,MKB Noord Holland,Interregionale Alarmering door MKB Noord-Nederland
+0106305,BRW,MKB Noord Holland,Monitorcode WO 12-2410
+0106310,BRW,MKB Noord Holland,Monitorcode WO 12-3010
+0106315,BRW,MKB Noord Holland,Monitor WO 12-4310
+0106320,BRW,MKB Noord Holland,Infocode MKB Amsterdam
+0106335,BRW,MKB Noord Holland,Infocode MKB Den Haag
+0106490,BRW,Regionaal,TCO Coordinator
+0106505,BRW,Regionaal,Commandant van Dienst
+0106510,BRW,MKB Noord Holland,Senior Centralist
+0106515,BRW,Regionaal,HOvD
+0106520,BRW,Regionaal,OvD Zuid
+0106525,BRW,Regionaal,OvD Midden
+0106530,BRW,Regionaal,OvD Noord
+0106535,BRW,Amsterdam,AGS Amsterdam-Amstelland
+0106542,BRW,Regionaal,Coordinator Verkenningseenheden IBGS
+0106545,BRW,Regionaal,Piket Operationeel Leider
+0106550,BRW,Regionaal,Leider CoPI
+0106555,BRW,Regionaal,Piket Algemeen Commandant Brandweerzorg
+0106570,BRW,Regionaal,Piket Geo Informatie Medewerker
+0106585,BRW,Regionaal,Team Brandonderzoek
+0106588,BRW,Regionaal,RTVNH rampenzenderaansturing
+0106601,KNRM,Reddingstation IJmuiden,Bemanning Reddingboot Nh1816
+0106611,KNRM,Reddingstation Zandvoort,Bemanning Reddingboot Annie Poulisse
+0106631,KNRM,Reddingstation Wijk aan Zee,Bemanning Reddingboot Donateur
+0106681,GMK,GMK Kennemerland,Monitorcode KNRM
+0106686,RB,Reddingsbrigade Zandvoort,Coördinator
+0106699,RB,KNRM Kennemerland,Proefalarm
+0106701,RB,Reddingsbrigade IJmuiden,Alarmploeg
+0106709,RB,Reddingsbrigade IJmuiden,Lichtkrant
+0106711,RB,Reddingsbrigade Zandvoort,Alarmploeg
+0106721,RB,Reddingsbrigade Bloemendaal,Strandploeg
+0106731,RB,Reddingsbrigade Wijk aan Zee,Strandploeg
+0106741,RB,Reddingsbrigade Heemskerk,Strandploeg
+0106781,RB,Landelijk Bureau Reddingsbrigade Nederland IJmuiden,Lichtkrant
+0106799,RB,Regionale Voorziening Reddingsbrigades,Proefalarm/Infocode
+0106900,BRW,Haarlem-West,Postalarm Logistiek
+0106910,BRW,Haarlem-West,Functionaris Logistiek
+0106974,BRW,Haarlem-West,Medewerkers Logistiek
+0106999,OCB,Kennemerland,Proefalarm/Infocode
+0107010,BRW,Haarlem,Bevelvoerder van dienst
+0107011,BRW,Haarlem-West,Bezetting TS/WO
+0107081,BRW,Haarlem-West,Lichtkrant
+0107084,BRW,Haarlem-West,Kazernetechniek
+0107086,BRW,Haarlem-West,Intern alarm
+0107087,BRW,Haarlem-West,Intern Alarm Duikploeg
+0107110,BRW,Haarlem-Oost,Bevelvoerder van Dienst
+0107111,BRW,Haarlem-Oost,Bezetting TS
+0107118,BRW,Haarlem-Oost,Bezetting HV-KR/WT
+0107119,BRW,Haarlem-Oost,Bezetting AL
+0107181,BRW,Haarlem-Oost,Lichtkrant
+0107186,BRW,Haarlem-Oost,Intern Alarm
+0107210,BRW,Velsen-Zuid,Bevelvoerder van Dienst
+0107211,BRW,Velsen-Zuid,24-uursdienst
+0107281,BRW,Velsen-Zuid,Lichtkrant
+0107286,BRW,Velsen-Zuid,Intern Alarm
+0107300,BRW,Zandvoort Centrum/Noord,Postalarm
+0107302,BRW,Zandvoort,Kazernecoordinator
+0107310,BRW,Zandvoort,Bevelvoerder van Dienst
+0107311,BRW,Zandvoort Noord,Bezetting TS
+0107316,BRW,Zandvoort Noord,Chauffeurs WT Ploeg 1
+0107319,BRW,Zandvoort Centrum,Bezetting Specialistische Voertuigen
+0107321,BRW,Zandvoort Centrum,Bezetting TS
+0107326,BRW,Zandvoort Noord,Chauffeurs WT Ploeg 2
+0107329,BRW,Zandvoort Noord,Bezetting Bijzondere Voertuigen
+0107341,BRW,Zandvoort Noord,Kazernedienst Ma-Vr
+0107349,BRW,Zandvoort Noord,Chauffeurs Dagdienst
+0107381,BRW,Zandvoort Centrum/Noord,Lichtkrant
+0107388,BRW,Zandvoort Noord,Kazernetechniek
+0107400,BRW,Beverwijk Oost/West,Postalarm
+0107402,BRW,Beverwijk Oost/West,Kazernecoordinatoren
+0107410,BRW,Beverwijk Oost,Bevelvoerder van Dienst
+0107411,BRW,Beverwijk Oost,Bezetting TS
+0107419,BRW,Beverwijk Oost,Chauffeurs HA
+0107421,BRW,Beverwijk West,Bezetting TS
+0107431,BRW,Beverwijk Oost,Kazernedienst Za Zo
+0107441,BRW,Beverwijk Oost,Kazernedienst Ma Vr
+0107475,BRW,Beverwijk,Verkenningseenheid
+0107481,BRW,Beverwijk Oost/West,Lichtkrant
+0107484,BRW,Beverwijk Oost,Kazernetechniek
+0107488,BRW,Beverwijk West,Kazernetechniek
+0107500,BRW,Heemskerk,Postalarm
+0107502,BRW,Heemskerk,Kazernecoordinator
+0107510,BRW,Heemskerk,Bevelvoerder van dienst
+0107511,BRW,Heemskerk,Ploeg 1
+0107521,BRW,Heemskerk,Ploeg 2
+0107575,BRW,Heemskerk,Verkenningseenheid
+0107581,BRW,Heemskerk,Lichtkrant
+0107602,BRW,Heemstede,Kazernecoordinator
+0107610,BRW,Heemstede,Bevelvoerder van dienst
+0107611,BRW,Heemstede,Bezetting TS
+0107640,BRW,Heemstede,Bevelvoerder van dienst (Dagdienst)
+0107641,BRW,Heemstede,Kazernebezetting TS Dagdienst
+0107675,BRW,Heemstede,Verkenningseenheid IBGS
+0107681,BRW,Heemstede,Lichtkrant
+0107684,BRW,Heemstede,Kazernetechniek
+0107702,BRW,Uitgeest,Kazernecoordinator
+0107710,BRW,Uitgeest,Bevelvoerder van Dienst
+0107711,BRW,Uitgeest,Bezetting TS
+0107752,BRW,Uitgeest,Schippers Werkboot Recreatieschap Alkmaarder- en Uitgeestermeer
+0107781,BRW,Uitgeest,Lichtkrant
+0107784,BRW,Uitgeest,Kazernetechniek
+0107802,BRW,IJmuiden,Kazernecoordinator
+0107810,BRW,IJmuiden,Bevelvoerder van Dienst
+0107811,BRW,IJmuiden,Bezetting TS
+0107881,BRW,IJmuiden,Lichtkrant
+0107902,BRW,Spaarndam,Kazernecoordinator
+0107911,BRW,Spaarndam,Bezetting TS
+0107982,BRW,Spaarndam,Lichtkrant
+0108002,BRW,Bennebroek,Kazernecoordinator
+0108010,BRW,Bennebroek,Bevelvoerder van Dienst
+0108011,BRW,Bennebroek,Bezetting TS
+0108064,BRW,Bennebroek,Bezetting SL-GW
+0108081,BRW,Bennebroek,Lichtkrant
+0108084,BRW,Bennebroek,Kazernetechniek
+0108100,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel (Commandant)
+0108110,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel (Kring A)
+0108140,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel (Kring B)
+0108181,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel (Lichtkrant)
+0108182,BRW,IJmuiden,Dienst Bedrijfsbeveiliging Tata Steel (Lichtkrant Verbandkamer)
+0108184,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel (Kazernetechniek)
+0108199,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel (Proefalarm/Infocode)
+0108210,BRW,Hoofddorp,Bevelvoerder van dienst
+0108211,BRW,Hoofddorp,Bezetting TS
+0108218,BRW,Hoofddorp,Bezetting HV-KR-HW-WT
+0108219,BRW,Hoofddorp,Bezetting HW
+0108281,BRW,Hoofddorp,Lichtkrant
+0108301,BRW,Schiphol Airport,Bedrijfsbrandweer Amsterdam Airport (Airport Fire Officer)
+0108311,BRW,Sloten,Bedrijfsbrandweer Amsterdam Airport Schiphol (Bezetting TS)
+0108321,BRW,Rijk,Bedrijfsbrandweer Amsterdam Airport Schiphol (Bezetting TS)
+0108381,BRW,Sloten,Bedrijfsbrandweer Amsterdam Airport Schiphol (Lichtkrant)
+0108382,BRW,Rijk,Bedrijfsbrandweer Amsterdam Airport Schiphol (Lichtkrant)
+0108399,GMK,Kennemerland,Bedrijfsbrandweer Amsterdam Airport Schiphol (Proefalarm/Infocode)
+0108410,BRW,Nieuw Vennep,Bevelvoerder van Dienst
+0108411,BRW,Nieuw Vennep,Bezetting TS
+0108481,BRW,Nieuw Vennep,Lichtkrant
+0108500,BRW,Halfweg-Zwanenburg,Postalarm
+0108502,BRW,Halfweg-Zwanenburg,Kazernecoordinator
+0108510,BRW,Halfweg-Zwanenburg,Bevelvoerder van Dienst Ploeg 1
+0108511,BRW,Halfweg-Zwanenburg,Bezetting TS Ploeg 1
+0108520,BRW,Halfweg-Zwanenburg,Bevelvoerder van Dienst Ploeg 2
+0108521,BRW,Halfweg-Zwanenburg,Bezetting TS Ploeg 2
+0108530,BRW,Halfweg-Zwanenburg,Bevelvoerder van Dienst Ploeg 3
+0108531,BRW,Halfweg-Zwanenburg,Bezetting TS Ploeg 3
+0108564,BRW,Halfweg-Zwanenburg,Bezetting DP-GW
+0108575,BRW,Halfweg-Zwanenburg,Verkenningseenheid
+0108581,BRW,Halfweg-Zwanenburg,Lichtkrant
+0108602,BRW,Rijsenhout,Kazernecoordinator
+0108611,BRW,Rijsenhout,Bezetting TS
+0108614,BRW,Rijsenhout,Bezetting TS-UHD
+0108664,BRW,Rijsenhout,Bezetting SL-GW
+0108675,BRW,Rijsenhout,Verkenningseenheid IBGS
+0108681,BRW,Rijsenhout,Lichtkrant
+0108702,BRW,Badhoevedorp,Kazernecoordinator
+0108710,BRW,Badhoevedorp,Bevelvoerder van Dienst
+0108711,BRW,Badhoevedorp,Bezetting TS
+0108764,BRW,Badhoevedorp,Bezetting WT
+0108775,BRW,Badhoevedorp,Verkenningseenheid
+0108781,BRW,Badhoevedorp,Lichtkrant
+0108802,BRW,Lisserbroek,Kazernecoordinator
+0108810,BRW,Lisserbroek,Bevelvoerder van dienst
+0108811,BRW,Lisserbroek,Bezetting TS
+0108864,BRW,Lisserbroek,Bezetting DP-GW
+0108881,BRW,Lisserbroek,Lichtkrant
+0108999,GMK,OCB Noord Holland,Monitor
+0126141,AMBU,Regionaal,"GGD, Ambulance 12-141"
+0126142,AMBU,Regionaal,"GGD, Ambulance 12-142"
+0126143,AMBU,Regionaal,"GGD, Ambulance 12-143"
+0126144,AMBU,Regionaal,"GGD, Ambulance 12-144"
+0126145,AMBU,Regionaal,"GGD, Ambulance 12-145"
+0126146,AMBU,Regionaal,"GGD, Ambulance 12-146"
+0126147,AMBU,Regionaal,"GGD, Ambulance 12-147"
+0126148,AMBU,Regionaal,"GGD, Ambulance 12-148"
+0126149,AMBU,Regionaal,"GGD, Ambulance 12-149"
+0126150,AMBU,Regionaal,"Witte Kruis, Ambulance 150"
+0126151,AMBU,Regionaal,"Witte Kruis, Ambulance 151"
+0126152,AMBU,Regionaal,"Witte Kruis, Ambulance 152"
+0126153,AMBU,Regionaal,"Witte Kruis, Ambulance 153"
+0126154,AMBU,Regionaal,"Witte Kruis, Ambulance 154"
+0126155,AMBU,Regionaal,"Witte Kruis, Ambulance 155"
+0126156,AMBU,Regionaal,"Witte Kruis, Ambulance 156"
+0126157,AMBU,Regionaal,"Witte Kruis, Ambulance 157"
+0126158,AMBU,Regionaal,"Witte Kruis, Ambulance 158"
+0126159,AMBU,Regionaal,"Witte Kruis, Ambulance 159"
+0126161,AMBU,Regionaal,"Hoofddorp, Ambulance 161"
+0126162,AMBU,Regionaal,"Hoofddorp, Ambulance 162"
+0126163,AMBU,Regionaal,"Hoofddorp, Ambulance 163"
+0126164,AMBU,Regionaal,"Hoofddorp, Ambulance 164"
+0126165,AMBU,Regionaal,"Hoofddorp, Ambulance 165"
+0126166,AMBU,Regionaal,"Hoofddorp, Ambulance 166"
+0126167,AMBU,Regionaal,"Hoofddorp, Ambulance 167"
+0126171,AMBU,Regionaal,Airport Medical Services Schiphol 171
+0126172,AMBU,Regionaal,Airport Medical Services Schiphol 172
+0126173,AMBU,Regionaal,Airport Medical Services Schiphol 173
+0126240,AMBU,Regionaal,Middencomplexe zorg 12-240
+0126251,AMBU,Regionaal,Middencomplexe zorg 12-251
+0126261,AMBU,Regionaal,Middencomplexe zorg 12-261
+0126298,AMBU,Regionaal,Middencomplexe zorg 12-298
+0126299,AMBU,Regionaal,Middencomplexe zorg 12-299
+0126321,AMBU,Regionaal,Ambulancemotor 12-321
+0126322,AMBU,Regionaal,Ambulancemotor 12-322
+0126341,AMBU,Regionaal,Rapid Responder 12-341
+0126346,AMBU,Regionaal,Rapid Responder 12-346
+0126347,AMBU,Regionaal,Rapid Responder 12-347
+0126349,AMBU,Regionaal,Rapid Responder 12-349
+0126401,AMBU,Regionaal,Onbekend
+0126402,AMBU,Regionaal,Onbekend
+0126403,AMBU,Regionaal,Onbekend
+0126517,AMBU,Regionaal,Hazard Area Response Team Hoofddorp
+0126801,AMBU,Regionaal,OvD-G 801
+0126802,AMBU,Regionaal,OvD-G 802
+0126803,AMBU,Regionaal,OvD-G 803
+0126804,AMBU,Regionaal,OvD-G 804
+0126805,AMBU,Regionaal,OvD-G 805
+0126840,AMBU,Regionaal,Dienstvoertuig AC-GZ 12-840
+0126841,AMBU,Regionaal,Hoofd Informatie
+0126850,AMBU,Regionaal,Dienstvoertuig DPG 12-850
+0126889,AMBU,Regionaal,Infocode Opschaling Kennemerland
+0126999,AMBU,Meldkamer Ambulancezorg,Monitor
+0127001,BRW,GMK,Centralist
+0127025,BRW,Regionaal,1e Fotograaf
+0127030,BRW,Regionaal,2e Fotograaf
+0127035,BRW,Regionaal,3e Fotograaf
+0127050,MKA,MKA Noord Holland,TCO Coordinator
+0127060,BRW,GMK,Piket ICT Beheer
+0127063,BRW,GMK,ICT Functionaris
+0127065,MKA,MKA Noord Holland,Arts Infectieziektebestrijding
+0127070,AMBU,Noord Holland Noord,TCO Coordinator Witte Kuis Noord Holland Noord
+0127075,AMBU,GMK,GHOR Hoofd Informatie
+0127080,AMBU,GMK,GHOR Hoofd ondersteuning
+0127095,AMBU,GHOR,Leider Kernteam PSH
+0127105,BRW,GMK,Informatiemanager Beleidsteam
+0127115,AMBU,Zaanstreek Waterland,Hoofd informatie
+0127120,AMBU,Zaanstreek Waterland,Hoofd Ondersteuning
+0127130,BRW,GMK Noord Holland,Technisch Ondersteuner RCC
+0127155,AMBU,GGD/GHOR,Directeur Publieke Gezondheid
+0127165,BRW,GMK Noord Holland,ICT
+0127166,BRW,Haarlem,Techniek binnenstad
+0127170,BRW,Regionaal,Informatiemanager CoPI
+0127185,BRW,GMK,Voorlichter van Dienst
+0127190,AMBU,Regionaal,Algemeen Commandant Geneeskundigezorg
+0127195,BRW,GMK,Adviseur Openbare Orde en Veiligheid Beleidsteam
+0127200,BRW,Regionaal,Hoofd Regionaal Actiecentrum Communicatie
+0127205,AMBU,Regionaal (ZaWa),Algemeen Commandant Geneeskundigezorg
+0127210,BRW,GMK,Algemeen Commandant Bevolkingszorg
+0127215,BRW,GMK,Gemeentesecretaris Beleidsteam
+0127220,BRW,GMK,Informatiemanager Operationeel Team
+0127235,BRW,GMK,Verslagleggers Beleidsteam
+0127240,POL,District Kennemerland,Calamiteitenverlichting Haarlem-Centrum
+0127245,POL,District Kennemerland,Calamiteitenverlichting Haarlem-Centrum
+0127250,AMBU,MKA,Piketcentralist
+0127255,POL,District Kennemerland,Calamiteitenverlichting Haarlem-Centrum
+0127265,BRW,GMK,Hoofd Informatie Actiecentrum Communicatie
+0127270,MKA,MKA,Achterwacht MKA
+0127290,BRW,GMK,Infocode Boswachters PWN Noordhollands Duinreservaat
+0127295,BRW,GMK,Infocode Boswachters PWN Nationaal Park Zuid-Kennemerland
+0127305,BRW,Haarlem,Techniek binnenstad
+0127310,BRW,Haarlem,Techniek binnenstad
+0127315,AMBU,MKA,Achterwacht MKA
+0127320,GHOR,Regionaal,OvD-G 1
+0127325,GHOR,Regionaal,OvD-G 2
+0127355,AMBU,Regionaal,Noodhulpteam (UGS Ikea Haarlem)
+0127375,AMBU,Regionaal,Noodhulpteam (UGS IJsbaan Haarlem)
+0127360,POL,Regionaal,Algemeen commandant Politiezorg
+0127365,POL,Regionaal,Medewerker Algemeen commandant Politiezorg
+0127380,AMBU,Regionaal,Noodhulpteam) (UGS Velsen)
+0127385,AMBU,Regionaal,Noodhulpteam (UGS Hoofddorp)
+0127390,AMBU,Bloemendaal aan Zee,Paal vakantiepark Qurios
+0127405,AMBU,MKA,Medisch Manager Ambulancezorg (MMA)
+0127425,GHOR,Regionaal,Inzetcoordinator logistiek en verzorging GHOR
+0127440,BRW,GMK,Liaison Ministerie van Defensie
+0127445,POL,GMK,Districts Commandant
+0127460,AMBU,MKA Kennemerland,MMA Hazard Area Response Team
+0127480,BRW,GMK,Hoofd Publiekezorg
+0127535,BRW,Meldkamer Noord Holland,Infocode Opschaling Noord-Holland-Noord
+0127555,BRW,Meldkamer Noord Holland,Medewerker Stafsectie Brandweer
+0127570,BRW,Meldkamer Noord Holland,Calamiteitencoordinator
+0127580,BRW,Meldkamer Noord Holland,Piket Centralist
+0127581,BRW,Haarlem,Bollard Zijlstraat/Nieuwe Groenmarkt
+0127583,BRW,Haarlem,Poller Grote Houtstraat/Gedempte Oude Gracht
+0127588,GMK,Haarlem,Bollard parkeergarage Raaks-Zijlvest
+0127595,BRW,Heemstede,Gemeentelijk personeel
+0127600,BRW,IJmuiden,Bedrijfsbrandweer Tata Steel Persoonlijke code
+0127620,BRW,Evenement code,Surveillance Team
+0127665,BRW,GMK,Infocode Opschaling Zaanstreek-Waterland
+0127675,BRW,GMK,Communicatieadviseur Operationeel Team
+0127680,BRW,GMK,Communicatieadviseur Beleidsteam
+0127685,BRW,GMK,Hoofd Regionaal Actiecentrum Communicatie
+0127690,BRW,GMK,Medewerker Pers & Publiek Actiecentrum Communicatie
+0127705,BRW,GMK,Omgevingsanalist Actiecentrum Communicatie
+0127710,AMBU,Amsterdam-Kennemerland,TCO Coordinator Ambulance Amsterdam-Kennemerland
+0127715,AMBU,Kennemerland,TCO Coordinator GGD + Witte Kruis Kennemerland
+0127727,BRW,Haarlem,Techniek binnenstad
+0127729,BRW,Haarlem,Techniek binnenstad
+0127730,BRW,Regionaal,Infocode PWN Boswachter Noordhollands Duinreservaat
+0127731,BRW,Haarlem,Techniek binnenstad
+0127733,BRW,Haarlem,Techniek binnenstad
+0127736,BRW,Haarlem,Techniek binnenstad
+0127737,BRW,Haarlem,Techniek binnenstad
+0127739,BRW,Haarlem,Techniek binnenstad
+0127740,BRW,Regionaal,Coordinator Staf Bevolkingszorg
+0127741,BRW,Haarlem,Techniek binnenstad
+0127743,BRW,Haarlem,Poller Grote Houtstraat
+0127746,BRW,Haarlem,Techniek binnenstad
+0127747,BRW,Haarlem,Techniek binnenstad
+0127750,BRW,Regionaal,Informatiemanager Bevolkingszorg
+0127751,BRW,Haarlem,Techniek binnenstad
+0127755,BRW,Haarlem,Techniek binnenstad
+0127757,BRW,Haarlem,Techniek binnenstad
+0127759,BRW,Haarlem,Roadblocks Binnenstad
+0127761,BRW,Haarlem,Techniek binnenstad
+0127763,BRW,Haarlem,Techniek binnenstad
+0127772,BRW,Haarlem,Techniek binnenstad
+0127785,AMBU,GHOR Zaanstreek-Waterland,OvD-G
+0127800,BRW,MKB Noord Holland,Infocode Vliegtuig Ongevallen Schiphol
+0127810,BRW,GMK,GRIP 1 (Infocode)
+0127820,BRW,GMK,GRIP 2 (Infocode)
+0127830,BRW,GMK,GRIP 3 (Infocode)
+0127840,BRW,GMK,GRIP 4 (Infocode)
+0127850,POL,OC-P,Persinformatie (Heel Noord-Holland-Noord)
+0127860,BRW,GMK,Opschalingscode VR Kennemerland
+0127861,AMBU,MKA,Medisch Manager Ambulancezorg (MMA)
+0127870,BRUG,Halfweg-Zwanenburg,Brugwachter Halfwegbrug Halfweg
+0127875,BRUG,Spaarndam,Brugwachter Grote Sluis
+0127880,BRW,Regionaal,Evenementenpagers
+0127890,BRW,Regionaal,Infocode incidenten Schipholspoortunnel
+0127900,BRW,Regionaal,Coordinator TCO
+0127910,AMBU,IJmuiden,Dienst Bedrijfsbeveiliging Tata Steel (Intern Alarm Verbandkamer)
+0127919,BRUG,Buitenkaag,Brugbediening Kaagbrug
+0127920,BRW,Haarlem,Pollers Binnenstad
+0127927,BRUG,Buitenhuizen,Brugwachter Buitenhuizerbrug
+0127931,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel 9050
+0127932,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel 9051
+0127933,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel 9052
+0127934,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel 9053
+0127936,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel 9054
+0127941,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel
+0127943,BRW,Weteringbrug,Brug Oude Wetering
+0127944,BRW,Zwaanshoek,Bennebroekerbrug
+0127945,BRW,Regionaal,Dienst BedrijfsBeveiliging (DBB) TATA Steel
+0127960,BRW,Hoofddorp,Bussluis Waddenweg
+0127980,BRW,Hoofddorp,Bussluis Henri Didonweg
+0127981,BRW,Spaarndam,Bedienpost Rijnlandsluizen
+0127985,BRW,Hoofddorp,Bussluis Baron De Coubertinlaan
+0127995,BRW,Regionaal,OvD Bevolkingszorg
+0128001,BRW,Regionaal,Burgemeester gemeente Beverwijk
+0128002,BRW,Regionaal,Burgemeester gemeente Bloemendaal
+0128003,BRW,Regionaal,Burgemeester gemeente Haarlem
+0128005,BRW,Regionaal,Burgemeester gemeente Haarlemmermeer
+0128006,BRW,Regionaal,Burgemeester gemeente Heemskerk
+0128007,BRW,Regionaal,Burgemeester gemeente Heemstede
+0128008,BRW,Regionaal,Burgemeester gemeente Uitgeest
+0128009,BRW,Regionaal,Burgemeester gemeente Velsen
+0128010,BRW,Regionaal,Burgemeester gemeente Zandvoort
+0128021,BRW,gemeente Beverwijk,Adviseur Openbare Orde en Veiligheid
+0128022,BRW,gemeente Bloemendaal,Adviseur Openbare Orde en Veiligheid
+0128023,BRW,gemeente Haarlem,Adviseur Openbare Orde en Veiligheid
+0128025,BRW,gemeente Haarlemmermeer,Adviseur Openbare Orde en Veiligheid
+0128026,BRW,gemeente Heemskerk,Adviseur Openbare Orde en Veiligheid
+0128027,BRW,gemeente Heemstede,Adviseur Openbare Orde en Veiligheid
+0128030,BRW,gemeente Zandvoort,Adviseur Openbare Orde en Veiligheid
+0128081,BRW,gemeente Beverwijk,Bouw- en Woningtoezicht
+0128082,BRW,gemeente Bloemendaal,Bouw- en Woningtoezicht
+0128085,BRW,gemeente Haarlemmermeer,Bouw- en Woningtoezicht
+0128086,BRW,gemeente Heemskerk,Bouw- en Woningtoezicht
+0128088,BRW,gemeente Uitgeest,Bouw- en Woningtoezicht
+0128090,BRW,gemeente Zandvoort,Bouw- en Woningtoezicht
+0128127,BRW,Heemstede,Infocode Gemeente Heemstede

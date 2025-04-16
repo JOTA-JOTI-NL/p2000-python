@@ -1,0 +1,647 @@
+capcode,discipline,locatie/divisie,beschrijving
+1300001,BRW,OCB Zeeland/West Brabant,Monitorcode Zeeland
+1300005,BRW,OCB Zeeland/West Brabant,Aansturing Lichtkranten Regio Zeeland
+1300010,BRW,BRW Zeeland,Proefalarm
+1300018,BRW,Regionaal,Infocode Natuurbrand
+1300019,BRW,Regionaal,Vrije instroom AGS
+1300020,BRW,Regionaal,Strategisch Adviseur Brandweerzorg
+1300022,BRW,Regionaal,HOvD Noord
+1300023,BRW,Regionaal,HOvD Zuid
+1300025,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (Noord)
+1300026,BRW,Regionaal,Adviseur Gevaarlijke Stoffen (Zuid)
+1300028,BRW,Regionaal,OvD Noord-Oost
+1300029,BRW,Regionaal,OvD Midden-West
+1300031,BRW,Regionaal,OvD Midden-Oost
+1300032,BRW,Regionaal,OvD Noord-West
+1300033,BRW,Regionaal,OvD Zuid-West
+1300034,BRW,Regionaal,OvD Zuid-Oost
+1300043,MKA,Regionaal,TCO
+1300047,BRW,Regionaal,Voorlichting (Piket)
+1300049,BRW,Regionaal,Informatiemanager ROT
+1300052,BRW,Regionaal,Informatiemanager CoPI Noord
+1300053,BRW,Regionaal,Informatiemanager CoPI Zuid
+1300058,BRW,Regionaal,OvD Defensie
+1300059,BRW,Regionaal,Bestuurlijk Informatie Manager
+1300060,BRW,Regionaal,Persalarm
+1300061,BRW,Regionaal,Piket Sectie Ondersteuning
+1300065,BRW,Regionaal,Communicatie Adviseur CoPI
+1300068,BRW,Regionaal,Team Brandonderzoek (Infocode)
+1300070,BRW,Regionaal,Team Brandonderzoek (Alarmcode)
+130011?,BRW,OC-B Zeeland/West-Brabant,Centralist (Persoonijke code)
+130012?,BRW,OC-B Zeeland/West-Brabant,Centralist (Persoonijke code)
+1300142,BRW,Regionaal,Event-CoPI Noord
+1300158,BRW,Regionaal,OvD Rijkswaterstaat (West)
+1300180,BRW,Regionaal,OvD Rijkswaterstaat (Zuidwest)
+1300191,BRW,Regionaal,Vrije Instroom Officieren Zeeuws-Vlaanderen West
+1300192,BRW,Regionaal,Vrije Instroom Officieren Zeeuws-Vlaanderen Oost
+1300194,BRW,Regionaal,Vrije Instroom Officieren Zuid-Beveland
+1300195,BRW,Regionaal,Vrije Instroom Officieren Walcheren/Noord-Beveland
+1300197,BRW,Regionaal,Vrije Instroom Officieren Tholen
+1300198,BRW,Regionaal,Vrije Instroom Officieren Schouwen-Duiveland
+1300202,BRW,Borssele,First Responders
+1300205,BRW,Baarland,Bezetting TS Dagdienst
+1300206,BRW,Baarland,Ploeg (ANW)
+1300207,BRW,Baarland,First Responders
+1300208,BRW,Baarland,Kazernetechniek
+1300210,BRW,Borssele,Bezetting TS Dagdienst
+1300211,BRW,Borssele,Ploeg (ANW)
+1300212,BRW,Borssele,Bezetting SB Dagdienst
+1300213,BRW,Borssele,Bezetting SB ANW
+1300214,BRW,Borssele,Bezetting TK-G
+1300219,BRW,Borssele,Kazernetechniek
+1300220,BRW,'s-Gravenpolder,Bezetting TS Dagdienst
+1300221,BRW,'s-Gravenpolder,Bezetting TS ANW
+1300222,BRW,'s-Gravenpolder,Kazernetechniek
+1300225,BRW,Heinkenszand,Bezetting TS Dagdienst
+1300226,BRW,Heinkenszand,Bezetting TS ANW
+1300227,BRW,Heinkenszand,Kazernetechniek
+1300230,BRW,Nieuwdorp,Bezetting TS Dagdienst
+1300231,BRW,Nieuwdorp,Bezetting TS ANW
+1300234,BRW,Nieuwdorp,Kazernetechniek
+1300235,BRW,Ovezande,Bezetting TS Dagdienst
+1300236,BRW,Ovezande,Bezetting TS ANW
+1300238,BRW,Ovezande,Kazernetechniek
+1300420,BRW,Goes-Oranjeweg,Bezetting TS ANW
+1300423,BRW,Goes-Oranjeweg,Bezetting TS Dagdienst
+1300425,BRW,Heinkenszand,Bezetting TS-BO
+1300427,BRW,Goes-Oranjeweg,Chauffeurs AL Ploeg 1+2
+1300431,BRW,Goes-Oranjeweg,Duikploeg
+1300432,BRW,Goes-Oranjeweg,Chauffeurs HA Dagdienst
+1300434,BRW,Goes-Oranjeweg,Chauffeurs HA Ploeg 1
+1300435,BRW,Goes-Oranjeweg,Chauffeurs HA Ploeg 2
+1300436,BRW,Goes-Oranjeweg,Chauffeurs AL Ploeg 1
+1300437,BRW,Goes-Oranjeweg,Chauffeurs HA Ploeg 3
+1300438,BRW,Goes-Oranjeweg,Chauffeurs AL Ploeg 2
+1300440,BRW,Goes-Oranjeweg,Kazernetechniek
+1300446,BRW,Goes-Goese Poort,Bezetting TS Dagdienst
+1300447,BRW,Goes-Goese Poort,Bezetting TS ANW
+1300448,BRW,Goes-Goese Poort,Bezetting HA+HVH Dagdienst
+1300449,BRW,Goes-Goese Poort,Bezetting HA+HVH ANW
+1300451,BRW,Goes-Goese Poort,Kazernetechniek
+1300452,BRW,Wolphaartsdijk,Bezetting TS Dagdienst
+1300453,BRW,Wolphaartsdijk,Bezetting TS ANW
+1300454,BRW,Wolphaartsdijk,Verkenningseenheid IBGS
+1300455,BRW,Goes-Oranjeweg,PreCom Color Info Display ANW
+1300456,BRW,Goes-Oranjeweg,PreCom Color Info Display Dagdienst
+1300459,BRW,Wolphaartsdijk,Kazernetechniek
+1300479,BRW,OC-B Zeeland/West-Brabant,Centralist (Persoonlijke Code)
+1300565,BRW,Hulst,Bezetting TS ANW Ploeg 1
+1300566,BRW,Hulst,Bezetting TS ANW Ploeg 2
+1300568,BRW,Hulst,Bezetting TS Vakantieploeg
+1300574,BRW,Hulst,Bezetting TS Dagdienst
+1300576,BRW,Hulst,Chauffeurs HV
+1300579,BRW,Hulst,Chauffeurs HW
+1300589,BRW,Hulst,Verkenningseenheid
+1300590,BRW,Hulst,Kazernetechniek
+1300595,BRW,Kloosterzande,Bezetting TS ANW
+1300596,BRW,Kloosterzande,Bezetting TS Dagdienst
+1300600,BRW,Kloosterzande,Kazernetechniek
+1300610,BRW,Hulpverleningszone Waasland (Belgie),Post Kieldrecht (Lichtkrant)
+1300615,BRW,Vogelwaarde,Bezetting TS ANW
+1300616,BRW,Vogelwaarde,Bezetting TS Dagdienst
+1300617,BRW,Vogelwaarde,Verkenningseenheid
+1300620,BRW,Vogelwaarde,Kazernetechniek
+1300745,BRW,Kapelle,Bezetting TS Dagdienst
+1300746,BRW,Kapelle,Bezetting TS ANW
+1300749,BRW,Kapelle,Kazernetechniek
+1300750,BRW,Wemeldinge,Bezetting TS Dagdienst
+1300751,BRW,Wemeldinge,Bezetting TS ANW
+1300755,BRW,Wemeldinge,Kazernetechniek
+1300811,BRW,BRW Zeeland,First Responders Walcheren / Noord-Beveland (Monitorcode)
+1300815,BRW,Colijnsplaat-Kortgene,Bezetting TS ANW
+1300816,BRW,Colijnsplaat-Kortgene,Bezetting TS Dagdienst
+1300817,BRW,Colijnsplaat-Kortgene,First Responders Colijnsplaat
+1300819,BRW,Colijnsplaat-Kortgene,First Responders Kortgene
+1300820,BRW,Kamperland,Bezetting TS Dagdienst
+1300821,BRW,Kamperland,First Responders
+1300824,BRW,Kamperland,Verkenningseenheid IBGS
+1300825,BRW,Kamperland,Bezetting TS ANW
+1300827,BRW,Colijnsplaat-Kortgene,Kazernetechniek Colijnsplaat
+1300828,BRW,Colijnsplaat-Kortgene,Kazernetechniek
+1300829,BRW,Kamperland,Kazernetechniek
+1300894,BRW,Krabbendijke,Kazernetechniek
+1300895,BRW,Krabbendijke,Bezetting TS Dagdienst
+1300896,BRW,Krabbendijke,Bezetting DB-VZA Logistieke ploeg 1
+1300898,BRW,Krabbendijke,Bezetting TS ANW
+1300899,BRW,Krabbendijke,Bezetting DB-VZA Logistieke ploeg 2
+1300900,BRW,Kruiningen,Bezetting TS Dagdienst
+1300901,BRW,Kruiningen,Bezetting TS ANW
+1300903,BRW,Kruiningen,Bezetting HV ANW Ploeg 1
+1300904,BRW,Kruiningen,Bezetting HV Dagdienst
+1300905,BRW,Kruiningen,Verkenningseenheid
+1300906,BRW,Kruiningen,Bezetting HV ANW Ploeg 2
+1300909,BRW,Kruiningen,Kazernetechniek
+1300910,BRW,Rilland,Bezetting TS Dagdienst
+1300913,BRW,Rilland,Bezetting TS ANW
+1300914,BRW,Rilland,Kazernetechniek
+1300915,BRW,Yerseke,Bezetting TS Dagdienst
+1300918,BRW,Yerseke,Bezetting TS ANW
+1300920,BRW,Yerseke,Kazernetechniek
+1301037,BRW,Schouwen-Duivenland,Staatsbosbeheer
+1301040,BRW,Bruinisse,Bezetting TS Dagdienst
+1301041,BRW,Bruinisse,Bezetting TS ANW
+1301049,BRW,Bruinisse,Kazernetechniek
+1301050,BRW,Oosterland,Verkenningseenheid
+1301055,BRW,Brouwershaven,Bezetting TS Dagdienst
+1301056,BRW,Brouwershaven,Bezetting TS ANW
+1301060,BRW,Brouwershaven,Kazernetechniek
+1301065,BRW,Dreischor,Bezetting TS Dagdienst
+1301066,BRW,Dreischor,Bezetting TS ANW
+1301069,BRW,Dreischor,Kazernetechniek
+1301070,BRW,Burg-Haamstede,Bezetting TS Dagdienst
+1301071,BRW,Burg-Haamstede,Bezetting TS ANW
+1301075,BRW,Burg-Haamstede,Bezetting PAT
+1301077,BRW,Burg-Haamstede,Bezetting WT
+1301081,BRW,Burg-Haamstede,Kazernetechniek
+1301085,BRW,Kerkwerve,Bezetting TS Dagdienst
+1301086,BRW,Kerkwerve,Bezetting TS ANW
+1301089,BRW,Kerkwerve,Kazernetechniek
+1301090,BRW,Oosterland,Bezetting TS Dagdienst
+1301091,BRW,Oosterland,Bezetting TS ANW
+1301095,BRW,Oosterland,Chauffeurs ANW
+1301099,BRW,Oosterland,Kazernetechniek
+1301100,BRW,Renesse,Bezetting TS Dagdienst
+1301101,BRW,Renesse,Bezetting TS ANW
+1301104,BRW,Renesse,Kazernetechniek
+1301105,BRW,Scharendijke,Bezetting TS Dagdienst
+1301106,BRW,Scharendijke,Bezetting TS ANW
+1301109,BRW,Scharendijke,Kazernetechniek
+1301110,BRW,Zierikzee,Bezetting TS ANW Ploeg 1
+1301111,BRW,Zierikzee,Bezetting TS ANW Ploeg 2
+1301112,BRW,Zierikzee,Bezetting TS Dagdienst
+1301115,BRW,Zierikzee,Chauffeurs HV
+1301120,BRW,Zierikzee,Chauffeurs HW
+1301125,BRW,Zierikzee,Kazernetechniek
+1301332,BRW,Sluis,Monitorcode First Responders
+1301335,BRW,Aardenburg,Bezetting TS ANW
+1301336,BRW,Aardenburg,Bezetting TS Dagdienst
+1301340,BRW,Aardenburg,Kazernetechniek
+1301345,BRW,Breskens,Bezetting TS ANW
+1301346,BRW,Breskens,Bezetting TS Dagdienst
+1301348,BRW,Breskens,Verkenningseenheid
+1301349,BRW,Breskens,Kazernetechniek
+1301351,BRW,Cadzand,Kazernetechniek
+1301355,BRW,Cadzand,Bezetting TS ANW
+1301356,BRW,Cadzand,Bezetting TS Dagdienst
+1301357,BRW,Cadzand,First Responders
+1301358,BRW,Oostburg,Bezetting TS ANW Ploeg 1
+1301359,BRW,Oostburg,Bezetting TS ANW Ploeg 2
+1301361,BRW,Oostburg,Bezetting TS Dagdienst
+1301364,BRW,Sluis,Kazernetechniek
+1301365,BRW,Sluis,Bezetting TS ANW
+1301366,BRW,Sluis,Bezetting TS Dagdienst
+1301367,BRW,Oostburg,Bezetting HW ANW Ploeg 1
+1301368,BRW,Oostburg,Bezetting HW ANW Ploeg 2
+1301370,BRW,Oostburg,Bezetting HW Dagdienst
+1301371,BRW,Oostburg,Bezetting WT ANW Ploeg 1
+1301372,BRW,Oostburg,Bezetting WT ANW Ploeg 2
+1301374,BRW,Oostburg,Bezetting WT Dagdienst
+1301375,BRW,Oostburg,Bezetting HA ANW Ploeg 1
+1301376,BRW,Oostburg,Bezetting HA ANW Ploeg 2
+1301378,BRW,Oostburg,Bezetting HA+HVH -Dagdienst
+1301380,BRW,IJzendijke,Bezetting TS ANW
+1301381,BRW,IJzendijke,Bezetting TS Dagdienst
+1301382,BRW,IJzendijke,Kazernetechniek
+1301389,BRW,Oostburg,Kazernetechniek/Lichtkrant
+1301532,BRW,Walcheren,Gids Natuurgebieden Walcheren
+1301537,BRW,Middelburg-Stromenweg,Bezetting TS Dagdienst
+1301538,BRW,Middelburg-Stromenweg,Bezetting TS ANW
+1301540,BRW,Middelburg-Stromenweg,Herbezettingsploeg
+1301541,BRW,Middelburg-Stromenweg,Bezetting AL Ploeg 1
+1301542,BRW,Middelburg-Stromenweg,Bezetting AL Ploeg 2
+1301544,BRW,Middelburg-Stromenweg,Bezetting AL Dagdienst
+1301547,BRW,Middelburg-Stromenweg,Duikploeg
+1301550,BRW,Middelburg-Stromenweg,Bezetting HA ANW
+1301551,BRW,Middelburg-Stromenweg,Bezetting HA Dagdienst
+1301554,BRW,Middelburg-Stromenweg,Bezetting HA ANW Ploeg 1
+1301555,BRW,Middelburg-Stromenweg,Bezetting HA ANW Ploeg 2
+1301556,BRW,Middelburg-Stromenweg,Bezetting HA Vakantieploeg
+1301558,BRW,Middelburg-Stromenweg,Kazernetechniek
+1301559,BRW,Middelburg-Rooseveltlaan,Bezetting TS ANW
+1301560,BRW,Middelburg-Rooseveltlaan,Bezetting TS Dagdienst
+1301564,BRW,Middelburg-Rooseveltlaan,Kazernetechniek
+1301565,BRW,Arnemuiden,Bezetting TS ANW
+1301566,BRW,Arnemuiden,Bezetting TS Dagdienst
+1301571,BRW,Arnemuiden,Informatie- en Coordinatieteam
+1301573,BRW,Arnemuiden,Kazernetechniek
+1301574,BRW,Middelburg-Torenweg,Bezetting TS Dagdienst
+1301575,BRW,Middelburg-Torenweg,Bezetting TS ANW
+1301578,BRW,Middelburg-Torenweg,Gaspakteam
+1301580,BRW,Middelburg-Torenweg,Kazernetechniek
+1301585,BRW,Vlissingen-Souburg,Bezetting TS Dagdienst
+1301586,BRW,Vlissingen-Souburg,Bezetting TS ANW
+1301588,BRW,Vlissingen-Souburg,Bezetting WT
+1301590,BRW,Vlissingen-Souburg,Kazernetechniek
+1301592,BRW,Vlissingen-Olympiaweg,Chauffeursploeg 1 HA ANW
+1301593,BRW,Vlissingen-Olympiaweg,Chauffeursploeg 2 HA ANW
+1301595,BRW,Vlissingen-Olympiaweg,Bezetting TS ANW Ploeg 1
+1301596,BRW,Vlissingen-Olympiaweg,Bezetting TS ANW Ploeg 2
+1301599,BRW,Vlissingen-Olympiaweg,Bezetting TS Dagdienst
+1301601,BRW,MIRG Zeeland,Maritiem Incident Respons Groep Alarmcode
+1301602,BRW,MIRG Zeeland,Command and Control Team
+1301603,BRW,Vlissingen-Olympiaweg,Bezetting HW Ploeg 1
+1301604,BRW,Vlissingen-Olympiaweg,Bezetting HW Ploeg 2
+1301605,BRW,Vlissingen-Olympiaweg,Bezetting HW Vakantiecode
+1301617,BRW,Vlissingen-Olympiaweg,Kazernetechniek
+1301618,BRW,MIRG Zeeland,Monitorcode
+1301851,BRW,Axel,Bezetting TS Dagdienst
+1301852,BRW,Axel,Bezetting TS ANW
+1301853,BRW,Axel,Bezetting HA
+1301857,BRW,Axel,Verkenningseenheid
+1301859,BRW,Axel,Kazernetechniek
+1301861,BRW,Mauritsfort Hoek,Bezetting TS Dagdienst
+1301862,BRW,Mauritsfort Hoek,Bezetting TS ANW
+1301863,BRW,Mauritsfort Hoek,Bezetting HA-KR + HVH
+1301865,BRW,Mauritsfort Hoek,Kazernetechniek
+1301868,BRW,Sluiskil,Lichtkrant
+1301869,BRW,Sluiskil,Bezetting TS Dagdienst
+1301870,BRW,Sluiskil,Bezetting TS ANW
+1301875,BRW,Westdorpe,Kazernetechniek
+1301876,BRW,Westdorpe,Bezetting TS ANW
+1301878,BRW,Westdorpe,Bezetting TS Dagdienst
+1301884,BRW,Zaamslag,Lichtkrant
+1301885,BRW,Zaamslag,Bezetting TS ANW
+1301886,BRW,Zaamslag,Bezetting TS Dagdienst
+1301889,BRW,Biervliet,Bezetting TS ANW
+1301890,BRW,Biervliet,Bezetting TS Dagdienst
+1301891,BRW,Biervliet,Verkenningseenheid
+1301895,BRW,Biervliet,Kazernetechniek
+1301896,BRW,Koewacht,Lichtkrant
+1301897,BRW,Koewacht,Bezetting TS ANW
+1301898,BRW,Koewacht,Bezetting TS Dagdienst
+1301900,BRW,Sas van Gent,Lichtkrant
+1301901,BRW,Sas van Gent,Bezetting TS ANW
+1301903,BRW,Sas van Gent,Bezetting TS Dagdienst
+1301907,BRW,Sas van Gent,Gaspakteam
+1301912,BRW,Terneuzen Zuidlandstraat,Lichtkrant
+1301913,BRW,Terneuzen Zuidlandstraat,Bezetting TS ANW Ploeg 1
+1301914,BRW,Terneuzen Zuidlandstraat,Bezetting TS ANW Ploeg 2
+1301915,BRW,Terneuzen Zuidlandstraat,Bezetting TS Dagdienst
+1301916,BRW,Terneuzen Koegors,Bezetting TS ANW
+1301923,BRW,Terneuzen Koegors,Bezetting WT
+1301926,BRW,Terneuzen Zuidlandstraat,Bezetting HW Ploeg 1
+1301927,BRW,Terneuzen Zuidlandstraat,Bezetting HW Ploeg 2
+1301928,BRW,Terneuzen Zuidlandstraat,Bezetting HW Dagdienst
+1301938,BRW,Terneuzen Koegors,Bezetting SB
+1301945,BRW,Terneuzen Koegors,Kazernebezetting TS
+1301947,BRW,Terneuzen Koegors,Duikploeg
+1301951,BRW,Terneuzen Koegors,Bezetting ABH
+1301955,BRW,Terneuzen Koegors,Lichtkrant
+1301958,BRW,Terneuzen Koegors,Bezetting HA
+1301960,BRW,Terneuzen Koegors,Redteam Hoogteverschillen
+1301963,BRW,Sluiskil,Logistieke Ploeg
+1301965,BRW,Sluiskil,Bezetting PM-UHD
+1302251,BRW,Sint Annaland,Kazernetechniek
+1302259,BRW,Sint Annaland,Bezetting HV Ploeg 1
+1302260,BRW,Sint Annaland,Bezetting TS Dagdienst
+1302261,BRW,Sint Annaland,Bezetting TS ANW
+1302262,BRW,Sint Annaland,Bezetting WT Ploeg 1
+1302263,BRW,Sint Annaland,Bezetting WT Ploeg 2
+1302264,BRW,Sint Annaland,Bezetting HV Ploeg 2
+1302265,BRW,Sint Maartensdijk,Bezetting TS Dagdienst
+1302267,BRW,Sint Maartensdijk,Bezetting TS ANW
+1302269,BRW,Sint Maartensdijk,Kazernetechniek
+1302270,BRW,Sint Philipsland,Bezetting TS Dagdienst
+1302272,BRW,Sint Philipsland,Bezetting TS ANW
+1302274,BRW,Sint Philipsland,Kazernetechniek
+1302275,BRW,Stavenisse,Bezetting TS Dagdienst
+1302276,BRW,Stavenisse,Bezetting BRV Scaldis ANW
+1302277,BRW,Stavenisse,Bezetting TS ANW
+1302278,BRW,Stavenisse,Bezetting BRV Scaldis Dagdienst
+1302279,BRW,Stavenisse,Kazernetechniek
+1302280,BRW,Tholen,Bezetting TS Dagdienst
+1302281,BRW,Tholen,Bezetting TS ANW
+1302284,BRW,Tholen,Bootploeg Dagdienst
+1302285,BRW,Tholen,Bootploeg ANW
+1302287,BRW,Sint Philipsland,Verkenningseenheid IBGS
+1302290,BRW,Tholen,Duikploeg
+1302295,BRW,Tholen,Kazernetechniek
+1302405,BRW,Domburg,Bezetting TS ANW
+1302406,BRW,Domburg,Bezetting TS Dagdienst
+1302409,BRW,Domburg,Kazernetechniek
+1302410,BRW,Koudekerke,Bezetting TS ANW
+1302411,BRW,Koudekerke,Bezetting TS Dagdienst
+1302412,BRW,Koudekerke,First Responders
+1302414,BRW,Koudekerke,Kazernetechniek
+1302415,BRW,Oostkapelle,Bezetting TS ANW
+1302416,BRW,Oostkapelle,Bezetting TS Dagdienst
+1302419,BRW,Oostkapelle,Kazernetechniek
+1302420,BRW,Serooskerke,Bezetting TS ANW
+1302421,BRW,Serooskerke,Bezetting TS Dagdienst
+1302422,BRW,Serooskerke,Bezetting WT
+1302424,BRW,Serooskerke,Kazernetechniek
+1302425,BRW,Veere,Bezetting TS ANW
+1302426,BRW,Veere,Bezetting TS Dagdienst
+1302429,BRW,Veere,Kazernetechniek
+1302430,BRW,Westkapelle,Bezetting TS ANW
+1302431,BRW,Westkapelle,Bezetting TS Dagdienst
+1302434,BRW,Westkapelle,Kazernetechniek
+1302435,BRW,Zoutelande,Bezetting TS ANW
+1302436,BRW,Zoutelande,Bezetting TS Dagdienst
+1302439,BRW,Zoutelande,Kazernetechniek
+1302442,BRW,Zoutelande,Verkenningseenheid
+1302630,KNRM,KNRM Zeeland,Monitorcode
+1302632,KNRM,KNRM Reddingstation Neeltje-Jans - binnen,Bezetting Reddingboot Fred
+1302633,KNRM,KNRM Neeltje Jans - buiten,Bezetting Reddingboot Koopmansdank
+1302635,KNRM,KNRM Reddingstation Veere,Bezetting Reddingboot Oranje
+1302637,KNRM,KNRM Reddingstation Westkapelle,Bezetting Reddingboot Uly
+1302638,KNRM,KNRM Reddingstation Westkapelle,Walploeg
+1302640,KNRM,KNRM Reddingstation Breskens,Bezetting Reddingboot Zeemanshoop Leng
+1302642,KNRM,KNRM Reddingstation Cadzand,Bezetting Reddingboot Winifred Lucy Verkade-Clark
+1302643,KNRM,KNRM Reddingstation Cadzand,Walploeg
+1302645,KNRM,KNRM Reddingstation Hansweert,Bezetting Reddingboot Jan van Engelenburg
+1302648,KNRM,KNRM Ouddorp Binnen,Bezetting Reddingboot
+1302649,KNRM,KNRM Ouddorp Buiten,Bezetting Reddingboot
+1302660,BRW,Bedrijfsbrandweer Dow Chemical,Monitorcode
+1302663,BRW,Bedrijfsbrandweer Dow Chemical,OvD
+1302668,BRW,Bedrijfsbrandweer Dow Chemical,Korpsalarm
+1302760,BRW,Verkeerscentrale Westerscheldetunnel/Sluiskiltunnel,Lichtkrant
+1302779,BRW,BRW Zeeland (North Sea Port),Lichtkrant
+1302785,BRW,Rotterdam,DCMR Seveso (Infocode)
+1302801,BRW,Regionaal,OvD-Bevolkingszorg Borsele
+1302802,BRW,Regionaal,OvD-Bevolkingszorg Goes
+1302803,BRW,Regionaal,OvD-Bevolkingszorg Hulst
+1302804,BRW,Regionaal,OvD-Bevolkingszorg Kapelle
+1302805,BRW,Regionaal,OvD-Bevolkingszorg Middelburg
+1302806,BRW,Regionaal,AOV/OvD-Bevolkingszorg Noord-Beveland
+1302807,BRW,Regionaal,OvD-Bevolkingszorg Reimerswaal
+1302808,BRW,Regionaal,OvD-Bevolkingszorg Schouwen-Duiveland
+1302809,BRW,Regionaal,OvD-Bevolkingszorg Sluis
+1302810,BRW,Regionaal,OvD-Bevolkingszorg Terneuzen
+1302811,BRW,Regionaal,OvD-Bevolkingszorg Tholen
+1302812,BRW,Regionaal,OvD-Bevolkingszorg Veere
+1302813,BRW,Regionaal,OvD-Bevolkingszorg Vlissingen
+1302871,BRW,Regionaal,OvD Bevolkingszorg (Persoonlijke Code)
+1302880,BRW,Regionaal,Algemeen Commandant Bevolkingszorg
+1302916,BRW,Regionaal,Leider CoPI Zeeuws-Vlaanderen
+1302917,BRW,Regionaal,Leider CoPI Oosterscheldebekken
+1302919,BRW,Regionaal,Regionaal Operationeel Leider
+1302947,BRW,Regionaal,Communicatie Adviseur ROT
+1302988,BRW,Regionaal,Actiecentrum Brandweer
+1302989,BRW,Regionaal,Hoofd sectie Brandweer
+1302990,BRW,Regionaal,Hoofd Bron en Effectbestrijding Midden-West
+1302991,BRW,Regionaal,Hoofd Bron en Effectbestrijding Noord-West
+1302995,BRW,Regionaal,Nucleair Adviseur
+1302996,BRW,Regionaal,Ondersteuner Sectie BRW / LCMS
+1302998,BRW,Regionaal,Coordinator Logistiek
+1303030,BRW,Middelburg-Stromenweg,DPH-GW 19-8460
+1303031,BRW,Goes-Oranjeweg,DPH 19- 8961
+1303034,BRW,Tholen,DPH 19-8260
+1303036,BRW,Oostburg Stampershoek,DPH-GW 19-6561
+1303037,BRW,Axel,DPH 19-8664
+1303041,BRW,Goes-Oranjeweg,SLH 19-4369 BiZa
+1303042,BRW,Goes-Oranjeweg,WTH 19-4366 (12.000 L)
+1303047,BRW,Terneuzen Koegors,SLH-GW 19-8666
+1303062,BRW,Goes-Oranjeweg,HA 19-8981
+1303063,BRW,Goes-Oranjeweg,HA 19-8983
+1303065,BRW,Tholen,HA 19-8280
+1303066,BRW,Axel,HA 19-8686
+1303067,BRW,Terneuzen Koegors,HA 19-8682
+1303068,BRW,Schoondijke,HA 19-5648
+1303069,BRW,Middelburg-Stromenweg,HA 19-8481
+1303072,BRW,Goes-Oranjeweg,HA 19-8982
+1303081,BRW,Goes-Oranjeweg,ABH 19-8480
+1303082,BRW,Goes-Oranjeweg,BOH-DC 8920
+1303083,BRW,Goes-Oranjeweg,VZU 19-4389
+1303086,BRW,Terneuzen Koegors,ABH 19-8689
+1303089,BRW,Oosterland,LIH 19-4373
+1303090,BRW,Goes-Oranjeweg,COH 19-8999
+1303094,BRW,Zierikzee,VC2 19-4293
+1303095,BRW,AGS Zuid,DV 8620
+1303096,BRW,Terneuzen Koegors,COH 19-8699
+1303130,BRW,Oostburg,TS 19-6530
+1303131,BRW,Breskens,TS 19-6531
+1303132,BRW,Cadzand,TS 19-6532
+1303134,BRW,Ijzendijke,TS 19-6534
+1303135,BRW,Aardenburg,TS 19-6535
+1303136,BRW,Sluis,TS 19-6533
+1303160,BRW,Oostburg,HA 19-6580
+1303163,BRW,Oostburg,WT 19-6560
+1303170,BRW,Oostburg,HVH 19-6570
+1303201,BRW,Sint Philipsland,OGS / Verkenningseenheid Brandweer (Meetgroep)
+1303212,BRW,Tholen,Reddingboot Eendracht 19-2212
+1303230,BRW,Tholen,TS 19-4230
+1303231,BRW,Sint Philipsland,TS 19-4231
+1303232,BRW,Sint Annaland,TS 19-4232
+1303233,BRW,Stavenisse,TS 19-2233
+1303234,BRW,Sint Maartensdijk,TS 19-4234
+1303262,BRW,Sint Annaland,TW 19-4262 (16.000 L incl. one-seven systeem)
+1303283,BRW,Stavenisse,Reddingboot Scaldis (WOV 19-2213)
+1303295,BRW,Tholen,DA-OD 19-2295
+1303330,BRW,Terneuzen post Zuidlandstraat,TS 19-6630
+1303331,BRW,Terneuzen post Zuidlandstraat,TS 19-6631
+1303332,BRW,Mauritsfort Hoek,TS 19-6632
+1303334,BRW,Sluiskil,TS 19-6634
+1303335,BRW,Sas van Gent,TS 19-6635
+1303336,BRW,Axel,TS 19-6636
+1303337,BRW,Westdorpe,TS-BO 19-6637
+1303338,BRW,Koewacht,TS 19-6638
+1303339,BRW,Zaamslag,TS 19-6639
+1303346,BRW,Biervliet,TS 19-6633
+1303350,BRW,Terneuzen post Zuidlandstraat,HW 19-6650
+1303360,BRW,Terneuzen post Koegors,SIV 19-6660
+1303361,BRW,Terneuzen post Koegors,SB/CAFS 19-6661
+1303363,BRW,Terneuzen post Koegors,HA-KR 6681
+1303364,BRW,Terneuzen post Koegors,WTA 19-8662 (23.000 liter)
+1303365,BRW,Terneuzen post Koegors,DPHS 19-8663
+1303367,BRW,Terneuzen post Koegors,PBA 19-6667
+1303372,BRW,Mauritsfort Hoek,HA-KR-HVH 19-6672
+1303377,BRW,Terneuzen post Koegors,TS4 19-6666
+1303381,BRW,Terneuzen post Koegors,WO/OGS 19-6610
+1303383,BRW,Terneuzen post Koegors,Truck 19-8681
+1303385,BRW,Sas van Gent,DV-GP 19-6625
+1303389,BRW,Sluiskil,SIV 6664 met COBRA systeem
+1303390,BRW,Terneuzen Koegors,RH 19-6671
+1303394,BRW,Regionaal,HOvD Zuid Dienst auto
+1303395,BRW,Regionaal,OvD Zuid-Oost Dienst auto 19-6695
+1303414,BRW,Regionaal,TS reserve 19-8034
+1303415,BRW,Regionaal,TS reserve 19-8631
+1303430,BRW,Hulst,TS 19-6730
+1303431,BRW,Hulst,TS 19-6731
+1303435,BRW,Kloosterzande,TS 19-6735
+1303436,BRW,Vogelwaarde,TS 19-6736
+1303450,BRW,Hulst,HW 19-6750
+1303451,BRW,Borsele,Tankautospuit(TS) reserve
+1303452,BRW,Zierikzee,HW 19-2859
+1303469,BRW,Wolphaartsdijk,TS 19-4933
+1303470,BRW,Hulst,HV 19-6770
+1303501,BRW,Vlissingen Olympiaweg,DB 19-4401
+1303502,BRW,Vlissingen-Souburg,DB 19-4402
+1303510,BRW,Middelburg-Stromenweg,WO 19-4510
+1303516,BRW,Oosterland,HA 19-8883
+1303530,BRW,Middelburg-Stromenweg,TS 19-4530
+1303531,BRW,Vlissingen Olympiaweg,TS 19-4431
+1303532,BRW,Oost-Souburg,TS 19-4432
+1303533,BRW,Middelburg-Torenweg,TS 19-4533
+1303534,BRW,Arnemuiden,TS 19-4534
+1303535,BRW,Middelburg-Rooseveltlaan,TS 19-4535
+1303538,BRW,Regionaal,TS reserve 19-8035
+1303539,BRW,Regionaal,TS reserve 19-8539
+1303541,BRW,Kamperland,TS-NB 4841
+1303550,BRW,Middelburg-Stromenweg,AL 19-4550
+1303551,BRW,Vlissingen Olympiaweg,HW 19-4451
+1303566,BRW,Oost-Souburg,WT 19-4462 (17.000 L)
+1303570,BRW,Middelburg-Stromenweg,HV2 19-4570
+1303580,BRW,Middelburg-Stromenweg,WO 19-4510
+1303594,BRW,Middelburg,HOvD Noord
+1303595,BRW,Regionaal,Dienstauto OvD Midden-West 4595
+1303599,BRW,Arnemuiden,ICB 19-8599
+1303605,BRW,Kamperland,DB 19-4801
+1303630,BRW,Regionaal Reserve,TS 19-8530
+1303631,BRW,Serooskerke,TS 19-4631
+1303632,BRW,Veere,TS 19-4632
+1303633,BRW,Kortgene,TS 19-4830
+1303634,BRW,Zoutelande,TS 19-4634
+1303635,BRW,Vlissingen Olympiaweg,TS 19-4439
+1303636,BRW,Westkapelle,TS 19-4636
+1303641,BRW,Domburg,TS 19-4633
+1303642,BRW,Oostkapelle,TS 19-4640
+1303644,BRW,Zoutelande,TST 19-4644
+1303661,BRW,Serooskerke,TW 19-4661
+1303663,BRW,Koudekerke,TS4 19-4663
+1303671,BRW,Wissenkerke,PM 19-4773
+1303672,BRW,Zoutelande,DB-VEB 19-4604
+1303676,BRW,Colijnsplaat,TS 19-4863
+1303731,BRW,Borssele,TS 19-4731
+1303734,BRW,'s-Gravenpolder,TS 19-4734
+1303735,BRW,Rilland,TS 19-4230
+1303736,BRW,Heinkenszand,TS-BO 19-4736
+1303737,BRW,Nieuwdorp,TS 19-4737
+1303738,BRW,Ovezande,TS 19-4738
+1303739,BRW,Yerseke,TS 19-4233
+1303740,BRW,Goes-Goese Poort,TS 19-4930
+1303741,BRW,Goes-Oranjeweg,TS 19-4931
+1303742,BRW,Kapelle,TS 19-4330
+1303743,BRW,Wemeldinge,TS 19-4331
+1303744,BRW,Regionaal,TS reserve 19-8037
+1303745,BRW,Krabbendijke,TS 19-4231
+1303747,BRW,Kruiningen,TS 19-4232
+1303748,BRW,Yerseke,TS 19-4233
+1303750,BRW,Goes-Oranjeweg,AL 19-4750
+1303760,BRW,Borssele,SIV 19-4760
+1303761,BRW,Borssele,SB/CAFS 19-4761
+1303764,BRW,Baarland,TS4 (19-4739)
+1303771,BRW,Kruiningen,HV2 19-4771
+1303780,BRW,Borssele,TK 19-4780
+1303784,BRW,Goes-Oranjeweg,WO 19-4910
+1303788,BRW,Goes-Goese Poort,HV 4970
+1303795,BRW,Goes,HOvD Noord
+1303813,BRW,Oosterland,DB 19-2803
+1303827,BRW,Burg-Haamstede,Strandjeep 19-4827
+1303830,BRW,Brouwershaven,TS 19-2830
+1303831,BRW,Dreischor,TS 19-2831
+1303832,BRW,Bruinisse,TS 19-2832
+1303833,BRW,Oosterland,TS 19-4833
+1303835,BRW,Scharendijke,TS 19-2835
+1303836,BRW,Kerkwerve,TS 19-4836
+1303838,BRW,Renesse,TS 19-2846
+1303845,BRW,Scharendijke,TST-NB 2845
+1303847,BRW,Burg-Haamstede,TS 19-2847
+1303849,BRW,Zierikzee,TS 19-4849
+1303867,BRW,Burg-Haamstede,Watertankwagen 19-2867 (23.000 L)
+1303873,BRW,Zierikzee,DB 19-4873
+1303877,BRW,Burg-Haamstede,HV2 19-4877
+1303879,BRW,Zierikzee,HV+KR 19-2879
+1303895,BRW,Noord-West,OvD 19-2895
+1320001,AMBU,Meldkamer Ambulancezorg Bergen op Zoom,Monitorcode
+1320041,AMBU,Regionaal,Rapid-Responder 19-341
+1320042,AMBU,Regionaal,Rapid-Responder 19-342
+1320043,AMBU,Regionaal,Rapid-Responder 19-343
+1320045,AMBU,Regionaal,Rapid-Responder 19-345
+1320046,AMBU,Regionaal,Rapid-Responder 19-346
+1320048,AMBU,Regionaal,Rapid-Responder 19-348
+1320049,AMBU,Regionaal,Rapid-Responder 19-349
+1320061,AMBU,Regionaal,Verpleegkundig Specialist 19-361
+1320101,AMBU,Witte Kruis Zeeland,Ambu 19-101 Goes
+1320102,AMBU,Witte Kruis Zeeland,Ambu 19-102 Goes
+1320103,AMBU,Witte Kruis Zeeland,Ambu 19-103 Goes
+1320104,AMBU,Witte Kruis Zeeland,Ambu 19-104 Goes
+1320105,AMBU,Witte Kruis Zeeland,Ambu 19-105 Goes
+1320106,AMBU,Witte Kruis Zeeland,Ambu 19-106 Poortvliet
+1320107,AMBU,Witte Kruis Zeeland,Ambu 19-107 Burg - Haamstede
+1320108,AMBU,Witte Kruis Zeeland,Ambu 19-108 Zierikzee
+1320109,AMBU,Witte Kruis Zeeland,Ambu 19-109 Zierikzee (reserve)
+1320110,AMBU,Witte Kruis Zeeland,Middencomplexe zorg 19-210
+1320111,AMBU,Witte Kruis Zeeland,Middencomplexe zorg 19-211
+1320112,AMBU,Witte Kruis Zeeland,Middencomplexe zorg 19-212
+1320113,AMBU,Witte Kruis Zeeland,Middencomplexe zorg 19-213
+1320114,AMBU,Witte Kruis Zeeland,Middencomplexe zorg 19-214
+1320118,AMBU,Zorgsaam Zeeuws - Vlaanderen,Middencomplexe zorg 19-218
+1320119,AMBU,Zorgsaam Zeeuws - Vlaanderen,Middencomplexe zorg 19-219
+1320123,AMBU,Witte Kruis Zeeland,Ambu 19-123 Middelburg
+1320124,AMBU,Witte Kruis Zeeland,Ambu 19-124 Middelburg
+1320125,AMBU,Witte Kruis Zeeland,Ambu 19-125 Middelburg
+1320127,AMBU,Witte Kruis Zeeland,Ambu 19-127 Middelburg
+1320128,AMBU,Witte Kruis Zeeland,Ambu 19-128 Oostkapelle
+1320129,AMBU,Witte Kruis Zeeland,Ambu 19-129 Burg - Haamstede
+1320131,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-131 Oostburg
+1320132,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-132 Oostburg
+1320133,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-133 Terneuzen Koegors
+1320134,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-134 Terneuzen Koegors
+1320135,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-135 Terneuzen Koegors
+1320136,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-136 Terneuzen Koegors
+1320137,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-137 Hulst
+1320138,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-138 Hulst
+1320139,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-139 Hulst
+1320140,AMBU,Zorgsaam Zeeuws - Vlaanderen,Ambu 19-140 Hulst
+1320201,AMBU,Regionaal,TCO-medewerker Noord
+1320202,AMBU,Regionaal,TCO-medewerker Midden
+1320203,AMBU,Regionaal,TCO-medewerker Zuid
+1320210,AMBU,Regionaal,TCO-medewerker
+1320400,AMBU,Regionaal,Geneeskundig adviseur gevaarlijke stoffen
+1320501,AMBU,Regionaal,Hoofd Ondersteuning Geneeskundige Zorg
+1320515,AMBU,Regionaal,Hoofd Informatie Geneeskundige Zorg
+1320570,AMBU,Cadzand,Strandreddingspost Cadzand-Het Zwin (Infocode)
+1320571,AMBU,Nieuwvliet,Strandreddingspost Nieuwvliet-Bad (Infocode)
+1320573,AMBU,Vlissingen,Strandreddingspost Vlissingen (Infocode)
+1320574,AMBU,Koudekerke,Strandreddingspost Westduin (Infocode)
+1320575,AMBU,Dishoek,Strandreddingspost Dishoek (Infocode)
+1320576,AMBU,Westkapelle,Strandreddingspost Westkapelle (Infocode)
+1320577,AMBU,Zoutelande,Strandreddingspost Zoutelande (Infocode)
+1320578,AMBU,Domburg,Strandreddingspost Domburg (Infocode)
+1320579,AMBU,Oostkapelle,Strandreddingspost Oostkapelle (Infocode)
+1320580,AMBU,Vrouwenpolder,Strandreddingspost Vrouwenpolder (Infocode)
+1320581,AMBU,De Banjaard,Strandreddingspost De Banjaard (Infocode)
+1320582,AMBU,Burgh-Haamstede,Strandreddingspost Burgh-Haamstede (Infocode)
+1320583,AMBU,Renesse,Strandreddingspost Renesse (Infocode)
+1320584,AMBU,Scharendijke,Strandreddingspost Scharendijke (Infocode)
+1320585,AMBU,Breskens,Strandreddingspost Goede (Infocode)
+1320593,AMBU,Grootschalige Geneeskundige Bijstand (GGB),GGB voertuig Goes DB 19-593
+1320600,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Zeeland (groeps-oproep)
+1320601,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGSTeamleiders
+1320602,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Tholen
+1320603,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Yerseke
+1320604,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Goes
+1320605,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Middelburg
+1320606,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Terneuzen
+1320607,AMBU,Grootschalige Geneeskundige Bijstand (GGB),NRK Noodhulp-Team UGS Rilland
+1320801,AMBU,Regionaal,Algemeen Commandant Geneeskundige Zorg
+1320802,AMBU,Regionaal,OvD-G Noord & Midden
+1320803,AMBU,Regionaal,OvD-G Zuid
+1330001,POL,GMK Zeeland-West-Brabant,Monitorcode
+1330018,POL,GMK Zeeland-West-Brabant,OC Piket Centralist
+1330020,POL,Politie Eenheid Zeeland-West-Brabant,Strategisch Adviseur Zeeland
+1330046,POL,Politie Eenheid Zeeland-West-Brabant,Infocode Zeer Groot Incident Zeeland
+1330047,POL,Politie Eenheid Zeeland-West-Brabant,Inzetcode Zeer Groot Incident Zeeland
+1330048,POL,Politie Eenheid Zeeland-West-Brabant,Infocode GRIP 1 Zeeland
+1330049,POL,Politie Eenheid Zeeland-West-Brabant,Inzetcode GRIP 1 Zeeland
+1330050,POL,Politie Eenheid Zeeland-West-Brabant,Infocode GRIP 2 Zeeland
+1330051,POL,Politie Eenheid Zeeland-West-Brabant,Inzetcode GRIP 2 Zeeland
+1330052,POL,Politie Eenheid Zeeland-West-Brabant,Infocode GRIP 3 Zeeland
+1330053,POL,Politie Eenheid Zeeland-West-Brabant,Inzetcode GRIP 3 Zeeland
+1330054,POL,Politie Eenheid Zeeland-West-Brabant,Infocode GRIP 4 Zeeland
+1330055,POL,Politie Eenheid Zeeland-West-Brabant,Inzetcode GRIP 4 Zeeland
+1330100,POL,Politie Eenheid Zeeland-West-Brabant,Piket Woordvoering Zeeland
+1330101,POL,OC-P,Persinformatie (District Zeeland)
+1330102,POL,Politie Eenheid Zeeland-West-Brabant,Persvoorlichting District Zeeland
+1330103,POL,Politie Eenheid Zeeland-West-Brabant,Conflict en Crisisbeheersing Zeeland
+1330115,POL,Politie Eenheid Zeeland-West-Brabant,Piket Regionaal Milieuteam Zeeland
+1330119,POL,Schouwen-Duiveland Oost,Wildbeheereenheid
+1330120,POL,Schouwen-Duiveland-West,Wildbeheereenheid
+1330121,POL,Sint-Philipsland,Wildbeheereenheid
+1330122,POL,Walcheren,Wildbeheereenheid
+1330125,POL,Noord-Beveland,Wildbeheereenheid
+1330126,POL,Goes,Wildbeheereenheid
+1330129,POL,Reimerswaal,Wildbeheereenheid
+1330130,POL,Zeeuws Vlaanderen-West,Wildbeheereenheid
+1330131,POL,Zeeuws Vlaanderen-Oost,Wildbeheereenheid
