@@ -3,3 +3,7 @@ Host = localhost
 Username = p2000
 Password =
 Database = p2000
+
+[FILTER]
+Regions=1,16,17,25
+Services=brandweer,politie
