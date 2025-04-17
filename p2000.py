@@ -125,26 +125,16 @@ class P2000Listener:
             if ' ' + city.acronym in message.message:
                 return city
 
-        # Firefight calls usually end with the city name and a series of 6 numbers (potentially multiple)
-        if (type == ServiceType.FIREFIGHTER.value):
+        # Firefight and police calls usually end with the city name and a series of 6 numbers (potentially multiple)
+        if (type in [ServiceType.FIREFIGHTER.value, ServiceType.POLICE.value]):
             for city in self.__cityCache.getAllCities():
                 regexes = [
-                    r'' + city.acronym + '(?:(?: [0-9]+)+)?$',
-                    r'' + city.name + '(?:(?: [0-9]+)+)?$',
+                    r'%s(?:(?: [0-9]+)+)?$' % city.acronym,
+                    r'%s(?:(?: [0-9]+)+)?$' % city.name,
                 ]
 
                 for regex in regexes:
-                    match = re.match(regex, message.message.strip(), re.IGNORECASE)
-
-                    if match is not None:
-                        return city
-        elif type == ServiceType.POLICE.value:
-            for city in self.__cityCache.getAllCities():
-                regexes = [
-                    r'' + city.name + '(?:(?: [0-9]+)+)?$'
-                ]
-                for regex in regexes:
-                    match = re.match(regex, message.message.strip(), re.IGNORECASE)
+                    match = re.search(regex, message.message.strip(), re.IGNORECASE)
 
                     if match is not None:
                         return city
@@ -163,7 +153,8 @@ class P2000Listener:
                 'Stank\/hind\. lucht(?: \([^)]+\))?(?: \([^)]+\))?',
                 'Contact mkb Verontr\. opp\.water(?: \([^)]+\))?',
                 '(?:\([^)]+\) )?BR [a-z]+(?: \([^)]+\))?(?: \([^)]+\))?',
-                'Ass\. Ambu(?: \([^)]+\))?',
+                '(?: \([^)]+\))?Ass\. Ambu(?: \([^)]+\))?',
+                '(?: \([^)]+\))?Ass\. Politie(?: \([^)]+\))?',
                 'Dier in problemen',
                 'Brandgerucht',
                 '(?:BR|Ongeval) wegvervoer(?: \([^)]+\))?(?: \([^)]+\))?',
@@ -223,10 +214,18 @@ class P2000Listener:
                 regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.*)\s+[0-9]{4}[A-Z]{2}\s+' + city.acronym)
 
         for regex in regexes:
-            match = re.match(regex, message.message.strip(), re.IGNORECASE)
+            match = re.search(regex, message.message.strip(), re.IGNORECASE)
 
             if match is not None:
                 return match.group(1).strip('- ')
+
+        return ''
+
+    def __getEstimatedPostalCode(self, message: Message):
+        match = re.search(r'([0-9]{4}[A-Z]{2})', message.message.strip(), re.IGNORECASE)
+
+        if (match is not None):
+            return match.group(1)
 
         return ''
 
@@ -243,18 +242,26 @@ class P2000Listener:
             if str(estimatedRegion.id) not in self.__config.get('FILTER', 'Regions').split(','):
                 return
 
-        if self.__config.has_option('FILTER', 'services'):
+        if self.__config.has_option('FILTER', 'Services'):
             if type not in self.__config.get('FILTER', 'Services').split(','):
                 return
 
         estimatedCity = self.__getEstimatedCity(message, estimatedRegion, type)
+        if self.__config.has_option('FILTER', 'Cities'):
+            if estimatedCity not in self.__config.get('FILTER', 'Cities').split(','):
+                return
+
         estimatedStreet = self.__getEstimatedStreet(message, estimatedRegion, estimatedCity, type)
         if estimatedStreet:
             estimatedStreet = ' - ' + estimatedStreet
 
+        estimatedPostalCode = self.__getEstimatedPostalCode(message)
+        if estimatedPostalCode:
+            estimatedPostalCode = ' - ' + estimatedPostalCode
+
         print(f"\033[{ServiceType.typeToConsoleColor(type)}{specialCode}m{_('What')} {message.message}")
         print(f"{_('When')} {time}")
-        print(f"{_('Where')} {estimatedRegion.id} {estimatedRegion.name} - {estimatedCity.name}{estimatedStreet}")
+        print(f"{_('Where')} {estimatedRegion.id} {estimatedRegion.name} - {estimatedCity.name}{estimatedStreet}{estimatedPostalCode}")
         print(f"{_('Who')}")
         for key,entry in capcodes.items():
             print (f"  \033[{ServiceType.typeToConsoleColor(entry.type)}{specialCode}m{entry.capcode} ({entry.city}) {entry.description}")
