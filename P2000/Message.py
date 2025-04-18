@@ -2,7 +2,7 @@ from datetime import datetime
 
 class Message:
     def __init__(self, message):
-        self.__rawMessage = message
+        self.rawMessage = message.strip()
         self.__stringParts = message.split('|')
         self.__isValid = True
 
