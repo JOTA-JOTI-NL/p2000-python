@@ -1,7 +1,7 @@
 from enum import Enum
 
 class ServiceType(Enum):
-    UNKNOWN = 'unknown'
+    UNKNOWN = 'onbekend'
     AMBULANCE = 'ambulance'
     FIREFIGHTER = 'brandweer'
     KNRM = 'knrm'

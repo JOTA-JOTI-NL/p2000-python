@@ -25,6 +25,7 @@ import os
 import gettext
 import argparse
 import re
+
 from typing import *
 
 from P2000.Message import Message
@@ -39,7 +40,7 @@ parser.add_argument('-l', '--language', help='Select language to use', required=
 parser.add_argument('-r', '--regions', help='Only show a specific region. Values range between 1 and 26, comma separated', required=False)
 parser.add_argument('-s', '--services', help='Only show a specific service. Values need to be comma separated and based on ServiceType', required=False)
 parser.add_argument('-m', '--message', help='Test the procedure with a test message', required=False)
-parser.add_argument('-a', '--replay', help='Replay all messages in the database', required=False, action='store_true')
+parser.add_argument('-a', '--replay-all', help='Replay all messages in the database', required=False, action='store_true')
 
 args = parser.parse_args()
 i18n = gettext.translation('base', localedir='locales', fallback=True, languages=[args.language])
@@ -72,10 +73,12 @@ class P2000Listener:
     def replayAllMessage(self):
         self.__dbCursor.execute("SELECT `PK_MESSAGE`, `RAW_MESSAGE` FROM `F_MESSAGE` ORDER BY `DATE` ASC")
         messages = self.__dbCursor.fetchall()
+
         for message in messages:
             self._onMessageReceive(Message(message['RAW_MESSAGE']))
 
     def _onMessageReceive(self, message: Message):
+
         capcodes = {}
         for capcode in message.capcodes:
             capcodeObj = self.__capcodeCache.getCapcodeByCapcode(capcode)
@@ -127,45 +130,47 @@ class P2000Listener:
     def __getEstimatedCity(self, message: Message, estimatedRegion: Region, type: ServiceType) -> City:
         # The use of the 6-letter unique acronym for a city is a dead giveaway it's that specific city, so let's check
         # that one first before we do fuzzy matching
-        for city in self.__cityCache.getAllCities():
-            if ' ' + city.acronym in message.message:
-                return city
+        acronymList = '|'.join(city.acronym for city in self.__cityCache.getAllCities())
+        nameList = '|'.join(city.name for city in self.__cityCache.getAllCities())
+
+        match = re.search(r'(%s)' % acronymList, message.message)
+        if match is not None:
+            return self.__cityCache.getCityByAcronym(match.group(1))
 
         # Firefight and police calls usually end with the city name and a series of 6 numbers (potentially multiple)
         if (type in [ServiceType.FIREFIGHTER.value, ServiceType.POLICE.value]):
-            for city in self.__cityCache.getAllCities():
-                regexes = [
-                    r'%s(?:(?: [0-9]+)+)?$' % city.acronym,
-                    r'%s(?:(?: [0-9]+)+)?$' % city.name,
-                ]
+            match = re.search(r'(%s)(?:(?: [0-9]+)+)?$' % nameList, message.message.strip(), re.IGNORECASE)
 
-                for regex in regexes:
-                    match = re.search(regex, message.message.strip(), re.IGNORECASE)
+            if match is not None:
+                return self.__cityCache.getCityByName(match.group(1))
 
-                    if match is not None:
-                        return city
-
-        for city in self.__cityCache.getAllCities():
-            if ' ' + city.name.lower() in message.message.lower():
-                return city
+        match = re.search(r'(%s)' % nameList, message.message)
+        if match is not None:
+            return self.__cityCache.getCityByName(match.group(1))
 
         return City(-1, _('Unknown city'), _('Unknown city'))
 
     def __getEstimatedStreet(self, message: Message, region: Region, city: City, type: ServiceType) -> str:
         regexes = []
+        if type == ServiceType.HELICOPTER.value:
+            regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.acronym)
+            regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.name)
+
         if type == ServiceType.FIREFIGHTER.value:
             types = [
                 'Liftopsluiting',
                 'Stank\/hind\. lucht(?: \([^)]+\))?(?: \([^)]+\))?',
                 'Contact mkb Verontr\. opp\.water(?: \([^)]+\))?',
-                '(?:\([^)]+\) )?BR [a-z]+(?: \([^)]+\))?(?: \([^)]+\))?',
+                '(?:\([^)]+\) )?BR [a-z\/]+(?: \([^)]+\))?(?: \([^)]+\))?',
                 '(?: \([^)]+\))?Ass\. Ambu(?: \([^)]+\))?',
                 '(?: \([^)]+\))?Ass\. Politie(?: \([^)]+\))?',
+                'Ongeval gev(?:\.|aarlijke) stof(?:fen)?(?: \([^)]+\))?(?: \([^)]+\))?',
                 'Dier in problemen',
                 'Brandgerucht',
+                '\([^)]+\) Contact [A-Z]+',
                 '(?:BR|Ongeval) wegvervoer(?: \([^)]+\))?(?: \([^)]+\))?',
                 '\([^)]+\) Ongeval wegvervoer',
-                'OMS (?:br|h)andmeld(?:er|ing)',
+                'OMS (?:(?:br|h)andmeld(?:er|ing)|beheersysteem)',
                 'Nacontrole(?: \([^)]+\))?',
                 'CO-melder(?: \([^)]+\))?',
                 'Dienstverlening(?: \([^)]+\))?',
@@ -180,45 +185,49 @@ class P2000Listener:
                 'Ongeval',
             ]
 
-            regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:' + '|'.join(types) + ') (.+) ' + city.name)
-            regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:' + '|'.join(types) + ') (.+) ' + city.acronym)
-            regexes.append(r'\(Intrekken Alarm Brw\) (?:' + '|'.join(types) + ') (.+) ' + city.name)
-            regexes.append(r'P\s+[0-9]\s+(?:\([^)]+\))\s+Oefening\s+(.+)\s+' + city.name)
+            typesList = '|'.join(types)
+            regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:%s) (.+) %s' % (typesList, city.name))
+            regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:%s) (.+) %s' % (typesList, city.name))
+            regexes.append(r'\(Intrekken Alarm Brw\) (?:%s) (.+) %s' % (typesList, city.name))
+            regexes.append(r'P\s+[0-9]\s+(?:\([^)]+\))\s+Oefening\s+(.+)\s+%s' % city.name)
         elif type == ServiceType.POLICE.value:
             types = [
                 'Steekpartij',
-                'Ongeval wegvervoer (?:letsel|materieel)',
-                'Ongeval wegvervoer',
                 '(?:Ongeval|Verkeer|Veiligheid en openbare orde)\/[a-z\/\.]+\/[a-z\/\. ]+ prio [0-9]',
-                '(?:Aanrijding|ongeval) letsel',
+                '(?:Aanrijding|ongeval)(?:\s+wegvervoer)?(?:\s+(?:letsel|materieel))?',
                 'Achtervolging',
                 'Schietpartij',
                 'Explosie',
                 'Letsel',
             ]
 
-            regexes.append(r'^(?:P [0-9]\s+)?(?:[0-9]+\s+)?(?:' + '|'.join(types) + ') (.+) ' + city.name)
-            regexes.append(r'^Prio [0-9] (.+) ' + city.acronym + ' (?:' + '|'.join(types) + ')')
+            typesList = '|'.join(types)
+            regexes.append(r'^(?:P [0-9]\s+)?(?:[0-9]+\s+)?(?:%s) (.+) %s' % (typesList, city.name))
+            regexes.append(r'^Prio [0-9] (.+) %s (?:%s)' % (city.acronym, typesList))
+            regexes.append(r'(?:%s) (.*) %s' % (typesList, city.name))
         elif type in [ServiceType.AMBULANCE.value, ServiceType.HELICOPTER.value]:
             # These regions do not show street names
             if region.id in [1,3,4,5,6,7,8,9,14,19,20,21,22,25]:
                 regexes = []
 
             if region.id in [-1,10,11,12]:
-                regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+[0-9]+\s+Rit\s+[0-9]+\s+(.+)\s+' + city.name)
+                regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+[0-9]+\s+Rit\s+[0-9]+\s+(.+)\s+%s' % city.name)
 
-            if region.id in [-1,13]:
-                regexes.append(r'^(?:A|B)[0-9]+\s+[0-9]+\s+(.+)\s+[0-9]+\s+' + city.name)
+            if region.id in [-1,13,17]:
+                regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.acronym)
+                regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.name)
+                regexes.append(r'^(?:A|B)[0-9]+\s+[0-9]+\s+(.+)\s+[0-9]+\s+%s' % city.name)
+
             if region.id in [-1,15, 17]:
-                regexes.append(r'^(?:A|B)[0-9]+\s+[A-Z0-9]+\s+[0-9]+\s+(.+)\s+[0-9]{4}[A-Z]{2}\s+' + city.acronym)
+                regexes.append(r'^(?:A|B)[0-9]+\s+[A-Z0-9]+\s+[0-9]+\s+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.acronym)
 
             if region.id in [-1,15,16,23,24]:
-                regexes.append(r'^(?:A|B)[0-9]+\s+(.+)\s+' + city.acronym)
-                regexes.append(r'^(?:A|B)[0-9]+\s+(.+)\s+' + city.name)
+                regexes.append(r'^(?:A|B)[0-9]+\s+(.+)\s+%s' % city.acronym)
+                regexes.append(r'^(?:A|B)[0-9]+\s+(.+)\s+%s' % city.name)
 
             if region.id in [-1,17,18]:
-                regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+' + city.name)
-                regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+' + city.acronym)
+                regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.name)
+                regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.acronym)
 
         for regex in regexes:
             match = re.search(regex, message.message.strip(), re.IGNORECASE)
@@ -263,7 +272,6 @@ class P2000Listener:
 
         self.__storeMessage(message, estimatedRegion, estimatedCity, estimatedStreet, estimatedPostalCode, capcodes, type)
 
-
         if estimatedPostalCode:
             estimatedPostalCode = ' - ' + estimatedPostalCode
 
@@ -279,26 +287,25 @@ class P2000Listener:
         print('\033[0m')
 
     def __storeMessage(self, message: Message, estimatedRegion: Region, estimatedCity: City, estimatedStreet, estimatedPostalCode, capcodes: Dict[str, Capcode], type: ServiceType):
-        self.__dbCursor.execute("SELECT * FROM `F_MESSAGE` WHERE `MESSAGE` = %s AND `DATE` = %s", [
-            message.message,
-            message.date.strftime('%Y-%m-%d %H:%M:%S'),
-        ])
+        self.__dbCursor.execute('SELECT `PK_MESSAGE`, `MESSAGE`, `STREET`, `POSTALCODE`, `FK_REGION` FROM `F_MESSAGE` WHERE `MESSAGE` = %s AND `DATE` = %s LIMIT 1', (
+            message.message.strip(),
+            message.date.strftime('%Y-%m-%d %H:%M:%S').strip()
+        ))
+
         existingMessage = self.__dbCursor.fetchone()
-        existingMessagePK = None
 
         if existingMessage is None:
-            self.__dbCursor.execute("INSERT INTO `F_MESSAGE` (`RAW_MESSAGE`, `FK_REGION`, `FK_CITY`, `MESSAGE`, `DATE`, `STREET`, `POSTALCODE`, `TYPE`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)", [
+            self.__dbCursor.execute("INSERT IGNORE INTO `F_MESSAGE` (`RAW_MESSAGE`, `FK_REGION`, `FK_CITY`, `MESSAGE`, `DATE`, `STREET`, `POSTALCODE`, `TYPE`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)", [
                 message.rawMessage,
                 0 if estimatedRegion is None else estimatedRegion.id,
                 0 if estimatedCity is None else estimatedCity.id,
-                message.message,
-                message.date.strftime('%Y-%m-%d %H:%M:%S'),
+                message.message.strip(),
+                message.date.strftime('%Y-%m-%d %H:%M:%S').strip(),
                 '' if estimatedStreet is None else estimatedStreet,
                 '' if estimatedPostalCode is None else estimatedPostalCode,
                 type
             ])
 
-            self.__db.commit()
             existingMessagePK = self.__dbCursor.lastrowid
 
             for capcode in capcodes.values():
@@ -338,7 +345,7 @@ if __name__ == '__main__':
     if args.message is not None:
         message = Message('FLEX|2025-04-16 18:55:05|1600/2/K/A|13.108|'+ args.message)
         P2000Listener._onMessageReceive(message)
-    elif args.replay is True:
+    elif args.replay_all is True:
         P2000Listener.replayAllMessage()
     else:
         P2000Listener.startListening()

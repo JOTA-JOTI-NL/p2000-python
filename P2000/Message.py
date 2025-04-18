@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime,timezone
 
 class Message:
     def __init__(self, message):
@@ -23,7 +23,9 @@ class Message:
         self.message = self.__stringParts[6].strip()
 
         try:
-            self._date = datetime.strptime(self.__stringParts[1], '%Y-%m-%d %H:%M:%S')
+            self.date = datetime.strptime(self.__stringParts[1], '%Y-%m-%d %H:%M:%S')
+            self.date = self.date.replace(tzinfo=timezone.utc)
+            self.date = self.date.astimezone()
         except ValueError:
             self.__isValid = False
             return
