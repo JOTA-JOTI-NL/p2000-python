@@ -32,6 +32,9 @@ class CapcodeCollection(object):
 
         return None
 
+    def add(self, capcode: Capcode):
+        self.__capcodes[capcode.capcode] = capcode
+
     @staticmethod
     def initList(dbCursor):
         dbCursor.execute("SELECT `PK_CAPCODE`, `CAPCODE`, `FK_REGION`, `DESCRIPTION`, `TYPE`, `CITY` FROM D_CAPCODE")

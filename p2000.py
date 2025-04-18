@@ -26,14 +26,15 @@ import gettext
 import argparse
 import re
 
-from typing import *
-
 from P2000.Message import Message
-from P2000.Capcode import Capcode, LifelinerCapcodes, CapcodeCollection
+from P2000.Capcode import Capcode, CapcodeCollection
 from P2000.ServiceType import ServiceType
 from P2000.ListenerProcess import ListenerProcess
 from P2000.City import City, CityCollection
 from P2000.Region import Region, RegionCollection
+
+if '_' not in locals():
+    _ = gettext.gettext
 
 parser = argparse.ArgumentParser('P2000 Listener')
 parser.add_argument('-l', '--language', help='Select language to use', required=False, default='nl')
@@ -71,27 +72,35 @@ class P2000Listener:
         self.__process.startProcess()
 
     def replayAllMessage(self):
-        self.__dbCursor.execute("SELECT `PK_MESSAGE`, `RAW_MESSAGE` FROM `F_MESSAGE` ORDER BY `DATE` ASC")
+        self.__dbCursor.execute('SELECT `PK_MESSAGE`, `RAW_MESSAGE` FROM `F_MESSAGE` ORDER BY `DATE` ASC')
         messages = self.__dbCursor.fetchall()
 
         for message in messages:
             self._onMessageReceive(Message(message['RAW_MESSAGE']))
 
     def _onMessageReceive(self, message: Message):
-
-        capcodes = {}
         for capcode in message.capcodes:
             capcodeObj = self.__capcodeCache.getCapcodeByCapcode(capcode)
             if capcodeObj is None:
-                capcodeObj = Capcode(-1, capcode, _('Unknown'), ServiceType.UNKNOWN.value, '', '')
+                capcodeObj = Capcode(-1, capcode, _('Unknown'), ServiceType.UNKNOWN.value, '', -1)
+                self.__dbCursor.execute(
+                    'INSERT INTO `D_CAPCODE` (`CAPCODE`, `FK_REGION`, `DESCRIPTION`, `TYPE`, `CITY`) VALUES (%s, %s, %s, %s, %s)',
+                    [
+                        capcodeObj.capcode,
+                        -1,
+                        capcodeObj.description,
+                        capcodeObj.type,
+                        capcodeObj.city
+                    ])
+                capcodeObj.id = self.__dbCursor.lastrowid
+                self.__capcodeCache.add(capcodeObj)
 
-            capcodes[capcode] = capcodeObj
+        self.__printMessage(message)
 
-        self.__printMessage(message, capcodes)
-
-    def __getEstimatedType(self, message, capcodes: Dict[str,Capcode]):
+    def __getEstimatedType(self, message):
         typeMapping = {}
-        for capcode in capcodes.values():
+        for capcode in message.capcodes:
+            capcode = self.__capcodeCache.getCapcodeByCapcode(capcode)
             typeMapping[capcode.type] = typeMapping.get(capcode.type, 0) + 1
 
         # We should check the Capcodes for their types to be leading
@@ -113,9 +122,10 @@ class P2000Listener:
 
         return ServiceType.UNKNOWN.value
 
-    def __getEstimatedRegion(self, capcodes: Dict[str, Capcode]) -> Region:
+    def __getEstimatedRegion(self, message: Message) -> Region:
         capcodeRegionMap = {}
-        for capcode in capcodes.values():
+        for capcode in message.capcodes:
+            capcode = self.__capcodeCache.getCapcodeByCapcode(capcode)
             if capcode.regionId not in capcodeRegionMap.keys():
                 capcodeRegionMap[capcode.regionId] = 0
             capcodeRegionMap[capcode.regionId] += 1
@@ -152,11 +162,8 @@ class P2000Listener:
 
     def __getEstimatedStreet(self, message: Message, region: Region, city: City, type: ServiceType) -> str:
         regexes = []
-        if type == ServiceType.HELICOPTER.value:
-            regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.acronym)
-            regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.name)
 
-        if type == ServiceType.FIREFIGHTER.value:
+        if type in [ServiceType.FIREFIGHTER.value, ServiceType.KNRM.value]:
             types = [
                 'Liftopsluiting',
                 'Stank\/hind\. lucht(?: \([^)]+\))?(?: \([^)]+\))?',
@@ -181,6 +188,7 @@ class P2000Listener:
                 'Dier op hoogte(?: [A-Z]+)?(?: [A-Z]+)?(?: \([^)]+\))?',
                 'Buitensluiting(?: \([^)]+\))?',
                 'Reanimatie(?: \([^)]+\))?',
+                'Contact MKB MKB [A-Z]+',
                 'Rookmelder',
                 'Ongeval',
             ]
@@ -190,6 +198,8 @@ class P2000Listener:
             regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:%s) (.+) %s' % (typesList, city.name))
             regexes.append(r'\(Intrekken Alarm Brw\) (?:%s) (.+) %s' % (typesList, city.name))
             regexes.append(r'P\s+[0-9]\s+(?:\([^)]+\))\s+Oefening\s+(.+)\s+%s' % city.name)
+            regexes.append(r'P(?:rio)? [0-9]+ (.*) %s' % city.acronym)
+
         elif type == ServiceType.POLICE.value:
             types = [
                 'Steekpartij',
@@ -205,7 +215,7 @@ class P2000Listener:
             regexes.append(r'^(?:P [0-9]\s+)?(?:[0-9]+\s+)?(?:%s) (.+) %s' % (typesList, city.name))
             regexes.append(r'^Prio [0-9] (.+) %s (?:%s)' % (city.acronym, typesList))
             regexes.append(r'(?:%s) (.*) %s' % (typesList, city.name))
-        elif type in [ServiceType.AMBULANCE.value, ServiceType.HELICOPTER.value]:
+        elif type in [ServiceType.AMBULANCE.value]:
             # These regions do not show street names
             if region.id in [1,3,4,5,6,7,8,9,14,19,20,21,22,25]:
                 regexes = []
@@ -214,8 +224,8 @@ class P2000Listener:
                 regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+[0-9]+\s+Rit\s+[0-9]+\s+(.+)\s+%s' % city.name)
 
             if region.id in [-1,13,17]:
-                regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.acronym)
-                regexes.append(r'^[A-B][0-9](?: \(dia: ja\))(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+%s' % city.name)
+                regexes.append(r'^[A-B][0-9](?: \(dia(?:\: ja)?\))?(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+(?:[0-9]+)?%s' % city.acronym)
+                regexes.append(r'^[A-B][0-9](?: \(dia(?:\: ja)?\))?(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+(?:[0-9]+)?%s' % city.name)
                 regexes.append(r'^(?:A|B)[0-9]+\s+[0-9]+\s+(.+)\s+[0-9]+\s+%s' % city.name)
 
             if region.id in [-1,15, 17]:
@@ -228,6 +238,15 @@ class P2000Listener:
             if region.id in [-1,17,18]:
                 regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.name)
                 regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.acronym)
+        elif type == ServiceType.HELICOPTER.value:
+            regexes.append(r'^[A-B][0-9](?: \(dia(?:\: ja)?\))?(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+(?:[0-9]+)?%s' % city.acronym)
+            regexes.append(r'^[A-B][0-9](?: \(dia(?:\: ja)?\))?(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+(?:[0-9]+)?%s' % city.name)
+        elif type == ServiceType.CITY.value:
+            for capcode in message.capcodes:
+                capcode = self.__capcodeCache.getCapcodeByCapcode(capcode)
+                match = re.search(r'^Brugwacht(?:er)?\s+(.*)', capcode.description, re.IGNORECASE)
+                if match is not None:
+                    return match.group(1)
 
         for regex in regexes:
             match = re.search(regex, message.message.strip(), re.IGNORECASE)
@@ -245,15 +264,15 @@ class P2000Listener:
 
         return ''
 
-    def __printMessage(self, message: Message, capcodes: Dict[str, Capcode]):
-        type = self.__getEstimatedType(message, capcodes)
+    def __printMessage(self, message: Message):
+        type = self.__getEstimatedType(message)
 
         specialCode = ''
         if (message.isImportant() == True):
             specialCode = ';5'
 
         time = message.date.strftime('%Y-%m-%d %H:%M:%S')
-        estimatedRegion = self.__getEstimatedRegion(capcodes)
+        estimatedRegion = self.__getEstimatedRegion(message)
         if self.__config.has_option('FILTER', 'Regions'):
             if str(estimatedRegion.id) not in self.__config.get('FILTER', 'Regions').split(','):
                 return
@@ -270,7 +289,7 @@ class P2000Listener:
         estimatedStreet = self.__getEstimatedStreet(message, estimatedRegion, estimatedCity, type)
         estimatedPostalCode = self.__getEstimatedPostalCode(message)
 
-        self.__storeMessage(message, estimatedRegion, estimatedCity, estimatedStreet, estimatedPostalCode, capcodes, type)
+        self.__storeMessage(message, estimatedRegion, estimatedCity, estimatedStreet, estimatedPostalCode, type)
 
         if estimatedPostalCode:
             estimatedPostalCode = ' - ' + estimatedPostalCode
@@ -282,11 +301,12 @@ class P2000Listener:
         print(f"{_('When')} {time}")
         print(f"{_('Where')} {estimatedRegion.id} {estimatedRegion.name} - {estimatedCity.name}{estimatedStreet}{estimatedPostalCode}")
         print(f"{_('Who')}")
-        for key,entry in capcodes.items():
-            print (f"  \033[{ServiceType.typeToConsoleColor(entry.type)}{specialCode}m{entry.capcode} ({entry.city}) {entry.description}")
+        for capcode in message.capcodes:
+            capcode = self.__capcodeCache.getCapcodeByCapcode(capcode)
+            print (f"  \033[{ServiceType.typeToConsoleColor(capcode.type)}{specialCode}m{capcode.capcode} ({capcode.city}) {capcode.description}")
         print('\033[0m')
 
-    def __storeMessage(self, message: Message, estimatedRegion: Region, estimatedCity: City, estimatedStreet, estimatedPostalCode, capcodes: Dict[str, Capcode], type: ServiceType):
+    def __storeMessage(self, message: Message, estimatedRegion: Region, estimatedCity: City, estimatedStreet, estimatedPostalCode, type: ServiceType):
         self.__dbCursor.execute('SELECT `PK_MESSAGE`, `MESSAGE`, `STREET`, `POSTALCODE`, `FK_REGION` FROM `F_MESSAGE` WHERE `MESSAGE` = %s AND `DATE` = %s LIMIT 1', (
             message.message.strip(),
             message.date.strftime('%Y-%m-%d %H:%M:%S').strip()
@@ -295,7 +315,8 @@ class P2000Listener:
         existingMessage = self.__dbCursor.fetchone()
 
         if existingMessage is None:
-            self.__dbCursor.execute("INSERT IGNORE INTO `F_MESSAGE` (`RAW_MESSAGE`, `FK_REGION`, `FK_CITY`, `MESSAGE`, `DATE`, `STREET`, `POSTALCODE`, `TYPE`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)", [
+            self.__dbCursor.execute('INSERT IGNORE INTO `F_MESSAGE` (`RAW_MESSAGE`, `FK_REGION`, `FK_CITY`, `MESSAGE`, `DATE`, `STREET`, `POSTALCODE`, `TYPE`) ' +
+                                    'VALUES (%s, %s, %s, %s, %s, %s, %s, %s)', [
                 message.rawMessage,
                 0 if estimatedRegion is None else estimatedRegion.id,
                 0 if estimatedCity is None else estimatedCity.id,
@@ -308,9 +329,10 @@ class P2000Listener:
 
             existingMessagePK = self.__dbCursor.lastrowid
 
-            for capcode in capcodes.values():
+            for capcode in message.capcodes:
+                capcode = self.__capcodeCache.getCapcodeByCapcode(capcode)
                 self.__dbCursor.execute(
-                    "INSERT IGNORE INTO `X_MESSAGE_CAPCODE` (`FK_MESSAGE`, `FK_CAPCODE`) VALUES (%s, %s)", [
+                    'INSERT IGNORE INTO `X_MESSAGE_CAPCODE` (`FK_MESSAGE`, `FK_CAPCODE`) VALUES (%s, %s)', [
                         existingMessagePK,
                         capcode.id,
                     ])
