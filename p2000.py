@@ -188,17 +188,16 @@ class P2000Listener:
                 'Dier op hoogte(?: [A-Z]+)?(?: [A-Z]+)?(?: \([^)]+\))?',
                 'Buitensluiting(?: \([^)]+\))?',
                 'Reanimatie(?: \([^)]+\))?',
-                'Contact MKB MKB [A-Z]+',
                 'Rookmelder',
                 'Ongeval',
             ]
 
             typesList = '|'.join(types)
-            regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:%s) (.+) %s' % (typesList, city.name))
-            regexes.append(r'P [0-9] (?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\) [A-Z0-9-]+) )?(?:%s) (.+) %s' % (typesList, city.name))
-            regexes.append(r'\(Intrekken Alarm Brw\) (?:%s) (.+) %s' % (typesList, city.name))
+            regexes.append(r'P [0-9]\s+(?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\)\s+[A-Z0-9-]+)\s+)?(?:%s)\s+(.+)\s+%s' % (typesList, city.name))
+            regexes.append(r'P [0-9]\s+(?:(?:B[A-Z]{2}-[0-9]{2,3}|\(Oefening\)\s+[A-Z0-9-]+)\s+)?(?:%s)\s+(.+)\s+%s' % (typesList, city.name))
+            regexes.append(r'\(Intrekken\s+Alarm\s+Brw\)\s+(?:%s)\s+(.+) %s' % (typesList, city.name))
             regexes.append(r'P\s+[0-9]\s+(?:\([^)]+\))\s+Oefening\s+(.+)\s+%s' % city.name)
-            regexes.append(r'P(?:rio)? [0-9]+ (.*) %s' % city.acronym)
+            regexes.append(r'P(?:rio)?\s+[0-9]+\s+(.*) %s' % city.acronym)
 
         elif type == ServiceType.POLICE.value:
             types = [
@@ -238,6 +237,8 @@ class P2000Listener:
             if region.id in [-1,17,18]:
                 regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.name)
                 regexes.append(r'^(?:A|B)[0-9]+(?:\s+\(dia: [a-z]+\))?\s+AMBU\s+[0-9]+(.+)\s+[0-9]{4}[A-Z]{2}\s+%s' % city.acronym)
+                regexes.append(r'^(?:A|B)[0-9]+\s+AMBU\s+[0-9]+\s+(.*)\s+%s' % city.name)
+                regexes.append(r'^(?:A|B)[0-9]+\s+AMBU\s+[0-9]+\s+(.*)\s+%s' % city.acronym)
         elif type == ServiceType.HELICOPTER.value:
             regexes.append(r'^[A-B][0-9](?: \(dia(?:\: ja)?\))?(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+(?:[0-9]+)?%s' % city.acronym)
             regexes.append(r'^[A-B][0-9](?: \(dia(?:\: ja)?\))?(?: Ambu|)? [0-9]+(?: reanimatie)?(.+)\s+(?:[0-9]+)?%s' % city.name)
